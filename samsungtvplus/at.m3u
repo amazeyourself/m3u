@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/at.xml.gz"
-#EXTINF:-1 tvg-id="AT500002TW" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT500002TW_20260609T041825SQUARE.png",The Graham Norton Show
+#EXTINF:-1 tvg-id="AT500002TW" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT500002TW_20260622T063014SQUARE.png",The Graham Norton Show
 https://jmp2.uk/stvp-AT500002TW
-#EXTINF:-1 tvg-id="ATBD41000046O" tvg-name="Comedy Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260528T052650SQUARE.png",Comedy Mix
+#EXTINF:-1 tvg-id="ATBD41000046O" tvg-name="Comedy Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20260622T062945SQUARE.png",Comedy Mix
 https://jmp2.uk/stvp-ATBD41000046O
 #EXTINF:-1 tvg-id="AT48000012I" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260505T035254SQUARE.png",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-AT48000012I
@@ -85,13 +85,13 @@ https://jmp2.uk/stvp-AT4400002IB
 https://jmp2.uk/stvp-AT4400005XG
 #EXTINF:-1 tvg-id="AT4400004GQ" tvg-name="Schlosshotel Orth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400004GQ_20251209T004012SQUARE.png",Schlosshotel Orth
 https://jmp2.uk/stvp-AT4400004GQ
-#EXTINF:-1 tvg-id="AT3300001K9" tvg-name="Lindenstraße" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3300001K9_20250819T033021SQUARE.png",Lindenstraße
+#EXTINF:-1 tvg-id="AT3300001K9" tvg-name="Lindenstraße" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3300001K9_20260622T063002SQUARE.png",Lindenstraße
 https://jmp2.uk/stvp-AT3300001K9
 #EXTINF:-1 tvg-id="AT1500002N1" tvg-name="Telenovela ZDF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500002N1_20250422T045233SQUARE.png",Telenovela ZDF
 https://jmp2.uk/stvp-AT1500002N1
 #EXTINF:-1 tvg-id="AT49000019H" tvg-name="Merhaba Arabische Serien" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT49000019H_20260428T031412SQUARE.png",Merhaba Arabische Serien
 https://jmp2.uk/stvp-AT49000019H
-#EXTINF:-1 tvg-id="AT4800002G5" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260609T041719SQUARE.png",Hudson & Rex
+#EXTINF:-1 tvg-id="AT4800002G5" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260622T062953SQUARE.png",Hudson & Rex
 https://jmp2.uk/stvp-AT4800002G5
 #EXTINF:-1 tvg-id="AT260000634" tvg-name="Crime Serien - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20260421T125314SQUARE.png",Crime Serien - Rakuten TV
 https://jmp2.uk/stvp-AT260000634
@@ -131,7 +131,7 @@ https://jmp2.uk/stvp-ATAJ0500445A
 https://jmp2.uk/stvp-ATBA3300018K1
 #EXTINF:-1 tvg-id="AT1100004SR" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100004SR_20250624T020443SQUARE.png",Sky News International
 https://jmp2.uk/stvp-AT1100004SR
-#EXTINF:-1 tvg-id="ATBA3300031VR" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260609T045414SQUARE.png",Wilder Planet
+#EXTINF:-1 tvg-id="ATBA3300031VR" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260622T062924SQUARE.png",Wilder Planet
 https://jmp2.uk/stvp-ATBA3300031VR
 #EXTINF:-1 tvg-id="ATBC3900001W3" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",The Wicked Tuna Channel
 https://jmp2.uk/stvp-ATBC3900001W3
@@ -269,7 +269,7 @@ https://jmp2.uk/stvp-ATAJ7000037N
 https://jmp2.uk/stvp-AT2600007N2
 #EXTINF:-1 tvg-id="ATBA330002946" tvg-name="Moviedome Family" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA330002946_20250117T111941SQUARE.png",Moviedome Family
 https://jmp2.uk/stvp-ATBA330002946
-#EXTINF:-1 tvg-id="ATBA33000280A" tvg-name="Moviedome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000280A_20250107T021755SQUARE.png",Moviedome
+#EXTINF:-1 tvg-id="ATBA33000280A" tvg-name="Moviedome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000280A_20260622T062909SQUARE.png",Moviedome
 https://jmp2.uk/stvp-ATBA33000280A
 #EXTINF:-1 tvg-id="ATBD5000001SF" tvg-name="Top Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD5000001SF_20250107T022238SQUARE.png",Top Filme
 https://jmp2.uk/stvp-ATBD5000001SF

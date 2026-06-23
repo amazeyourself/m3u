@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/ch.xml.gz"
-#EXTINF:-1 tvg-id="CHBD41000043H" tvg-name="Comedy Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20260528T053252SQUARE.png",Comedy Mix
+#EXTINF:-1 tvg-id="CHBD41000043H" tvg-name="Comedy Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20260622T063142SQUARE.png",Comedy Mix
 https://jmp2.uk/stvp-CHBD41000043H
 #EXTINF:-1 tvg-id="CH500002H2" tvg-name="RMC Story" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500002H2_20251209T125747SQUARE.png",RMC Story
 https://jmp2.uk/stvp-CH500002H2
@@ -73,7 +73,7 @@ https://jmp2.uk/stvp-CHAJ700007XE
 https://jmp2.uk/stvp-CH37000057T
 #EXTINF:-1 tvg-id="CHBD3700002F2" tvg-name="Plus belle la vie [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700002F2_20260528T053331SQUARE.png",Plus belle la vie [FR]
 https://jmp2.uk/stvp-CHBD3700002F2
-#EXTINF:-1 tvg-id="CHBD2000023S" tvg-name="Alerte à Malibu [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2000023S_20250107T031444SQUARE.png",Alerte à Malibu [FR]
+#EXTINF:-1 tvg-id="CHBD2000023S" tvg-name="Alerte à Malibu [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2000023S_20260622T063129SQUARE.png",Alerte à Malibu [FR]
 https://jmp2.uk/stvp-CHBD2000023S
 #EXTINF:-1 tvg-id="CH3700006B9" tvg-name="The Good Wife" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700006B9_20260310T031357SQUARE.png",The Good Wife
 https://jmp2.uk/stvp-CH3700006B9
@@ -101,7 +101,7 @@ https://jmp2.uk/stvp-CH4600001X9
 https://jmp2.uk/stvp-CHBC800006EP
 #EXTINF:-1 tvg-id="CH4900001Q7" tvg-name="Merhaba Arabische Serien" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4900001Q7_20260428T031421SQUARE.png",Merhaba Arabische Serien
 https://jmp2.uk/stvp-CH4900001Q7
-#EXTINF:-1 tvg-id="CH48000025D" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20260609T042224SQUARE.png",Hudson & Rex
+#EXTINF:-1 tvg-id="CH48000025D" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20260622T063151SQUARE.png",Hudson & Rex
 https://jmp2.uk/stvp-CH48000025D
 #EXTINF:-1 tvg-id="CH2600007IJ" tvg-name="Crime Serien - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png",Crime Serien - Rakuten TV
 https://jmp2.uk/stvp-CH2600007IJ
@@ -127,7 +127,7 @@ https://jmp2.uk/stvp-CH3600001HH
 https://jmp2.uk/stvp-CH330000132
 #EXTINF:-1 tvg-id="CHBC4000003K9" tvg-name="Homicide [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC4000003K9_20250107T031508SQUARE.png",Homicide [FR]
 https://jmp2.uk/stvp-CHBC4000003K9
-#EXTINF:-1 tvg-id="CH700006GD" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260609T042149SQUARE.png",Brut.
+#EXTINF:-1 tvg-id="CH700006GD" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png",Brut.
 https://jmp2.uk/stvp-CH700006GD
 #EXTINF:-1 tvg-id="CH26000037F" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000037F_20250415T021612SQUARE.png",Euronews LIVE
 https://jmp2.uk/stvp-CH26000037F
@@ -147,7 +147,7 @@ https://jmp2.uk/stvp-CHBA3300018TD
 https://jmp2.uk/stvp-CH34000014Q
 #EXTINF:-1 tvg-id="CH500001V2" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500001V2_20251209T125744SQUARE.png",BFM TV
 https://jmp2.uk/stvp-CH500001V2
-#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260609T045431SQUARE.png",Wilder Planet
+#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20260622T063114SQUARE.png",Wilder Planet
 https://jmp2.uk/stvp-CHBA3300028G3
 #EXTINF:-1 tvg-id="CHBC40000011Y" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",The Wicked Tuna Channel
 https://jmp2.uk/stvp-CHBC40000011Y
@@ -281,7 +281,7 @@ https://jmp2.uk/stvp-CHAJ700003CV
 https://jmp2.uk/stvp-CH26000056O
 #EXTINF:-1 tvg-id="CHBA3300030AJ" tvg-name="Moviedome Family" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300030AJ_20250117T134626SQUARE.png",Moviedome Family
 https://jmp2.uk/stvp-CHBA3300030AJ
-#EXTINF:-1 tvg-id="CHBA330002991" tvg-name="Moviedome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330002991_20250527T015617SQUARE.png",Moviedome
+#EXTINF:-1 tvg-id="CHBA330002991" tvg-name="Moviedome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330002991_20260622T063107SQUARE.png",Moviedome
 https://jmp2.uk/stvp-CHBA330002991
 #EXTINF:-1 tvg-id="CHBD5000002CB" tvg-name="Top Filme" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5000002CB_20250107T025615SQUARE.png",Top Filme
 https://jmp2.uk/stvp-CHBD5000002CB
