@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
+#EXTINF:-1 tvg-id="691b334a1308fa77bb056b0e" tvg-name="La Moderna" tvg-logo="https://images.pluto.tv/channels/691b334a1308fa77bb056b0e/colorLogoPNG_1771231492608.png",La Moderna
+https://jmp2.uk/plu-691b334a1308fa77bb056b0e.m3u8
 #EXTINF:-1 tvg-id="691b332aa4385c191ee44b57" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png",Rex, chien flic
 https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
-#EXTINF:-1 tvg-id="6a1ecc3d7120a26f0dcf89e7" tvg-name="SUMO Paris 2026" tvg-logo="https://images.pluto.tv/channels/6a1ecc3d7120a26f0dcf89e7/colorLogoPNG_1780993168334.png",SUMO Paris 2026
-https://jmp2.uk/plu-6a1ecc3d7120a26f0dcf89e7.m3u8
 #EXTINF:-1 tvg-id="69c2ae0d1f1accd54916c825" tvg-name="Pluto TV Footanim'" tvg-logo="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png",Pluto TV Footanim'
 https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
 #EXTINF:-1 tvg-id="69aadcdb6c0414a7ecb56ede" tvg-name="Pluto TV Anime Retro" tvg-logo="https://images.pluto.tv/channels/69aadcdb6c0414a7ecb56ede/colorLogoPNG_1776867912150.png",Pluto TV Anime Retro
@@ -257,6 +257,8 @@ https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-id="67921b78b83355184c667770" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67921b78b83355184c667770/colorLogoPNG.png",UFC
 https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
+#EXTINF:-1 tvg-id="6a1ecc3d7120a26f0dcf89e7" tvg-name="SUMO Paris 2026" tvg-logo="https://images.pluto.tv/channels/6a1ecc3d7120a26f0dcf89e7/colorLogoPNG_1780993168334.png",SUMO Paris 2026
+https://jmp2.uk/plu-6a1ecc3d7120a26f0dcf89e7.m3u8
 #EXTINF:-1 tvg-id="660c2a2d2433010008df7e92" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c2a2d2433010008df7e92/colorLogoPNG_1750065042129.png",FIFA+
 https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8
 #EXTINF:-1 tvg-id="66fd35e44ca31f0008060b77" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/66fd35e44ca31f0008060b77/colorLogoPNG_1762954633607.png",Pluto TV Snooker 900
