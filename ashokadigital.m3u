@@ -217,3 +217,5 @@ https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
 kjhkh
 #EXTINF:-1 tvg-id="697" tvg-chno="697" tvg-name="Amman Tv Plus" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764597422_WhatsApp%20Image%202025-12-01%20at%206.44.54%20PM.png" group-title"Tamil Nadu",697 Amman Tv Plus
 rtmp://ammatv.stream.ashokadigital.net:1935/ammatv/ammatv
+#EXTINF:-1 tvg-id="707" tvg-chno="707" tvg-name="Rohith Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782226980_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title"Tamil Nadu",707 Rohith Tv
+https://stream.ashokadigital.net/rohith/rohith/index.m3u8
