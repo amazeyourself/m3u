@@ -13,6 +13,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-695d5c1d6e5de3b17595a267.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-63ae180c6d1144b79ce121d7.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb" tvg-name="Sony One | Séries Comédie" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5ed0013a-150b-42cf-8ea2-4a3369386946/FR_FAST_Plex_ComedyTV_logo_dark.png",Sony One | Séries Comédie
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6922294e5cbe620c1f9b6bbb.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281" tvg-name="Les filles d’à côtés TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bb7c0f6-b0d3-447f-afaa-0afe20691452/Logo_suitable_for_dark_backgrounds_Les-Filles-d_a-cote.png",Les filles d’à côtés TV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68a799722895f21006e758e4" tvg-name="TV5MONDE Info" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png",TV5MONDE Info
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68a799722895f21006e758e4.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-69b164bc87340e48b7b72247" tvg-name="CNN Headlines International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png",CNN Headlines International
@@ -29,16 +31,18 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e44818a55242eea95993.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-69a519497c245b3390e8a4d4" tvg-name="Un Village Francais" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae88c954-1263-403d-8683-477753868e27/UnVillageFrancais_Logo_Colour_1500X1000.png",Un Village Francais
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-69a519497c245b3390e8a4d4.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6490e6ae18a55242eea95997" tvg-name="Fréquence Novelas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png",Fréquence Novelas
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e6ae18a55242eea95997.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a" tvg-name="Génération Sitcoms TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c72448e1-59be-4c04-b2c8-461cb3bb5bac/All_White_Generation-Sitcom.png",Génération Sitcoms TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6490e6ae18a55242eea95997" tvg-name="Fréquence Novelas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png",Fréquence Novelas
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e6ae18a55242eea95997.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6245f06793b402a3d1097787" tvg-name="Euronews Français" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png",Euronews Français
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6245f06793b402a3d1097787.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6490e06718a55242eea9598f" tvg-name="Emotion' L" tvg-logo="https://provider-static.plex.tv/epg/cms/production/699cff89-9106-4de6-b340-3852cc1ec444/EMOTION_L_-_Logo_1500x1000.png",Emotion' L
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e06718a55242eea9598f.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-69a1f7228d9f2822f6f50637" tvg-name="Top Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b9c9fbf-b52f-4a69-8a94-c73329507bcd/TopSciFi_Logo_1500x1000_White.png",Top Sci-Fi
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-69a1f7228d9f2822f6f50637.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59" tvg-name="Alerte à Malibu TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png",Alerte à Malibu TV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6490e06718a55242eea9598f" tvg-name="Emotion' L" tvg-logo="https://provider-static.plex.tv/epg/cms/production/699cff89-9106-4de6-b340-3852cc1ec444/EMOTION_L_-_Logo_1500x1000.png",Emotion' L
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e06718a55242eea9598f.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6760d828ba503b54def4afd2" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f859f96d-c7e2-48f7-ac08-9e2fdd166432/ZNation_Channel_Logo_White.png",Z Nation
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6760d828ba503b54def4afd2.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",NFL Channel
@@ -55,14 +59,10 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c871.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-678fe7959407a53556d3e8eb" tvg-name="FRANCE 24" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png",FRANCE 24
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-678fe7959407a53556d3e8eb.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59" tvg-name="Alerte à Malibu TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png",Alerte à Malibu TV
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870" tvg-name="FilmRise Série Populaire" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc0951e8-548c-48ef-afcd-82d7eca657c0/Plex_FilmRise_S__ries_Color_Logo.png",FilmRise Série Populaire
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-666340ce76ca410aa18e705b" tvg-name="FIFA+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a659b1ed-e1a2-481c-bd77-ef4e57d8088f/FIFA__Logo_Rectangle_1500x1000_WHT.png",FIFA+
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-666340ce76ca410aa18e705b.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281" tvg-name="Les filles d’à côtés TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bb7c0f6-b0d3-447f-afaa-0afe20691452/Logo_suitable_for_dark_backgrounds_Les-Filles-d_a-cote.png",Les filles d’à côtés TV
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-695d48094ba349f255911f92" tvg-name="Soap" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b9a3ace-9544-402e-8bd1-f88255da76c0/1500x1000_SOAP_Logo__Dark__pino_cormaci.png",Soap
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-695d48094ba349f255911f92.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-67f99397bf750bd4ca333ddb" tvg-name="Un Si Grand Soleil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/463b2340-1bca-4d07-a8bf-09ed3338d196/Plex_FilmRiseUnSiGrandSoliel_logo_white.png",Un Si Grand Soleil
