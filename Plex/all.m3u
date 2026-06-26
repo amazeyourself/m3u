@@ -537,6 +537,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-63e2ca44203bafbef831a152.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69bda66a3254e4683c8ebcf7.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-623d9b0370560b72147a994a" tvg-name="Bounce XL" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png",Bounce XL
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-623d9b0370560b72147a994a.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2" tvg-name="TVOne Stars & Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b49a0dc-de17-4ea4-9833-f739b546244b/Plex-SAS-1500x1000-DarkBG.png",TVOne Stars & Stories
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64b719768ec13d5dcb7e6bb4" tvg-name="Supermarket Sweep" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9b0bdb7-77a8-44fd-9c1e-2b26e8a91a0d/SMS_LOGO_for_dark_bkg_1500x1000_-_Elaine_De_Santiago.png",Supermarket Sweep
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64b719768ec13d5dcb7e6bb4.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-651600fb2ff655e77635c62a" tvg-name="Fear Factor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4cae556e-d238-4383-b6dc-84de0ff69940/FearFactor_Logo_Dark_1500x1000_-_Harry_Marshall_COLOR_WHITE.png",Fear Factor
@@ -751,8 +753,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-60d4edd6b2fdec002c141127.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66ad6025cb5d3b7fb5011c2d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png",Judge Faith
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2" tvg-name="TVOne Stars & Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b49a0dc-de17-4ea4-9833-f739b546244b/Plex-SAS-1500x1000-DarkBG.png",TVOne Stars & Stories
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-685f0f5c593aba51f211823b" tvg-name="Wendy Williams" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37b9e1ab-3a6e-4e0e-9979-7eea3a17ace4/WendyWilliams_Logo_1500x1000_DarkBG_-_Chris_Connors.png",Wendy Williams
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-685f0f5c593aba51f211823b.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6745dca72832b870acf53220" tvg-name="365BLK [FAST]" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/15a11cfd0f014785527aa0c87cbf6752.png",365BLK [FAST]
