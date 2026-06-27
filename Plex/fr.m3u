@@ -69,6 +69,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-695d48094ba349f255911f92.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-67f99397bf750bd4ca333ddb.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-67db068f92cb453db28ab017" tvg-name="IntoCrime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/82ee42cc-ff1b-4faa-97df-d99ff9b9b7e2/INTOCRIMELRED_WHITE_TEXTRDX.png",IntoCrime
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-67db068f92cb453db28ab017.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6a285269915c7c0d3211be8b" tvg-name="ADRENALINE SPICA LIFE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8fb17498-49c7-4b4b-9149-dd92d51a8516/Adrenaline_logo_1500x1000_all_white_for_attribution.png",ADRENALINE SPICA LIFE
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a285269915c7c0d3211be8b.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-65847f56d60830ce4d4f303c" tvg-name="Ciné Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c52794ca-55a1-4e6d-a130-721a92d6e56e/White_Logo_1500x1000px_-_Cin__Western_-_Zylo_Paris.png",Ciné Western
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-65847f56d60830ce4d4f303c.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-69a1fa1a0f8d297b3f6ac0ea" tvg-name="Wasabi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3d4d89-3050-4928-a125-85710fcd1762/Wasabi_Logo_1500x1000_LightAndDark.png",Wasabi
@@ -117,6 +119,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-675a3b143c1d4ea8298f8f08.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6827c34ca5c6e573c6904444.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-671ff50c922f0674c9398afb" tvg-name="Voyages & Saveurs" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b65d39bb-f29d-4045-8571-401b0c1862a9/Logo_Voyages_Saveurs_1500x1000_DarkBackground_-_David_Mar__n.png",Voyages & Saveurs
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-671ff50c922f0674c9398afb.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6a2325c47928efd63cf15995" tvg-name="JDS.TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/581aae0f-37f6-43c7-94f0-1540d904b45b/1500_x_1000_PNG_w_transparent_backgroundRDX_white_green_.png",JDS.TV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a2325c47928efd63cf15995.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-60089d90f682a3002c348299" tvg-name="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png",Euronews
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-60089d90f682a3002c348299.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5f6b8e7900b0950040d0f2b2" tvg-name="The World Poker Tour" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",The World Poker Tour
