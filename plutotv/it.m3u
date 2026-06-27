@@ -75,8 +75,6 @@ https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
 #EXTINF:-1 tvg-id="608aa7d8359b270007861489" tvg-name="Pluto TV Cinema Italiano" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",Pluto TV Cinema Italiano
 https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
-#EXTINF:-1 tvg-id="6875080e3484d607323641f8" tvg-name="Pluto TV Dive Italiane" tvg-logo="https://images.pluto.tv/channels/6875080e3484d607323641f8/colorLogoPNG_1755261736890.png",Pluto TV Dive Italiane
-https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
 #EXTINF:-1 tvg-id="671754d8e482950008962aaf" tvg-name="Cinema Poliziottesco" tvg-logo="https://images.pluto.tv/channels/671754d8e482950008962aaf/colorLogoPNG.png",Cinema Poliziottesco
 https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
 #EXTINF:-1 tvg-id="66335489307fa300082bd6e4" tvg-name="Pluto TV Eros" tvg-logo="https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png",Pluto TV Eros
@@ -99,18 +97,18 @@ https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
 https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
 #EXTINF:-1 tvg-id="66c35c0c92b1af0008c8e83a" tvg-name="Horror Club" tvg-logo="https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png",Horror Club
 https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8
-#EXTINF:-1 tvg-id="61728bb9ee3773000840c1fa" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1 tvg-id="66c70033b1a34600087bb09a" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/66c70033b1a34600087bb09a/colorLogoPNG.png",Pluto TV Paranormal
 https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
-#EXTINF:-1 tvg-id="65cb73d33ba51e00084cabad" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png",Star Trek: Voyager
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 tvg-id="62e8d5369e48940007fc1dc1" tvg-name="The Asylum" tvg-logo="https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png",The Asylum
 https://jmp2.uk/plu-62e8d5369e48940007fc1dc1.m3u8
 #EXTINF:-1 tvg-id="67ed14aaf7c5d70b9089c3bf" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png",Pluto TV Serie Sci-Fi
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-id="61728bb9ee3773000840c1fa" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1 tvg-id="60802d37ee238e0007c94e64" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png",Andromeda
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
+#EXTINF:-1 tvg-id="65cb73d33ba51e00084cabad" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png",Star Trek: Voyager
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 tvg-id="63eb57d6c111bc0008fe2658" tvg-name="Sanctuary" tvg-logo="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png",Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 #EXTINF:-1 tvg-id="66d9ab4bf0f17500084e9b7e" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png",Pluto TV True Crime
@@ -185,10 +183,10 @@ https://jmp2.uk/plu-68adb5853efb41cd97ce413d.m3u8
 https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
 #EXTINF:-1 tvg-id="6093f6f8351eb0000754afb8" tvg-name="Super! Cartoni Animati" tvg-logo="https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG_1749626196712.png",Super! Cartoni Animati
 https://jmp2.uk/plu-6093f6f8351eb0000754afb8.m3u8
-#EXTINF:-1 tvg-id="67f4f99729b03f18cb36647e" tvg-name="Super! Kids Classics" tvg-logo="https://images.pluto.tv/channels/67f4f99729b03f18cb36647e/colorLogoPNG_1749212422489.png",Super! Kids Classics
-https://jmp2.uk/plu-67f4f99729b03f18cb36647e.m3u8
 #EXTINF:-1 tvg-id="686cfdf894a028da3aac4252" tvg-name="Barbie & Friends" tvg-logo="https://images.pluto.tv/channels/686cfdf894a028da3aac4252/colorLogoPNG_1765896833779.png",Barbie & Friends
 https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8
+#EXTINF:-1 tvg-id="67f4f99729b03f18cb36647e" tvg-name="Super! Kids Classics" tvg-logo="https://images.pluto.tv/channels/67f4f99729b03f18cb36647e/colorLogoPNG_1749212422489.png",Super! Kids Classics
+https://jmp2.uk/plu-67f4f99729b03f18cb36647e.m3u8
 #EXTINF:-1 tvg-id="686cfe983ffa5e0c91cdb5df" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/686cfe983ffa5e0c91cdb5df/colorLogoPNG_1765897494203.png",Mattel Junior
 https://jmp2.uk/plu-686cfe983ffa5e0c91cdb5df.m3u8
 #EXTINF:-1 tvg-id="62619405c733e8000732d1fe" tvg-name="Teenage Mutant Ninja Turtles" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",Teenage Mutant Ninja Turtles
