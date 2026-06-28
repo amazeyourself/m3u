@@ -47,6 +47,8 @@ https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
 rtmp://stream.ashokadigital.net:1935/ashokaslm/ashokatv
 #EXTINF:-1 tvg-id="60" tvg-chno="60" tvg-name="params tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777263574_params%202.png" group-title"Tamil Nadu",60 params tv
 http://shreeparams.7starcloud.com:1935/live/paramstv/live.m3u8
+#EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-name="Jeeva Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782563544_WhatsApp%20Image%202026-06-27%20at%205.52.02%20PM.jpeg" group-title"Tamil Nadu",61 Jeeva Tv
+https://cdn1.rojatv.cloud/kumaran/tv/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-chno="62" tvg-name="Apple Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779002306_aple%20tv.png" group-title"Tamil Nadu",62 Apple Tv
 https://app.ashokadigital.net/app/26bf3ef1/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-chno="67" tvg-name="Ragam tv Ooty " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736940221_SAVE_20250115_162418.jpg" group-title"Tamil Nadu",67 Ragam tv Ooty 
