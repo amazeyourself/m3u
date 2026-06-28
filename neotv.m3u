@@ -8,10 +8,10 @@ https://stream.ottlive.co.in/livetimetv/index.m3u8
 https://stream.ottlive.co.in/bharatexpress/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="117" tvg-name="India Daily" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/idl-1750947582479.jpg" group-title="News",India Daily
 https://cdn.ottlive.co.in/indiadailylive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="118" tvg-name="Amar Ujala" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/au-channel-1768321022681.jpg" group-title="News",Amar Ujala
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=671b62be995a1cf780079b55&AV_CHANNELID=&AVS_SSAIID=6a09dadf1894bf701301d6a6&AVS_SOURCE=https%3A%2F%2Fstream.ottlive.co.in%2Famarujalatv%2Findex.m3u8&AVS_STREAM_TYPE=LIVE&AVS_STREAM_FORMAT=HLS&AVS_TEMPLATE=IN_APP&AVS_ADSERVER_RESPONSE_TYPE=VAST&AVS_NOMARK=true&ssai=1
 #EXTINF:-1 tvg-id="" tvg-chno="118" tvg-name="Sadhna Plus News" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Sadhna-Plus-News-1650909668460.jpg" group-title="News",Sadhna Plus News
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="118" tvg-name="Amar Ujala" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/au-channel-1768321022681.jpg" group-title="News",Amar Ujala
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=671b62be995a1cf780079b55&AV_CHANNELID=&AVS_SSAIID=6a09dadf1894bf701301d6a6&AVS_SOURCE=https%3A%2F%2Fstream.ottlive.co.in%2Famarujalatv%2Findex.m3u8&AVS_STREAM_TYPE=LIVE&AVS_STREAM_FORMAT=HLS&AVS_TEMPLATE=IN_APP&AVS_ADSERVER_RESPONSE_TYPE=VAST&AVS_NOMARK=true&ssai=1
 #EXTINF:-1 tvg-id="Aaj Ki Khabar" tvg-chno="119" tvg-name="Aaj Ki Khabar" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/aj-1755813648475.jpg" group-title="News",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="133" tvg-name="C News Bharat" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ChanJor-1762193506271.jpg" group-title="News",C News Bharat
@@ -84,10 +84,10 @@ https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="Punjabi Shorts" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi-shorts-1767192407233.jpg" group-title="Entertainment",Punjabi Shorts
 https://gtc.ottlive.co.in/punjabshort/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
-https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Pure Pink Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Entertainment",Pure Pink Punjabi
 https://knocktv1.wiseplayout.com/PurePink/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="809" tvg-name="Prime Asia" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Entertainment",Prime Asia
 https://stream.ottlive.co.in/primeasia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="810" tvg-name="Sanjha TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000115688-1771023397782.jpg" group-title="Entertainment",Sanjha TV
@@ -164,6 +164,8 @@ https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611
 https://streams2.sofast.tv/ptnr-khabriya/title-FiteTV_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/228def88-9b48-48ce-8382-1a39fe995936/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="Fight TV" tvg-chno="1121" tvg-name="Fight TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/fightv-1761929078436.jpg" group-title="Sports",Fight TV
 https://streams2.sofast.tv/ptnr-khabriya/title-FIGHT-TV-ENG_khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ffaa5cb7-7af7-4b01-85fc-6f903abcb0d0/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+#EXTINF:-1 tvg-id="" tvg-chno="1124" tvg-name="FightTV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/fighttv-1782566685714.jpg" group-title="Sports",FightTV
+https://rpn.bozztv.com/gusa/gusa-fighttvplus/index.m3u8
 #EXTINF:-1 tvg-id="Cricket Gold" tvg-chno="1130" tvg-name="Cricket Gold" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/CRICKET-GOLD-1726163735205.jpg" group-title="Sports",Cricket Gold
 https://d17d533u08po4z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Khabriya-MuxIP-CricketGold/418.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="1140" tvg-name="Sports First TV " tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sf-1726164461868.jpg" group-title="Sports",Sports First TV 
