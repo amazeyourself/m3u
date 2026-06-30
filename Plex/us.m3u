@@ -375,8 +375,12 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-69b047eed42e70e462105dbb.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705f68aba71002d8b7b37" tvg-name="Fubo Sports Network" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/ac0e90e4853f26cfbcfd401790e7ab28.png",Fubo Sports Network
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fc705f68aba71002d8b7b37.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" tvg-name="Tennis Channel 2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png",Tennis Channel 2
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f6b8e7900b0950040d0f2b2" tvg-name="The World Poker Tour" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",The World Poker Tour
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f6b8e7900b0950040d0f2b2.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd" tvg-name="CBS Sports Golazo Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/22f0bb47-b71f-4d58-baf8-c8edaf4ef800/Golazo_colorRDX.png",CBS Sports Golazo Network
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62e3232ca105dea9c400e9fe" tvg-name="This Old House" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4b6f778-c8f5-47cd-b6a4-266b73842fc8/TOHLogo_1500x1000.png",This Old House
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-62e3232ca105dea9c400e9fe.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63d6f9b67c3070b6e06e0aad" tvg-name="Garden with Monty Don" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb442bf5-7b1e-4451-8846-f37363c2fa77/garden_green_wht.png",Garden with Monty Don
@@ -435,8 +439,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-672948f0297d4ea7584a2e13.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68017ed20268b77d02a5f4bd.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",Billiard TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6334a8e48a7b2a349d903b8c.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18" tvg-name="Tennis Channel 2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png",Tennis Channel 2
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64ac687b4192b4e1bab96279" tvg-name="PokerGO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",PokerGO
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64ac687b4192b4e1bab96279.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60afc726623f2f002c5bb49f" tvg-name="Poker Night TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e081c886-d798-4438-855b-2f1fb10c50ee/poker-night-tv.png",Poker Night TV
@@ -655,8 +657,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64b1e1217d4037206787f384.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62d1a58e520656fda09e609d" tvg-name="Shemaroo Bollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png",Shemaroo Bollywood
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-62d1a58e520656fda09e609d.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd" tvg-name="CBS Sports Golazo Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/22f0bb47-b71f-4d58-baf8-c8edaf4ef800/Golazo_colorRDX.png",CBS Sports Golazo Network
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-695d6e5fe625040869eaebec" tvg-name="Victory+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e2e7dd5e-7be9-41c5-9a3a-55b1af668062/Victory_plus_WHT.png",Victory+
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-695d6e5fe625040869eaebec.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f0641d3e8ffda004033b16e" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",The Design Network
