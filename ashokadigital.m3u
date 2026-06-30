@@ -59,6 +59,8 @@ https://air.rojatv.cloud/hanshitha/tv/index.m3u8
 https://app.ashokadigital.net/app/9d60f10e/index.m3u8
 #EXTINF:-1 tvg-id="80" tvg-chno="80" tvg-name="devi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768196974_WhatsApp%20Image%202026-01-12%20at%2010.15.03%20AM.jpeg" group-title"Tamil Nadu",80 devi tv
 https://app.ashokadigital.net/app/7086d917/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-chno="81" tvg-name="ESAN TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774590851_esyan%20tv.png" group-title"Tamil Nadu",81 ESAN TV
+	https://app.ashokadigital.net/app/c29cd7a3/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-chno="82" tvg-name="thendral tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774794281_thendral%20tv%20chennai.png" group-title"Tamil Nadu",82 thendral tv
 https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-chno="83" tvg-name="chola rv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" group-title"Tamil Nadu",83 chola rv
@@ -93,8 +95,6 @@ https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="169" tvg-chno="169" tvg-name="Coimbatore " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732009724_FB_IMG_1708271343320-removebg-preview.png" group-title"Tamil Nadu",169 Coimbatore 
 
-#EXTINF:-1 tvg-id="171" tvg-chno="171" tvg-name="ESAN TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774590851_esyan%20tv.png" group-title"Tamil Nadu",171 ESAN TV
-rtmp://live.singamcloud.in:1935/eesantv/eesantv
 #EXTINF:-1 tvg-id="172" tvg-chno="172" tvg-name="Delta Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha%20tv.png" group-title"Tamil Nadu",172 Delta Tv
 
 #EXTINF:-1 tvg-id="182" tvg-chno="182" tvg-name="nila tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila%20Tv_00151.png" group-title"Tamil Nadu",182 nila tv
