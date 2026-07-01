@@ -235,8 +235,6 @@ https://jmp2.uk/stvp-FRBC2100001YY
 https://jmp2.uk/stvp-FRBC2100002JA
 #EXTINF:-1 tvg-id="FRBD1900013CB" tvg-name="Vevo Rétro" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",Vevo Rétro
 https://jmp2.uk/stvp-FRBD1900013CB
-#EXTINF:-1 tvg-id="FR3900001AC" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20260630T051616SQUARE.png",K-POP by CJ ENM
-https://jmp2.uk/stvp-FR3900001AC
 #EXTINF:-1 tvg-id="FR3100003KZ" tvg-name="Show ! Variété" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100003KZ_20260505T035846SQUARE.png",Show ! Variété
 https://jmp2.uk/stvp-FR3100003KZ
 #EXTINF:-1 tvg-id="FR2500001BS" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20241015T040238SQUARE.png",Cool Summer Channel
@@ -247,6 +245,8 @@ https://jmp2.uk/stvp-FR44000015M
 https://jmp2.uk/stvp-FR7000053L
 #EXTINF:-1 tvg-id="FR1700002OZ" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1700002OZ_20251013T054040SQUARE.png",NEW KPOP
 https://jmp2.uk/stvp-FR1700002OZ
+#EXTINF:-1 tvg-id="FR3900001AC" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900001AC_20260630T051616SQUARE.png",K-POP by CJ ENM
+https://jmp2.uk/stvp-FR3900001AC
 #EXTINF:-1 tvg-id="FR1000001XP" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1000001XP_20260622T063913SQUARE.png",SMTOWN
 https://jmp2.uk/stvp-FR1000001XP
 #EXTINF:-1 tvg-id="FR70000695" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR70000695_20260609T043426SQUARE.png",Space Live
