@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml.gz"
+#EXTINF:-1 tvg-id="6853c216069aec0976371a2f" tvg-name="Pluto TV Christmas in July" tvg-logo="https://images.pluto.tv/channels/6853c216069aec0976371a2f/colorLogoPNG_1780331317179.png",Pluto TV Christmas in July
+https://jmp2.uk/plu-6853c216069aec0976371a2f.m3u8
 #EXTINF:-1 tvg-id="6654adb1f99922000854388c" tvg-name="Summer of Movies" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
-#EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
-https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="62ea3c2e4823db00072788ed" tvg-name="Pluto TV Action Movies" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="69a9ae4d3bd16a4ed04240d7" tvg-name="Pluto TV Retro Action Movies" tvg-logo="https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png",Pluto TV Retro Action Movies
 https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 #EXTINF:-1 tvg-id="62bdb0bcd707b9000739d2e5" tvg-name="Pluto TV Drama Movies" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png",Pluto TV Drama Movies
@@ -131,8 +133,6 @@ https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 #EXTINF:-1 tvg-id="666021cccb3ea10008406866" tvg-name="Nash Bridges" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",Nash Bridges
 https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
-#EXTINF:-1 tvg-id="66d717c6abec540008ba7eb5" tvg-name="Pluto TV 80's Action" tvg-logo="https://images.pluto.tv/channels/66d717c6abec540008ba7eb5/colorLogoPNG.png",Pluto TV 80's Action
-https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
 #EXTINF:-1 tvg-id="62e92708a7ce600007b2676a" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",Pluto TV Crime Drama
 https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 tvg-id="65fd548f29adfd00089c662c" tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/65fd548f29adfd00089c662c/colorLogoPNG.png",Diagnosis Murder
@@ -191,12 +191,10 @@ https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 https://jmp2.uk/plu-62bdae69a47b6c00076af298.m3u8
 #EXTINF:-1 tvg-id="65cf8d7428730900087c5907" tvg-name="Nashville" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",Nashville
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
-#EXTINF:-1 tvg-id="62e919ca865c590007ecd0bd" tvg-name="Dynasty" tvg-logo="https://images.pluto.tv/channels/62e919ca865c590007ecd0bd/colorLogoPNG.png",Dynasty
-https://jmp2.uk/plu-62e919ca865c590007ecd0bd.m3u8
-#EXTINF:-1 tvg-id="691b012d1148fa1cd8a75d5c" tvg-name="Hardcore Pawn" tvg-logo="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png",Hardcore Pawn
-https://jmp2.uk/plu-691b012d1148fa1cd8a75d5c.m3u8
 #EXTINF:-1 tvg-id="69b03041cafd86d9dc5763c3" tvg-name="All My Children" tvg-logo="https://images.pluto.tv/channels/69b03041cafd86d9dc5763c3/colorLogoPNG_1776352106678.png",All My Children
 https://jmp2.uk/plu-69b03041cafd86d9dc5763c3.m3u8
+#EXTINF:-1 tvg-id="691b012d1148fa1cd8a75d5c" tvg-name="Hardcore Pawn" tvg-logo="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png",Hardcore Pawn
+https://jmp2.uk/plu-691b012d1148fa1cd8a75d5c.m3u8
 #EXTINF:-1 tvg-id="62bdaf3470f09a000714a2f6" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png",Degrassi
 https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 #EXTINF:-1 tvg-id="62fb9ade112ca70007d8441d" tvg-name="Nonstop Drama" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png",Nonstop Drama
