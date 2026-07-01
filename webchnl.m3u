@@ -51,3 +51,25 @@ https://mci01.nive.live/9/index.m3u8
 https://mci01.nive.live/8/index.m3u8
 #EXTINF:-1 tvg-id="boomerangreborn" tvg-name="Boomerang Reborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="webchnl",Boomerang Reborn
 https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
+#EXTINF:-1 tvg-id="ZZHD" tvg-logo="https://api.mistweather.com/api/v1.5/image/9d895fd6-b38f-4f9e-bfdd-675dc845b05d?width=96&height=96&fit=inside" group-title="Mist",SCUZZ HD
+https://watch.mistweather.com/hls/byte-ch01/1_2/index.m3u8?tkn=4172618771
+#EXTINF:-1 tvg-id="MCAL" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" group-title="Mist",Magical
+https://watch.mistweather.com/hls/magicaltv/2_1/index.m3u8?tkn=1847104819
+#EXTINF:-1 tvg-id="BLTZ" tvg-logo="https://api.mistweather.com/api/v1.5/image/1e94ff66-3b60-4faf-ad29-891688e42007?width=96&height=96&fit=inside" group-title="Mist",BLITZ
+https://watch.mistweather.com/hls/blitz/2_1/index.m3u8?tkn=1347127068
+#EXTINF:-1 tvg-id="DLTA" tvg-logo="https://api.mistweather.com/api/v1.5/image/5f544f3c-0d8f-4fa1-8ecd-a1748b044e98?width=96&height=96&fit=inside" group-title="Mist",Delta
+https://watch.mistweather.com/hls/delta/2_1/index.m3u8?tkn=699403840
+#EXTINF:-1 tvg-id="YPCH" tvg-logo="https://yt3.googleusercontent.com/GQjrM-8WtQJgDa8se0p8_rNU97Tzashb4lVrB8YdgdKWJzmKoyjdChOPjLCCMqy5_3RM_WEJ=s160-c-k-c0x00ffffff-no-rj" group-title="Mist",Yeeps Channel
+https://watch.mistweather.com/hls/ypch/index.m3u8
+#EXTINF:-1 tvg-id="ASRN" tvg-logo="https://api.mistweather.com/api/v1.5/image/63ccf931-5290-4d5a-88c9-017ec417aaa2?width=96&height=96&fit=inside" group-title="Mist",ASRN
+https://watch.mistweather.com/hls/asrn/index.m3u8
+#EXTINF:-1 tvg-id="ASR2" tvg-logo="https://api.mistweather.com/api/v1.5/image/791ec7ea-72a7-4841-b946-5e2722434c92?width=96&height=96&fit=inside" group-title="Mist",ASRN2
+https://watch.mistweather.com/hls/asrn2/index.m3u8
+#EXTINF:-1 tvg-id="OBJT" tvg-logo="https://api.mistweather.com/api/v1.5/image/b9322afe-ae0f-4ca8-8f51-60f2cafe86f0?width=96&height=96&fit=inside" group-title="Mist",Object Central
+https://watch.mistweather.com/hls/objectcent/index.m3u8
+#EXTINF:-1 tvg-id="ULTRA" tvg-logo="https://api.mistweather.com/api/v1.5/image/afbdc3d0-c1ce-4447-a120-b6c4c31ebcac?width=96&height=96&fit=inside" group-title="Mist",Ultra
+https://watch.mistweather.com/hls/ultra/index.m3u8
+#EXTINF:-1 tvg-id="ZNTV" tvg-logo="https://api.mistweather.com/api/v1.5/image/93c12466-dad5-40cb-80d3-8c78466325b6?width=96&height=96&fit=inside" group-title="Mist",Zone! Television
+https://watch.mistweather.com/hls/caribmedia-ch01/index.m3u8
+#EXTINF:-1 tvg-id="CRNK" tvg-logo="https://api.mistweather.com/api/v1.5/image/05d378fb-4edb-491f-aba0-c8504e4b0e48?width=96&height=96&fit=inside" group-title="Mist",Crank
+https://watch.mistweather.com/hls/thespace/index.m3u8
