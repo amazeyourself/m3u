@@ -2573,3 +2573,5 @@ http://103.159.180.34:5001/live/3563.m3u8
 http://103.159.180.34:5001/live/3564.m3u8
 #EXTINF:-1 tvg-id="3565" tvg-name="Globeon Television" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GlobeonTelevision.png" tvg-language="Malayalam" group-title="Entertainment", Globeon Television
 http://103.159.180.34:5001/live/3565.m3u8
+#EXTINF:-1 tvg-id="3566" tvg-name="Knock Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png" tvg-language="Punjabi" group-title="Devotional", Knock Bhakti
+http://103.159.180.34:5001/live/3566.m3u8
