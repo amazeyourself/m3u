@@ -8,10 +8,10 @@ https://stream.ottlive.co.in/livetimetv/index.m3u8
 https://stream.ottlive.co.in/bharatexpress/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="117" tvg-name="India Daily" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/idl-1750947582479.jpg" group-title="News",India Daily
 https://cdn.ottlive.co.in/indiadailylive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="118" tvg-name="Sadhna Plus News" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Sadhna-Plus-News-1650909668460.jpg" group-title="News",Sadhna Plus News
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="118" tvg-name="Amar Ujala" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/au-channel-1768321022681.jpg" group-title="News",Amar Ujala
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=671b62be995a1cf780079b55&AV_CHANNELID=&AVS_SSAIID=6a09dadf1894bf701301d6a6&AVS_SOURCE=https%3A%2F%2Fstream.ottlive.co.in%2Famarujalatv%2Findex.m3u8&AVS_STREAM_TYPE=LIVE&AVS_STREAM_FORMAT=HLS&AVS_TEMPLATE=IN_APP&AVS_ADSERVER_RESPONSE_TYPE=VAST&AVS_NOMARK=true&ssai=1
+#EXTINF:-1 tvg-id="" tvg-chno="118" tvg-name="Sadhna Plus News" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Sadhna-Plus-News-1650909668460.jpg" group-title="News",Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Aaj Ki Khabar" tvg-chno="119" tvg-name="Aaj Ki Khabar" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/aj-1755813648475.jpg" group-title="News",Aaj Ki Khabar
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="133" tvg-name="C News Bharat" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ChanJor-1762193506271.jpg" group-title="News",C News Bharat
