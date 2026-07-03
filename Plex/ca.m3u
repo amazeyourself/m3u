@@ -801,6 +801,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6889479e67ddc0ef2cdbf501.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68e9436dda6bb987138625c7.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-63226c03e67cf9cd9011fcdf" tvg-name="TRACE Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png",TRACE Latina
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63226c03e67cf9cd9011fcdf.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fc705e47c6557002ee1e769" tvg-name="Tarima TV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d62015bd6ac8210dd3c09b87410367fd.png",Tarima TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fc705e47c6557002ee1e769.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png",More U
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6112a9139894c8002c6cb87f.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-689e1f0dd84bfb3d54b6756f" tvg-name="Bizaar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png",Bizaar

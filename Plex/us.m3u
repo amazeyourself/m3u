@@ -1027,6 +1027,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-68db6b54475aa6420c85f230.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",ITV Deportes
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-688d3402a6fe30698ab42007.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",Billboard Español TV
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a3c2c8c14e447db7984cc3a.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-688cf47e324d7b6bc116198d" tvg-name="Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png",Teleonce America
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-688cf47e324d7b6bc116198d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66e0d0c4f70549a9bc1eceb0" tvg-name="WAPA+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8a22bfa-9e21-41cc-a789-84a2f8924af8/LOGO_WAPA__Color_Dark_24MAY_marketing_HMTVRDX_COLOR.png",WAPA+
@@ -1319,6 +1321,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-62d7f68fb19cbf65dc7bef7d.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68800926996f1a2fb393a6e7.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6322658be67cf9cd9011fcda" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png",TRACE Urban
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6322658be67cf9cd9011fcda.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705e47c6557002ee1e769" tvg-name="Tarima TV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d62015bd6ac8210dd3c09b87410367fd.png",Tarima TV
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fc705e47c6557002ee1e769.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68800b694033a6a442ad9239" tvg-name="XITE Rap Game" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3118ea3d-f353-4096-9642-afdb2188a0b1/xiterapgame_logo_light_-_Arlette_FiranRDX.png",XITE Rap Game
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68800b694033a6a442ad9239.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68894b6e10df0c242e4136cc" tvg-name="XITE Hip-Hop Evolution" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ded154a4-17ee-4e40-b7dc-cb3dc5696a9d/xitehiphopevolution_logo_light_-_Arlette_FiranRDX.png",XITE Hip-Hop Evolution
