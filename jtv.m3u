@@ -2468,7 +2468,7 @@ https://vglivessai.akamaized.net/ptnr-yupptv/title-GTC_Punjabi/in/v1/master/611d
 #EXTINF:-1 tvg-id="3471" tvg-name="Punjabi Shorts" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PunjabiShorts.png" tvg-language="Punjabi" group-title="Movies", Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 #EXTINF:-1 tvg-id="3476" tvg-name="Zee Bangla Sonar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" tvg-language="Bengali" group-title="Movies", Zee Bangla Sonar
-http://103.159.180.34:5001/live/3476.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="3478" tvg-name="Stingray Classic Rock" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-101ads-montreal.png" tvg-language="English" group-title="Music", Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="3479" tvg-name="Stingray Greatest Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-155ads-montreal.png" tvg-language="English" group-title="Music", Stingray Greatest Hits
@@ -2575,3 +2575,11 @@ http://103.159.180.34:5001/live/3564.m3u8
 http://103.159.180.34:5001/live/3565.m3u8
 #EXTINF:-1 tvg-id="3566" tvg-name="Knock Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png" tvg-language="Punjabi" group-title="Devotional", Knock Bhakti
 http://103.159.180.34:5001/live/3566.m3u8
+#EXTINF:-1 tvg-id="3567" tvg-name="Big TV 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BigTV24x7.png" tvg-language="Malayalam" group-title="News", Big TV 24x7
+http://103.159.180.34:5001/live/3567.m3u8
+#EXTINF:-1 tvg-id="3568" tvg-name="Onkar News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png" tvg-language="Bengali" group-title="News", Onkar News
+https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="3569" tvg-name="Bangla Hunt" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/banglahunttv.png" tvg-language="Bengali" group-title="News", Bangla Hunt
+http://103.159.180.34:5001/live/3569.m3u8
+#EXTINF:-1 tvg-id="3570" tvg-name="ANN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ANNEntertainment.png" tvg-language="Urdu" group-title="Entertainment", ANN Entertainment
+http://103.159.180.34:5001/live/3570.m3u8
