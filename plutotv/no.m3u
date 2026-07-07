@@ -1,13 +1,11 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
-#EXTINF:-1 tvg-id="69e776c8c0df7f39504df5d5" tvg-name="3ICE Hockey World Cup 2026" tvg-logo="https://images.pluto.tv/channels/69e776c8c0df7f39504df5d5/colorLogoPNG_1782225959758.png",3ICE Hockey World Cup 2026
-https://jmp2.uk/plu-69e776c8c0df7f39504df5d5.m3u8
 #EXTINF:-1 tvg-id="69afee52684d0f30872ca43a" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee52684d0f30872ca43a/colorLogoPNG_1778675467380.png",From Dusk Till Dawn: The Series
 https://jmp2.uk/plu-69afee52684d0f30872ca43a.m3u8
 #EXTINF:-1 tvg-id="69c2946724a6d521f82a8595" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/69c2946724a6d521f82a8595/colorLogoPNG_1779186574115.png",CNN Headlines International
 https://jmp2.uk/plu-69c2946724a6d521f82a8595.m3u8
 #EXTINF:-1 tvg-id="69d7a0d0f57dc59a5f928fb2" tvg-name="Best of Magnus Midtbø" tvg-logo="https://images.pluto.tv/channels/69d7a0d0f57dc59a5f928fb2/colorLogoPNG_1776698296343.png",Best of Magnus Midtbø
 https://jmp2.uk/plu-69d7a0d0f57dc59a5f928fb2.m3u8
-#EXTINF:-1 tvg-id="68513950f212bedacf8ec48f" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/68513950f212bedacf8ec48f/colorLogoPNG_1780302351813.png",MTV Pride
+#EXTINF:-1 tvg-id="68513950f212bedacf8ec48f" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/68513950f212bedacf8ec48f/colorLogoPNG_1783323419422.png",MTV Reality
 https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
 #EXTINF:-1 tvg-id="691ed76a9c828fb484f7c2e5" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed76a9c828fb484f7c2e5/colorLogoPNG_1775046984569.png",Inter 24/7
 https://jmp2.uk/plu-691ed76a9c828fb484f7c2e5.m3u8
@@ -105,10 +103,10 @@ https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8
 https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8
 #EXTINF:-1 tvg-id="63dbe78051f5d000083e9249" tvg-name="Numb3rs" tvg-logo="https://images.pluto.tv/channels/63dbe78051f5d000083e9249/colorLogoPNG.png",Numb3rs
 https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8
-#EXTINF:-1 tvg-id="68c014ee337652ee75dab43b" tvg-name="Highway to Heaven" tvg-logo="https://images.pluto.tv/channels/68c014ee337652ee75dab43b/colorLogoPNG-1757418778179.png",Highway to Heaven
-https://jmp2.uk/plu-68c014ee337652ee75dab43b.m3u8
 #EXTINF:-1 tvg-id="61dd5bf8db0b8e00080804ff" tvg-name="BET" tvg-logo="https://images.pluto.tv/channels/61dd5bf8db0b8e00080804ff/colorLogoPNG.png",BET
 https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
+#EXTINF:-1 tvg-id="68c014ee337652ee75dab43b" tvg-name="Highway to Heaven" tvg-logo="https://images.pluto.tv/channels/68c014ee337652ee75dab43b/colorLogoPNG-1757418778179.png",Highway to Heaven
+https://jmp2.uk/plu-68c014ee337652ee75dab43b.m3u8
 #EXTINF:-1 tvg-id="698dde17c7f3f49e64e3414a" tvg-name="Flipper: The New Adventures" tvg-logo="https://images.pluto.tv/channels/698dde17c7f3f49e64e3414a/colorLogoPNG_1775742020032.png",Flipper: The New Adventures
 https://jmp2.uk/plu-698dde17c7f3f49e64e3414a.m3u8
 #EXTINF:-1 tvg-id="65ba4db63ef47d000837b535" tvg-name="McLeods døtre & Grantchester" tvg-logo="https://images.pluto.tv/channels/65ba4db63ef47d000837b535/colorLogoPNG_1756125306200.png",McLeods døtre & Grantchester

@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/it.xml.gz"
+#EXTINF:-1 tvg-id="69affcad8940750a23a7231a" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1783322322648.png",One Piece
+https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
 #EXTINF:-1 tvg-id="62442f28afe626000747f195" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png",I Jefferson
 https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
 #EXTINF:-1 tvg-id="66a0eea88561260008b1c5d0" tvg-name="Carabinieri" tvg-logo="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png",Carabinieri
@@ -169,8 +171,6 @@ https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8
 https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8
 #EXTINF:-1 tvg-id="65d7211d0d45610008ffcf92" tvg-name="LOL Just For Laughs" tvg-logo="https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/colorLogoPNG_1758784569061.png",LOL Just For Laughs
 https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
-#EXTINF:-1 tvg-id="69affcad8940750a23a7231a" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1778079789267.png",One Piece
-https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
 #EXTINF:-1 tvg-id="63eb82e24e83e70008ab735f" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
 #EXTINF:-1 tvg-id="612375086abc84000738fc03" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG-1668928583258.png",Inazuma Eleven
