@@ -285,6 +285,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-62d1a58e520656fda09e609d.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-603fb593a99efc002dbf90e4.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68b9f334fc12601028c5651e" tvg-name="World Billiards TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png",World Billiards TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-68b9f334fc12601028c5651e.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",Billboard Español TV
+https://jmp2.uk/plex-697140a85d851f5e69414688-6a3c2c8c14e447db7984cc3a.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",AfroLandTV
 https://jmp2.uk/plex-697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",Johnny Carson TV

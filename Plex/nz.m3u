@@ -399,6 +399,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6b54475aa6420c85f230.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",ITV Deportes
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",Billboard Español TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6533eaa0df3ccc650a965648" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8a899f4f-9962-4dcc-8230-7df6aa14d97d/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png",Adventure Earth
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6533eaa0df3ccc650a965648.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-666e1bc2d91d13cb4c8cbb6f" tvg-name="Life+Style" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c61624db-2926-433a-850c-a9ce4a359336/channel_logo_1500x1000_light.png.png",Life+Style
