@@ -257,7 +257,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-670694b4836808fbb1561c91.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69d938388061ebfbca58c322.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa" tvg-name="CineLife" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png",CineLife
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" tvg-name="Lifetime Movies: Black Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc50e93b-e71e-43e4-b971-a761d54f942e/Black_Stories_channel_logo_4c_1500x1000.png",Lifetime Movies: Black Stories
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" tvg-name="Lifetime Movies Love & Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abf7f391-d803-4f87-a294-75e11685a20d/LMLD_Christmas_in_July_channel_logo_4c_1500x1000_-_Laura_Connolly.png",Lifetime Movies Love & Drama
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png",All Reality We TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec.m3u8
@@ -981,7 +981,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-62ba4aaff663580a7238f327.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-644a69895b1d51b6a8d18609.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f0ff266d71dcb00449ec030" tvg-name="WeatherSpy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png",WeatherSpy
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f0ff266d71dcb00449ec030.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f1670" tvg-name="Telemundo Acción" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f2bcd48e7f98134abe3ce52550a31bd7.png",Telemundo Acción
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f1670" tvg-name="El Señor de los Cielos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dffd6b5-fda9-40eb-89dc-08afd32c633a/channel_logo_light.png",El Señor de los Cielos
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6478acb5c83f56da796f1670.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4427" tvg-name="Midnight Pulp" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png",Midnight Pulp
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c4427.m3u8
@@ -3719,7 +3719,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68dcb62667386a41d59918db.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69ae4f38e657bab5f7a9b7ec.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65e89d8b982674772f6f1a55" tvg-name="Survivorman on Plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c65390b-22d4-46fe-a2e0-7972af2c5e8f/Survivorman-ChannelLogoColorRDX.png",Survivorman on Plex
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65e89d8b982674772f6f1a55.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a" tvg-name="Super Channel Hearties" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d437725d-8950-449e-903b-46aa2a663f10/SuperChannelHearties-Logo-FullColour_1500x1000.png",Super Channel Hearties
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a" tvg-name="Super Channel Hearties Christmas in July" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ebfb72fd-8cbc-4a74-9a77-c7607a39b98c/Hearties_Red_Blue_logoRDXs.png",Super Channel Hearties Christmas in July
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5816" tvg-name="Unsolved Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3dfda714-2c2e-409d-a54a-c386f8110a3d/FilmRise_UnsolvedMysteries_Color_Logo.png",Unsolved Mysteries
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5816.m3u8
