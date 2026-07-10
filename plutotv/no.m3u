@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
+#EXTINF:-1 tvg-id="6964b92b9174e77a0e7dbd81" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b92b9174e77a0e7dbd81/colorLogoPNG_1771833546695.png",Klassiske dramaserier fra Viafree
+https://jmp2.uk/plu-6964b92b9174e77a0e7dbd81.m3u8
 #EXTINF:-1 tvg-id="69afee52684d0f30872ca43a" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee52684d0f30872ca43a/colorLogoPNG_1778675467380.png",From Dusk Till Dawn: The Series
 https://jmp2.uk/plu-69afee52684d0f30872ca43a.m3u8
 #EXTINF:-1 tvg-id="69c2946724a6d521f82a8595" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/69c2946724a6d521f82a8595/colorLogoPNG_1779186574115.png",CNN Headlines International
@@ -109,8 +111,6 @@ https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
 https://jmp2.uk/plu-68c014ee337652ee75dab43b.m3u8
 #EXTINF:-1 tvg-id="698dde17c7f3f49e64e3414a" tvg-name="Flipper: The New Adventures" tvg-logo="https://images.pluto.tv/channels/698dde17c7f3f49e64e3414a/colorLogoPNG_1775742020032.png",Flipper: The New Adventures
 https://jmp2.uk/plu-698dde17c7f3f49e64e3414a.m3u8
-#EXTINF:-1 tvg-id="65ba4db63ef47d000837b535" tvg-name="McLeods døtre & Grantchester" tvg-logo="https://images.pluto.tv/channels/65ba4db63ef47d000837b535/colorLogoPNG_1756125306200.png",McLeods døtre & Grantchester
-https://jmp2.uk/plu-65ba4db63ef47d000837b535.m3u8
 #EXTINF:-1 tvg-id="693ae65fab5959c036fa6c1e" tvg-name="House of Lies" tvg-logo="https://images.pluto.tv/channels/693ae65fab5959c036fa6c1e/colorLogoPNG_1769415741148.png",House of Lies
 https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8
 #EXTINF:-1 tvg-id="6400c228498393000878a9b7" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c228498393000878a9b7/colorLogoPNG.png",Star Trek Movies
@@ -191,8 +191,6 @@ https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
 #EXTINF:-1 tvg-id="62cd9e0d10bb020007005628" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cd9e0d10bb020007005628/colorLogoPNG_1762762294202.png",MTV Ridiculousness
 https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
-#EXTINF:-1 tvg-id="685140bd21f49d1b9d177e21" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/685140bd21f49d1b9d177e21/colorLogoPNG_1750843390559.png",MTV Dating
-https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
 #EXTINF:-1 tvg-id="61c1d6e1f5acaf0007f8381d" tvg-name="Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/61c1d6e1f5acaf0007f8381d/colorLogoPNG.png",Pimp My Ride
 https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
 #EXTINF:-1 tvg-id="61c1d56f28e94c0007827bdb" tvg-name="The Hills" tvg-logo="https://images.pluto.tv/channels/61c1d56f28e94c0007827bdb/colorLogoPNG.png",The Hills
