@@ -7,6 +7,8 @@ https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="CRAYONZ TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" group-title"Tamil Nadu Channels",3 CRAYONZ TV
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png" group-title"Tamil Nadu Channels",4 VAAGAI TV
+https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="7star Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754648001_7STV%20Still%202%20(1).png" group-title"Tamil Nadu Channels",5 7star Tv
 http://premium.7starcloud.com:1935/live/7star/live.m3u8
 #EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="vimal tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782983392_ashoka-digital-560x315.gif" group-title"Tamil Nadu Channels",6 vimal tv
