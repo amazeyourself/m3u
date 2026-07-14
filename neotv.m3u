@@ -74,20 +74,20 @@ https://janya-pitaaralive.akamaized.net/ptnr-Khabriya/title-PitaaraTV_SSAI/v1/vg
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="804" tvg-name="Tabbar Hits" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/z-1755812800468.jpg" group-title="Movies",Tabbar Hits
 https://stream.ottlive.co.in/tabbarhits/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="805" tvg-name="PTC Punjabi Canada" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ptc-1767392027848.jpg" group-title="Entertainment",PTC Punjabi Canada
-https://neotv.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:-1 tvg-id="Punjabi Hits" tvg-chno="805" tvg-name="Punjabi Hits" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi hits-1739451639354-1744825294259.jpg" group-title="Music",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="805" tvg-name="PTC Punjabi Canada" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ptc-1767392027848.jpg" group-title="Entertainment",PTC Punjabi Canada
+https://neotv.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="806" tvg-name="GTC Punjabi USA" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-usa-1773945969991.jpg" group-title="Entertainment",GTC Punjabi USA
 https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="Punjabi Shorts" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi-shorts-1767192407233.jpg" group-title="Entertainment",Punjabi Shorts
 https://gtc.ottlive.co.in/punjabshort/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="GTC Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-1774906973031.jpg" group-title="Entertainment",GTC Punjabi
 https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
-https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Pure Pink Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Entertainment",Pure Pink Punjabi
 https://knocktv1.wiseplayout.com/PurePink/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="809" tvg-name="Prime Asia" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Entertainment",Prime Asia
 https://stream.ottlive.co.in/primeasia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="810" tvg-name="Sanjha TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000115688-1771023397782.jpg" group-title="Entertainment",Sanjha TV
@@ -114,10 +114,10 @@ https://stream.ottlive.co.in/livingindia/index.m3u8
 https://stream.ottlive.co.in/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="826" tvg-name="The Unmute" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/theunumute-1755813367340.jpg" group-title="News",The Unmute
 https://stream.ottlive.co.in/unmute/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="827" tvg-name="TV Punjab" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/81f70XEPGOL-1652167939940.jpg" group-title="News",TV Punjab
-https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="827" tvg-name="World Punjabi TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/World Punjabi Channel Logo 1000x1000-1761568107659.png" group-title="News",World Punjabi TV
 https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="827" tvg-name="TV Punjab" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/81f70XEPGOL-1652167939940.jpg" group-title="News",TV Punjab
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="833" tvg-name="Punjab Mail USA" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/375062410_746674004142191_3679713481887418192_n-1695131283758.jpg" group-title="News",Punjab Mail USA
 https://cdn12.henico.net:8443/live/punjabmailusa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="835" tvg-name="TV NRI Canada" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/286040681_5114536905296977_5286246418919181607_n-1695221089105.jpg" group-title="News",TV NRI Canada
@@ -278,10 +278,10 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_WIDTH=1920&AV_HEIGHT=1080&AV_
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae46694a09d1d62507f0ff
 #EXTINF:-1 tvg-id="" tvg-chno="4230" tvg-name="Music LO-FI" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/lofi-1740063882619.jpg" group-title="Music",Music LO-FI
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68954484dd7915fcaf0e16b7
-#EXTINF:-1 tvg-id="StigrayClassicMusic" tvg-chno="4232" tvg-name="Stingray Classic Rock" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1522920739_artcard-stingray-classica-1759853162169.jpg" group-title="Music",Stingray Classic Rock
-https://streams2.sofast.tv/ptnr-Khabriya/title-Stingray_Classic_Rock_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9dd2945c-8170-4680-a3ca-df9093e282ae/master.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="" tvg-chno="4232" tvg-name="Fireplace TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/firetv9-1776378797509.jpg" group-title="Music",Fireplace TV
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=69ddbefb8506d00def01bcd5
+#EXTINF:-1 tvg-id="StigrayClassicMusic" tvg-chno="4232" tvg-name="Stingray Classic Rock" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1522920739_artcard-stingray-classica-1759853162169.jpg" group-title="Music",Stingray Classic Rock
+https://streams2.sofast.tv/ptnr-Khabriya/title-Stingray_Classic_Rock_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9dd2945c-8170-4680-a3ca-df9093e282ae/master.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="" tvg-chno="4244" tvg-name="Music Synthwave" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/sythnwave-1742731545125.jpg" group-title="Music",Music Synthwave
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=68ae4be1be827a4c180c9b25
 #EXTINF:-1 tvg-id="" tvg-chno="4245" tvg-name="Feva Music" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/feva--1778272034851.jpg" group-title="Music",Feva Music
