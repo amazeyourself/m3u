@@ -1,0 +1,47 @@
+name: Generate Nellai IPTV playlist
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at 12 AM
+  push:
+    branches:
+      - main  # Runs on push to the main branch
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6.0.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v6.2.0
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pycryptodome
+          pip install urllib3
+
+      - name: Run script
+        run: "python ./scripts/nellaiiptv.py"
+
+      - name: Commit changes if any
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "Playlist auto-updated on $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+
+      - name: Pull latest changes from remote
+        run: git pull origin main --rebase
+
+      - name: Push changes
+        run: |
+          git pull origin main --rebase
+          git push origin main
