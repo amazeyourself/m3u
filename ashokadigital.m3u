@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="0" tvg-chno="0" tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title"Tamil Nadu Channels",0 INFO TV
-https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
+https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params%20tv%20png%20lgog%20.png" group-title"Tamil Nadu Channels",1 Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-chno="2" tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka%20TV%20LOGO%20SWF.gif" group-title"Tamil Nadu Channels",2 Ashoka Tv
@@ -8,7 +8,7 @@ https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="CRAYONZ TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" group-title"Tamil Nadu Channels",3 CRAYONZ TV
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png" group-title"Tamil Nadu Channels",4 VAAGAI TV
-https://stream.ashokadigital.net/VAAGAITV/vaagaitv/index.m3u8
+https://app.ashokadigital.net/app/3655a84e/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="7star Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754648001_7STV%20Still%202%20(1).png" group-title"Tamil Nadu Channels",5 7star Tv
 http://premium.7starcloud.com:1935/live/7star/live.m3u8
 #EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="vimal tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782983392_ashoka-digital-560x315.gif" group-title"Tamil Nadu Channels",6 vimal tv
@@ -237,5 +237,5 @@ https://newsliveindia.com:4433/tvh/index.m3u8
 https://newsliveindia.com:4433/bharat/index.m3u8
 #EXTINF:-1 tvg-id="922" tvg-chno="922" tvg-name="vii media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1780243421_vii%20media%20png.png" group-title"Tamil Nadu Channels",922 vii media
 https://viimedia.wiseplayout.com:5556/viimedia/master.m3u8
-#EXTINF:-1 tvg-id="500142" tvg-chno="500142" tvg-name="Shalini Tv Salem" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782835974_4.%20SHALINI%20TV%20THANJAI.png" group-title"Tamil Nadu Channels",500142 Shalini Tv Salem
+#EXTINF:-1 tvg-id="923" tvg-chno="923" tvg-name="Shalini Tv Salem" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782835974_4.%20SHALINI%20TV%20THANJAI.png" group-title"Tamil Nadu Channels",923 Shalini Tv Salem
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
