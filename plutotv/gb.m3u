@@ -77,6 +77,8 @@ https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
 https://jmp2.uk/plu-66a10eacfe11e500084c6925.m3u8
 #EXTINF:-1 tvg-id="65a6a7a00c7ff50008cba07b" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/65a6a7a00c7ff50008cba07b/colorLogoPNG_1754296852868.png",Pluto TV Crime Drama
 https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
+#EXTINF:-1 tvg-id="63d000ef4e83e700086e0d6c" tvg-name="Scorpion" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png",Scorpion
+https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 #EXTINF:-1 tvg-id="6960c5a906d76f50db2816dc" tvg-name="Cagney & Lacey" tvg-logo="https://images.pluto.tv/channels/6960c5a906d76f50db2816dc/colorLogoPNG_1767949823270.png",Cagney & Lacey
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
 #EXTINF:-1 tvg-id="660e5dc60cd4630008f6198a" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/colorLogoPNG.png",JAG
@@ -227,10 +229,10 @@ https://jmp2.uk/plu-65a7af553af63d000828acca.m3u8
 https://jmp2.uk/plu-5bd833b41843b56328bac189.m3u8
 #EXTINF:-1 tvg-id="656df599c0fc8800089c75ab" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
-#EXTINF:-1 tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1767781622486.png",America's Funniest Home Videos
-https://jmp2.uk/plu-690dc8ed1ee9b6ac66607ce2.m3u8
 #EXTINF:-1 tvg-id="62ac50e92c48f900071444c9" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png",Auction Hunters
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
+#EXTINF:-1 tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1767781622486.png",America's Funniest Home Videos
+https://jmp2.uk/plu-690dc8ed1ee9b6ac66607ce2.m3u8
 #EXTINF:-1 tvg-id="672cb91149c40600081cbee5" tvg-name="Whose Line Is It Anyway?" tvg-logo="https://images.pluto.tv/channels/672cb91149c40600081cbee5/colorLogoPNG_1772035532114.png",Whose Line Is It Anyway?
 https://jmp2.uk/plu-672cb91149c40600081cbee5.m3u8
 #EXTINF:-1 tvg-id="5dc2c00abfed110009d97243" tvg-name="Pluto TV Sherlock" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png",Pluto TV Sherlock
