@@ -881,6 +881,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-63584a0cf8e2be1350f802a4.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f5132df62fe160040f26bc2.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60089d97f682a3002c34829b" tvg-name="Estrella News" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png",Estrella News
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60089d97f682a3002c34829b.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1" tvg-name="ADN NOTICIAS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png",ADN NOTICIAS
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64fba469bb3e0baa5dcc0947" tvg-name="Canela.TV Clásicos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png",Canela.TV Clásicos
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64fba469bb3e0baa5dcc0947.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-654d5db7ff9919cc3e31e961" tvg-name="GoUSA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a937d36-e14d-470b-a909-746fb0744ec4/gousa-tvWHITE_RDX1500x1000.png",GoUSA TV
@@ -1019,6 +1021,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6449369eb3ff17382cae57fc.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-693ebecae2cae3f1bc73ae45.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68db6b54475aa6420c85f230.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a4af4e895c72f33f18ad29d" tvg-name="Mera Mera TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77a458d9-d6e4-4b04-acb3-e4554c6a93eb/Dark_Logo_1500X1000_PNGRDX.png",Mera Mera TV
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a4af4e895c72f33f18ad29d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15c628ca-8ef6-4074-873c-8f491ed51f55/crime_scene_tv_white.png",Crime Scene TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",ITV Deportes
@@ -2527,6 +2531,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d" tvg-name="Survivor Mexico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06b112af-4009-4830-9313-6e393ee8e579/SurvivorMexico_Logo_Light_1500x1000_-_Harry_Marshall.png",Survivor Mexico
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6a3b12103c90c489ea1f17e0" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14bef4ec-a974-42e7-b499-474a71978f65/DOND_Logo_White_1500x1000_-_Harry_Marshall__1_.png",Deal Or No Deal
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6a3b12103c90c489ea1f17e0.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa" tvg-name="PeliMex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png",PeliMex
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277" tvg-name="FilmRise Crimenes Verdaderos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80f31fb0-3481-4e89-877a-3d2f0bb80215/FilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png",FilmRise Crimenes Verdaderos
