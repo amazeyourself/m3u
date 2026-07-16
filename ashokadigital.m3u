@@ -8,7 +8,7 @@ https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="CRAYONZ TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" group-title"Tamil Nadu Channels",3 CRAYONZ TV
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png" group-title"Tamil Nadu Channels",4 VAAGAI TV
-https://app.ashokadigital.net/app/3655a84e/index.m3u8
+https://app.ashokadigital.net/app/eef44efe/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="7star Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1754648001_7STV%20Still%202%20(1).png" group-title"Tamil Nadu Channels",5 7star Tv
 http://premium.7starcloud.com:1935/live/7star/live.m3u8
 #EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="vimal tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782983392_ashoka-digital-560x315.gif" group-title"Tamil Nadu Channels",6 vimal tv
@@ -75,6 +75,8 @@ https://app.ashokadigital.net/app/34e04c34/index.m3u8
 
 #EXTINF:-1 tvg-id="102" tvg-chno="102" tvg-name="kathir tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png" group-title"Tamil Nadu Channels",102 kathir tv
 https://app.ashokadigital.net/app/cbc54d21/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-chno="103" tvg-name="mtntv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784140379_mtn%20tv.png" group-title"Tamil Nadu Channels",103 mtntv
+https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="117" tvg-chno="117" tvg-name="KING 24/7" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746107492_KING24X7%20logo.png" group-title"Tamil Nadu Channels",117 KING 24/7
 https://notvstream.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-id="118" tvg-chno="118" tvg-name="queens Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746107527_QUEENS%20143.png" group-title"Tamil Nadu Channels",118 queens Tv
@@ -237,5 +239,3 @@ https://newsliveindia.com:4433/tvh/index.m3u8
 https://newsliveindia.com:4433/bharat/index.m3u8
 #EXTINF:-1 tvg-id="922" tvg-chno="922" tvg-name="vii media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1780243421_vii%20media%20png.png" group-title"Tamil Nadu Channels",922 vii media
 https://viimedia.wiseplayout.com:5556/viimedia/master.m3u8
-#EXTINF:-1 tvg-id="923" tvg-chno="923" tvg-name="Shalini Tv Salem" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782835974_4.%20SHALINI%20TV%20THANJAI.png" group-title"Tamil Nadu Channels",923 Shalini Tv Salem
-https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
