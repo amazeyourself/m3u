@@ -8903,7 +8903,7 @@ The boom now extends far beyond the stage, boosting tourism, retail spending and
 <value>None</value>
 </rating>
 </programme>
-<programme channel="143731" start="20260715200000 +0000" stop="20260715203320 +0000">
+<programme channel="143731" start="20260715200000 +0000" stop="20260715203255 +0000">
 <title>Global Business-Asian Edition Ep.1</title>
 <desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
 <icon src="None"/>
@@ -8911,7 +8911,7 @@ The boom now extends far beyond the stage, boosting tourism, retail spending and
 <value>None</value>
 </rating>
 </programme>
-<programme channel="143731" start="20260715203320 +0000" stop="20260715204912 +0000">
+<programme channel="143731" start="20260715203255 +0000" stop="20260715204912 +0000">
 <title>Global Business-Asian Edition Ep.1</title>
 <desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
 <icon src="None"/>
@@ -9020,7 +9020,7 @@ What’s the future like for the “token economy”? Join us on BizTalk as we e
 <value>None</value>
 </rating>
 </programme>
-<programme channel="143731" start="20260716034935 +0000" stop="20260716035745 +0000">
+<programme channel="143731" start="20260716034935 +0000" stop="20260716040000 +0000">
 <title>China's concert boom: Why Gen Z is filling the stadiums</title>
 <desc>From packed stadium shows to sold-out performances in smaller cities, China's live music scene is expanding rapidly. Young audiences are turning concerts into a cultural routine: traveling across cities, sharing the experience online and building collective memories around live performances.
 
@@ -9030,462 +9030,390 @@ The boom now extends far beyond the stage, boosting tourism, retail spending and
 <value>None</value>
 </rating>
 </programme>
-<programme channel="143731" start="20260716035745 +0000" stop="20260716040610 +0000">
+<programme channel="143731" start="20260716040000 +0000" stop="20260716043555 +0000">
+<title>Global Business-Asian Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716043555 +0000" stop="20260716045340 +0000">
+<title>Global Business-Asian Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716045340 +0000" stop="20260716054111 +0000">
+<title>Global Business-American Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716054111 +0000" stop="20260716060339 +0000">
+<title>Global Business-American Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716060339 +0000" stop="20260716064112 +0000">
+<title>Global Business-African Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716064112 +0000" stop="20260716070625 +0000">
+<title>Global Business-African Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716070625 +0000" stop="20260716073837 +0000">
+<title>Global Business-European Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716073837 +0000" stop="20260716081205 +0000">
+<title>China's Capital Markets H2 Outlook</title>
+<desc>As global investors reassess China’s outlook, the country’s capital markets are back in focus. With international investment banks raising their growth forecasts and overseas capital flowing back in, the question is no longer whether investors are coming back – but what will drive the next phase of growth.
+
+Join BizTalk this week, as Wang Dan, China director at Eurasia Group, and Laura Wang, chief China equity strategist at Morgan Stanley, discuss the outlook for China’s equity and bond markets.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716081205 +0000" stop="20260716084406 +0000">
+<title>Global Business-American Edition Ep.2</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716084406 +0000" stop="20260716091601 +0000">
+<title>Global Business-Asian Edition Ep.2</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716091601 +0000" stop="20260716095000 +0000">
+<title>Meet China: Turning Villages into Stages, Taking Creativity to the World</title>
+<desc>In this episode of Meet China, we step into the frontlines of rural revitalization to see how a Gen-Z village chief is breathing new life into her hometown. We then visit the world’s toy capital, where Chinese manufacturing is turning culture and creativity into global stories. From a green beef cycle near Beijing to rice-prawn co-culture in Cambodia, this episode explores how technology, industry and cooperation are helping land thrive and livelihoods grow.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716095000 +0000" stop="20260716105729 +0000">
+<title>Football expert: AI will never replace referees or players</title>
+<desc>Artificial intelligence (AI) is playing an increasingly important role at the 2026 World Cup. However, Chris Van Puyvelde, Chinese Football Association Technical Director, said that AI as a tool will never replace players or referees, as the human brain is the ultimate decision-maker in football, in a #Bizpodcast show with CGTN. #BizFocus</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716105729 +0000" stop="20260716113232 +0000">
+<title>Biztalk Special Coverage on AI EP3</title>
+<desc>The Token Economy
+Demand for AI tokens is surging, with trends like “tokenmaxxing” accelerating the race for computing power.
+As pressure mounts on computing and energy infrastructure, China is leveraging its clean energy strengths to support AI growth, while “token exports” emerge as a new way to deliver AI services to global users.
+What’s the future like for the “token economy”? Join us on BizTalk as we explore the economics behind the AI revolution.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716113232 +0000" stop="20260716114940 +0000">
+<title>China Agenda 2026</title>
+<desc>Special coverage of China's annual sessions of its top legislature and political advisory body, known as the "Two Sessions".</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716114940 +0000" stop="20260716120000 +0000">
+<title>China's concert boom: Why Gen Z is filling the stadiums</title>
+<desc>From packed stadium shows to sold-out performances in smaller cities, China's live music scene is expanding rapidly. Young audiences are turning concerts into a cultural routine: traveling across cities, sharing the experience online and building collective memories around live performances.
+
+The boom now extends far beyond the stage, boosting tourism, retail spending and local economies. In this episode of Unboxing China, we explore how concerts are reshaping consumption patterns and becoming a new driver of cultural and urban development.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716120000 +0000" stop="20260716123555 +0000">
+<title>Global Business-Asian Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716123555 +0000" stop="20260716125340 +0000">
+<title>Global Business-Asian Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716125340 +0000" stop="20260716134111 +0000">
+<title>Global Business-American Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716134111 +0000" stop="20260716140339 +0000">
+<title>Global Business-American Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716140339 +0000" stop="20260716144112 +0000">
+<title>Global Business-African Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716144112 +0000" stop="20260716150625 +0000">
+<title>Global Business-African Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716150625 +0000" stop="20260716153837 +0000">
+<title>Global Business-European Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716153837 +0000" stop="20260716161205 +0000">
+<title>China's Capital Markets H2 Outlook</title>
+<desc>As global investors reassess China’s outlook, the country’s capital markets are back in focus. With international investment banks raising their growth forecasts and overseas capital flowing back in, the question is no longer whether investors are coming back – but what will drive the next phase of growth.
+
+Join BizTalk this week, as Wang Dan, China director at Eurasia Group, and Laura Wang, chief China equity strategist at Morgan Stanley, discuss the outlook for China’s equity and bond markets.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716161205 +0000" stop="20260716164406 +0000">
+<title>Global Business-American Edition Ep.2</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716164406 +0000" stop="20260716171601 +0000">
+<title>Global Business-Asian Edition Ep.2</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716171601 +0000" stop="20260716175000 +0000">
+<title>Meet China: Turning Villages into Stages, Taking Creativity to the World</title>
+<desc>In this episode of Meet China, we step into the frontlines of rural revitalization to see how a Gen-Z village chief is breathing new life into her hometown. We then visit the world’s toy capital, where Chinese manufacturing is turning culture and creativity into global stories. From a green beef cycle near Beijing to rice-prawn co-culture in Cambodia, this episode explores how technology, industry and cooperation are helping land thrive and livelihoods grow.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716175000 +0000" stop="20260716185729 +0000">
+<title>Football expert: AI will never replace referees or players</title>
+<desc>Artificial intelligence (AI) is playing an increasingly important role at the 2026 World Cup. However, Chris Van Puyvelde, Chinese Football Association Technical Director, said that AI as a tool will never replace players or referees, as the human brain is the ultimate decision-maker in football, in a #Bizpodcast show with CGTN. #BizFocus</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716185729 +0000" stop="20260716193232 +0000">
+<title>Biztalk Special Coverage on AI EP3</title>
+<desc>The Token Economy
+Demand for AI tokens is surging, with trends like “tokenmaxxing” accelerating the race for computing power.
+As pressure mounts on computing and energy infrastructure, China is leveraging its clean energy strengths to support AI growth, while “token exports” emerge as a new way to deliver AI services to global users.
+What’s the future like for the “token economy”? Join us on BizTalk as we explore the economics behind the AI revolution.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716193232 +0000" stop="20260716194940 +0000">
+<title>China Agenda 2026</title>
+<desc>Special coverage of China's annual sessions of its top legislature and political advisory body, known as the "Two Sessions".</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716194940 +0000" stop="20260716200000 +0000">
+<title>China's concert boom: Why Gen Z is filling the stadiums</title>
+<desc>From packed stadium shows to sold-out performances in smaller cities, China's live music scene is expanding rapidly. Young audiences are turning concerts into a cultural routine: traveling across cities, sharing the experience online and building collective memories around live performances.
+
+The boom now extends far beyond the stage, boosting tourism, retail spending and local economies. In this episode of Unboxing China, we explore how concerts are reshaping consumption patterns and becoming a new driver of cultural and urban development.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716200000 +0000" stop="20260716203555 +0000">
+<title>Global Business-Asian Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716203555 +0000" stop="20260716205340 +0000">
+<title>Global Business-Asian Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716205340 +0000" stop="20260716214111 +0000">
+<title>Global Business-American Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716214111 +0000" stop="20260716220339 +0000">
+<title>Global Business-American Edition Ep.1</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716220339 +0000" stop="20260716224112 +0000">
+<title>Global Business-African Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716224112 +0000" stop="20260716230625 +0000">
+<title>Global Business-African Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716230625 +0000" stop="20260716233837 +0000">
+<title>Global Business-European Edition</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260716233837 +0000" stop="20260717001005 +0000">
+<title>China's Capital Markets H2 Outlook</title>
+<desc>As global investors reassess China’s outlook, the country’s capital markets are back in focus. With international investment banks raising their growth forecasts and overseas capital flowing back in, the question is no longer whether investors are coming back – but what will drive the next phase of growth.
+
+Join BizTalk this week, as Wang Dan, China director at Eurasia Group, and Laura Wang, chief China equity strategist at Morgan Stanley, discuss the outlook for China’s equity and bond markets.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717001005 +0000" stop="20260717004406 +0000">
+<title>Global Business-American Edition Ep.2</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717004406 +0000" stop="20260717011601 +0000">
+<title>Global Business-Asian Edition Ep.2</title>
+<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717011601 +0000" stop="20260717015000 +0000">
+<title>Meet China: Turning Villages into Stages, Taking Creativity to the World</title>
+<desc>In this episode of Meet China, we step into the frontlines of rural revitalization to see how a Gen-Z village chief is breathing new life into her hometown. We then visit the world’s toy capital, where Chinese manufacturing is turning culture and creativity into global stories. From a green beef cycle near Beijing to rice-prawn co-culture in Cambodia, this episode explores how technology, industry and cooperation are helping land thrive and livelihoods grow.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717015000 +0000" stop="20260717025729 +0000">
+<title>Football expert: AI will never replace referees or players</title>
+<desc>Artificial intelligence (AI) is playing an increasingly important role at the 2026 World Cup. However, Chris Van Puyvelde, Chinese Football Association Technical Director, said that AI as a tool will never replace players or referees, as the human brain is the ultimate decision-maker in football, in a #Bizpodcast show with CGTN. #BizFocus</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717025729 +0000" stop="20260717033232 +0000">
+<title>Biztalk Special Coverage on AI EP3</title>
+<desc>The Token Economy
+Demand for AI tokens is surging, with trends like “tokenmaxxing” accelerating the race for computing power.
+As pressure mounts on computing and energy infrastructure, China is leveraging its clean energy strengths to support AI growth, while “token exports” emerge as a new way to deliver AI services to global users.
+What’s the future like for the “token economy”? Join us on BizTalk as we explore the economics behind the AI revolution.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717033232 +0000" stop="20260717034940 +0000">
+<title>China Agenda 2026</title>
+<desc>Special coverage of China's annual sessions of its top legislature and political advisory body, known as the "Two Sessions".</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717034940 +0000" stop="20260717035750 +0000">
+<title>China's concert boom: Why Gen Z is filling the stadiums</title>
+<desc>From packed stadium shows to sold-out performances in smaller cities, China's live music scene is expanding rapidly. Young audiences are turning concerts into a cultural routine: traveling across cities, sharing the experience online and building collective memories around live performances.
+
+The boom now extends far beyond the stage, boosting tourism, retail spending and local economies. In this episode of Unboxing China, we explore how concerts are reshaping consumption patterns and becoming a new driver of cultural and urban development.</desc>
+<icon src="None"/>
+<rating>
+<value>None</value>
+</rating>
+</programme>
+<programme channel="143731" start="20260717035750 +0000" stop="20260717040610 +0000">
 <title>Ad Break</title>
 <desc>Ad Break</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716040610 +0000" stop="20260716043414 +0000">
-<title>China Capital Market H1: Review and Outlook</title>
-<desc>International investors' confidence towards China continues to rise with foreign capital steadily flowing into its equity and bond markets.
-BizTalk will speak to guests from Morgan Stanley and Eurasia Group on Tuesday, June 30th – the last trading day of the first half of the year – to analyze the reason behind accelerating allocation of Chinese stocks and bonds by foreign financial institutions.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716043414 +0000" stop="20260716050545 +0000">
-<title>Global Business-American Edition Ep.2</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716050545 +0000" stop="20260716053627 +0000">
-<title>Global Business-Asian Edition Ep.2</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716053627 +0000" stop="20260716061157 +0000">
-<title>Meet China: From Little Toys to Global Factories, How Chinese Creativity Travels</title>
-<desc>In this episode of Meet China, we explore how “Made in China” is taking on new forms. A monster toy becomes a global collectible, an ocean park in southern China turns wonder into repeat visits, and a smart EV factory in Zhejiang shows how cars are built for overseas markets. In central China’s Xuchang, a small city supplies much of the world’s hair products, while in Guangxi, an Italian chef blends pizza with traditional medicinal food. From blind boxes to electric vehicles, wigs and a yam-and-lamb pizza, this episode reveals how Chinese creativity, scale and culture are reaching the world in unexpected ways.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716061157 +0000" stop="20260716064327 +0000">
-<title>BizTalk | Summer Davos special: New opportunities for growth in China</title>
-<desc>The 17th Annual Meeting of the New Champions, also known as Summer Davos, is underway in Dalian. During the forum, China’s technological innovation, green development and business environment have once again become key topics of discussion.
-
-In this special episode of BizTalk, CGTN speaks with Liu Zhenmin, China’s special envoy for climate change, Joe Ngai, chairman of McKinsey Greater China, and Leo Lee, president of Novartis China, to explore how China is cultivating new growth drivers amid a new wave of industrial transformation, and why “the next China is still China”.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716064327 +0000" stop="20260716071800 +0000">
-<title>Biztalk Special Coverage on AI EP3</title>
-<desc>The Token Economy
-Demand for AI tokens is surging, with trends like “tokenmaxxing” accelerating the race for computing power.
-As pressure mounts on computing and energy infrastructure, China is leveraging its clean energy strengths to support AI growth, while “token exports” emerge as a new way to deliver AI services to global users.
-What’s the future like for the “token economy”? Join us on BizTalk as we explore the economics behind the AI revolution.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716071800 +0000" stop="20260716073406 +0000">
-<title>China's rural CEO experiment: How a Dai village is reinventing itself</title>
-<desc>During the Dai New Year, CGTN reporter Lincoln Humphries visited Manluanzhan, a traditional Dai village near China's southwestern border in Yunnan Province. 
-
-There, "sleeping" assets are being awakened: an abandoned water tower has been turned into a café, and traditional Dai houses have been expanded to offer new types of homestays.
-
-At the center of this experiment is an unusual figure — a rural CEO who helps balance economic development with the Dai community's traditions as the village charts its own path forward.
-
-In this episode of #BizFocus, Lincoln Humphries shows how a village in Xishuangbanna brings fresh vitality and authentic traditions together.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716073406 +0000" stop="20260716074627 +0000">
-<title>The new keeper of the ancient village in the deep mountains</title>
-<desc>Deep in the mountains of Fujian, Yanxiang village is home to centuries-old Hakka architecture and an aging population. 
-But a post 1995-born returnee is giving the ancient village a new future.
-Follow CGTN’s He Jingyi to see how a young village chief blends modern ideas with traditional heritage, breathing new life into this millennium-old rural settlement. #BizFocus</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716074627 +0000" stop="20260716080000 +0000">
-<title>How rafting helped one village find new life</title>
-<desc>In Sankengtan Village, Guangdong Province, a river that once flowed quietly through everyday life is now part of the Gulong Gorge rafting course—a global destination drawing millions of visitors each year. What was once a quiet rural community has been transformed by tourism, as local residents build new livelihoods around the river and the opportunities it brings. In this episode of BizFocus, CGTN's Vivienne Nunis joins those braving the white water to find out more.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716080000 +0000" stop="20260716083530 +0000">
-<title>Global Business-Asian Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716083530 +0000" stop="20260716084747 +0000">
-<title>Global Business-Asian Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716084747 +0000" stop="20260716091858 +0000">
-<title>Global Business-American Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716091858 +0000" stop="20260716095218 +0000">
-<title>Global Business-American Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716095218 +0000" stop="20260716103122 +0000">
-<title>Global Business-African Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716103122 +0000" stop="20260716105722 +0000">
-<title>Global Business-African Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716105722 +0000" stop="20260716112912 +0000">
-<title>Global Business-European Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716112912 +0000" stop="20260716120610 +0000">
-<title>China Capital Market H1: Review and Outlook</title>
-<desc>International investors' confidence towards China continues to rise with foreign capital steadily flowing into its equity and bond markets.
-BizTalk will speak to guests from Morgan Stanley and Eurasia Group on Tuesday, June 30th – the last trading day of the first half of the year – to analyze the reason behind accelerating allocation of Chinese stocks and bonds by foreign financial institutions.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716120610 +0000" stop="20260716123414 +0000">
-<title>China Capital Market H1: Review and Outlook</title>
-<desc>International investors' confidence towards China continues to rise with foreign capital steadily flowing into its equity and bond markets.
-BizTalk will speak to guests from Morgan Stanley and Eurasia Group on Tuesday, June 30th – the last trading day of the first half of the year – to analyze the reason behind accelerating allocation of Chinese stocks and bonds by foreign financial institutions.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716123414 +0000" stop="20260716130545 +0000">
-<title>Global Business-American Edition Ep.2</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716130545 +0000" stop="20260716133627 +0000">
-<title>Global Business-Asian Edition Ep.2</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716133627 +0000" stop="20260716141157 +0000">
-<title>Meet China: From Little Toys to Global Factories, How Chinese Creativity Travels</title>
-<desc>In this episode of Meet China, we explore how “Made in China” is taking on new forms. A monster toy becomes a global collectible, an ocean park in southern China turns wonder into repeat visits, and a smart EV factory in Zhejiang shows how cars are built for overseas markets. In central China’s Xuchang, a small city supplies much of the world’s hair products, while in Guangxi, an Italian chef blends pizza with traditional medicinal food. From blind boxes to electric vehicles, wigs and a yam-and-lamb pizza, this episode reveals how Chinese creativity, scale and culture are reaching the world in unexpected ways.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716141157 +0000" stop="20260716144327 +0000">
-<title>BizTalk | Summer Davos special: New opportunities for growth in China</title>
-<desc>The 17th Annual Meeting of the New Champions, also known as Summer Davos, is underway in Dalian. During the forum, China’s technological innovation, green development and business environment have once again become key topics of discussion.
-
-In this special episode of BizTalk, CGTN speaks with Liu Zhenmin, China’s special envoy for climate change, Joe Ngai, chairman of McKinsey Greater China, and Leo Lee, president of Novartis China, to explore how China is cultivating new growth drivers amid a new wave of industrial transformation, and why “the next China is still China”.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716144327 +0000" stop="20260716151800 +0000">
-<title>Biztalk Special Coverage on AI EP3</title>
-<desc>The Token Economy
-Demand for AI tokens is surging, with trends like “tokenmaxxing” accelerating the race for computing power.
-As pressure mounts on computing and energy infrastructure, China is leveraging its clean energy strengths to support AI growth, while “token exports” emerge as a new way to deliver AI services to global users.
-What’s the future like for the “token economy”? Join us on BizTalk as we explore the economics behind the AI revolution.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716151800 +0000" stop="20260716153406 +0000">
-<title>China's rural CEO experiment: How a Dai village is reinventing itself</title>
-<desc>During the Dai New Year, CGTN reporter Lincoln Humphries visited Manluanzhan, a traditional Dai village near China's southwestern border in Yunnan Province. 
-
-There, "sleeping" assets are being awakened: an abandoned water tower has been turned into a café, and traditional Dai houses have been expanded to offer new types of homestays.
-
-At the center of this experiment is an unusual figure — a rural CEO who helps balance economic development with the Dai community's traditions as the village charts its own path forward.
-
-In this episode of #BizFocus, Lincoln Humphries shows how a village in Xishuangbanna brings fresh vitality and authentic traditions together.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716153406 +0000" stop="20260716154627 +0000">
-<title>The new keeper of the ancient village in the deep mountains</title>
-<desc>Deep in the mountains of Fujian, Yanxiang village is home to centuries-old Hakka architecture and an aging population. 
-But a post 1995-born returnee is giving the ancient village a new future.
-Follow CGTN’s He Jingyi to see how a young village chief blends modern ideas with traditional heritage, breathing new life into this millennium-old rural settlement. #BizFocus</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716154627 +0000" stop="20260716160000 +0000">
-<title>How rafting helped one village find new life</title>
-<desc>In Sankengtan Village, Guangdong Province, a river that once flowed quietly through everyday life is now part of the Gulong Gorge rafting course—a global destination drawing millions of visitors each year. What was once a quiet rural community has been transformed by tourism, as local residents build new livelihoods around the river and the opportunities it brings. In this episode of BizFocus, CGTN's Vivienne Nunis joins those braving the white water to find out more.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716160000 +0000" stop="20260716163530 +0000">
-<title>Global Business-Asian Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716163530 +0000" stop="20260716164747 +0000">
-<title>Global Business-Asian Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716164747 +0000" stop="20260716171858 +0000">
-<title>Global Business-American Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716171858 +0000" stop="20260716175218 +0000">
-<title>Global Business-American Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716175218 +0000" stop="20260716183122 +0000">
-<title>Global Business-African Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716183122 +0000" stop="20260716185722 +0000">
-<title>Global Business-African Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716185722 +0000" stop="20260716192912 +0000">
-<title>Global Business-European Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716192912 +0000" stop="20260716200610 +0000">
-<title>China Capital Market H1: Review and Outlook</title>
-<desc>International investors' confidence towards China continues to rise with foreign capital steadily flowing into its equity and bond markets.
-BizTalk will speak to guests from Morgan Stanley and Eurasia Group on Tuesday, June 30th – the last trading day of the first half of the year – to analyze the reason behind accelerating allocation of Chinese stocks and bonds by foreign financial institutions.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716200610 +0000" stop="20260716203414 +0000">
-<title>China Capital Market H1: Review and Outlook</title>
-<desc>International investors' confidence towards China continues to rise with foreign capital steadily flowing into its equity and bond markets.
-BizTalk will speak to guests from Morgan Stanley and Eurasia Group on Tuesday, June 30th – the last trading day of the first half of the year – to analyze the reason behind accelerating allocation of Chinese stocks and bonds by foreign financial institutions.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716203414 +0000" stop="20260716210545 +0000">
-<title>Global Business-American Edition Ep.2</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716210545 +0000" stop="20260716213627 +0000">
-<title>Global Business-Asian Edition Ep.2</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716213627 +0000" stop="20260716221157 +0000">
-<title>Meet China: From Little Toys to Global Factories, How Chinese Creativity Travels</title>
-<desc>In this episode of Meet China, we explore how “Made in China” is taking on new forms. A monster toy becomes a global collectible, an ocean park in southern China turns wonder into repeat visits, and a smart EV factory in Zhejiang shows how cars are built for overseas markets. In central China’s Xuchang, a small city supplies much of the world’s hair products, while in Guangxi, an Italian chef blends pizza with traditional medicinal food. From blind boxes to electric vehicles, wigs and a yam-and-lamb pizza, this episode reveals how Chinese creativity, scale and culture are reaching the world in unexpected ways.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716221157 +0000" stop="20260716224327 +0000">
-<title>BizTalk | Summer Davos special: New opportunities for growth in China</title>
-<desc>The 17th Annual Meeting of the New Champions, also known as Summer Davos, is underway in Dalian. During the forum, China’s technological innovation, green development and business environment have once again become key topics of discussion.
-
-In this special episode of BizTalk, CGTN speaks with Liu Zhenmin, China’s special envoy for climate change, Joe Ngai, chairman of McKinsey Greater China, and Leo Lee, president of Novartis China, to explore how China is cultivating new growth drivers amid a new wave of industrial transformation, and why “the next China is still China”.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716224327 +0000" stop="20260716231800 +0000">
-<title>Biztalk Special Coverage on AI EP3</title>
-<desc>The Token Economy
-Demand for AI tokens is surging, with trends like “tokenmaxxing” accelerating the race for computing power.
-As pressure mounts on computing and energy infrastructure, China is leveraging its clean energy strengths to support AI growth, while “token exports” emerge as a new way to deliver AI services to global users.
-What’s the future like for the “token economy”? Join us on BizTalk as we explore the economics behind the AI revolution.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716231800 +0000" stop="20260716233406 +0000">
-<title>China's rural CEO experiment: How a Dai village is reinventing itself</title>
-<desc>During the Dai New Year, CGTN reporter Lincoln Humphries visited Manluanzhan, a traditional Dai village near China's southwestern border in Yunnan Province. 
-
-There, "sleeping" assets are being awakened: an abandoned water tower has been turned into a café, and traditional Dai houses have been expanded to offer new types of homestays.
-
-At the center of this experiment is an unusual figure — a rural CEO who helps balance economic development with the Dai community's traditions as the village charts its own path forward.
-
-In this episode of #BizFocus, Lincoln Humphries shows how a village in Xishuangbanna brings fresh vitality and authentic traditions together.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716233406 +0000" stop="20260716234627 +0000">
-<title>The new keeper of the ancient village in the deep mountains</title>
-<desc>Deep in the mountains of Fujian, Yanxiang village is home to centuries-old Hakka architecture and an aging population. 
-But a post 1995-born returnee is giving the ancient village a new future.
-Follow CGTN’s He Jingyi to see how a young village chief blends modern ideas with traditional heritage, breathing new life into this millennium-old rural settlement. #BizFocus</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260716234627 +0000" stop="20260717000000 +0000">
-<title>How rafting helped one village find new life</title>
-<desc>In Sankengtan Village, Guangdong Province, a river that once flowed quietly through everyday life is now part of the Gulong Gorge rafting course—a global destination drawing millions of visitors each year. What was once a quiet rural community has been transformed by tourism, as local residents build new livelihoods around the river and the opportunities it brings. In this episode of BizFocus, CGTN's Vivienne Nunis joins those braving the white water to find out more.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717000000 +0000" stop="20260717003530 +0000">
-<title>Global Business-Asian Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717003530 +0000" stop="20260717004747 +0000">
-<title>Global Business-Asian Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717004747 +0000" stop="20260717011858 +0000">
-<title>Global Business-American Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717011858 +0000" stop="20260717015218 +0000">
-<title>Global Business-American Edition Ep.1</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717015218 +0000" stop="20260717023122 +0000">
-<title>Global Business-African Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717023122 +0000" stop="20260717025722 +0000">
-<title>Global Business-African Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717025722 +0000" stop="20260717032912 +0000">
-<title>Global Business-European Edition</title>
-<desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-<icon src="None"/>
-<rating>
-<value>None</value>
-</rating>
-</programme>
-<programme channel="143731" start="20260717032912 +0000" stop="20260717040610 +0000">
-<title>China Capital Market H1: Review and Outlook</title>
-<desc>International investors' confidence towards China continues to rise with foreign capital steadily flowing into its equity and bond markets.
-BizTalk will speak to guests from Morgan Stanley and Eurasia Group on Tuesday, June 30th – the last trading day of the first half of the year – to analyze the reason behind accelerating allocation of Chinese stocks and bonds by foreign financial institutions.</desc>
 <icon src="None"/>
 <rating>
 <value>None</value>
