@@ -95,8 +95,6 @@ https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
 #EXTINF:-1 tvg-id="69b32974814d27f4aed90fdd" tvg-name="Madre" tvg-logo="https://images.pluto.tv/channels/69b32974814d27f4aed90fdd/colorLogoPNG_1775832484542.png",Madre
 https://jmp2.uk/plu-69b32974814d27f4aed90fdd.m3u8
-#EXTINF:-1 tvg-id="5ddc503ac7ef120009b101a2" tvg-name="Pluto TV Documentales" tvg-logo="https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png",Pluto TV Documentales
-https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 #EXTINF:-1 tvg-id="6474a7958e3c0a0008b97cae" tvg-name="Pluto TV Novelas de México" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png",Pluto TV Novelas de México
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 #EXTINF:-1 tvg-id="646ccdd0939a5900088a1980" tvg-name="Corazón" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png",Corazón
@@ -187,6 +185,8 @@ https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
 #EXTINF:-1 tvg-id="6109ab25b84d6a0007504886" tvg-name="Pluto TV Mi Obsesión Favorita" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png",Pluto TV Mi Obsesión Favorita
 https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+#EXTINF:-1 tvg-id="5ddc503ac7ef120009b101a2" tvg-name="Pluto TV Documentales" tvg-logo="https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png",Pluto TV Documentales
+https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 #EXTINF:-1 tvg-id="69fcaaa1853a01a827bcd056" tvg-name="I Shouldn't Be Alive" tvg-logo="https://images.pluto.tv/channels/69fcaaa1853a01a827bcd056/colorLogoPNG_1778856115341.png",I Shouldn't Be Alive
 https://jmp2.uk/plu-69fcaaa1853a01a827bcd056.m3u8
 #EXTINF:-1 tvg-id="678533155e0e6a000828cd48" tvg-name="Untold Stories of the ER" tvg-logo="https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png",Untold Stories of the ER
