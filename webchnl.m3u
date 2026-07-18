@@ -15,6 +15,8 @@ https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 https://mci01.nive.live/22/index.m3u8
 #EXTINF:-1 tvg-id="C7.151.ersatztv.org" tvg-name="Atlas" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Whiplash",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-id="C2.146.ersatztv.org" tvg-name="Biwi" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png" group-title="webchnl",biwi
+https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="Whiplash" radio="true",Whiplash FM
 https://cdn.whiplash.cc/whiplash-fm/index.m3u8
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="Whiplash" radio="true",Whiplash FM (audio only)
@@ -27,10 +29,8 @@ https://mci01.nive.live/29/index.m3u8
 https://cdn.40mediagroup.com/live/c4eds/Spark/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="webchnl",Animax_NA
 https://animax.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="webchnl",Animax_NA (nive.live)
-https://mci01.nive.live/13/index.m3u8
 #EXTINF:-1 tvg-id="yub" tvg-name="Yub Network" tvg-logo="https://webchnl.com/assets/img/channelicons/yub.png" group-title="webchnl",Yub Network
-https://mci01.nive.live/17/index.m3u8
+https://toy.vcdn.fyi/tertiary-yub/index.m3u8
 #EXTINF:-1 tvg-id="znth" tvg-name="zén!th" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png" group-title="webchnl",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://webchnl.com/assets/img/channelicons/2x2.png" group-title="webchnl",2x2_english
@@ -38,10 +38,8 @@ https://mci01.nive.live/18/index.m3u8
 #EXTINF:-1 tvg-id="flashbak" tvg-name="flashBAK" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/flashbak.png" group-title="webchnl",flashBAK
 https://mci01.nive.live/23/index.m3u8
 #EXTINF:-1 tvg-id="kaspertv" tvg-name="KasperTV" tvg-logo="https://webchnl.com/assets/img/channelicons/kaspertv.png" group-title="webchnl",KasperTV
-https://twitch-m3u8.bastypro112.workers.dev/kaspertivi/index.m3u8
+https://twitch.n4ri.xyz/kaspertivi/index.m3u8
 #EXTINF:-1 tvg-id="placid" tvg-name="Placid" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/Placid.png" group-title="webchnl",Placid
-https://haus.webchnl.com/placid/index.m3u8
-#EXTINF:-1 tvg-id="placid" tvg-name="Placid" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/Placid.png" group-title="webchnl",Placid (vcdn.fyi)
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="deflect" tvg-name="Deflect" tvg-logo="https://webchnl.com/assets/img/channelicons/deflect.png" group-title="webchnl",Deflect
 https://mci01.nive.live/5/index.m3u8
@@ -50,7 +48,7 @@ https://mci01.nive.live/9/index.m3u8
 #EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extra
 https://mci01.nive.live/8/index.m3u8
 #EXTINF:-1 tvg-id="boomerangreborn" tvg-name="Boomerang Reborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="webchnl",Boomerang Reborn
-https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
+https://twitch.n4ri.xyz/boomerangrebornalt/index.m3u8
 #EXTINF:-1 tvg-id="ZZHD" tvg-logo="https://api.mistweather.com/api/v1.5/image/9d895fd6-b38f-4f9e-bfdd-675dc845b05d?width=96&height=96&fit=inside" group-title="Mist",SCUZZ HD
 https://watch.mistweather.com/hls/byte-ch01/1_2/index.m3u8?tkn=4172618771
 #EXTINF:-1 tvg-id="MCAL" tvg-logo="https://api.mistweather.com/api/v1.5/image/a5dacfb2-b663-40f8-a959-9cf03326f28c?width=96&height=96&fit=inside" group-title="Mist",Magical
@@ -73,3 +71,5 @@ https://watch.mistweather.com/hls/ultra/index.m3u8
 https://watch.mistweather.com/hls/caribmedia-ch01/index.m3u8
 #EXTINF:-1 tvg-id="CRNK" tvg-logo="https://api.mistweather.com/api/v1.5/image/05d378fb-4edb-491f-aba0-c8504e4b0e48?width=96&height=96&fit=inside" group-title="Mist",Crank
 https://watch.mistweather.com/hls/thespace/index.m3u8
+#EXTINF:-1 tvg-id="dotwave" tvg-name="Dotwave" tvg-logo="https://whiplash.cc/assets/img/channels/dotwave.png" group-title="webchnl",Dotwave
+https://toy.vcdn.fyi/tertiary-dotwave/index.m3u8
