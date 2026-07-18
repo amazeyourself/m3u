@@ -74,26 +74,26 @@ https://janya-pitaaralive.akamaized.net/ptnr-Khabriya/title-PitaaraTV_SSAI/v1/vg
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="804" tvg-name="Tabbar Hits" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/z-1755812800468.jpg" group-title="Movies",Tabbar Hits
 https://stream.ottlive.co.in/tabbarhits/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="805" tvg-name="PTC Punjabi Canada" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ptc-1767392027848.jpg" group-title="Entertainment",PTC Punjabi Canada
-https://neotv.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:-1 tvg-id="Punjabi Hits" tvg-chno="805" tvg-name="Punjabi Hits" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi hits-1739451639354-1744825294259.jpg" group-title="Music",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="805" tvg-name="PTC Punjabi Canada" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ptc-1767392027848.jpg" group-title="Entertainment",PTC Punjabi Canada
+https://neotv.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="806" tvg-name="GTC Punjabi USA" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-usa-1773945969991.jpg" group-title="Entertainment",GTC Punjabi USA
 https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="GTC Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-1774906973031.jpg" group-title="Entertainment",GTC Punjabi
-https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="Punjabi Shorts" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi-shorts-1767192407233.jpg" group-title="Entertainment",Punjabi Shorts
 https://gtc.ottlive.co.in/punjabshort/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
-https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="GTC Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/gtc-1774906973031.jpg" group-title="Entertainment",GTC Punjabi
+https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Pure Pink Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Entertainment",Pure Pink Punjabi
 https://knocktv1.wiseplayout.com/PurePink/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="809" tvg-name="Prime Asia" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Entertainment",Prime Asia
 https://stream.ottlive.co.in/primeasia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="810" tvg-name="Sanjha TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000115688-1771023397782.jpg" group-title="Entertainment",Sanjha TV
 https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="811" tvg-name="Daily Post" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/dailypost-1774906333492.jpg" group-title="Entertainment",Daily Post
-https://stream.ottlive.co.in/dailypost/index.m3u8
+https://ott.vutv.in/hls/dailypost/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="813" tvg-name="Vii Media" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/vii-media-1774023100562.jpg" group-title="Entertainment",Vii Media
 https://viimediacdn.wiseplayout.com/viimedia/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="814" tvg-name="Desi Channel" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Desi-1771023786778.jpg" group-title="Entertainment",Desi Channel
@@ -114,10 +114,10 @@ https://stream.ottlive.co.in/livingindia/index.m3u8
 https://stream.ottlive.co.in/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="826" tvg-name="The Unmute" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/theunumute-1755813367340.jpg" group-title="News",The Unmute
 https://stream.ottlive.co.in/unmute/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="827" tvg-name="World Punjabi TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/World Punjabi Channel Logo 1000x1000-1761568107659.png" group-title="News",World Punjabi TV
-https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="827" tvg-name="TV Punjab" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/81f70XEPGOL-1652167939940.jpg" group-title="News",TV Punjab
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="827" tvg-name="World Punjabi TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/World Punjabi Channel Logo 1000x1000-1761568107659.png" group-title="News",World Punjabi TV
+https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="833" tvg-name="Punjab Mail USA" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/375062410_746674004142191_3679713481887418192_n-1695131283758.jpg" group-title="News",Punjab Mail USA
 https://cdn12.henico.net:8443/live/punjabmailusa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="835" tvg-name="TV NRI Canada" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/286040681_5114536905296977_5286246418919181607_n-1695221089105.jpg" group-title="News",TV NRI Canada
