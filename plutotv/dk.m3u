@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/dk.xml.gz"
+#EXTINF:-1 tvg-id="69e100365db0e5b74f6c0e0c" tvg-name="Pluto TV Urbex" tvg-logo="https://images.pluto.tv/channels/69e100365db0e5b74f6c0e0c/colorLogoPNG_1777465598147.png",Pluto TV Urbex
+https://jmp2.uk/plu-69e100365db0e5b74f6c0e0c.m3u8
+#EXTINF:-1 tvg-id="6851407c21f49d1b9d177493" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1783679658419.png",MTV Ink Master
+https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
 #EXTINF:-1 tvg-id="6964b8f64b352fda70edd4c2" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b8f64b352fda70edd4c2/colorLogoPNG_1771833348752.png",Klassiske dramaserier fra Viafree
 https://jmp2.uk/plu-6964b8f64b352fda70edd4c2.m3u8
 #EXTINF:-1 tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-name="Asfalten kalder" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png",Asfalten kalder
@@ -9,12 +13,8 @@ https://jmp2.uk/plu-69afee21684d0f30872ca3e6.m3u8
 https://jmp2.uk/plu-69c2940612e978ee4920d9b0.m3u8
 #EXTINF:-1 tvg-id="69d7a0c04b31808da262933f" tvg-name="Best of Magnus Midtbø" tvg-logo="https://images.pluto.tv/channels/69d7a0c04b31808da262933f/colorLogoPNG_1776698247423.png",Best of Magnus Midtbø
 https://jmp2.uk/plu-69d7a0c04b31808da262933f.m3u8
-#EXTINF:-1 tvg-id="69c290eeed1b1f1acb446dd8" tvg-name="Gustav & Linse på udebane" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png",Gustav & Linse på udebane
-https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
 #EXTINF:-1 tvg-id="685137f4a1e091e16f2dd471" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1783323345298.png",MTV Reality
 https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
-#EXTINF:-1 tvg-id="6400c095498393000878a634" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png",Frasier
-https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 tvg-id="69b16dc543d0f313203b714c" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b16dc543d0f313203b714c/colorLogoPNG_1775118508668.png",Space Live
 https://jmp2.uk/plu-69b16dc543d0f313203b714c.m3u8
 #EXTINF:-1 tvg-id="61c19af83fae0a00078c8918" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png",Paradise Hotel
@@ -27,6 +27,8 @@ https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8
 https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
 #EXTINF:-1 tvg-id="63a42df60cc44a0007dd47f8" tvg-name="Robinson Ekspeditionen" tvg-logo="https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
+#EXTINF:-1 tvg-id="69c290eeed1b1f1acb446dd8" tvg-name="Gustav & Linse på udebane" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png",Gustav & Linse på udebane
+https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
 #EXTINF:-1 tvg-id="6969fc6c3b9ce349c9e41670" tvg-name="Fristet" tvg-logo="https://images.pluto.tv/channels/6969fc6c3b9ce349c9e41670/colorLogoPNG_1774366158444.png",Fristet
 https://jmp2.uk/plu-6969fc6c3b9ce349c9e41670.m3u8
 #EXTINF:-1 tvg-id="69172a4fcf4a1101befdd894" tvg-name="De unge mødre" tvg-logo="https://images.pluto.tv/channels/69172a4fcf4a1101befdd894/colorLogoPNG_1770030924752.png",De unge mødre
@@ -91,10 +93,10 @@ https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
 https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
 #EXTINF:-1 tvg-id="6357f3de3643ba0007bc0b50" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
-#EXTINF:-1 tvg-id="675c0762f433320008707f68" tvg-name="BET25 Live+" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png",BET25 Live+
-https://jmp2.uk/plu-675c0762f433320008707f68.m3u8
 #EXTINF:-1 tvg-id="6405d444d200410008009419" tvg-name="BET25 LIVE" tvg-logo="https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png",BET25 LIVE
 https://jmp2.uk/plu-6405d444d200410008009419.m3u8
+#EXTINF:-1 tvg-id="675c0762f433320008707f68" tvg-name="BET25 Live+" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png",BET25 Live+
+https://jmp2.uk/plu-675c0762f433320008707f68.m3u8
 #EXTINF:-1 tvg-id="6618f54baec96800081525ec" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png",Pluto TV Håndbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 #EXTINF:-1 tvg-id="68dfa431cc3c6cd904053100" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png",Pluto TV Håndbold Highlights
@@ -463,6 +465,8 @@ https://jmp2.uk/plu-6177fd9812fe0c000726f9eb.m3u8
 https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
 #EXTINF:-1 tvg-id="678f88bb272ded16b1558c5e" tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png",Man with a Plan
 https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
+#EXTINF:-1 tvg-id="6400c095498393000878a634" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png",Frasier
+https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 tvg-id="63a1cab19ab2df0007bf1c8b" tvg-name="Everybody Hates Chris" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png",Everybody Hates Chris
 https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
 #EXTINF:-1 tvg-id="6964b6f5f7f6b0334bbf6cdb" tvg-name="Anger Management" tvg-logo="https://images.pluto.tv/channels/6964b6f5f7f6b0334bbf6cdb/colorLogoPNG_1768208244782.png",Anger Management

@@ -217,6 +217,8 @@ https://jmp2.uk/plu-6540fee72cf13100085d5a18.m3u8
 https://jmp2.uk/plu-6540fec1770cf1000866b65b.m3u8
 #EXTINF:-1 tvg-id="67922858b83355184c699699" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",Pluto TV Reality
 https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+#EXTINF:-1 tvg-id="6a205abba7b5a6c560b8ac25" tvg-name="All Reality We TV" tvg-logo="https://images.pluto.tv/channels/6a205abba7b5a6c560b8ac25/colorLogoPNG_1780507192460.png",All Reality We TV
+https://jmp2.uk/plu-6a205abba7b5a6c560b8ac25.m3u8
 #EXTINF:-1 tvg-id="68b9b0dbf9cf3d7cb9f56d88" tvg-name="MTV Jersey Shore" tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 #EXTINF:-1 tvg-id="64f89fcfd661bb00081ba45c" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/64f89fcfd661bb00081ba45c/colorLogoPNG_1779087603773.png",MTV Reality

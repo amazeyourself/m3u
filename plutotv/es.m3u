@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTINF:-1 tvg-id="6a0c25fe09705ebdf7e4599a" tvg-name="Pippi Calzaslargas" tvg-logo="https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png",Pippi Calzaslargas
+https://jmp2.uk/plu-6a0c25fe09705ebdf7e4599a.m3u8
+#EXTINF:-1 tvg-id="600169ec77e6f70008fa9cf0" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG_1783599834588.png",MTV Ink Master
+https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8
 #EXTINF:-1 tvg-id="6a0c25d1c3b9403659196293" tvg-name="Terapia con Charlie" tvg-logo="https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/colorLogoPNG_1780923463926.png",Terapia con Charlie
 https://jmp2.uk/plu-6a0c25d1c3b9403659196293.m3u8
 #EXTINF:-1 tvg-id="69f0bb1a00ad62de02a6b716" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/69f0bb1a00ad62de02a6b716/colorLogoPNG_1777475097079.png",Pluto TV Fútbol
@@ -275,8 +279,6 @@ https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 #EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png",MTV Reality
 https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
-#EXTINF:-1 tvg-id="611b87946b7f420007c22361" tvg-name="MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png",MTV Tattoo a dos
-https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8
 #EXTINF:-1 tvg-id="5f98537a5a4341000733aefe" tvg-name="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png",MTV Embarazada a los 16
 https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
 #EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png",MTV Teen Mom
