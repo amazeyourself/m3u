@@ -2587,3 +2587,5 @@ http://103.159.180.34:5001/live/3570.m3u8
 http://103.159.180.34:5001/live/3571.m3u8
 #EXTINF:-1 tvg-id="3572" tvg-name="Focus Plus TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FocusPlusTV.png" tvg-language="Odia" group-title="News", Focus Plus TV
 http://103.159.180.34:5001/live/3572.m3u8
+#EXTINF:-1 tvg-id="3574" tvg-name="TV30 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png" tvg-language="Hindi" group-title="News", TV30 India
+http://103.159.180.34:5001/live/3574.m3u8
