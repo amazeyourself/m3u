@@ -407,18 +407,6 @@ http://sanplayout-xyz.proxy.nellaiiptv.com/live2/idhayamkidz/index.m3u8
 https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
 #EXTINF:-1 tvg-chno="356" tvg-id="180" tvg-name="JAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771243678.webp" group-title="Entertainment",356 JAYAM TV [RTMP]
 None
-#EXTINF:-1 tvg-chno="357" tvg-id="181" tvg-name="SHALINI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233291.webp" group-title="Entertainment",357 SHALINI TV
-https://app.ashokadigital.net/app/95f0a8d1/index.m3u8
-#EXTINF:-1 tvg-chno="357" tvg-id="181" tvg-name="SHALINI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233291.webp" group-title="Entertainment",357 SHALINI TV [RTMP]
-https://vk2.proxy.nellaiiptv.com/SHALINITVHD/index.m3u8
-#EXTINF:-1 tvg-chno="358" tvg-id="182" tvg-name="SSS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233316.webp" group-title="Entertainment",358 SSS TV
-https://vk2.proxy.nellaiiptv.com/SSSHD/index.m3u8
-#EXTINF:-1 tvg-chno="358" tvg-id="182" tvg-name="SSS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233316.webp" group-title="Entertainment",358 SSS TV [RTMP]
-None
-#EXTINF:-1 tvg-chno="359" tvg-id="183" tvg-name="Q TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233408.webp" group-title="Entertainment",359 Q TV
-https://vk2.proxy.nellaiiptv.com/QTVHD/index.m3u8
-#EXTINF:-1 tvg-chno="359" tvg-id="183" tvg-name="Q TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771233408.webp" group-title="Entertainment",359 Q TV [RTMP]
-None
 #EXTINF:-1 tvg-chno="361" tvg-id="185" tvg-name="TAMILMAGAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301827.webp" group-title="Entertainment",361 TAMILMAGAN TV
 https://tamilmagantv-1.proxy.nellaiiptv.com/hls/tamilmagantv/index.m3u8
 #EXTINF:-1 tvg-chno="361" tvg-id="185" tvg-name="TAMILMAGAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771301827.webp" group-title="Entertainment",361 TAMILMAGAN TV [RTMP]
