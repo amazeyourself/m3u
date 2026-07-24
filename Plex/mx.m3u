@@ -59,6 +59,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-67db0a3892cb453db28ab020.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-66ccac69fdf9cd3a568ef135" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",UFC
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66ccac69fdf9cd3a568ef135.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f" tvg-name="Azteca Deportes Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png",Azteca Deportes Network
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",Nosey Escándalos
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7" tvg-name="Runtime Comedia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3208e7c-cc1c-4e9a-9304-5070368a7cc7/Runtime_ES_Comedia_Dark_Mode_Logordx.png",Runtime Comedia

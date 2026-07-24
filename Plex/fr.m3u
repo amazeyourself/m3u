@@ -45,6 +45,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e06718a55242eea9598f.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6760d828ba503b54def4afd2" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f859f96d-c7e2-48f7-ac08-9e2fdd166432/ZNation_Channel_Logo_White.png",Z Nation
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6760d828ba503b54def4afd2.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6a5d50fe5830ca1b11df3c4f" tvg-name="Inazuma Eleven" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1f4b2564-fc79-4c3a-bc79-56eb8ea7f06c/Logo_InazumaEleven_1500x1000_DarkBackground.png",Inazuma Eleven
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a5d50fe5830ca1b11df3c4f.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",NFL Channel
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-66ccac69fdf9cd3a568ef135" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",UFC
