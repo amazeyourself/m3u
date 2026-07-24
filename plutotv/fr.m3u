@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
+#EXTINF:-1 tvg-id="6a1ea44109705ebdf73b7c49" tvg-name="House of Creators" tvg-logo="https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png",House of Creators
+https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8
 #EXTINF:-1 tvg-id="682318568e6c0f2f6c6e0038" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png",Ink Master
 https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 #EXTINF:-1 tvg-id="691b351d427d68a118fdda13" tvg-name="Cut" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png",Cut
