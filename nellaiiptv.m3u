@@ -995,6 +995,14 @@ https://rstv.stream.onecloudlive.in/rstv/rstvhd/index.m3u8
 https://live.skystream.in/live/pcn/index.m3u8
 #EXTINF:-1 tvg-chno="615" tvg-id="376" tvg-name="KC VISION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784274206.webp" group-title="Entertainment",615 KC VISION TV [RTMP]
 
+#EXTINF:-1 tvg-chno="616" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",616 LOTUS TV
+https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
+#EXTINF:-1 tvg-chno="616" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",616 LOTUS TV [RTMP]
+
+#EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV
+https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV [RTMP]
+
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV
 https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV [RTMP]
