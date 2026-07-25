@@ -31,7 +31,7 @@ def decode_stream_url(encoded_url: str) -> str:
         print(f"Decryption error: {e}")
         return ""
 
-resp = urllib3.request("GET", "https://livetv.ashokadigital.net/web/api.php?get_all_channels&api_key=cda11bx8aITlKsXdsfafadskljasldfjoierKLrteaadfjalM%3C")
+resp = urllib3.request("GET", "https://livetv.ashokadigital.net/api/.php?get_all_channels&api_key=cda11bx8aITlKsXdsfafadskljasldfjoierKLrteaadfjalM%3C")
 jsonresp = resp.json()
 channels = jsonresp['posts']
 
