@@ -255,7 +255,7 @@ https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="2100" tvg-name="Feva TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/fev2-1778272094153.jpg" group-title="Entertainment",Feva TV
 https://streams2.sofast.tv/ptnr-khabriya/title-FevaTV_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9fba25cd-8df0-41fe-8eae-2b371bb4cdfd/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="" tvg-chno="2105" tvg-name="Playzi TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/PLAYZI-1780329014036.jpg" group-title="Entertainment",Playzi TV
-https://stream.playzi.tv/live/fast/playlist.m3u8
+https://stream.playzi.tv/live/fast/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="2580" tvg-name="Voice Of Maharashtra" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/tom-1782756777349.jpg" group-title="News",Voice Of Maharashtra
 https://newsliveindia.com:4433/vom/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="3019" tvg-name="Now Arabic" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/now-arabic-1779315259438.jpg" group-title="News",Now Arabic
