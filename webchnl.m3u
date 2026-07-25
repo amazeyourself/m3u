@@ -1,13 +1,11 @@
-#EXTM3U x-tvg-url="https://whiplash.cc/scheds/wl.xml"
-#EXTM3U x-tvg-url="https://whiplash.cc/scheds/win.xml"
-#EXTM3U x-tvg-url="http://45.153.245.180/epgs/spark/epg.xml"
+#EXTM3U x-tvg-url="https://whiplash.cc/scheds/schedule.xml"
 #EXTINF:-1 tvg-id="C1.1.146.ersatztv.org" tvg-name="Whiplash" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Whiplash",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
 #EXTINF:-1 tvg-id="C1.1.146.ersatztv.org" tvg-name="Whiplash" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Whiplash",Whiplash (nive.live)
 https://mci01.nive.live/10/index.m3u8
 #EXTINF:-1 tvg-id="C2.1.147.ersatztv.org" tvg-name="Whiplash II" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" group-title="Whiplash",Whiplash II
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 tvg-id="C4.148.ersatztv.org" tvg-name="Whiplash Cinema" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Whiplash",Whiplash Cinema
+#EXTINF:-1 tvg-id="C3.1.148.ersatztv.org" tvg-name="Whiplash Cinema" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Whiplash",Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-id="C3.147.ersatztv.org" tvg-name="Window TV" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" group-title="Whiplash",Window TV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
@@ -15,7 +13,7 @@ https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 https://mci01.nive.live/22/index.m3u8
 #EXTINF:-1 tvg-id="C7.151.ersatztv.org" tvg-name="Atlas" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Whiplash",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-#EXTINF:-1 tvg-id="C2.146.ersatztv.org" tvg-name="Biwi" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png" group-title="webchnl",biwi
+#EXTINF:-1 tvg-id="C6.1.151.ersatztv.org" tvg-name="Biwi" tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png" group-title="webchnl",biwi
 https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="Whiplash" radio="true",Whiplash FM
 https://cdn.whiplash.cc/whiplash-fm/index.m3u8
