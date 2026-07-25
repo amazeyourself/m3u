@@ -872,7 +872,7 @@ https://app.ashokadigital.net/app/3b31be9f/index.m3u8
 #EXTINF:-1 tvg-chno="581" tvg-id="335" tvg-name="DEVI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778732047.webp" group-title="Entertainment",581 DEVI TV [RTMP]
 
 #EXTINF:-1 tvg-chno="582" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778775017.webp" group-title="Entertainment",582 VEZHAMUGAM TV
-https://mintv-in.proxy.nellaiiptv.com/vezhamugam/live/playlist.m3u8
+https://srv2.nellaiiptv.com/live/righttv/index.m3u8
 #EXTINF:-1 tvg-chno="582" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1778775017.webp" group-title="Entertainment",582 VEZHAMUGAM TV [RTMP]
 
 #EXTINF:-1 tvg-chno="583" tvg-id="337" tvg-name="CRAYONZ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779026717.webp" group-title="Entertainment",583 CRAYONZ TV
