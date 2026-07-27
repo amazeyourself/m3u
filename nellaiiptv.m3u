@@ -1003,6 +1003,10 @@ https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV [RTMP]
 
+#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785073902.webp" group-title="Entertainment",618 GURUDEVAN TV
+https://deva.nellaiiptv.com/Gurudevan/tv/index.m3u8
+#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785073902.webp" group-title="Entertainment",618 GURUDEVAN TV [RTMP]
+
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV
 https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV [RTMP]
