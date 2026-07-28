@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml.gz"
+#EXTINF:-1 tvg-id="6a300571cdfd39da91df9159" tvg-name="Pluto TV Crime Thrillers" tvg-logo="https://images.pluto.tv/channels/6a300571cdfd39da91df9159/colorLogoPNG_1784552750944.png",Pluto TV Crime Thrillers
+https://jmp2.uk/plu-6a300571cdfd39da91df9159.m3u8
 #EXTINF:-1 tvg-id="69c3c6c912e978ee49277dc7" tvg-name="That's 60s" tvg-logo="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/colorLogoPNG_1779185580246.png",That's 60s
 https://jmp2.uk/plu-69c3c6c912e978ee49277dc7.m3u8
 #EXTINF:-1 tvg-id="69b91797611b4a9fce103037" tvg-name="That Peter Crouch Podcast" tvg-logo="https://images.pluto.tv/channels/69b91797611b4a9fce103037/colorLogoPNG_1776258946102.png",That Peter Crouch Podcast
@@ -13,8 +15,6 @@ https://jmp2.uk/plu-69c6a93486431735d974bc2a.m3u8
 https://jmp2.uk/plu-69d51f98fcb9bf5e303ca0c1.m3u8
 #EXTINF:-1 tvg-id="65819fc1b9adc4000813f37d" tvg-name="History Hunters" tvg-logo="https://images.pluto.tv/channels/65819fc1b9adc4000813f37d/colorLogoPNG.png",History Hunters
 https://jmp2.uk/plu-65819fc1b9adc4000813f37d.m3u8
-#EXTINF:-1 tvg-id="698a040b48d98175cb870fc5" tvg-name="Hoarders" tvg-logo="https://images.pluto.tv/channels/698a040b48d98175cb870fc5/colorLogoPNG_1771343157070.png",Hoarders
-https://jmp2.uk/plu-698a040b48d98175cb870fc5.m3u8
 #EXTINF:-1 tvg-id="69b422590306b277746f48cb" tvg-name="The Raccoons" tvg-logo="https://images.pluto.tv/channels/69b422590306b277746f48cb/colorLogoPNG_1778237197659.png",The Raccoons
 https://jmp2.uk/plu-69b422590306b277746f48cb.m3u8
 #EXTINF:-1 tvg-id="655b7cbb2c46f300086f0afa" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png",Pluto TV Snooker 900
@@ -315,6 +315,8 @@ https://jmp2.uk/plu-63d91d624e83e7000881ca8c.m3u8
 https://jmp2.uk/plu-66f135b45e4a6e0008b80606.m3u8
 #EXTINF:-1 tvg-id="677fb137a5d8215f99b9cc06" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fb137a5d8215f99b9cc06/colorLogoPNG_1761664673466.png",Top Chef
 https://jmp2.uk/plu-677fb137a5d8215f99b9cc06.m3u8
+#EXTINF:-1 tvg-id="698a040b48d98175cb870fc5" tvg-name="Hoarders" tvg-logo="https://images.pluto.tv/channels/698a040b48d98175cb870fc5/colorLogoPNG_1771343157070.png",Hoarders
+https://jmp2.uk/plu-698a040b48d98175cb870fc5.m3u8
 #EXTINF:-1 tvg-id="677fb3432952c1163bf1a539" tvg-name="Million Dollar Listing" tvg-logo="https://images.pluto.tv/channels/677fb3432952c1163bf1a539/colorLogoPNG_1761664837789.png",Million Dollar Listing
 https://jmp2.uk/plu-677fb3432952c1163bf1a539.m3u8
 #EXTINF:-1 tvg-id="6852854bce36f0644f37d765" tvg-name="A New Life in the Sun" tvg-logo="https://images.pluto.tv/channels/6852854bce36f0644f37d765/colorLogoPNG_1762189013725.png",A New Life in the Sun
