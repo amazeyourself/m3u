@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="-5" tvg-chno="-5" tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title"Tamil Nadu Channels",-5 INFO TV
-https://app.ashokadigital.net/app/ce705f4a/index.m3u8
+https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 #EXTINF:-1 tvg-id="-4" tvg-chno="-4" tvg-name="Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params%20tv%20png%20lgog%20.png" group-title"Salem | Namakkal | Dharmapuri ",-4 Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 #EXTINF:-1 tvg-id="-3" tvg-chno="-3" tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka%20TV%20LOGO%20SWF.gif" group-title"Salem | Namakkal | Dharmapuri ",-3 Ashoka Tv
@@ -57,6 +57,8 @@ https://app.ashokadigital.net/app/0ea078fe/index.m3u8
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-chno="26" tvg-name="max tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171805_d%20tv%20logo%20(1).png" group-title"Tamil Nadu Channels",26 max tv 
 https://stream.d6-pro.com/Dtv/live/video.m3u8
+#EXTINF:-1 tvg-id="27" tvg-chno="27" tvg-name="tunes 6 music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785217343_t6%20logo%20(1).png" group-title"Tamil Nadu Channels",27 tunes 6 music
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="33" tvg-chno="33" tvg-name="CTN Channel " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762496906_ctn%20channel%20log%20copy.png" group-title"Tamil Nadu Channels",33 CTN Channel 
 http://217.216.79.247/ctn/channel/index.m3u8
 #EXTINF:-1 tvg-id="35" tvg-chno="35" tvg-name="KM TELEVISION" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777711975_daeace30-6395-4e87-b81b-c1eb3f5b1735-Photoroom.png" group-title"Tamil Nadu Channels",35 KM TELEVISION
@@ -132,8 +134,6 @@ https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-chno="94" tvg-name="d bhakthi tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title"Tamil Nadu Channels",94 d bhakthi tv 
 https://stream.d6-pro.com/Dbhakhi/live/video.m3u8
 #EXTINF:-1 tvg-id="95" tvg-chno="95" tvg-name="Yatra Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" group-title"Tamil Nadu Channels",95 Yatra Tv
-
-#EXTINF:-1 tvg-id="96" tvg-chno="96" tvg-name="madhurai arasi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png" group-title"Tamil Nadu Channels",96 madhurai arasi
 
 #EXTINF:-1 tvg-id="97" tvg-chno="97" tvg-name="AANMIKA TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775583135_WhatsApp%20Image%202026-04-07%20at%206.53.44%20PM.jpeg" group-title"Tamil Nadu Channels",97 AANMIKA TV
 
@@ -245,6 +245,8 @@ http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
 http://singamcloud.in/saibaba/livekovai/index.m3u8
 #EXTINF:-1 tvg-id="215" tvg-chno="215" tvg-name="aalaya magimai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770880756_AALYA%20MAGAMAI%20TV%20LOGO%20BAKTHI%20TV.png" group-title"Tamil Nadu Channels",215 aalaya magimai
 https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
+#EXTINF:-1 tvg-id="216" tvg-chno="216" tvg-name="madhurai arasi" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781584569_Madurai%20Arasi%20(2).png" group-title"Tamil Nadu Channels",216 madhurai arasi
+
 #EXTINF:-1 tvg-id="217" tvg-chno="217" tvg-name="FAITH TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775718431_new%20logo.png" group-title"Christian Tv Channels",217 FAITH TV
 
 #EXTINF:-1 tvg-id="219" tvg-chno="219" tvg-name="Rohith Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782226980_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title"Tamil Nadu Channels",219 Rohith Tv
@@ -263,10 +265,14 @@ http://217.216.79.247/rtv/rtv/index.m3u8
 https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
 #EXTINF:-1 tvg-id="226" tvg-chno="226" tvg-name="SNR TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785065848_999f98ed-405b-494a-a531-7ba27b256310-Photoroom.png" group-title"Tamil Nadu Channels",226 SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
-#EXTINF:-1 tvg-id="228" tvg-chno="228" tvg-name="athithoothartv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785156668_athithoothartv.png" group-title"Christian Tv Channels",228 athithoothartv
+#EXTINF:-1 tvg-id="228" tvg-chno="228" tvg-name="athithoothartv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785218651_1785156668_athithoothartv.png" group-title"Christian Tv Channels",228 athithoothartv
 https://athithoothartv-hls.proxy.nellaiiptv.com/live/athithoothartv/index.m3u8
 #EXTINF:-1 tvg-id="229" tvg-chno="229" tvg-name="JCV TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785156817_jcv%20tv.png" group-title"Christian Tv Channels",229 JCV TV 
 http://player.applemedianetwork.com/jcv/jcv.html
+#EXTINF:-1 tvg-id="230" tvg-chno="230" tvg-name="thogai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785217175_Thogai%20New%20Logo.png" group-title"Kerala Channels",230 thogai tv
+
+#EXTINF:-1 tvg-id="231" tvg-chno="231" tvg-name="sky tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785241634_SKY%20LOGO.png" group-title"Tamil Nadu Channels",231 sky tv 
+http://skytv-iptv.sscloud7.in/live/skytv/index.m3u8
 #EXTINF:-1 tvg-id="234" tvg-chno="234" tvg-name="DHINESH TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772769336_WhatsApp%20Image%202026-03-05%20at%208.36.34%20AM.jpeg" group-title"Tamil Nadu Channels",234 DHINESH TV
 
 #EXTINF:-1 tvg-id="235" tvg-chno="235" tvg-name="ABI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772634994_ABI%20TV.png" group-title"Tamil Nadu Channels",235 ABI TV
@@ -311,7 +317,7 @@ https://play.applelive.in/starnettv/starnettv.m3u8
 https://stream.ashokadigital.net/velantv/velantv/index.m3u8
 #EXTINF:-1 tvg-id="322" tvg-chno="322" tvg-name="SRI THANGAMAYIL MURUGAN" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775060426_WhatsApp%20Image%202026-04-01%20at%209.45.49%20PM.jpeg" group-title"Tamil Nadu Channels",322 SRI THANGAMAYIL MURUGAN
 rtmp://stmtv.sscloud7.in/stmtv/srithangamalaimurugantv
-#EXTINF:-1 tvg-id="326" tvg-chno="326" tvg-name="Shalini Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737815564_Shalini%20Tv%20logo%20New%2028-04-2012.png" group-title"Tamil Nadu Channels",326 Shalini Tv
+#EXTINF:-1 tvg-id="326" tvg-chno="326" tvg-name="shalini tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737815564_Shalini%20Tv%20logo%20New%2028-04-2012.png" group-title"Tamil Nadu Channels",326 shalini tv
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="333" tvg-chno="333" tvg-name="Coimbatore " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title"Tamil Nadu Channels",333 Coimbatore 
 http://brightmeltech.in/kchannel/kchannel.m3u8
@@ -327,8 +333,6 @@ rtmp://103.155.33.67:1935/live/ammantvplus
 
 #EXTINF:-1 tvg-id="465" tvg-chno="465" tvg-name="nvision music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890605_WhatsApp_Image_2025-02-18_at_8.25.19_PM-removebg-preview.png" group-title"Kerala Channels",465 nvision music
 
-#EXTINF:-1 tvg-id="466" tvg-chno="466" tvg-name="Sat View" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740032942_IMG-20250220-WA0078_1_-removebg-preview.png" group-title"Kerala Channels",466 Sat View
-h
 #EXTINF:-1 tvg-id="500" tvg-chno="500" tvg-name="Kannada Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782906320_ka1.png" group-title"Karnataka Channels",500 Kannada Tv
 https://livetv.ashokadigital.net/upload/vod/1782902632_AVR_Swarna_Mahal_Jewellers_Diamonds_Make_Me_Happy_2026_Kannada_get.gt_.mp4
 #EXTINF:-1 tvg-id="501" tvg-chno="501" tvg-name="ಅಶೋಕ INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782906505_ka%202.png" group-title"Karnataka Channels",501 ಅಶೋಕ INFO TV
