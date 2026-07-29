@@ -6,7 +6,7 @@ https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
 #EXTINF:-1 tvg-id="-3" tvg-chno="-3" tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka%20TV%20LOGO%20SWF.gif" group-title"Salem | Namakkal | Dharmapuri ",-3 Ashoka Tv
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="-2" tvg-chno="-2" tvg-name="palkarnu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785202037_palkaarnu%20tv%20logo%20png.png" group-title"Tamil Nadu Channels",-2 palkarnu tv
-jnkh
+http://192.168.1.10:8080/hls/TV.m3u8
 #EXTINF:-1 tvg-id="2" tvg-chno="2" tvg-name="ARK Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784905126_WhatsApp%20Image%202026-07-24%20at%2020.08.51.jpeg" group-title"Christian Tv Channels",2 ARK Tv
 https://ktismaservers.in:3917/live/arktvlive.m3u8
 #EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="CRAYONZ TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" group-title"Tamil Nadu Channels",3 CRAYONZ TV
