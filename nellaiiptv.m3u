@@ -79,6 +79,10 @@ None
 https://srv4.nellaiiptv.com/live/vmusictv/index.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="115" tvg-name="V MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="Music",34 V MUSIC TV [RTMP]
 
+#EXTINF:-1 tvg-chno="35" tvg-id="369" tvg-name="SWASTIK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" group-title="Entertainment",35 SWASTIK TV
+https://srv4.nellaiiptv.com/swastiktv/swastiktv/index.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="369" tvg-name="SWASTIK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" group-title="Entertainment",35 SWASTIK TV [RTMP]
+
 #EXTINF:-1 tvg-chno="38" tvg-id="306" tvg-name="MALAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777319836.webp" group-title="Entertainment",38 MALAR TV
 https://malartv-sscloud7-in.proxy.nellaiiptv.com/malartv/malartv/playlist.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="306" tvg-name="MALAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777319836.webp" group-title="Entertainment",38 MALAR TV [RTMP]
@@ -967,10 +971,6 @@ https://heaventv.livebox.co.in/heaventvhls/live.m3u8
 https://account33.livebox.co.in/bibletvhls/live.m3u8
 #EXTINF:-1 tvg-chno="608" tvg-id="366" tvg-name="BIBLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1782120125.webp" group-title="Regional",608 BIBLE TV [RTMP]
 
-#EXTINF:-1 tvg-chno="609" tvg-id="369" tvg-name="SWASTIK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" group-title="Entertainment",609 SWASTIK TV
-https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
-#EXTINF:-1 tvg-chno="609" tvg-id="369" tvg-name="SWASTIK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784549154.webp" group-title="Entertainment",609 SWASTIK TV [RTMP]
-
 #EXTINF:-1 tvg-chno="610" tvg-id="370" tvg-name="AGARAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783750961.webp" group-title="Entertainment",610 AGARAM TV
 https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-id="370" tvg-name="AGARAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783750961.webp" group-title="Entertainment",610 AGARAM TV [RTMP]
@@ -1003,17 +1003,21 @@ https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV [RTMP]
 
-#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785073902.webp" group-title="Entertainment",618 GURUDEVAN TV
+#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" group-title="Entertainment",618 GURUDEVAN TV
 https://deva.nellaiiptv.com/Gurudevan/tv/index.m3u8
-#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785073902.webp" group-title="Entertainment",618 GURUDEVAN TV [RTMP]
+#EXTINF:-1 tvg-chno="618" tvg-id="380" tvg-name="GURUDEVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339177.webp" group-title="Entertainment",618 GURUDEVAN TV [RTMP]
 
-#EXTINF:-1 tvg-chno="619" tvg-id="381" tvg-name="RUHASHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785159389.webp" group-title="",619 RUHASHA TV
+#EXTINF:-1 tvg-chno="619" tvg-id="381" tvg-name="RUHASHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339290.webp" group-title="Entertainment",619 RUHASHA TV
 https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
-#EXTINF:-1 tvg-chno="619" tvg-id="381" tvg-name="RUHASHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785159389.webp" group-title="",619 RUHASHA TV [RTMP]
+#EXTINF:-1 tvg-chno="619" tvg-id="381" tvg-name="RUHASHA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339290.webp" group-title="Entertainment",619 RUHASHA TV [RTMP]
 
-#EXTINF:-1 tvg-chno="620" tvg-id="382" tvg-name="THOGAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785221151.webp" group-title="Entertainment",620 THOGAI TV
+#EXTINF:-1 tvg-chno="620" tvg-id="382" tvg-name="THOGAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339205.webp" group-title="Entertainment",620 THOGAI TV
 https://thogaitv.stream.onecloudlive.in/thogaitv/12345678/index.m3u8
-#EXTINF:-1 tvg-chno="620" tvg-id="382" tvg-name="THOGAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785221151.webp" group-title="Entertainment",620 THOGAI TV [RTMP]
+#EXTINF:-1 tvg-chno="620" tvg-id="382" tvg-name="THOGAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785339205.webp" group-title="Entertainment",620 THOGAI TV [RTMP]
+
+#EXTINF:-1 tvg-chno="621" tvg-id="383" tvg-name="ABNAZ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785313323.webp" group-title="Entertainment",621 ABNAZ TV
+https://live.skystream.in/live/abnaztvkum/index.m3u8
+#EXTINF:-1 tvg-chno="621" tvg-id="383" tvg-name="ABNAZ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785313323.webp" group-title="Entertainment",621 ABNAZ TV [RTMP]
 
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV
 https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
