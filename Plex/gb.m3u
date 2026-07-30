@@ -7,6 +7,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-64e405b42b16ff56feb98444.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a3000fa1864992bf479f3f4.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6920db3650fe592fd6d5b7d5" tvg-name="Dragons’ Den" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a3c1b3c-61fd-4642-a13b-f4d871b24cff/UK_FAST_Plex_DragonsDen_logo_dark.png",Dragons’ Den
 https://jmp2.uk/plex-64305451fc3be5947773c339-6920db3650fe592fd6d5b7d5.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b" tvg-name="Love after Lockup" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de1c07c9-c023-41c1-ad1b-6b84c58358ac/LOVE_AFTER_LOCKUP_1500x1000_LOGO_WHITE.png",Love after Lockup
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6920e0045cbe620c1f9b6bad" tvg-name="Sony One | Comedy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4e190fc-8140-4f9f-babe-39fb0675b9dc/UK_FAST_Plex_ComedyTV_logo_dark.png",Sony One | Comedy TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-6920e0045cbe620c1f9b6bad.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66c3cd45d263903b4c6d991c" tvg-name="MYSTERY TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5a26c618-961a-4051-a833-2dbdcbea2d84/Mystery-Tv_Logo_Dark_-_Greta_WilliamsRDX.png",MYSTERY TV
@@ -15,6 +17,10 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-66c3cd45d263903b4c6d991c.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-692111d750fe592fd6d5b7da.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-65847c56d60830ce4d4f303a" tvg-name="Hardcore Pawn" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2729a7a8-8f45-474a-90a3-ca23aa1241a0/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png",Hardcore Pawn
 https://jmp2.uk/plex-64305451fc3be5947773c339-65847c56d60830ce4d4f303a.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7" tvg-name="AMC Reality" tvg-logo="https://provider-static.plex.tv/epg/cms/production/81b22af9-7a76-45f1-b13b-1d3ff39c2c33/AMC_REALITY_1500x1000_LOGO_LIGHT.png",AMC Reality
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d" tvg-name="AMC Cupid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf793ad1-fa4c-4dc5-ad43-73faa32e5355/AMC_CUPID_1500x1000_LOGO_LIGHT.png",AMC Cupid
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-606cbf167e9765002c2a6131" tvg-name="MOVIESPHERE" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moviesphere_logo_dark.png",MOVIESPHERE
 https://jmp2.uk/plex-64305451fc3be5947773c339-606cbf167e9765002c2a6131.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-693ca84258076a970420f58f" tvg-name="Demand Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7505fdc7-a3d3-4c0b-9b0b-5a7a0ddac846/DEMANDDRAMA_LOGO_LIGHT.png",Demand Drama
@@ -633,8 +639,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-62ee7ae2271f393d2d9f709e.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-62fbf197c67d52bddf74cc87.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6490c01f3b3ce9e1aaad95be" tvg-name="FashionTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png",FashionTV
 https://jmp2.uk/plex-64305451fc3be5947773c339-6490c01f3b3ce9e1aaad95be.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6196c8c01d310bf925e02615" tvg-name="Music Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",Music Legends
-https://jmp2.uk/plex-64305451fc3be5947773c339-6196c8c01d310bf925e02615.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",Qwest TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-60b0f65c0c8ffb002c821a75.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62ee784852f7d73061eec493" tvg-name="Smooth Jazz" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png",Smooth Jazz
@@ -665,8 +669,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-62ee7992271f393d2d9f709c.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-62ee6eae271f393d2d9f7096.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-63226c03e67cf9cd9011fcdf" tvg-name="TRACE Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png",TRACE Latina
 https://jmp2.uk/plex-64305451fc3be5947773c339-63226c03e67cf9cd9011fcdf.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-5efe1de6e0b3f5003f5d9f82" tvg-name="The Boat Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",The Boat Show
-https://jmp2.uk/plex-64305451fc3be5947773c339-5efe1de6e0b3f5003f5d9f82.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6329474265c8569187176338" tvg-name="TRACE Brazuca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png",TRACE Brazuca
 https://jmp2.uk/plex-64305451fc3be5947773c339-6329474265c8569187176338.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62d7f6904d0067dd4d60d0de" tvg-name="Stingray Karaoke" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9d4554d270d89a20e7cfbcbc6dd87c25.png",Stingray Karaoke
