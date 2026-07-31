@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/it.xml.gz"
-#EXTINF:-1 tvg-id="69fc903b201df02a8b0f3017" tvg-name="H2O & Friends" tvg-logo="https://images.pluto.tv/channels/69fc903b201df02a8b0f3017/colorLogoPNG_1780583326436.png",H2O & Friends
-https://jmp2.uk/plu-69fc903b201df02a8b0f3017.m3u8
+#EXTINF:-1 tvg-id="69ef572280ef8232ceef596b" tvg-name="That's 60s" tvg-logo="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png",That's 60s
+https://jmp2.uk/plu-69ef572280ef8232ceef596b.m3u8
+#EXTINF:-1 tvg-id="69fc8fd109705ebdf782724a" tvg-name="ZDF Guardia Costiera" tvg-logo="https://images.pluto.tv/channels/69fc8fd109705ebdf782724a/colorLogoPNG_1780491297687.png",ZDF Guardia Costiera
+https://jmp2.uk/plu-69fc8fd109705ebdf782724a.m3u8
+#EXTINF:-1 tvg-id="69fc9010f6ac24413f520103" tvg-name="ZDF Squadra Speciale Lipsia" tvg-logo="https://images.pluto.tv/channels/69fc9010f6ac24413f520103/colorLogoPNG_1780491443862.png",ZDF Squadra Speciale Lipsia
+https://jmp2.uk/plu-69fc9010f6ac24413f520103.m3u8
 #EXTINF:-1 tvg-id="62442f28afe626000747f195" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png",I Jefferson
 https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
 #EXTINF:-1 tvg-id="66a0eea88561260008b1c5d0" tvg-name="Carabinieri" tvg-logo="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png",Carabinieri
@@ -53,8 +57,6 @@ https://jmp2.uk/plu-634926e4b51d2d00077819a2.m3u8
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
 #EXTINF:-1 tvg-id="608aa20a2e7f270007c4878d" tvg-name="Pluto TV Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png",Pluto TV Film Azione
 https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
-#EXTINF:-1 tvg-id="6994800c470389f33df8e090" tvg-name="Pluto TV Azione Cult" tvg-logo="https://images.pluto.tv/channels/6994800c470389f33df8e090/colorLogoPNG_1774006898101.png",Pluto TV Azione Cult
-https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8
 #EXTINF:-1 tvg-id="61c09e3ac210ed0007606620" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png",Pluto TV Horror
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 #EXTINF:-1 tvg-id="608aa5e995132a00075f7005" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png",Pluto TV Film Thriller
@@ -107,10 +109,10 @@ https://jmp2.uk/plu-62e8d5369e48940007fc1dc1.m3u8
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 #EXTINF:-1 tvg-id="61728bb9ee3773000840c1fa" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
-#EXTINF:-1 tvg-id="60802d37ee238e0007c94e64" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png",Andromeda
-https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-id="65cb73d33ba51e00084cabad" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png",Star Trek: Voyager
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+#EXTINF:-1 tvg-id="60802d37ee238e0007c94e64" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png",Andromeda
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1 tvg-id="63eb57d6c111bc0008fe2658" tvg-name="Sanctuary" tvg-logo="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png",Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 #EXTINF:-1 tvg-id="66d9ab4bf0f17500084e9b7e" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png",Pluto TV True Crime
@@ -203,6 +205,8 @@ https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
 https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
 #EXTINF:-1 tvg-id="6093f7b5bb49b90007cecaad" tvg-name="Pluto TV Teen Club" tvg-logo="https://images.pluto.tv/channels/6093f7b5bb49b90007cecaad/colorLogoPNG_1784270785442.png",Pluto TV Teen Club
 https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+#EXTINF:-1 tvg-id="69fc903b201df02a8b0f3017" tvg-name="H2O & Friends" tvg-logo="https://images.pluto.tv/channels/69fc903b201df02a8b0f3017/colorLogoPNG_1780583326436.png",H2O & Friends
+https://jmp2.uk/plu-69fc903b201df02a8b0f3017.m3u8
 #EXTINF:-1 tvg-id="664f0ddbf78a8500092dcffa" tvg-name="Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/664f0ddbf78a8500092dcffa/colorLogoPNG.png",Hell's Kitchen
 https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
 #EXTINF:-1 tvg-id="6971fc07c945e6e4e5bc46bf" tvg-name="Gambero Rosso" tvg-logo="https://images.pluto.tv/channels/6971fc07c945e6e4e5bc46bf/colorLogoPNG_1771841506820.png",Gambero Rosso

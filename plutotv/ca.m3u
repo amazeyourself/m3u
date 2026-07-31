@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml.gz"
-#EXTINF:-1 tvg-id="6853c216069aec0976371a2f" tvg-name="Pluto TV Christmas in July" tvg-logo="https://images.pluto.tv/channels/6853c216069aec0976371a2f/colorLogoPNG_1780331317179.png",Pluto TV Christmas in July
-https://jmp2.uk/plu-6853c216069aec0976371a2f.m3u8
 #EXTINF:-1 tvg-id="6654adb1f99922000854388c" tvg-name="Summer of Movies" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 #EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",Pluto TV Comedy Movies

@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
+#EXTINF:-1 tvg-id="6a31608fac88749b9cb85dd8" tvg-name="Ciné Charme by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a31608fac88749b9cb85dd8/colorLogoPNG_1785329824052.png",Ciné Charme by Pluto TV
+https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8
 #EXTINF:-1 tvg-id="6a1ea44109705ebdf73b7c49" tvg-name="House of Creators" tvg-logo="https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png",House of Creators
 https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8
 #EXTINF:-1 tvg-id="682318568e6c0f2f6c6e0038" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png",Ink Master
 https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 #EXTINF:-1 tvg-id="691b351d427d68a118fdda13" tvg-name="Cut" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png",Cut
 https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8
-#EXTINF:-1 tvg-id="691b33ae8a64bd1811e923f2" tvg-name="Les vacances de l'amour" tvg-logo="https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png",Les vacances de l'amour
-https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8
 #EXTINF:-1 tvg-id="69c2ad7500a8d7d87767d25f" tvg-name="Pluto TV Girls Club" tvg-logo="https://images.pluto.tv/channels/69c2ad7500a8d7d87767d25f/colorLogoPNG_1780925384785.png",Pluto TV Girls Club
 https://jmp2.uk/plu-69c2ad7500a8d7d87767d25f.m3u8
 #EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-name="Pluto TV Polar" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",Pluto TV Polar
@@ -45,14 +45,14 @@ https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8
 https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
 #EXTINF:-1 tvg-id="625ec7a1c853fd00073b38fd" tvg-name="Pluto TV Séries Fantastiques" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG_1775048560569.png",Pluto TV Séries Fantastiques
 https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
-#EXTINF:-1 tvg-id="66b4990746762a00084c2f78" tvg-name="Pluto TV 90's Classics" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",Pluto TV 90's Classics
-https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-id="67b4b4a21a5ca760802d25fd" tvg-name="Tout le monde déteste Chris" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png",Tout le monde déteste Chris
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
-#EXTINF:-1 tvg-id="65cce14060eb870008dbd003" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png",Cheers
-https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
+#EXTINF:-1 tvg-id="66b4990746762a00084c2f78" tvg-name="Pluto TV 90's Classics" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-id="611e71322f5f180007001dde" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png",Degrassi
 https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
+#EXTINF:-1 tvg-id="65cce14060eb870008dbd003" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png",Cheers
+https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 #EXTINF:-1 tvg-id="60d35a74c63c3c0008df6a90" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG_1771579997925.png",BBC Series
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
 #EXTINF:-1 tvg-id="5f8ed2d1c34c2300073bf02c" tvg-name="Series by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG_1775048963457.png",Series by Pluto TV
@@ -75,6 +75,8 @@ https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
 https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1 tvg-id="60549c238c3f21000753d3e0" tvg-name="Le miracle de l'amour" tvg-logo="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png",Le miracle de l'amour
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+#EXTINF:-1 tvg-id="691b33ae8a64bd1811e923f2" tvg-name="Les vacances de l'amour" tvg-logo="https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png",Les vacances de l'amour
+https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8
 #EXTINF:-1 tvg-id="60afae68a7fc50000737186d" tvg-name="Les Années fac" tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png",Les Années fac
 https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
 #EXTINF:-1 tvg-id="60549e98061b5f000776866a" tvg-name="Instant Saga" tvg-logo="https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png",Instant Saga
