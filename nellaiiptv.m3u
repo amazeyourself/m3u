@@ -323,6 +323,14 @@ http://vaanivisuals.in:1935/vaanitv/vaanitv/index.m3u8
 https://stream.onecloudlive.in/thoma/thoma/index.m3u8
 #EXTINF:-1 tvg-chno="329" tvg-id="152" tvg-name="THOMA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244991.webp" group-title="Devotional",329 THOMA TV [RTMP]
 
+#EXTINF:-1 tvg-chno="330" tvg-id="153" tvg-name="DURAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244970.webp" group-title="Entertainment",330 DURAI TV
+https://ipcloud.live/duraitv/live/index.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="153" tvg-name="DURAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244970.webp" group-title="Entertainment",330 DURAI TV [RTMP]
+null
+#EXTINF:-1 tvg-chno="331" tvg-id="154" tvg-name="DURAI CLASSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244954.webp" group-title="Entertainment",331 DURAI CLASSIC TV
+https://stream.onecloudlive.in/duraitv/classic/index.m3u8
+#EXTINF:-1 tvg-chno="331" tvg-id="154" tvg-name="DURAI CLASSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244954.webp" group-title="Entertainment",331 DURAI CLASSIC TV [RTMP]
+null
 #EXTINF:-1 tvg-chno="332" tvg-id="155" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244909.webp" group-title="Entertainment",332 LUCKY TV
 https://live3.onecloudlive.in/luckytv/luckytvhd/index.m3u8
 #EXTINF:-1 tvg-chno="332" tvg-id="155" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771244909.webp" group-title="Entertainment",332 LUCKY TV [RTMP]
