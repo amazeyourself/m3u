@@ -86,26 +86,29 @@ http://103.159.180.34:5001/live/290.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
 http://202.70.146.135:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="317" tvg-name="Star Jalsha HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png" tvg-language="Bengali" group-title="Entertainment", Star Jalsha HD
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
 #EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" tvg-language="Marathi" group-title="Entertainment", Star Pravah HD
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8
 #EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" tvg-language="Tamil" group-title="Entertainment", Star Vijay HD
 http://airtel-07.wasmer.app//play.php?id=HOTSTARLIVETV_LIVETVCHANNEL_STAR_VIJAY_HD&uid=999&pass=999
 #EXTINF:-1 tvg-id="370" tvg-name="Suvarna HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_HD.png" tvg-language="Kannada" group-title="Entertainment", Suvarna HD
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8
 #EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_NOW.png" tvg-language="English" group-title="News", Times NOW
@@ -159,7 +162,13 @@ https://ktismaservers.in:3086/live/goa365live.m3u8
 #EXTINF:-1 tvg-id="422" tvg-name="In Goa 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/InGoa24x7.png" tvg-language="Marathi" group-title="Infotainment", In Goa 24x7
 https://satpros.tech/hls/ingoanews/ingoanews_live_stream/index.m3u8
 #EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsTamilHD.png" tvg-language="Tamil" group-title="Entertainment", Colors Tamil HD
-http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_COLORS_TAMIL_HD&uid=999&pass=999
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://colors.keralive.workers.dev/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9XJalwa.png" tvg-language="Hindi" group-title="Music", 9X Jalwa
 https://9xjio.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png" tvg-language="Marathi" group-title="Music", 9x Jhakaas
@@ -169,7 +178,13 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_HD.png" tvg-language="Malayalam" group-title="Entertainment", Asianet HD
 #http://103.159.180.34:5001/live/443.m3u8
 #EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathi.png" tvg-language="Marathi" group-title="Entertainment", Zee Marathi
-http://103.159.180.34:5001/live/445.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://yupp-origin-vt.keralive.workers.dev/260723/zeemarathi_2500/chunklist.m3u8
 #EXTINF:-1 tvg-id="457" tvg-name="Jalsha Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" tvg-language="Bengali" group-title="Movies", Jalsha Movies HD
 #http://103.159.180.34:5001/live/457.m3u8
 #EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" tvg-language="Malayalam" group-title="Movies", Asianet Movies HD
@@ -469,9 +484,9 @@ https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="648" tvg-name="Mazhavil Manorama" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" tvg-language="Malayalam" group-title="Entertainment", Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="650" tvg-name="Raj News Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" tvg-language="Malayalam" group-title="News", Raj News Malayalam
-http://103.159.180.34:5001/live/650.m3u8
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="651" tvg-name="Raj News Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" tvg-language="Kannada" group-title="News", Raj News Kannada
-http://103.159.180.34:5001/live/651.m3u8
+https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
 #EXTINF:-1 tvg-id="652" tvg-name="Zee Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png" tvg-language="Hindi" group-title="News", Zee Bharat
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeBharat.m3u8
 #EXTINF:-1 tvg-id="653" tvg-name="News18 Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Kannada.png" tvg-language="Kannada" group-title="News", News18 Kannada
@@ -493,7 +508,7 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/61
 #EXTINF:-1 tvg-id="662" tvg-name="Manorama News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Manorama_News.png" tvg-language="Malayalam" group-title="News", Manorama News
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="Raj News Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" tvg-language="Telugu" group-title="News", Raj News Telugu
-http://103.159.180.34:5001/live/664.m3u8
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="665" tvg-name="HM TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HM_TV.png" tvg-language="Telugu" group-title="News", HM TV
 https://cdn-1.pishow.tv/live/280/master.m3u8
 #EXTINF:-1 tvg-id="666" tvg-name="ABN Andhra Jyothi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-language="Telugu" group-title="News", ABN Andhra Jyothi
@@ -521,7 +536,7 @@ http://103.159.180.34:5001/live/678.m3u8
 #EXTINF:-1 tvg-id="682" tvg-name="Sun Life" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-language="Tamil" group-title="Movies", Sun Life
 http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SUN_LIFE&uid=999&pass=999
 #EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" tvg-language="Tamil" group-title="Movies", Raj Digital Plus
-http://103.159.180.34:5001/live/683.m3u8
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:-1 tvg-id="684" tvg-name="Sun Gemini Life" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" tvg-language="Telugu" group-title="Movies", Sun Gemini Life
 https://mumbai-edge.smartplaytv.in/GeminiLife/index.m3u8
 #EXTINF:-1 tvg-id="686" tvg-name="Alankar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Alankar_TV.png" tvg-language="Odia" group-title="Movies", Alankar
@@ -561,7 +576,7 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 #EXTINF:-1 tvg-id="706" tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" group-title="Entertainment", DD Saptagiri
 https://cdn-1.pishow.tv/live/22/master.m3u8
 #EXTINF:-1 tvg-id="707" tvg-name="Raj TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-language="Tamil" group-title="Entertainment", Raj TV
-http://103.159.180.34:5001/live/707.m3u8
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Makkal_TV.png" tvg-language="Tamil" group-title="Entertainment", Makkal TV
 http://103.159.180.34:5001/live/708.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Adithya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" tvg-language="Tamil" group-title="Entertainment", Adithya TV
@@ -607,13 +622,13 @@ https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-id="733" tvg-name="Sun Udaya Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Comedy.png" tvg-language="Kannada" group-title="Entertainment", Sun Udaya Comedy
 http://103.159.180.34:5001/live/733.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="Vissa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vissa_TV.png" tvg-language="Telugu" group-title="Entertainment", Vissa TV
-http://103.159.180.34:5001/live/734.m3u8
+https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 #EXTINF:-1 tvg-id="735" tvg-name="Sangeet Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" tvg-language="Marathi" group-title="Music", Sangeet Marathi
 https://cdn-3.pishow.tv/live/1229/master.m3u8
 #EXTINF:-1 tvg-id="737" tvg-name="Raj Music Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" group-title="Music", Raj Music Telugu
-https://cdn-1.pishow.tv/live/1213/master.m3u8
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="739" tvg-name="Raj Music Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" tvg-language="Malayalam" group-title="Music", Raj Music Malayalam
-http://103.159.180.34:5001/live/739.m3u8
+https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
 #EXTINF:-1 tvg-id="740" tvg-name="Sangeet Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" tvg-language="Bengali" group-title="Music", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="741" tvg-name="Sangeet Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" tvg-language="Bhojpuri" group-title="Music", Sangeet Bhojpuri
@@ -621,13 +636,13 @@ https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="mh1 (Music)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" tvg-language="Punjabi" group-title="Music", mh1 (Music)
 http://103.159.180.34:5001/live/742.m3u8
 #EXTINF:-1 tvg-id="743" tvg-name="Raj Music Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" tvg-language="Kannada" group-title="Music", Raj Music Kannada
-http://103.159.180.34:5001/live/743.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-id="744" tvg-name="Sun Udaya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Music.png" tvg-language="Kannada" group-title="Music", Sun Udaya Music
 http://103.159.180.34:5001/live/744.m3u8
 #EXTINF:-1 tvg-id="747" tvg-name="Sun Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" tvg-language="Malayalam" group-title="Music", Sun Surya Music
 http://103.159.180.34:5001/live/747.m3u8
 #EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" tvg-language="Tamil" group-title="Music", Raj Musix
-http://103.159.180.34:5001/live/748.m3u8
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 tvg-id="751" tvg-name="Tarang Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tarang_Music.png" tvg-language="Odia" group-title="Music", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" tvg-language="Marathi" group-title="Entertainment", Colors Marathi HD
@@ -637,10 +652,11 @@ http://149.71.34.166:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="757" tvg-name="Colors Kannada HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" tvg-language="Kannada" group-title="Entertainment", Colors Kannada HD
 http://103.159.180.34:5001/live/757.m3u8
 #EXTINF:-1 tvg-id="760" tvg-name="Maa Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" tvg-language="Telugu" group-title="Movies", Maa Movies HD
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png" tvg-language="English" group-title="Movies", Sony Pix HD
@@ -1018,10 +1034,11 @@ http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="1111" tvg-name="Maa Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies.png" tvg-language="Telugu" group-title="Movies", Maa Movies
 http://103.159.180.34:5001/live/1111.m3u8
 #EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" group-title="Entertainment", Maa HD
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1113" tvg-name="Star Gold Select HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" tvg-language="Hindi" group-title="Movies", Star Gold Select HD
@@ -1031,10 +1048,11 @@ http://103.159.180.34:5001/live/1115.m3u8
 #EXTINF:-1 tvg-id="1117" tvg-name="Suvarna" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna.png" tvg-language="Kannada" group-title="Entertainment", Suvarna
 http://103.159.180.34:5001/live/1117.m3u8
 #EXTINF:-1 tvg-id="1118" tvg-name="Asianet" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet.png" tvg-language="Malayalam" group-title="Entertainment", Asianet
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-language="Hindi" group-title="Movies", Star Gold Select
@@ -1052,10 +1070,11 @@ http://149.71.34.166:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="1138" tvg-name="Star Maa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Maa.png" tvg-language="Telugu" group-title="Entertainment", Star Maa
 #http://103.159.180.34:5001/live/1138.m3u8
 #EXTINF:-1 tvg-id="1139" tvg-name="Asianet Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png" tvg-language="Malayalam" group-title="Entertainment", Asianet Plus
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1143" tvg-name="Star Utsav" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png" tvg-language="Hindi" group-title="Entertainment", Star Utsav
@@ -1067,10 +1086,11 @@ https://sonyliv.07in.workers.dev/live/999/999/sony-marathi.m3u8
 #EXTINF:-1 tvg-id="1148" tvg-name="TEST8 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST8_HD.png" tvg-language="English" group-title="Shopping", TEST8 HD
 http://103.159.180.34:5001/live/1148.m3u8
 #EXTINF:-1 tvg-id="1153" tvg-name="Asianet Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies.png" tvg-language="Malayalam" group-title="Movies", Asianet Movies
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1154" tvg-name="Star Gold 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" tvg-language="Hindi" group-title="Movies", Star Gold 2
@@ -1236,7 +1256,13 @@ http://103.159.180.34:5001/live/1346.m3u8
 #EXTINF:-1 tvg-id="1351" tvg-name="Zee TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTV.png" tvg-language="Telugu" group-title="Entertainment", Zee TV
 https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetv/index.m3u8
 #EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" tvg-language="Telugu" group-title="Entertainment", Zee Telugu HD
-https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://yupp-origin-vt.keralive.workers.dev/260723/zeetelugu_2500/chunklist.m3u8
 #EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTamilHD.png" tvg-language="Tamil" group-title="Entertainment", Zee Tamil HD
 https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetamil/index.m3u8
 #EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png" tvg-language="Marathi" group-title="Movies", Zee Talkies HD
@@ -1244,9 +1270,21 @@ http://103.159.180.34:5001/live/1358.m3u8
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" tvg-language="Hindi" group-title="Entertainment", Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" tvg-language="Marathi" group-title="Entertainment", Zee Marathi HD
-http://103.159.180.34:5001/live/1360.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://yupp-origin-vt.keralive.workers.dev/260723/zeemarathi_2500/chunklist.m3u8
 #EXTINF:-1 tvg-id="1362" tvg-name="Zee Kannada HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannadaHD.png" tvg-language="Kannada" group-title="Entertainment", Zee Kannada HD
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeekannada/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://colors.keralive.workers.dev/28072023/zeekannadahd_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" tvg-language="Telugu" group-title="Movies", Zee Cinemalu HD
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-language="Hindi" group-title="Entertainment", Colors SD
@@ -1626,7 +1664,13 @@ https://live.legitpro.co.in/gujaratfirst/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="PMC Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" tvg-language="Telugu" group-title="Devotional", PMC Telugu
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="Zee Bangla HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" tvg-language="Bengali" group-title="Entertainment", Zee Bangla HD
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeebangla/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://yupp-origin-vt.keralive.workers.dev/260723/zeebangla_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-language="Hindi" group-title="Sports", Star Sports 2 Hindi HD
 http://202.70.146.135:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" group-title="Sports", Star Sports Khel
@@ -2346,7 +2390,7 @@ http://103.159.180.34:5001/live/3379.m3u8
 #EXTINF:-1 tvg-id="3380" tvg-name="Pradesh24 Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png" tvg-language="Gujarati" group-title="News", Pradesh24 Gujarati
 https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 #EXTINF:-1 tvg-id="3381" tvg-name="Brio TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png" tvg-language="Tamil" group-title="Entertainment", Brio TV
-https://mumt02.tangotv.in/BRIOTV/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8
 #EXTINF:-1 tvg-id="3382" tvg-name="EPIC TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/EPIC_TV.png" tvg-language="Hindi" group-title="Entertainment", EPIC TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="3383" tvg-name="Epic Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png" tvg-language="Hindi" group-title="Entertainment", Epic Bharat
@@ -2556,9 +2600,9 @@ http://103.159.180.34:5001/live/3552.m3u8
 #EXTINF:-1 tvg-id="3553" tvg-name="Padel Time TV " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PadeltimeTV.png" tvg-language="English" group-title="Sports", Padel Time TV 
 http://103.159.180.34:5001/live/3553.m3u8
 #EXTINF:-1 tvg-id="3555" tvg-name="Knock TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockTV.png" tvg-language="Punjabi" group-title="Entertainment", Knock TV
-http://103.159.180.34:5001/live/3555.m3u8
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="3556" tvg-name="Knock News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockNews.png" tvg-language="Punjabi" group-title="News", Knock News
-http://103.159.180.34:5001/live/3556.m3u8
+https://knocktv.wiseplayout.com/Knock_News/master.m3u8
 #EXTINF:-1 tvg-id="3557" tvg-name="Lokmat Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png" tvg-language="Hindi" group-title="News", Lokmat Bharat
 http://103.159.180.34:5001/live/3557.m3u8
 #EXTINF:-1 tvg-id="3558" tvg-name="ETV News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png" tvg-language="Telugu" group-title="News", ETV News
@@ -2568,13 +2612,13 @@ https://jmp2.uk/stvp-IN4900003U3
 #EXTINF:-1 tvg-id="3562" tvg-name="Akhon Kolkata Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/debjit.png" tvg-language="Bengali" group-title="Entertainment", Akhon Kolkata Plus
 http://103.159.180.34:5001/live/3562.m3u8
 #EXTINF:-1 tvg-id="3563" tvg-name="Pure Pink" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PurePink.png" tvg-language="Hindi" group-title="Entertainment", Pure Pink
-http://103.159.180.34:5001/live/3563.m3u8
+https://knocktv1.wiseplayout.com/PurePink/master.m3u8
 #EXTINF:-1 tvg-id="3564" tvg-name="Rashtram" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rashtram.png" tvg-language="Hindi" group-title="Devotional", Rashtram
 http://103.159.180.34:5001/live/3564.m3u8
 #EXTINF:-1 tvg-id="3565" tvg-name="Globeon Television" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GlobeonTelevision.png" tvg-language="Malayalam" group-title="Entertainment", Globeon Television
 http://103.159.180.34:5001/live/3565.m3u8
 #EXTINF:-1 tvg-id="3566" tvg-name="Knock Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png" tvg-language="Punjabi" group-title="Devotional", Knock Bhakti
-http://103.159.180.34:5001/live/3566.m3u8
+https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
 #EXTINF:-1 tvg-id="3567" tvg-name="Big TV 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BigTV24x7.png" tvg-language="Malayalam" group-title="News", Big TV 24x7
 http://103.159.180.34:5001/live/3567.m3u8
 #EXTINF:-1 tvg-id="3568" tvg-name="Onkar News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png" tvg-language="Bengali" group-title="News", Onkar News
@@ -2584,7 +2628,7 @@ http://103.159.180.34:5001/live/3569.m3u8
 #EXTINF:-1 tvg-id="3570" tvg-name="ANN Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ANNEntertainment.png" tvg-language="Urdu" group-title="Entertainment", ANN Entertainment
 http://103.159.180.34:5001/live/3570.m3u8
 #EXTINF:-1 tvg-id="3571" tvg-name="Panjab TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PanjabTV.png" tvg-language="Punjabi" group-title="Entertainment", Panjab TV
-http://103.159.180.34:5001/live/3571.m3u8
+https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 #EXTINF:-1 tvg-id="3572" tvg-name="Focus Plus TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/FocusPlusTV.png" tvg-language="Odia" group-title="News", Focus Plus TV
 http://103.159.180.34:5001/live/3572.m3u8
 #EXTINF:-1 tvg-id="3574" tvg-name="TV30 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png" tvg-language="Hindi" group-title="News", TV30 India
