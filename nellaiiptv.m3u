@@ -115,6 +115,18 @@ rtmp://pondicherry-appletv.stream.nellaiiptv.com/live/pondicherry-appletv
 https://srv2.nellaiiptv.com/keralagtpltv/keralagtpltv/index.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="377" tvg-name="KERALA GTPL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784628244.webp" group-title="Entertainment",45 KERALA GTPL TV [RTMP]
 
+#EXTINF:-1 tvg-chno="47" tvg-id="384" tvg-name="ROJA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785419901.webp" group-title="Entertainment",47 ROJA TV
+https://srv5.nellaiiptv.com/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="384" tvg-name="ROJA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785419901.webp" group-title="Entertainment",47 ROJA TV [RTMP]
+
+#EXTINF:-1 tvg-chno="48" tvg-id="385" tvg-name="ROJA ENTERTAINMENT TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785419966.webp" group-title="Entertainment",48 ROJA ENTERTAINMENT TV
+https://srv5.nellaiiptv.com/rojatventer/rojatventer/index.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="385" tvg-name="ROJA ENTERTAINMENT TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785419966.webp" group-title="Entertainment",48 ROJA ENTERTAINMENT TV [RTMP]
+
+#EXTINF:-1 tvg-chno="49" tvg-id="386" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785420012.webp" group-title="Entertainment",49 NILA TV
+https://srv4.nellaiiptv.com/nilatvsg/nilatvsg/index.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="386" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785420012.webp" group-title="Entertainment",49 NILA TV [RTMP]
+
 #EXTINF:-1 tvg-chno="101" tvg-id="5" tvg-name="VEERALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/veerali_tv_1770715202.webp" group-title="",101 VEERALI TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="5" tvg-name="VEERALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/veerali_tv_1770715202.webp" group-title="",101 VEERALI TV [RTMP]
