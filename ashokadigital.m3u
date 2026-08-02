@@ -279,6 +279,8 @@ https://applelive.in/stream/garudantv
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-chno="235" tvg-name="subhash tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411879_Subash%20Tv%20Logo%20copy.png" group-title"Tamil Nadu Channels",235 subhash tv
 rtmp://subashhd.sscloud7.in/live/subashhd
+#EXTINF:-1 tvg-id="236" tvg-chno="236" tvg-name="rio tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785590479_WhatsApp%20Image%202026-08-01%20at%206.41.03%20PM.jpeg" group-title"Tamil Nadu Channels",236 rio tv 
+
 #EXTINF:-1 tvg-id="288" tvg-chno="288" tvg-name="Coimbatore " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title"Tamil Nadu Channels",288 Coimbatore 
 http://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 tvg-id="289" tvg-chno="289" tvg-name="Amman Tv Plus" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764597422_WhatsApp%20Image%202025-12-01%20at%206.44.54%20PM.png" group-title"Salem | Namakkal | Dharmapuri ",289 Amman Tv Plus
