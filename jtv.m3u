@@ -560,7 +560,7 @@ https://cdn-3.pishow.tv/live/30/master.m3u8
 #EXTINF:-1 tvg-id="696" tvg-name="News18 Odia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18odia.png" tvg-language="Odia" group-title="News", News18 Odia
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="697" tvg-name="Sony aath" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyAATH.png" tvg-language="Bengali" group-title="Entertainment", Sony aath
-https://sonyliv.07in.workers.dev/live/999/999/sony-aath.m3u8
+https://stream.ottplus.live/live/sony_aath_abr/live/sony_aath_720/index.m3u8
 #EXTINF:-1 tvg-id="698" tvg-name="Aakash Aath" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" tvg-language="Bengali" group-title="Entertainment", Aakash Aath
 http://103.159.180.34:5001/live/698.m3u8
 #EXTINF:-1 tvg-id="699" tvg-name="DD Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Malayalam.png" tvg-language="Malayalam" group-title="Entertainment", DD Malayalam
@@ -2302,7 +2302,7 @@ https://newsliveindia.com:4433/gjdeshi/index.m3u8
 #EXTINF:-1 tvg-id="3313" tvg-name="LOVEWORLD TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Love_World.png" tvg-language="English" group-title="Devotional", LOVEWORLD TV
 http://103.159.180.34:5001/live/3313.m3u8
 #EXTINF:-1 tvg-id="3314" tvg-name="Gujarat Wild TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png" tvg-language="Gujarati" group-title="Infotainment", Gujarat  Wild TV
-http://103.159.180.34:5001/live/3314.m3u8
+https://newsliveindia.com:4433/wildlife/index.m3u8
 #EXTINF:-1 tvg-id="3317" tvg-name="Zillar Barta" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" tvg-language="Bengali" group-title="News", Zillar Barta
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="3319" tvg-name="ZB Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" tvg-language="Bengali" group-title="Music", ZB Music
@@ -2633,3 +2633,5 @@ https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 http://103.159.180.34:5001/live/3572.m3u8
 #EXTINF:-1 tvg-id="3574" tvg-name="TV30 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV30India.png" tvg-language="Hindi" group-title="News", TV30 India
 http://103.159.180.34:5001/live/3574.m3u8
+#EXTINF:-1 tvg-id="3577" tvg-name="Nation TV Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NationTVBharat.png" tvg-language="Hindi" group-title="News", Nation TV Bharat
+https://newsliveindia.com:4433/bharat/index.m3u8
