@@ -224,7 +224,7 @@ http://149.71.34.166:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-language="Hindi" group-title="Movies", Sony MAX2
 https://sonyliv.07in.workers.dev/live/999/999/sony-max-2.m3u8
 #EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png" tvg-language="Hindi" group-title="Movies", Zee Cinema
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecinema/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" tvg-language="Hindi" group-title="Movies", Zee Bollywood
 http://149.71.34.166:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png" tvg-language="Hindi" group-title="Movies", Zee Action
