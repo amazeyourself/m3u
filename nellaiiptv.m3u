@@ -8,7 +8,7 @@ https://pdptv.stream.nellaiiptv.com/live/pdptv/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="1" tvg-name="PDP TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp" group-title="Entertainment",3 PDP TV [RTMP]
 rtmp://pdptv.stream.nellaiiptv.com/live/pdptv
 #EXTINF:-1 tvg-chno="4" tvg-id="4" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/apple_tv_1770712629.webp" group-title="Entertainment",4 APPLE TV
-https://stream.iplive.xyz/mayatv/mayatv/index.ll.m3u8
+https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="4" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/apple_tv_1770712629.webp" group-title="Entertainment",4 APPLE TV [RTMP]
 
 #EXTINF:-1 tvg-chno="5" tvg-id="3" tvg-name="SMS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp" group-title="Entertainment",5 SMS TV
@@ -16,7 +16,7 @@ https://smstv.stream.nellaiiptv.com/live/smstv/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="3" tvg-name="SMS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp" group-title="Entertainment",5 SMS TV [RTMP]
 rtmp://srv3.nellaiiptv.com:1935/live/137913
 #EXTINF:-1 tvg-chno="6" tvg-id="26" tvg-name="THENTRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1770712936.webp" group-title="Entertainment",6 THENTRAL TV
-https://srv4.nellaiiptv.com/live/tv/index.m3u8
+https://stream.thendraladz.com/live/tv/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="26" tvg-name="THENTRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1770712936.webp" group-title="Entertainment",6 THENTRAL TV [RTMP]
 
 #EXTINF:-1 tvg-chno="7" tvg-id="27" tvg-name="ROYAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" group-title="Entertainment",7 ROYAL TV
@@ -56,7 +56,7 @@ https://naveentv.stream.nellaiiptv.com/live/naveentv/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="288" tvg-name="Naveen TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772874205.webp" group-title="Entertainment",16 Naveen TV [RTMP]
 rtmp://naveentv.stream.nellaiiptv.com/live/naveentv
 #EXTINF:-1 tvg-chno="17" tvg-id="342" tvg-name="i TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784626706.webp" group-title="Entertainment",17 i TV
-https://deva.nellaiiptv.com/live/devatv/index.m3u8
+https://deva1.nellaiiptv.com/live/itv/index.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="342" tvg-name="i TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784626706.webp" group-title="Entertainment",17 i TV [RTMP]
 
 #EXTINF:-1 tvg-chno="18" tvg-id="345" tvg-name="LOURDES TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1781266470.webp" group-title="Devotional",18 LOURDES TV
