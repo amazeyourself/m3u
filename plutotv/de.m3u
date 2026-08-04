@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/de.xml.gz"
 #EXTINF:-1 tvg-id="69fca82ff6ac24413f5338fa" tvg-name="NCIS: New Orleans" tvg-logo="https://images.pluto.tv/channels/69fca82ff6ac24413f5338fa/colorLogoPNG_1778165914933.png",NCIS: New Orleans
 https://jmp2.uk/plu-69fca82ff6ac24413f5338fa.m3u8
+#EXTINF:-1 tvg-id="69f0802b40ffd5e0717dd952" tvg-name="Kommissar Rex" tvg-logo="https://images.pluto.tv/channels/69f0802b40ffd5e0717dd952/colorLogoPNG_1785145798565.png",Kommissar Rex
+https://jmp2.uk/plu-69f0802b40ffd5e0717dd952.m3u8
 #EXTINF:-1 tvg-id="69b0160da9b840a456a11b4a" tvg-name="Vier Frauen und ein Todesfall" tvg-logo="https://images.pluto.tv/channels/69b0160da9b840a456a11b4a/colorLogoPNG_1775136896726.png",Vier Frauen und ein Todesfall
 https://jmp2.uk/plu-69b0160da9b840a456a11b4a.m3u8
 #EXTINF:-1 tvg-id="69b968a58323ef2714d1aa36" tvg-name="Schnell ermittelt" tvg-logo="https://images.pluto.tv/channels/69b968a58323ef2714d1aa36/colorLogoPNG_1773850012880.png",Schnell ermittelt
@@ -29,8 +31,8 @@ https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 #EXTINF:-1 tvg-id="67d984408d8dc3d7754dccf2" tvg-name="Pluto TV Nordic Crime" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png",Pluto TV Nordic Crime
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
-#EXTINF:-1 tvg-id="6a3160ad26ad9d31cacf7446" tvg-name="Pluto TV Star Trek: Heghlu'meH QaQ jajvam" tvg-logo="https://images.pluto.tv/channels/6a3160ad26ad9d31cacf7446/colorLogoPNG_1784806587176.png",Pluto TV Star Trek: Heghlu'meH QaQ jajvam
-https://jmp2.uk/plu-6a3160ad26ad9d31cacf7446.m3u8
+#EXTINF:-1 tvg-id="6a3160fe9465b98649e7d89a" tvg-name="Pluto TV Star Trek: Spock - Lebe lang und in Frieden" tvg-logo="https://images.pluto.tv/channels/6a3160fe9465b98649e7d89a/colorLogoPNG_1785149260686.png",Pluto TV Star Trek: Spock - Lebe lang und in Frieden
+https://jmp2.uk/plu-6a3160fe9465b98649e7d89a.m3u8
 #EXTINF:-1 tvg-id="6a31609d2e5d44e1a2f5fede" tvg-name="Pluto TV Star Trek: Bösewichte & Gegenspieler" tvg-logo="https://images.pluto.tv/channels/6a31609d2e5d44e1a2f5fede/colorLogoPNG_1784801660029.png",Pluto TV Star Trek: Bösewichte & Gegenspieler
 https://jmp2.uk/plu-6a31609d2e5d44e1a2f5fede.m3u8
 #EXTINF:-1 tvg-id="697a0577f9c3aa5a215a4ef8" tvg-name="Will&Grace" tvg-logo="https://images.pluto.tv/channels/697a0577f9c3aa5a215a4ef8/colorLogoPNG_1769604535866.png",Will&Grace
@@ -177,10 +179,10 @@ https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8
 https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
 #EXTINF:-1 tvg-id="67ebc04855de98dc71428538" tvg-name="Pluto TV Emmanuelle Filme" tvg-logo="https://images.pluto.tv/channels/67ebc04855de98dc71428538/colorLogoPNG_1768808619480.png",Pluto TV Emmanuelle Filme
 https://jmp2.uk/plu-67ebc04855de98dc71428538.m3u8
-#EXTINF:-1 tvg-id="68d276ce59fd82da32267d0d" tvg-name="Liebe Sünde" tvg-logo="https://images.pluto.tv/channels/68d276ce59fd82da32267d0d/colorLogoPNG_1763647481975.png",Liebe Sünde
-https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
 #EXTINF:-1 tvg-id="68d27437e6767bdeb23f0336" tvg-name="Gigolos" tvg-logo="https://images.pluto.tv/channels/68d27437e6767bdeb23f0336/colorLogoPNG_1758705599610.png",Gigolos
 https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8
+#EXTINF:-1 tvg-id="68d276ce59fd82da32267d0d" tvg-name="Liebe Sünde" tvg-logo="https://images.pluto.tv/channels/68d276ce59fd82da32267d0d/colorLogoPNG_1763647481975.png",Liebe Sünde
+https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
 #EXTINF:-1 tvg-id="64526a145a0cd50008632bfa" tvg-name="Pluto TV heiße Nächte" tvg-logo="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png",Pluto TV heiße Nächte
 https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
 #EXTINF:-1 tvg-id="664f10c4f9992200084a2f47" tvg-name="Pluto TV Heiße Nächte Retro" tvg-logo="https://images.pluto.tv/channels/664f10c4f9992200084a2f47/colorLogoPNG.png",Pluto TV Heiße Nächte Retro
@@ -295,12 +297,6 @@ https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
 #EXTINF:-1 tvg-id="646b150a15939400089e2702" tvg-name="South Park: Original Version" tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png",South Park: Original Version
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-#EXTINF:-1 tvg-id="660c010ce8fba800084f0697" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660c010ce8fba800084f0697/colorLogoPNG.png",South Park Armageddon
-https://jmp2.uk/plu-660c010ce8fba800084f0697.m3u8
-#EXTINF:-1 tvg-id="664f0d373d173b0008164948" tvg-name="South Park: Stars & Sternchen" tvg-logo="https://images.pluto.tv/channels/664f0d373d173b0008164948/colorLogoPNG.png",South Park: Stars & Sternchen
-https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8
-#EXTINF:-1 tvg-id="664f12bb3d173b0008168c1f" tvg-name="South Park Rocks!" tvg-logo="https://images.pluto.tv/channels/664f12bb3d173b0008168c1f/colorLogoPNG.png",South Park Rocks!
-https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8
 #EXTINF:-1 tvg-id="608181d420fc8500075f612a" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",Pluto TV Anime
 https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 #EXTINF:-1 tvg-id="642d4493aa2d690008f0a03f" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/642d4493aa2d690008f0a03f/colorLogoPNG.png",Yu-Gi-Oh!
@@ -335,6 +331,8 @@ https://jmp2.uk/plu-688735087b2cf33d01a2d411.m3u8
 https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8
 #EXTINF:-1 tvg-id="67ed0c86f7c5d70b90889a51" tvg-name="KultKrimi: Die Rettungsflieger" tvg-logo="https://images.pluto.tv/channels/67ed0c86f7c5d70b90889a51/colorLogoPNG_1745819307940.png",KultKrimi: Die Rettungsflieger
 https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
+#EXTINF:-1 tvg-id="64be826b0e086a0009d95779" tvg-name="Dating Naked UK" tvg-logo="https://images.pluto.tv/channels/64be826b0e086a0009d95779/colorLogoPNG_1781187966236.png",Dating Naked UK
+https://jmp2.uk/plu-64be826b0e086a0009d95779.m3u8
 #EXTINF:-1 tvg-id="64c11d0f060e830008ed3eee" tvg-name="MTV Caught in the Act" tvg-logo="https://images.pluto.tv/channels/64c11d0f060e830008ed3eee/colorLogoPNG_1780494661155.png",MTV Caught in the Act
 https://jmp2.uk/plu-64c11d0f060e830008ed3eee.m3u8
 #EXTINF:-1 tvg-id="691b2b690d121b44ad4a53ef" tvg-name="Dating hinter Gittern" tvg-logo="https://images.pluto.tv/channels/691b2b690d121b44ad4a53ef/colorLogoPNG_1768906011060.png",Dating hinter Gittern
