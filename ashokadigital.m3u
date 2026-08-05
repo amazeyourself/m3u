@@ -190,7 +190,7 @@ https://aadhavantamiltv-ashoka.tamilstream.in/aadhavantamiltv/aadhavantamiltv/pl
 #EXTINF:-1 tvg-id="151" tvg-chno="151" tvg-name=" Erode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png" group-title"Tamil Nadu Channels",151  Erode
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 #EXTINF:-1 tvg-id="152" tvg-chno="152" tvg-name="Tiruchengode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732431747_227461593_220794490025454_2506413802748050177_n-removebg-preview.png" group-title"Tamil Nadu Channels",152 Tiruchengode
- http://krishnatk.7starcloud.com:1935/live/livestream/live.m3u8
+
 #EXTINF:-1 tvg-id="165" tvg-chno="165" tvg-name="SARAL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764914890_logo%20Saral%20Tv%2010%20png.png" group-title"Tamil Nadu Channels",165 SARAL TV
 rtmp://103.226.186.82:1935/Saraltv/Saraltv
 #EXTINF:-1 tvg-id="166" tvg-chno="166" tvg-name="MARUTHI TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768917435_MARUTHI%20TV.png" group-title"Tamil Nadu Channels",166 MARUTHI TV HD
@@ -267,7 +267,7 @@ https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="227" tvg-chno="227" tvg-name="siddhar tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785677325_WhatsApp%20Image%202026-08-02%20at%206.53.09%20PM.jpeg" group-title"Tamil Nadu Channels",227 siddhar tv
 http://198.144.149.206:8080/DINESH/PT2/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-id="228" tvg-chno="228" tvg-name="Boys malayalam" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785676992_WhatsApp%20Image%202026-08-02%20at%206.52.40%20PM.jpeg" group-title"Tamil Nadu Channels",228 Boys malayalam
+#EXTINF:-1 tvg-id="228" tvg-chno="228" tvg-name="sidhar isai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785676992_WhatsApp%20Image%202026-08-02%20at%206.52.40%20PM.jpeg" group-title"Tamil Nadu Channels",228 sidhar isai
 http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="229" tvg-chno="229" tvg-name="JCV TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785156817_jcv%20tv.png" group-title"Christian Tv Channels",229 JCV TV 
 http://player.applemedianetwork.com/jcv/jcv.html
