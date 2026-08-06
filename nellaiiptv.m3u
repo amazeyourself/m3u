@@ -1018,7 +1018,7 @@ https://live.skystream.in/live/pcn/index.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",616 LOTUS TV
 https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 #EXTINF:-1 tvg-chno="616" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",616 LOTUS TV [RTMP]
-
+https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV
 https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
 #EXTINF:-1 tvg-chno="617" tvg-id="379" tvg-name="RAAGAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784922537.webp" group-title="Entertainment",617 RAAGAM TV [RTMP]
