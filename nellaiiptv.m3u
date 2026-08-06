@@ -108,7 +108,7 @@ https://stream.onecloudlive.in/nellaitv/nellaitv/index.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="8" tvg-name="NELLAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/nellai_tv_1771224917.webp" group-title="",43 NELLAI TV [RTMP]
 None
 #EXTINF:-1 tvg-chno="44" tvg-id="310" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777371219.webp" group-title="Entertainment",44 APPLE TV
-https://pondicherry-appletv.stream.nellaiiptv.com/live/pondicherry-appletv/index.m3u8
+http://srvx.nellaiiptv.com:8033/restream/1785852500/index.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="310" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777371219.webp" group-title="Entertainment",44 APPLE TV [RTMP]
 rtmp://pondicherry-appletv.stream.nellaiiptv.com/live/pondicherry-appletv
 #EXTINF:-1 tvg-chno="45" tvg-id="377" tvg-name="KERALA GTPL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784628244.webp" group-title="Entertainment",45 KERALA GTPL TV
