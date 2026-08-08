@@ -563,10 +563,6 @@ rtmp://web.applelive.in/anisatv/anisatv
 https://play.applelive.in/jcvtv/jcvtv.m3u8
 #EXTINF:-1 tvg-chno="401" tvg-id="229" tvg-name="JCV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771897861.webp" group-title="Entertainment",401 JCV TV [RTMP]
 
-#EXTINF:-1 tvg-chno="402" tvg-id="284" tvg-name="RK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772259037.webp" group-title="Entertainment",402 RK TV
-https://play.applelive.in/rktv/rktv.m3u8
-#EXTINF:-1 tvg-chno="402" tvg-id="284" tvg-name="RK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1772259037.webp" group-title="Entertainment",402 RK TV [RTMP]
-rtmp://applelive.in/rktv/rktv
 #EXTINF:-1 tvg-chno="403" tvg-id="231" tvg-name="THIRAI TAMIL" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771604848.webp" group-title="Entertainment",403 THIRAI TAMIL
 https://tn.streamezy.in/hls/tthirai/live.m3u8
 #EXTINF:-1 tvg-chno="403" tvg-id="231" tvg-name="THIRAI TAMIL" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771604848.webp" group-title="Entertainment",403 THIRAI TAMIL [RTMP]
