@@ -2626,7 +2626,7 @@ https://knocktv1.wiseplayout.com/PurePink/master.m3u8
 #EXTINF:-1 tvg-id="3564" tvg-name="Rashtram" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rashtram.png" tvg-language="Hindi" group-title="Devotional", Rashtram
 http://103.159.180.34:5001/live/3564.m3u8
 #EXTINF:-1 tvg-id="3565" tvg-name="Globeon Television" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GlobeonTelevision.png" tvg-language="Malayalam" group-title="Entertainment", Globeon Television
-http://103.159.180.34:5001/live/3565.m3u8
+http://103.72.179.18:8080/memfs/691339d4-2b7b-4f19-9f70-326a357fdbd4.m3u8
 #EXTINF:-1 tvg-id="3566" tvg-name="Knock Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png" tvg-language="Punjabi" group-title="Devotional", Knock Bhakti
 https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
 #EXTINF:-1 tvg-id="3567" tvg-name="Big TV 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BigTV24x7.png" tvg-language="Malayalam" group-title="News", Big TV 24x7
