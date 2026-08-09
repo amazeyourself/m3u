@@ -7,10 +7,6 @@ rtmp://103.78.164.108:1935/static/PDPTV
 https://srvx.nellaiiptv.com/restream/1785852521/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="1" tvg-name="PDP TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp" group-title="Entertainment",3 PDP TV [RTMP]
 rtmp://pdptv.stream.nellaiiptv.com/live/pdptv
-#EXTINF:-1 tvg-chno="4" tvg-id="4" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/apple_tv_1770712629.webp" group-title="Entertainment",4 APPLE TV
-https://stream.iplive.xyz/mayatv/mayatv/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="4" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/apple_tv_1770712629.webp" group-title="Entertainment",4 APPLE TV [RTMP]
-
 #EXTINF:-1 tvg-chno="5" tvg-id="3" tvg-name="SMS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp" group-title="Entertainment",5 SMS TV
 https://srvx.nellaiiptv.com/restream/1785853861/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="3" tvg-name="SMS TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sms_tv_1770712766.webp" group-title="Entertainment",5 SMS TV [RTMP]
