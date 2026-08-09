@@ -285,6 +285,8 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 
 #EXTINF:-1 tvg-id="237" tvg-chno="237" tvg-name=" Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785674178_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Tamil Nadu Channels",237  Tv
 https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
+#EXTINF:-1 tvg-id="238" tvg-chno="238" tvg-name="thoma tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786264094_WhatsApp%20Image%202026-08-08%20at%2010.03.07%20PM.jpeg" group-title="Tamil Nadu Channels",238 thoma tv
+
 #EXTINF:-1 tvg-id="287" tvg-chno="287" tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp%20Image%202026-08-06%20at%2012.21.27%20PM.jpeg" group-title="Tamil Nadu Channels",287 abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
 #EXTINF:-1 tvg-id="288" tvg-chno="288" tvg-name="Coimbatore " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title="Tamil Nadu Channels",288 Coimbatore 
@@ -394,7 +396,7 @@ hgchgv
 #EXTINF:-1 tvg-id="760" tvg-chno="760" tvg-name="shalini tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737815564_Shalini%20Tv%20logo%20New%2028-04-2012.png" group-title="Tamil Nadu Channels",760 shalini tv
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="761" tvg-chno="761" tvg-name="Jayaam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732251489_Jayaam%20copy.png" group-title="Salem | Namakkal | Dharmapuri ",761 Jayaam tv
-	https://app.ashokadigital.net/app/67a779e9/index.m3u8
+	https://app.ashoapp/67a779e9/index.m3u8
 #EXTINF:-1 tvg-id="762" tvg-chno="762" tvg-name="Shalini Tv Thanjavur" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1730741877_uxsXR_hp_400x400-removebg-preview.png" group-title="Tamil Nadu Channels",762 Shalini Tv Thanjavur
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="763" tvg-chno="763" tvg-name="kallai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774607362_Kallai%20Tv.png" group-title="Tamil Nadu Channels",763 kallai tv
