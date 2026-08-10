@@ -121,6 +121,8 @@ https://app.ashokadigital.net/app/44ae008e/index.m3u8
 http://122.165.249.163:8080/hls/supertv/index.m3u8
 #EXTINF:-1 tvg-id="87" tvg-chno="87" tvg-name="thirumalai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775583461_WhatsApp%20Image%202026-04-07%20at%206.43.19%20PM.jpeg" group-title="Tamil Nadu Channels",87 thirumalai tv
 
+#EXTINF:-1 tvg-id="88" tvg-chno="88" tvg-name="jaya subu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786290541_WhatsApp%20Image%202026-08-09%20at%208.35.04%20PM.jpeg" group-title="Tamil Nadu Channels",88 jaya subu tv
+http://view.rcserver.in/tmp_hls11/jeyasubbutv/index.m3u8
 #EXTINF:-1 tvg-id="89" tvg-chno="89" tvg-name="anjtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783396931_ANJ%20LOGO%20breakfree%20copy.png" group-title="Tamil Nadu Channels",89 anjtv
 https://rtmp.notvstream.in/anjtv/anjtv/index.m3u8
 #EXTINF:-1 tvg-id="90" tvg-chno="90" tvg-name="Aalaya Magimai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731768528_AALYA%20MAGAMAI%20TV%20LOGO%20BAKTHI%20TV.png" group-title="Tamil Nadu Channels",90 Aalaya Magimai Tv
@@ -411,7 +413,7 @@ https://rtmp.applelive.in/palkartv/palkartv/index.m3u8
 
 #EXTINF:-1 tvg-id="777" tvg-chno="777" tvg-name="Punithan Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1741094476_IMG-20250228-WA0079-removebg-preview.png" group-title="Tamil Nadu Channels",777 Punithan Tv
 rtmp://punithantv.stream.ashokadigital.net:1935/punithantv
-#EXTINF:-1 tvg-id="850" tvg-chno="850" tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784825031_f61d5ee0-4bc1-4c79-8895-d903b5e6f6c5-Photoroom.png" group-title="Andhra Pradesh",850 7gtv
+#EXTINF:-1 tvg-id="850" tvg-chno="850" tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Andhra Pradesh",850 7gtv
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 tvg-id="851" tvg-chno="851" tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785667797_WhatsApp%20Image%202026-08-02%20at%2012.09.05%20PM.jpeg" group-title="Andhra Pradesh",851 rv digital tv
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
