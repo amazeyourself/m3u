@@ -309,8 +309,12 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67cbd119cc5136329877e096.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65d90ec99c7a6da8c3ce57eb.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd" tvg-name="BBC Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png",BBC Travel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8" tvg-name="CBC News Quebec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e089a0c5-3a4f-485e-b142-739e9c52ce9a/CBCNews-LOCAL-Quebec_Plex_LOGO-COL-ON-DARK_WHT_TEXT_RDX.png",CBC News Quebec
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970" tvg-name="CBC News Windsor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b063913-3b99-42a3-8195-703473567361/CBCNews-LOCAL-Windsor_Plex_LOGO-COL-ON-DARK_RDX.png",CBC News Windsor
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a52212c054ac87f216edff" tvg-name="CBC News Ottawa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/54571e45-8e49-44e5-84c0-8b2c79d95805/CBCNews-LOCAL-Ottawa_Plex_LOGO-COL-ON-DARK_wht_textRDX.png",CBC News Ottawa
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a52212c054ac87f216edff.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a51ec7c054ac87f216edfb" tvg-name="CBC News Toronto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ab43572e-2168-4144-9d07-ec540e297fe0/CBCNews-LOCAL-Toronto_Plex_LOGO-COL-ON-DARK_WHT_TXT_RDX.png",CBC News Toronto
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ec7c054ac87f216edfb.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f" tvg-name="Radio-Canada INFO" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/722a587b42db503d96ac4e7b11923644.png",Radio-Canada INFO
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
