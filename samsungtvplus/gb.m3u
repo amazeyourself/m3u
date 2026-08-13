@@ -23,6 +23,8 @@ https://jmp2.uk/stvp-GBBD500005ZG
 https://jmp2.uk/stvp-GBBB38000068U
 #EXTINF:-1 tvg-id="GB500007VM" tvg-name="Family Feud" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500007VM_20250513T005729SQUARE.png",Family Feud
 https://jmp2.uk/stvp-GB500007VM
+#EXTINF:-1 tvg-id="GB1200013SK" tvg-name="The Cube" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200013SK_20260811T045349SQUARE.png",The Cube
+https://jmp2.uk/stvp-GB1200013SK
 #EXTINF:-1 tvg-id="GB4200010V1" tvg-name="Who Wants to be a Millionaire" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200010V1_20260421T123832SQUARE.png",Who Wants to be a Millionaire
 https://jmp2.uk/stvp-GB4200010V1
 #EXTINF:-1 tvg-id="GB4000027F" tvg-name="The Graham Norton Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000027F_20260421T125758SQUARE.png",The Graham Norton Show
@@ -75,8 +77,12 @@ https://jmp2.uk/stvp-GB2000955S
 https://jmp2.uk/stvp-GB4700004FM
 #EXTINF:-1 tvg-id="GBBB3800007BN" tvg-name="Survivor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20251013T054423SQUARE.png",Survivor
 https://jmp2.uk/stvp-GBBB3800007BN
+#EXTINF:-1 tvg-id="GB1200012BV" tvg-name="Tattoo Fixers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200012BV_20260811T045344SQUARE.png",Tattoo Fixers
+https://jmp2.uk/stvp-GB1200012BV
 #EXTINF:-1 tvg-id="GB300008I8" tvg-name="Sony One Dragons Den" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260528T054008SQUARE.png",Sony One Dragons Den
 https://jmp2.uk/stvp-GB300008I8
+#EXTINF:-1 tvg-id="GB1200010DG" tvg-name="Garden Rescue" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200010DG_20260811T045335SQUARE.png",Garden Rescue
+https://jmp2.uk/stvp-GB1200010DG
 #EXTINF:-1 tvg-id="GBBC9000062G" tvg-name="Come Dine With Me" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20260127T040323SQUARE.png",Come Dine With Me
 https://jmp2.uk/stvp-GBBC9000062G
 #EXTINF:-1 tvg-id="GB500006EX" tvg-name="Escape to the Country" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500006EX_20260324T035037SQUARE.png",Escape to the Country
@@ -205,6 +211,8 @@ https://jmp2.uk/stvp-GB2700009R7
 https://jmp2.uk/stvp-GB500001HY
 #EXTINF:-1 tvg-id="GB1200002ON" tvg-name="History Hunters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200002ON_20250107T030658SQUARE.png",History Hunters
 https://jmp2.uk/stvp-GB1200002ON
+#EXTINF:-1 tvg-id="GB1200011U5" tvg-name="Obsessive Compulsive Cleaners" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200011U5_20260811T045340SQUARE.png",Obsessive Compulsive Cleaners
+https://jmp2.uk/stvp-GB1200011U5
 #EXTINF:-1 tvg-id="GB200000940" tvg-name="The Hotel Inspector" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200000940_20250811T172958SQUARE.png",The Hotel Inspector
 https://jmp2.uk/stvp-GB200000940
 #EXTINF:-1 tvg-id="GB3700005QK" tvg-name="Hoarders" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700005QK_20250326T013514SQUARE.png",Hoarders
@@ -341,6 +349,8 @@ https://jmp2.uk/stvp-GB380000473
 https://jmp2.uk/stvp-GB43000020B
 #EXTINF:-1 tvg-id="GB4700003NV" tvg-name="Padel Time TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4700003NV_20260622T064044SQUARE.png",Padel Time TV
 https://jmp2.uk/stvp-GB4700003NV
+#EXTINF:-1 tvg-id="GB2000016YM" tvg-name="Your Sports News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2000016YM_20260811T045355SQUARE.png",Your Sports News
+https://jmp2.uk/stvp-GB2000016YM
 #EXTINF:-1 tvg-id="GB2700013Y7" tvg-name="Sky Sports Stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700013Y7_20260317T034220SQUARE.png",Sky Sports Stories
 https://jmp2.uk/stvp-GB2700013Y7
 #EXTINF:-1 tvg-id="GBBD1100008YW" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20260609T043659SQUARE.png",FIFA+
