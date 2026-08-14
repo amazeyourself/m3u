@@ -2649,3 +2649,7 @@ http://103.159.180.34:5001/live/3574.m3u8
 https://newsliveindia.com:4433/bharat/index.m3u8
 #EXTINF:-1 tvg-id="3579" tvg-name="Sampoorna News 24X7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SampoornaNews24X7.png" tvg-language="Kannada" group-title="News", Sampoorna News 24X7
 http://103.159.180.34:5001/live/3579.m3u8
+#EXTINF:-1 tvg-id="3581" tvg-name="9 Plus News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9plusnews.png" tvg-language="Telugu" group-title="News", 9 Plus News
+http://103.159.180.34:5001/live/3581.m3u8
+#EXTINF:-1 tvg-id="3583" tvg-name="Suddigara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suddigara.png" tvg-language="Kannada" group-title="News", Suddigara
+http://103.159.180.34:5001/live/3583.m3u8
