@@ -1,14 +1,12 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
-#EXTINF:-1 tvg-id="6a31608fac88749b9cb85dd8" tvg-name="Ciné Charme by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a31608fac88749b9cb85dd8/colorLogoPNG_1785329824052.png",Ciné Charme by Pluto TV
-https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8
 #EXTINF:-1 tvg-id="6a1ea44109705ebdf73b7c49" tvg-name="House of Creators" tvg-logo="https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png",House of Creators
 https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8
-#EXTINF:-1 tvg-id="682318568e6c0f2f6c6e0038" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png",Ink Master
-https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+#EXTINF:-1 tvg-id="6a6a02bd93ac783fe20d1bf7" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02bd93ac783fe20d1bf7/colorLogoPNG_1785333415249.png",NFL Channel
+https://jmp2.uk/plu-6a6a02bd93ac783fe20d1bf7.m3u8
 #EXTINF:-1 tvg-id="691b351d427d68a118fdda13" tvg-name="Cut" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png",Cut
 https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8
-#EXTINF:-1 tvg-id="69c2ad7500a8d7d87767d25f" tvg-name="Pluto TV Girls Club" tvg-logo="https://images.pluto.tv/channels/69c2ad7500a8d7d87767d25f/colorLogoPNG_1780925384785.png",Pluto TV Girls Club
-https://jmp2.uk/plu-69c2ad7500a8d7d87767d25f.m3u8
+#EXTINF:-1 tvg-id="6a31608fac88749b9cb85dd8" tvg-name="Ciné Charme by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a31608fac88749b9cb85dd8/colorLogoPNG_1785329824052.png",Ciné Charme by Pluto TV
+https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8
 #EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-name="Pluto TV Polar" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",Pluto TV Polar
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-id="684bf01df7d8b74b625b7dd1" tvg-name="Pluto TV Brigade Criminelle" tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png",Pluto TV Brigade Criminelle
@@ -49,6 +47,8 @@ https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
 #EXTINF:-1 tvg-id="66b4990746762a00084c2f78" tvg-name="Pluto TV 90's Classics" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-id="69c2ad7500a8d7d87767d25f" tvg-name="Pluto TV Girls Club" tvg-logo="https://images.pluto.tv/channels/69c2ad7500a8d7d87767d25f/colorLogoPNG_1780925384785.png",Pluto TV Girls Club
+https://jmp2.uk/plu-69c2ad7500a8d7d87767d25f.m3u8
 #EXTINF:-1 tvg-id="611e71322f5f180007001dde" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png",Degrassi
 https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
 #EXTINF:-1 tvg-id="65cce14060eb870008dbd003" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/65cce14060eb870008dbd003/colorLogoPNG.png",Cheers
@@ -177,6 +177,8 @@ https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8
 https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
 #EXTINF:-1 tvg-id="699865ccac36b147e74619fe" tvg-name="Pluto TV Téléréalité France" tvg-logo="https://images.pluto.tv/channels/699865ccac36b147e74619fe/colorLogoPNG_1779788356699.png",Pluto TV Téléréalité France
 https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+#EXTINF:-1 tvg-id="682318568e6c0f2f6c6e0038" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png",Ink Master
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 #EXTINF:-1 tvg-id="6092544e7639460007d4835e" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG_1783323667324.png",Pluto TV Reality
 https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
 #EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-name="CATFISH TV" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png",CATFISH TV

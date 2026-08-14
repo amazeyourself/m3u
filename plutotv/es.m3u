@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTINF:-1 tvg-id="6a6a02ae3ee9d966427e62c4" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png",NFL Channel
+https://jmp2.uk/plu-6a6a02ae3ee9d966427e62c4.m3u8
 #EXTINF:-1 tvg-id="69fc906b90dc413f536059a1" tvg-name="H2O & Friends" tvg-logo="https://images.pluto.tv/channels/69fc906b90dc413f536059a1/colorLogoPNG_1780583615660.png",H2O & Friends
 https://jmp2.uk/plu-69fc906b90dc413f536059a1.m3u8
 #EXTINF:-1 tvg-id="6a0c25fe09705ebdf7e4599a" tvg-name="Pippi Calzaslargas" tvg-logo="https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png",Pippi Calzaslargas
