@@ -190,7 +190,7 @@ https://aadhavantamiltv-ashoka.tamilstream.in/aadhavantamiltv/aadhavantamiltv/pl
 #EXTINF:-1 tvg-id="151" tvg-chno="151" tvg-name=" Erode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png" group-title="Tamil Nadu Channels",151  Erode
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 #EXTINF:-1 tvg-id="152" tvg-chno="152" tvg-name="Tiruchengode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732431747_227461593_220794490025454_2506413802748050177_n-removebg-preview.png" group-title="Tamil Nadu Channels",152 Tiruchengode
-
+https://app.ashokadigital.net/app/63351686/index.m3u8
 #EXTINF:-1 tvg-id="165" tvg-chno="165" tvg-name="SARAL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764914890_logo%20Saral%20Tv%2010%20png.png" group-title="Tamil Nadu Channels",165 SARAL TV
 rtmp://103.226.186.82:1935/Saraltv/Saraltv
 #EXTINF:-1 tvg-id="166" tvg-chno="166" tvg-name="MARUTHI TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768917435_MARUTHI%20TV.png" group-title="Tamil Nadu Channels",166 MARUTHI TV HD
@@ -290,7 +290,7 @@ https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 #EXTINF:-1 tvg-id="238" tvg-chno="238" tvg-name="thoma tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437744_1786264094_WhatsApp%20Image%202026-08-08%20at%2010.03.07%20PM-Photoroom.png" group-title="Christian Tv Channels",238 thoma tv
 
 #EXTINF:-1 tvg-id="239" tvg-chno="239" tvg-name="idhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png" group-title="Tamil Nadu Channels",239 idhayam tv
-https://idhayamtvstream.cloudlive24.com/live/526a544940cc10374f61bf8c72cab18a.m3u8
+https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
 #EXTINF:-1 tvg-id="287" tvg-chno="287" tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp%20Image%202026-08-06%20at%2012.21.27%20PM.jpeg" group-title="Tamil Nadu Channels",287 abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
 #EXTINF:-1 tvg-id="288" tvg-chno="288" tvg-name="Coimbatore " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title="Tamil Nadu Channels",288 Coimbatore 
