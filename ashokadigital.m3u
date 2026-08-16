@@ -14,7 +14,7 @@ http://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="VAAGAI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783397514_Vaagai%20TV%20logo.png" group-title="Tamil Nadu Channels",4 VAAGAI TV
 https://app.ashokadigital.net/app/7fe2793b/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="7star Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784602466_7start.gif" group-title="Salem | Namakkal | Dharmapuri ",5 7star Tv
-http://premium.7starcloud.com:1935/live/7star/live.m3u8
+https://7starcloud.com:1935/live/7star/live.m3u8
 #EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="vimal tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782983392_ashoka-digital-560x315.gif" group-title="Tamil Nadu Channels",6 vimal tv
 
 #EXTINF:-1 tvg-id="7" tvg-chno="7" tvg-name="Yeshua HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739979735_WhatsApp_Image_2025-02-19_at_6.21.54_PM-removebg-preview.png" group-title="Christian Tv Channels",7 Yeshua HD
