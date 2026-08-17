@@ -2653,3 +2653,11 @@ http://103.159.180.34:5001/live/3579.m3u8
 http://103.159.180.34:5001/live/3581.m3u8
 #EXTINF:-1 tvg-id="3583" tvg-name="Suddigara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suddigara.png" tvg-language="Kannada" group-title="News", Suddigara
 http://103.159.180.34:5001/live/3583.m3u8
+#EXTINF:-1 tvg-id="3584" tvg-name="News Capital Market" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png" tvg-language="Gujarati" group-title="Business", News Capital Market
+http://103.159.180.34:5001/live/3584.m3u8
+#EXTINF:-1 tvg-id="3585" tvg-name="Sony Sports Ten 4 Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png" tvg-language="Kannada" group-title="Sports", Sony Sports Ten 4 Kannada
+http://103.159.180.34:5001/live/3585.m3u8
+#EXTINF:-1 tvg-id="3586" tvg-name="Growth Now News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/growthnow.png" tvg-language="Gujarati" group-title="News", Growth Now News
+http://103.159.180.34:5001/live/3586.m3u8
+#EXTINF:-1 tvg-id="3587" tvg-name="JOJO TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/jojotv.png" tvg-language="Gujarati" group-title="Entertainment", JOJO TV
+https://vglivessai.akamaized.net/ptnr-lg/title-Jojotv_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b35c1c55-2bd7-46d1-8fe2-f4494b03cc2c/playlist.m3u8
