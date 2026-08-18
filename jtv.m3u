@@ -607,7 +607,7 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
 #EXTINF:-1 tvg-id="725" tvg-name="Kairali News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_People_TV.png" tvg-language="Malayalam" group-title="News", Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 tvg-id="726" tvg-name="DD5 Podhigai" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" tvg-language="Tamil" group-title="Entertainment", DD5 Podhigai
+#EXTINF:-1 tvg-id="726" tvg-name="DD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" tvg-language="Tamil" group-title="Entertainment", DD Tamil
 https://cdn-2.pishow.tv/live/26/master.m3u8
 #EXTINF:-1 tvg-id="727" tvg-name="Vasanth TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vasanth_TV.png" tvg-language="Tamil" group-title="Entertainment", Vasanth TV
 http://103.159.180.34:5001/live/727.m3u8
