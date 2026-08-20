@@ -109,12 +109,12 @@ https://jmp2.uk/stvp-DE400011F2
 https://jmp2.uk/stvp-DE49000017W
 #EXTINF:-1 tvg-id="DEBA3300038NO" tvg-name="Top Serien" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20250326T013203SQUARE.png",Top Serien
 https://jmp2.uk/stvp-DEBA3300038NO
+#EXTINF:-1 tvg-id="DE200044MH" tvg-name="Vera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260818T050318SQUARE.png",Vera
+https://jmp2.uk/stvp-DE200044MH
 #EXTINF:-1 tvg-id="DE4800002GM" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20260804T050730SQUARE.png",Hudson & Rex
 https://jmp2.uk/stvp-DE4800002GM
 #EXTINF:-1 tvg-id="DE300020D3" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20260818T050239SQUARE.png",Alarm für Cobra 11 / Balko
 https://jmp2.uk/stvp-DE300020D3
-#EXTINF:-1 tvg-id="DE200044MH" tvg-name="Vera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200044MH_20260818T050318SQUARE.png",Vera
-https://jmp2.uk/stvp-DE200044MH
 #EXTINF:-1 tvg-id="DE3400005QJ" tvg-name="Abschnitt 40 / GSG9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3400005QJ_20251209T125838SQUARE.png",Abschnitt 40 / GSG9
 https://jmp2.uk/stvp-DE3400005QJ
 #EXTINF:-1 tvg-id="DE3700006DB" tvg-name="Komissar Montalbano" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700006DB_20251111T014005SQUARE.png",Komissar Montalbano
@@ -153,10 +153,6 @@ https://jmp2.uk/stvp-DEBA3300027ZJ
 https://jmp2.uk/stvp-DEBD4900001QV
 #EXTINF:-1 tvg-id="DE2200005GX" tvg-name="Welt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200005GX_20260804T050816SQUARE.png",Welt
 https://jmp2.uk/stvp-DE2200005GX
-#EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260818T045928SQUARE.png",Wilder Planet
-https://jmp2.uk/stvp-DEBA3300042XG
-#EXTINF:-1 tvg-id="DEBC3000003IG" tvg-name="Terra X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20260818T050303SQUARE.png",Terra X
-https://jmp2.uk/stvp-DEBC3000003IG
 #EXTINF:-1 tvg-id="DEBC220000422" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",The Wicked Tuna Channel
 https://jmp2.uk/stvp-DEBC220000422
 #EXTINF:-1 tvg-id="DEAJ7000096L" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000096L_20250107T023919SQUARE.png",Ice Pilots
@@ -165,6 +161,8 @@ https://jmp2.uk/stvp-DEAJ7000096L
 https://jmp2.uk/stvp-DE46000025H
 #EXTINF:-1 tvg-id="DE4600003OS" tvg-name="Swamp People - überleben im sumpf" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600003OS_20260224T025342SQUARE.png",Swamp People - überleben im sumpf
 https://jmp2.uk/stvp-DE4600003OS
+#EXTINF:-1 tvg-id="DEBC3000003IG" tvg-name="Terra X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20260818T050303SQUARE.png",Terra X
+https://jmp2.uk/stvp-DEBC3000003IG
 #EXTINF:-1 tvg-id="DE2200004KN" tvg-name="N24 Doku" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200004KN_20260428T031458SQUARE.png",N24 Doku
 https://jmp2.uk/stvp-DE2200004KN
 #EXTINF:-1 tvg-id="DE2900003ED" tvg-name="BBC History" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900003ED_20250107T024809SQUARE.png",BBC History
@@ -187,6 +185,8 @@ https://jmp2.uk/stvp-DEAJ700008WL
 https://jmp2.uk/stvp-DEAK3504506A
 #EXTINF:-1 tvg-id="DE1000003CQ" tvg-name="Wheels & Steel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000003CQ_20260528T054542SQUARE.png",Wheels & Steel
 https://jmp2.uk/stvp-DE1000003CQ
+#EXTINF:-1 tvg-id="DEBA3300042XG" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20260818T045928SQUARE.png",Wilder Planet
+https://jmp2.uk/stvp-DEBA3300042XG
 #EXTINF:-1 tvg-id="DE3200001RI" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200001RI_20250107T024804SQUARE.png",BBC Earth
 https://jmp2.uk/stvp-DE3200001RI
 #EXTINF:-1 tvg-id="DEBA15000227H" tvg-name="One Terra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20250107T023945SQUARE.png",One Terra
@@ -205,6 +205,8 @@ https://jmp2.uk/stvp-DE1200008U3
 https://jmp2.uk/stvp-DEAK3504503A
 #EXTINF:-1 tvg-id="DEBC4700004VZ" tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700004VZ_20250107T024340SQUARE.png",Love the Planet
 https://jmp2.uk/stvp-DEBC4700004VZ
+#EXTINF:-1 tvg-id="DEAJ0500428A" tvg-name="just.fishing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20260818T050233SQUARE.png",just.fishing
+https://jmp2.uk/stvp-DEAJ0500428A
 #EXTINF:-1 tvg-id="DE200003PX" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20260818T050310SQUARE.png",The Jamie Oliver Channel
 https://jmp2.uk/stvp-DE200003PX
 #EXTINF:-1 tvg-id="DE1200009JX" tvg-name="ZDF kocht!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200009JX_20260428T031501SQUARE.png",ZDF kocht!
@@ -251,12 +253,8 @@ https://jmp2.uk/stvp-DEAK0500452A
 https://jmp2.uk/stvp-DEBA3300016EV
 #EXTINF:-1 tvg-id="DEBD5000002EW" tvg-name="World of Freesports - WoF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5000002EW_20250107T024757SQUARE.png",World of Freesports - WoF
 https://jmp2.uk/stvp-DEBD5000002EW
-#EXTINF:-1 tvg-id="DEAJ0500428A" tvg-name="just.fishing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20260818T050233SQUARE.png",just.fishing
-https://jmp2.uk/stvp-DEAJ0500428A
 #EXTINF:-1 tvg-id="DEBD29000013S" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD29000013S_20250107T024440SQUARE.png",World Poker Tour
 https://jmp2.uk/stvp-DEBD29000013S
-#EXTINF:-1 tvg-id="DEBC470000128" tvg-name="DAZN FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20260818T050246SQUARE.png",DAZN FAST+
-https://jmp2.uk/stvp-DEBC470000128
 #EXTINF:-1 tvg-id="DE1100003YR" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20260224T030543SQUARE.png",Top Barça
 https://jmp2.uk/stvp-DE1100003YR
 #EXTINF:-1 tvg-id="DEBA3300019EB" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251125T102307SQUARE.png",FIFA+
@@ -265,6 +263,8 @@ https://jmp2.uk/stvp-DEBA3300019EB
 https://jmp2.uk/stvp-DEBD260000692
 #EXTINF:-1 tvg-id="DE310000218" tvg-name="INTER 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE310000218_20260324T034624SQUARE.png",INTER 24/7
 https://jmp2.uk/stvp-DE310000218
+#EXTINF:-1 tvg-id="DEBC470000128" tvg-name="DAZN FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC470000128_20260818T050246SQUARE.png",DAZN FAST+
+https://jmp2.uk/stvp-DEBC470000128
 #EXTINF:-1 tvg-id="DEBC2100001ZJ" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20250107T024435SQUARE.png",Vevo Pop
 https://jmp2.uk/stvp-DEBC2100001ZJ
 #EXTINF:-1 tvg-id="DEBC21000022L" tvg-name="Vevo Schlager Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png",Vevo Schlager Pop
