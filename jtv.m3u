@@ -2549,7 +2549,7 @@ http://103.159.180.34:5001/live/3499.m3u8
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="3503" tvg-name="Manas Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ManasBhakti.png" tvg-language="Hindi" group-title="Devotional", Manas Bhakti
 http://103.159.180.34:5001/live/3503.m3u8
-#EXTINF:-1 tvg-id="3504" tvg-name="R Maxx Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rmaxx.png" tvg-language="Kannada" group-title="News", R Maxx Kannada
+#EXTINF:-1 tvg-id="3504" tvg-name="Kutadri TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rmaxx.png" tvg-language="Kannada" group-title="News", Kutadri TV
 http://103.159.180.34:5001/live/3504.m3u8
 #EXTINF:-1 tvg-id="3505" tvg-name="The Voice TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/thevoicetv.png" tvg-language="Hindi" group-title="News", The Voice TV
 https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
