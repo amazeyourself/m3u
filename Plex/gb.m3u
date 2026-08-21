@@ -255,6 +255,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-6196c9241d310bf925e02616.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a5d48cabfb60c398ce03cd5.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-674f6a6cf44561420465f9f3" tvg-name="Animation+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png",Animation+
 https://jmp2.uk/plex-64305451fc3be5947773c339-674f6a6cf44561420465f9f3.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a6cfd2e8f82b5f5c3fc7c35" tvg-name="Homicide Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png",Homicide Hunter
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a6cfd2e8f82b5f5c3fc7c35.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c" tvg-name="Bloodline Detectives" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6cdc7f1d-3755-4ad7-9193-fa6606c2873e/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png",Bloodline Detectives
 https://jmp2.uk/plex-64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",Maverick Black Cinema
@@ -545,8 +547,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-65a061008b6d8fe79ee1ddc9.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-5ef11487d33ab9004048a1d3.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-643f0ecd76de2b4015ae6c01" tvg-name="PFL MMA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",PFL MMA
 https://jmp2.uk/plex-64305451fc3be5947773c339-643f0ecd76de2b4015ae6c01.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61e9d9979da6ee6e05278269" tvg-name="Wellbeing TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",Wellbeing TV
-https://jmp2.uk/plex-64305451fc3be5947773c339-61e9d9979da6ee6e05278269.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png",Sonic TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-62ba4aaff663580a7238f327.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-639b8d803f4612cc150a5721" tvg-name="Smurf TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png",Smurf TV
@@ -559,6 +559,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-6615522e50e81fa51eb0df62.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-64d78b77e5f67b0fab47ff20.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-665e48c419c3bb1f606d86ab" tvg-name="POP UP" tvg-logo="https://provider-static.plex.tv/epg/cms/production/67906c3b-0242-4a2c-9a32-02ee952ba309/POP-UP-Light-Stacked-_-_Nicholas_Foundoukis.png",POP UP
 https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a63a912a1deb5624927c62b" tvg-name="H2O & Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/634f4c42-4d32-47fb-a552-084eadc4246f/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png",H2O & Friends
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a63a912a1deb5624927c62b.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64b1da0f46d96b0c91bb1a40" tvg-name="Yu-Gi-Oh!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1d1124ab-5158-49f6-b748-1bd22455746d/Wurl_Yu-Gi-Oh_Channel_Logo_light_Astridrdx.png",Yu-Gi-Oh!
 https://jmp2.uk/plex-64305451fc3be5947773c339-64b1da0f46d96b0c91bb1a40.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-65621cad5dbccec83a87b63f" tvg-name="The Talk Show Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/916f4af0-91c4-4501-b233-0216354ae982/TheTalkShowChannelLogo_1500x1000.png",The Talk Show Channel

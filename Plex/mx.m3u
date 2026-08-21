@@ -135,8 +135,14 @@ https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-5f6b8e7900b0950040d0f2b2.m3u8
 https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-671ffe75769d5ec4bf51d63c.m3u8
 #EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-6720027229bcfe7b69d4fefb" tvg-name="TRAILERS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4bf76655-4cd4-4b07-a744-4f8a29d84659/Logo_Trailers_Germany_1500x1000_DarkBackground_-_Belen_Bruno.png",TRAILERS
 https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-6720027229bcfe7b69d4fefb.m3u8
+#EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-6a63a830a1deb5624927c629" tvg-name="ZDF zu Hause" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e3563c7-26cf-45b4-bf42-489cb5934885/Channel_Logo_ZDF_zu_Hause_Color_for_DarkBG_-_Olivia_Beigh.png",ZDF zu Hause
+https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-6a63a830a1deb5624927c629.m3u8
+#EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-6a63ac26a1deb5624927c633" tvg-name="H2O & Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/038d2852-734e-4108-b142-09319a22f8ab/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png",H2O & Friends
+https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-6a63ac26a1deb5624927c633.m3u8
 #EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-639b8d803f4612cc150a5721" tvg-name="Smurf TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png",Smurf TV
 https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-639b8d803f4612cc150a5721.m3u8
+#EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-6a5e97d4ea9f0da81d0962eb" tvg-name="Fix Foxi + Freunde" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4612c04-7a50-495f-a4ae-6b5f7f8236c5/FixFoxiFruende_dark_1500x1000.png",Fix Foxi + Freunde
+https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-6a5e97d4ea9f0da81d0962eb.m3u8
 #EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-626c1753ffda6789d20a452e" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",COPS
 https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-626c1753ffda6789d20a452e.m3u8
 #EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-6578e7b5eef129f30fb38df7" tvg-name="Operation Repo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png",Operation Repo
@@ -437,8 +443,6 @@ https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-621671d05abdd3d5556a1baf.m3u8
 https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-5f0ff263d71dcb00449ec021.m3u8
 #EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png",More U
 https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-6112a9139894c8002c6cb87f.m3u8
-#EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-61e9d9979da6ee6e05278269" tvg-name="Wellbeing TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",Wellbeing TV
-https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-61e9d9979da6ee6e05278269.m3u8
 #EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-5f0ff266d71dcb00449ec030" tvg-name="WeatherSpy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b058b7e-f61e-4257-ae0c-894dd648565f/jukin_weatherspy_2_white.png",WeatherSpy
 https://jmp2.uk/plex-635177ecff6cd5445d7f9b0b-5f0ff266d71dcb00449ec030.m3u8
 #EXTINF:-1 tvg-id="635177ecff6cd5445d7f9b0b-62fbf36c1567211fdb82e920" tvg-name="Stingray Naturescape" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42759e04-9961-44c5-b9ae-585ac62f34ca/Stingray_Naturescape_logo_light.png",Stingray Naturescape

@@ -141,6 +141,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-64b1dd6046d96b0c91bb1a42.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-66fd331e216b603e031725f6.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-5eea605574085f0040ddc794" tvg-name="Toon Goggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",Toon Goggles
 https://jmp2.uk/plex-643054b1fc3be59477853717-5eea605574085f0040ddc794.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6a63ab81a1deb5624927c631" tvg-name="H2O & Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4e2190f-3258-400d-9b65-d92806a9e2c6/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png",H2O & Friends
+https://jmp2.uk/plex-643054b1fc3be59477853717-6a63ab81a1deb5624927c631.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-64a355697d24564fba37bab8" tvg-name="Ideas En 5 Minutos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png",Ideas En 5 Minutos
 https://jmp2.uk/plex-643054b1fc3be59477853717-64a355697d24564fba37bab8.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6018913ea15130002b284191" tvg-name="FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png",FreeTV Hits
@@ -323,8 +325,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-64b1e1217d4037206787f384.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-5ef11487d33ab9004048a1d3.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-63894c1965b848bf2c8a7800" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",5-Minute Crafts
 https://jmp2.uk/plex-643054b1fc3be59477853717-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-61e9d9979da6ee6e05278269" tvg-name="Wellbeing TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",Wellbeing TV
-https://jmp2.uk/plex-643054b1fc3be59477853717-61e9d9979da6ee6e05278269.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-60d4edddb2fdec002c141135" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png",WildEarth
 https://jmp2.uk/plex-643054b1fc3be59477853717-60d4edddb2fdec002c141135.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-63628eb88e4b18ca22f897dc" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",PursuitUP

@@ -57,6 +57,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-68db63942be6c4ceb7947b98.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-66fd3a76216b603e031725fc.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-63584cf6d3a668f1cafc1f9f" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cee60fe2-2259-4836-8b99-6a0bd1dbf98b/Real_Crime_Logo_White_-_Simon_Tuquabo.png",Real Crime
 https://jmp2.uk/plex-697140a85d851f5e69414688-63584cf6d3a668f1cafc1f9f.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a6cfd2e8f82b5f5c3fc7c35" tvg-name="Homicide Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png",Homicide Hunter
+https://jmp2.uk/plex-697140a85d851f5e69414688-6a6cfd2e8f82b5f5c3fc7c35.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-64e43cfe200cd2f67473e0d6" tvg-name="True Crime Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c337bb5b-7a7a-4207-88f0-0e83f995582d/true_crime_now_logordx_white.png",True Crime Now
 https://jmp2.uk/plex-697140a85d851f5e69414688-64e43cfe200cd2f67473e0d6.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68e032fd8bbd79d66c631ab0" tvg-name="Relic Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e7d9a4d-b050-4f83-979a-bbdf4d618198/FilmRise_RelicHunter_Logo_Color.png",Relic Hunter

@@ -585,8 +585,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60d4eddab2fdec002c141131.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-611152a48f945c002c40021a" tvg-name="MHz Now" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mhz_now_logo_dark.png",MHz Now
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-611152a48f945c002c40021a.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64e9f17c7511e20e999d6c34" tvg-name="FanDuel TV Extra" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2102b336-c77e-4f12-a447-a451f326beca/FDTV_EXTRA_AttributionWhite_RDX.png",FanDuel TV Extra
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-64e9f17c7511e20e999d6c34.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67858517d3749c9bdd4d2ecf" tvg-name="DP World Tour" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6825374-e7ca-4fc3-8714-ba6752a8b286/DPWorldTour_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png",DP World Tour
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-67858517d3749c9bdd4d2ecf.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60d4edd8b2fdec002c14112f" tvg-name="Rakuten Viki" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png",Rakuten Viki
@@ -927,6 +925,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-66ce3ef09ac0b1441b19ca2b.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64149ba2d02609d8a7127ee8.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a2bfe594b6a49cb5054d75" tvg-name="Crime Scenes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0d2a0e73-1ddb-4648-81e9-c333b714aef3/CrimeScenes_Logo_Dark_1500x1000.png",Crime Scenes
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66a2bfe594b6a49cb5054d75.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d" tvg-name="Andromeda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/865f5289-9e4e-4926-821f-8d7ba6c60068/Andromeda_Logo_1500x1000_DarkBG_-_Chris_Connors_WHT.png",Andromeda
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-68a795469c93a153bd8cba4d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-645a5a1e4dc67ffc42d36558" tvg-name="LX Home Streaming" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2f98682ef339692fe6a76040ef818cc6.png",LX Home Streaming
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-645a5a1e4dc67ffc42d36558.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-687e47c33f6f86f29359b2c7" tvg-name="Hong Kong Fight Club" tvg-logo="https://provider-static.plex.tv/epg/cms/production/83976408-3f6b-4f5b-9359-9c1e140a7cec/HKFC_Logo_Dark_-_Paige_Sherman.png",Hong Kong Fight Club
