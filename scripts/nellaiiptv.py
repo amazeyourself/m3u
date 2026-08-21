@@ -6,6 +6,7 @@ f = urllib3.request("GET", "https://api.nellaiiptv.com/public/api/channels?limit
                         "X-Client-Platform": "android",
                         "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
                         })
+print(f)
 data = f.json()
 print(data)
 playlist = []
