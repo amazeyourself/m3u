@@ -1,157 +1,157 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0" tvg-name="Joshua TV" tvg-logo="https%3A%2F%2Fplay-lh.googleusercontent.com%2FHYbzeP9FeaTkCf8eZ36pCdLNZxOvu-m0mPF8is7ZK3cnBj_bK8-s7nGvaaS7Hr9ykLoU" tvg-name="Surandai",Joshua TV
+#EXTINF:-1 tvg-id="0" tvg-chno="0" tvg-name="Joshua TV" tvg-logo="https%3A%2F%2Fplay-lh.googleusercontent.com%2FHYbzeP9FeaTkCf8eZ36pCdLNZxOvu-m0mPF8is7ZK3cnBj_bK8-s7nGvaaS7Hr9ykLoU" tvg-region="Surandai",Joshua TV
 http://joshuatv.phoenixcreations.online/joshuatv/joshuatv/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Joshua Praise TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1763130484_JP+TV+copy.jpg" tvg-name="Surandai",Joshua Praise TV
+#EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="Joshua Praise TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1763130484_JP+TV+copy.jpg" tvg-region="Surandai",Joshua Praise TV
 http://joshuatv-live.phoenixcreations.online/joshuatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Joshua Music TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1780588779_SAVE_20260604_212924.jpg" tvg-name="Surandai ",Joshua Music TV
+#EXTINF:-1 tvg-id="2" tvg-chno="2" tvg-name="Joshua Music TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1780588779_SAVE_20260604_212924.jpg" tvg-region="Surandai ",Joshua Music TV
 https://joshuamusic-hls.tamilstream.in/joshuamusic/joshua/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Mahimai TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1780564329_1758118153_images+%288%29.jpeg" tvg-name="Valliyur",Mahimai TV
+#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="Mahimai TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1780564329_1758118153_images+%288%29.jpeg" tvg-region="Valliyur",Mahimai TV
 https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Nijam Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761745671_nijam.png" tvg-name="Valliyur",Nijam Tv
+#EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="Nijam Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761745671_nijam.png" tvg-region="Valliyur",Nijam Tv
 https://nijamtv.nijamtv.org/live/nijamtv/video.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Good News Time" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1758854174_Logo+copy1000x1000.jpg" tvg-name="Tirunelveli ",Good News Time
+#EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="Good News Time" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1758854174_Logo+copy1000x1000.jpg" tvg-region="Tirunelveli ",Good News Time
 https://5dd3981940faa.streamlock.net/goodnewstime/goodnewstime/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="LOVE JOY TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761144558_1000002302.png" tvg-name="Tirunelveli",LOVE JOY TV
+#EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="LOVE JOY TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761144558_1000002302.png" tvg-region="Tirunelveli",LOVE JOY TV
 https://ipcloud.live/novamani/lovejoytv/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name=" Golden Gospel TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761224976_Golden+gospal.png" tvg-name="Verkilambi", Golden Gospel TV
+#EXTINF:-1 tvg-id="7" tvg-chno="7" tvg-name=" Golden Gospel TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761224976_Golden+gospal.png" tvg-region="Verkilambi", Golden Gospel TV
 https://app.xstream.onecloudlive.in/gospeltv/goldengospeltv/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="Jeyam Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761222571_jeyam+tv.png" tvg-name="Chennai",Jeyam Tv
+#EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-name="Jeyam Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761222571_jeyam+tv.png" tvg-region="Chennai",Jeyam Tv
 https://jeyamtv.livebox.co.in/JeyamTelevisionhls/JeyamTelevision.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="Grace Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761223006_grace+madurai.png" tvg-name="Madurai",Grace Tv
+#EXTINF:-1 tvg-id="9" tvg-chno="9" tvg-name="Grace Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761223006_grace+madurai.png" tvg-region="Madurai",Grace Tv
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Chutti Grace Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761223109_grace+madurai+suddi.png" tvg-name="Madurai",Chutti Grace Tv
+#EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-name="Chutti Grace Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761223109_grace+madurai+suddi.png" tvg-region="Madurai",Chutti Grace Tv
 https://server1.thewebworld.in:3065/live/chuttigracetvlive.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="JTK Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761369484_jtk.png" tvg-name="Tirunelveli",JTK Tv
+#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-name="JTK Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761369484_jtk.png" tvg-region="Tirunelveli",JTK Tv
 https://app.xstream.onecloudlive.in/jtktv/jtktvhd/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Faith Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761238152_faith.png" tvg-name="Vellore",Faith Tv
+#EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-name="Faith Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761238152_faith.png" tvg-region="Vellore",Faith Tv
 https://stream.iplive.xyz/faithtv/faithtv/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="Holy Land Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761712117_holy.png" tvg-name="Nagercoil",Holy Land Tv
+#EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-name="Holy Land Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761712117_holy.png" tvg-region="Nagercoil",Holy Land Tv
 http://applelive.in/holylandtv/holylandtv.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Joy Good News Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761240783_Joygoodnews+TV.png" tvg-name="Nagercoil",Joy Good News Tv
+#EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-name="Joy Good News Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761240783_Joygoodnews+TV.png" tvg-region="Nagercoil",Joy Good News Tv
 https://play.applelive.in/joygoodnewstv/joygoodnewstv.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Shammah Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241061_Shammah+TV.png" tvg-name="karungal",Shammah Tv
+#EXTINF:-1 tvg-id="15" tvg-chno="15" tvg-name="Shammah Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241061_Shammah+TV.png" tvg-region="karungal",Shammah Tv
 https://play.applelive.in/shammahtv/shammahtv.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="316 Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761713549_316+tv.png" tvg-name="Chennai",316 Tv
+#EXTINF:-1 tvg-id="16" tvg-chno="16" tvg-name="316 Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761713549_316+tv.png" tvg-region="Chennai",316 Tv
 https://channel316.livebox.co.in/c316hls/live.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="Village Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241296_WhatsApp+Image+2025-10-23+at+11.09.52+PM.jpeg" tvg-name="Chennai",Village Tv
+#EXTINF:-1 tvg-id="17" tvg-chno="17" tvg-name="Village Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241296_WhatsApp+Image+2025-10-23+at+11.09.52+PM.jpeg" tvg-region="Chennai",Village Tv
 https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="Grace Tv - Chennai" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761714754_grace+Chengalpattu.png" tvg-name="Chengalpattu",Grace Tv - Chennai
+#EXTINF:-1 tvg-id="18" tvg-chno="18" tvg-name="Grace Tv - Chennai" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761714754_grace+Chengalpattu.png" tvg-region="Chengalpattu",Grace Tv - Chennai
 http://gracetvcgl.livebox.co.in/Gracetvhls/Gracetv.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="Jesus Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241531_Jesus+TV.png" tvg-name="Nagercoil",Jesus Tv
+#EXTINF:-1 tvg-id="19" tvg-chno="19" tvg-name="Jesus Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241531_Jesus+TV.png" tvg-region="Nagercoil",Jesus Tv
 https://play.applelive.in/jesustv/jesustv.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="Jnvision Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241623_jn+vision+TV.png" tvg-name="Kerala",Jnvision Tv
+#EXTINF:-1 tvg-id="20" tvg-chno="20" tvg-name="Jnvision Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241623_jn+vision+TV.png" tvg-region="Kerala",Jnvision Tv
 https://462dx4mlqj3o-hls-live.wmncdn.net/jnvisiontv/0e1fd802947a734b3af7787436f11588.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="Gospel Tamil Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761242222_gosbal+tv.png" tvg-name="Chennai",Gospel Tamil Tv
+#EXTINF:-1 tvg-id="21" tvg-chno="21" tvg-name="Gospel Tamil Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761242222_gosbal+tv.png" tvg-region="Chennai",Gospel Tamil Tv
 http://gospeltamiltv.livebox.co.in/BIBLEhls/live.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="Joy TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761637064_SAVE_20251028_130722.jpg" tvg-name="Chennai ",Joy TV
+#EXTINF:-1 tvg-id="22" tvg-chno="22" tvg-name="Joy TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761637064_SAVE_20251028_130722.jpg" tvg-region="Chennai ",Joy TV
 https://joy.inet.moe/live/joytv/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="Thuthi Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761832262_thuthi+tv.png" tvg-name="Virudhunagar",Thuthi Tv
+#EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-name="Thuthi Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761832262_thuthi+tv.png" tvg-region="Virudhunagar",Thuthi Tv
 https://nijamtv.indiamatrix.in/thuthitv/thuthitv.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="Comforter TV Tamil" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762075348_IMG_20251102_145208.jpg" tvg-name="Nalumavadi",Comforter TV Tamil
+#EXTINF:-1 tvg-id="24" tvg-chno="24" tvg-name="Comforter TV Tamil" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762075348_IMG_20251102_145208.jpg" tvg-region="Nalumavadi",Comforter TV Tamil
 https://jrd.lanevservices.in/jrdlive-abr/jrdtam/playlist.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="Asirvatham TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762075493_unnamed.jpg" tvg-name="Chennai ",Asirvatham TV
+#EXTINF:-1 tvg-id="25" tvg-chno="25" tvg-name="Asirvatham TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762075493_unnamed.jpg" tvg-region="Chennai ",Asirvatham TV
 https://stream.blessingtv.tv:1443/blessingtv-tamillive/mystream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="Rhema TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762075660_unnamed.png" tvg-name="",Rhema TV
+#EXTINF:-1 tvg-id="26" tvg-chno="26" tvg-name="Rhema TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762075660_unnamed.png" tvg-region="",Rhema TV
 https://ktismaservers.in:3647/live/rhematvlive.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="Salvation TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081350_unnamed.png" tvg-name="",Salvation TV
+#EXTINF:-1 tvg-id="27" tvg-chno="27" tvg-name="Salvation TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081350_unnamed.png" tvg-region="",Salvation TV
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="Peniel TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081497_unnamed.jpg" tvg-name="",Peniel TV
+#EXTINF:-1 tvg-id="28" tvg-chno="28" tvg-name="Peniel TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081497_unnamed.jpg" tvg-region="",Peniel TV
 http://indiamatrix.in/penieltv/penieltv.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="Adhisayam TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081631_images.jpg" tvg-name="Chennai",Adhisayam TV
+#EXTINF:-1 tvg-id="29" tvg-chno="29" tvg-name="Adhisayam TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081631_images.jpg" tvg-region="Chennai",Adhisayam TV
 https://livetv.adhisayamtv.org/adhisayamtv/83a062a18a761b948a73ad2ba7747a8f.sdp/adhisayamtv/adhisayamtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="Heaven TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083112_images+%282%29.png" tvg-name="Chennai",Heaven TV
+#EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-name="Heaven TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083112_images+%282%29.png" tvg-region="Chennai",Heaven TV
 https://heaventv.livebox.co.in/heaventvhls/live.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="Hosanna TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081925_images+%281%29.png" tvg-name="Chennai",Hosanna TV
+#EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-name="Hosanna TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762081925_images+%281%29.png" tvg-region="Chennai",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="Shine TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082106_channels4_profile.jpg" tvg-name="Nagarcoil",Shine TV
+#EXTINF:-1 tvg-id="32" tvg-chno="32" tvg-name="Shine TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082106_channels4_profile.jpg" tvg-region="Nagarcoil",Shine TV
 http://applelive.in/shinetv/shinetv.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Jesus Alive TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082263_unnamed+%281%29.png" tvg-name="",Jesus Alive TV
+#EXTINF:-1 tvg-id="33" tvg-chno="33" tvg-name="Jesus Alive TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082263_unnamed+%281%29.png" tvg-region="",Jesus Alive TV
 http://applelive.in/jesusalivetv/jesusalivetv.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="HebronTV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083168_images+%282%29.jpg" tvg-name="",HebronTV
+#EXTINF:-1 tvg-id="34" tvg-chno="34" tvg-name="HebronTV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083168_images+%282%29.jpg" tvg-region="",HebronTV
 https://account20.livebox.co.in/charleshls/live.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="Hebron Vision TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082552_channels4_profile+%281%29.jpg" tvg-name="",Hebron Vision TV
+#EXTINF:-1 tvg-id="35" tvg-chno="35" tvg-name="Hebron Vision TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082552_channels4_profile+%281%29.jpg" tvg-region="",Hebron Vision TV
 https://play.applelive.in/hebronvisiontv/hebronvisiontv.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="Praise TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1769082704_PRAISETV+LOGO.png" tvg-name="Nagercoil",Praise TV
+#EXTINF:-1 tvg-id="36" tvg-chno="36" tvg-name="Praise TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1769082704_PRAISETV+LOGO.png" tvg-region="Nagercoil",Praise TV
 https://play.applelive.in/praisetv/praisetv.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="Sharon TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082757_unnamed+%281%29.jpg" tvg-name=" Vetturnimadam, Nagercoil",Sharon TV
+#EXTINF:-1 tvg-id="37" tvg-chno="37" tvg-name="Sharon TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082757_unnamed+%281%29.jpg" tvg-region=" Vetturnimadam, Nagercoil",Sharon TV
 https://sscloud7.com/live/sharontv/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="Go Rivival TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082888_unnamed+%282%29.png" tvg-name="Chennai",Go Rivival TV
+#EXTINF:-1 tvg-id="38" tvg-chno="38" tvg-name="Go Rivival TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762082888_unnamed+%282%29.png" tvg-region="Chennai",Go Rivival TV
 https://ktismaservers.in:3870/live/gorevivaltvlive.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Tamil TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083346_71rRTMNMujL.png" tvg-name="",Tamil TV
+#EXTINF:-1 tvg-id="39" tvg-chno="39" tvg-name="Tamil TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083346_71rRTMNMujL.png" tvg-region="",Tamil TV
 https://ktismaservers.in:3220/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="Nambikkai TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083407_channels4_profile+%282%29.jpg" tvg-name="",Nambikkai TV
+#EXTINF:-1 tvg-id="40" tvg-chno="40" tvg-name="Nambikkai TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083407_channels4_profile+%282%29.jpg" tvg-region="",Nambikkai TV
 https://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="Uthamiye TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083474_unnamed.webp" tvg-name="",Uthamiye TV
+#EXTINF:-1 tvg-id="41" tvg-chno="41" tvg-name="Uthamiye TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083474_unnamed.webp" tvg-region="",Uthamiye TV
 https://kali.vdopanel.com:3169/stream/play.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="Ark TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083531_unnamed+%282%29.jpg" tvg-name="",Ark TV
+#EXTINF:-1 tvg-id="42" tvg-chno="42" tvg-name="Ark TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083531_unnamed+%282%29.jpg" tvg-region="",Ark TV
 https://ktismaservers.in:3917/live/arktvlive.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="Lord TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083626_images+%283%29.jpg" tvg-name="",Lord TV
+#EXTINF:-1 tvg-id="43" tvg-chno="43" tvg-name="Lord TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083626_images+%283%29.jpg" tvg-region="",Lord TV
 https://f-tx-edge-86.christianworldmedia.com/lordtvministries/mp4:lordtvministries/chunklist_w616847470.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="Family Channel " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762165879_channels4_profile.jpg" tvg-name="",Family Channel 
+#EXTINF:-1 tvg-id="43" tvg-chno="43" tvg-name="Family Channel " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762165879_channels4_profile.jpg" tvg-region="",Family Channel 
 https://2-fss-2.streamhoster.com/pl_118/203324-1410936-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="Bible TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762166129_BibleTV.png" tvg-name="",Bible TV
+#EXTINF:-1 tvg-id="44" tvg-chno="44" tvg-name="Bible TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762166129_BibleTV.png" tvg-region="",Bible TV
 https://account33.livebox.co.in/bibletvhls/live.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="El-Shaddai" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762166378_AngelTV.png" tvg-name="",El-Shaddai
+#EXTINF:-1 tvg-id="45" tvg-chno="45" tvg-name="El-Shaddai" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762166378_AngelTV.png" tvg-region="",El-Shaddai
 https://ktismaservers.in:3617/live/elshaddaitvlive.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="J King TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762166783_AngelTV.jpeg" tvg-name="",J King TV
+#EXTINF:-1 tvg-id="46" tvg-chno="46" tvg-name="J King TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762166783_AngelTV.jpeg" tvg-region="",J King TV
 https://live.brightmeltech.in/jkingtv/jkingtv.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="My Jesus TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179777_AngelTV%283%29.png" tvg-name="",My Jesus TV
+#EXTINF:-1 tvg-id="47" tvg-chno="47" tvg-name="My Jesus TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179777_AngelTV%283%29.png" tvg-region="",My Jesus TV
 https://5790d294af2dc.streamlock.net/myjesustv/myjesustv/playlist.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="Ruah TV " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179813_images+%288%29.jpeg" tvg-name="",Ruah TV 
+#EXTINF:-1 tvg-id="48" tvg-chno="48" tvg-name="Ruah TV " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179813_images+%288%29.jpeg" tvg-region="",Ruah TV 
 https://stream.onecloudlive.in/novamani/ruahtv/index.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="Nambikkai TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179850_channels4_profile.jpg" tvg-name="",Nambikkai TV
+#EXTINF:-1 tvg-id="49" tvg-chno="49" tvg-name="Nambikkai TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179850_channels4_profile.jpg" tvg-region="",Nambikkai TV
 https://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="Vaanmalar TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179895_channels4_profile+%281%29.jpg" tvg-name="",Vaanmalar TV
+#EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-name="Vaanmalar TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762179895_channels4_profile+%281%29.jpg" tvg-region="",Vaanmalar TV
 https://liveserv.in/videoplayer/vaanmalar.php
-#EXTINF:-1 tvg-id="51" tvg-name="New Life Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762941385_New+Life+Tv+From+Ooty.png" tvg-name="Ooty",New Life Tv
+#EXTINF:-1 tvg-id="51" tvg-chno="51" tvg-name="New Life Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762941385_New+Life+Tv+From+Ooty.png" tvg-region="Ooty",New Life Tv
 https://stream.e2is.in/hls/Newlife.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="நற்செய்தி டிவி " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1764856351_%E0%AE%A8%E0%AE%B1%E0%AF%8D%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF++%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%BF.png" tvg-name="Pavoorchatram",நற்செய்தி டிவி 
+#EXTINF:-1 tvg-id="52" tvg-chno="52" tvg-name="நற்செய்தி டிவி " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1764856351_%E0%AE%A8%E0%AE%B1%E0%AF%8D%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF++%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%BF.png" tvg-region="Pavoorchatram",நற்செய்தி டிவி 
 http//narcheithitv.in:8081/hls/narcheithitv/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="Jeevaneerodai Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1767870431_JN+LOGO.png" tvg-name="Pondicherry",Jeevaneerodai Tv
+#EXTINF:-1 tvg-id="53" tvg-chno="53" tvg-name="Jeevaneerodai Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1767870431_JN+LOGO.png" tvg-region="Pondicherry",Jeevaneerodai Tv
 http://web.applelive.in/jeevaneerodaitv/jeevaneerodaitv/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="Ratchagar TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1774941702_play.png" tvg-name="Tamilnadu",Ratchagar TV
+#EXTINF:-1 tvg-id="54" tvg-chno="54" tvg-name="Ratchagar TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1774941702_play.png" tvg-region="Tamilnadu",Ratchagar TV
 http://ratchagartv.phoenixcreations.online/ratchagartv/ratchagar/playlist.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="Arputhar Yesu TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1775965691_arputhar.png" tvg-name="Tamilnadu",Arputhar Yesu TV
+#EXTINF:-1 tvg-id="55" tvg-chno="55" tvg-name="Arputhar Yesu TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1775965691_arputhar.png" tvg-region="Tamilnadu",Arputhar Yesu TV
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="Belan TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1780668605_play_store_512.png" tvg-name="Palani",Belan TV
+#EXTINF:-1 tvg-id="56" tvg-chno="56" tvg-name="Belan TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1780668605_play_store_512.png" tvg-region="Palani",Belan TV
 http://belantv.phoenixcreations.online:1935/belantv/belan/playlist.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="King of Glory TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781673512_King+of+Glory+TV.webp" tvg-name="",King of Glory TV
+#EXTINF:-1 tvg-id="57" tvg-chno="57" tvg-name="King of Glory TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781673512_King+of+Glory+TV.webp" tvg-region="",King of Glory TV
 https://ipcloud.live/novamani/kingofglorytv/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="Nitthiya Velicham Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781788169_Nithiya+velicham.jpg" tvg-name="",Nitthiya Velicham Tv
+#EXTINF:-1 tvg-id="58" tvg-chno="58" tvg-name="Nitthiya Velicham Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781788169_Nithiya+velicham.jpg" tvg-region="",Nitthiya Velicham Tv
 https://play.applelive.in/nithyavelichamtv/nithyavelichamtv.m3u8
-#EXTINF:-1 tvg-id="59" tvg-name="Shekhinah TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781673730_Shekhinah+TV.webp" tvg-name="",Shekhinah TV
+#EXTINF:-1 tvg-id="59" tvg-chno="59" tvg-name="Shekhinah TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781673730_Shekhinah+TV.webp" tvg-region="",Shekhinah TV
 https://iptvhls.inet.moe/hls/newchannel_src/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="Arputhar Yesu TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781674848_Arputhar+Yesu+TV.webp" tvg-name="",Arputhar Yesu TV
+#EXTINF:-1 tvg-id="60" tvg-chno="60" tvg-name="Arputhar Yesu TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781674848_Arputhar+Yesu+TV.webp" tvg-region="",Arputhar Yesu TV
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="Jowh TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781675112_Jowh+TV.webp" tvg-name="",Jowh TV
+#EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-name="Jowh TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781675112_Jowh+TV.webp" tvg-region="",Jowh TV
 http://jowhtv.phoenixcreations.online:1935/jowhtv/jowh/playlist.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="JC TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781787820_JC.webp" tvg-name="Tirunelveli",JC TV
+#EXTINF:-1 tvg-id="62" tvg-chno="62" tvg-name="JC TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781787820_JC.webp" tvg-region="Tirunelveli",JC TV
 https://ipcloud.live/novamani/jctv/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="Divine Music TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781788530_Divine+Music+TV.webp" tvg-name="",Divine Music TV
+#EXTINF:-1 tvg-id="63" tvg-chno="63" tvg-name="Divine Music TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781788530_Divine+Music+TV.webp" tvg-region="",Divine Music TV
 https://ipcloud.live/novamani/divinetv/index.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="Gospel tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781788970_Gospel+tv.webp" tvg-name="",Gospel tv
+#EXTINF:-1 tvg-id="64" tvg-chno="64" tvg-name="Gospel tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781788970_Gospel+tv.webp" tvg-region="",Gospel tv
 https://play.applelive.in/gospeltv/gospeltv.m3u8
-#EXTINF:-1 tvg-id="101" tvg-name=" Vinmeen Music" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761226085_vinmeen.png" tvg-name="Valliyur", Vinmeen Music
+#EXTINF:-1 tvg-id="101" tvg-chno="101" tvg-name=" Vinmeen Music" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761226085_vinmeen.png" tvg-region="Valliyur", Vinmeen Music
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-#EXTINF:-1 tvg-id="102" tvg-name="Matha Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761240647_matha+tv.png" tvg-name="Nagercoil",Matha Tv
+#EXTINF:-1 tvg-id="102" tvg-chno="102" tvg-name="Matha Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761240647_matha+tv.png" tvg-region="Nagercoil",Matha Tv
 https://live.mathatv.in/mathatv/mathatv/index.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="Deva Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241415_Deva+TV+HD.png" tvg-name="Nagercoil",Deva Tv
+#EXTINF:-1 tvg-id="103" tvg-chno="103" tvg-name="Deva Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241415_Deva+TV+HD.png" tvg-region="Nagercoil",Deva Tv
 https://play.applelive.in/devatv/devatv.m3u8
-#EXTINF:-1 tvg-id="104" tvg-name="Mariyamatha Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241717_mariyamatha+TV.png" tvg-name="Nagercoil",Mariyamatha Tv
+#EXTINF:-1 tvg-id="104" tvg-chno="104" tvg-name="Mariyamatha Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241717_mariyamatha+TV.png" tvg-region="Nagercoil",Mariyamatha Tv
 https://play.applelive.in/mariyamathatv/mariyamathatv.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="Nanjilnatham Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241165_Nanjilnatham+TV.png" tvg-name="Nagercoil",Nanjilnatham Tv
+#EXTINF:-1 tvg-id="105" tvg-chno="105" tvg-name="Nanjilnatham Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1761241165_Nanjilnatham+TV.png" tvg-region="Nagercoil",Nanjilnatham Tv
 https://play.applelive.in/hls/nanjilnathamtv.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="Comforter TV Telugu" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083712_unnamed+%283%29.png" tvg-name="",Comforter TV Telugu
+#EXTINF:-1 tvg-id="150" tvg-chno="150" tvg-name="Comforter TV Telugu" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083712_unnamed+%283%29.png" tvg-region="",Comforter TV Telugu
 https://jrd.lanevservices.in/jrdlive-abr/jrdtel/jrdlive/jrdtel1/playlist.m3u8
-#EXTINF:-1 tvg-id="151" tvg-name="Comforter TV Kannada" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083749_unnamed+%283%29.png" tvg-name="",Comforter TV Kannada
+#EXTINF:-1 tvg-id="151" tvg-chno="151" tvg-name="Comforter TV Kannada" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083749_unnamed+%283%29.png" tvg-region="",Comforter TV Kannada
 https://jrd.lanevservices.in/jrdlive-abr/jrdkan/jrdlive/jrdkan1/playlist.m3u8
-#EXTINF:-1 tvg-id="152" tvg-name="Comforter Hindi" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083775_unnamed+%283%29.png" tvg-name="",Comforter Hindi
+#EXTINF:-1 tvg-id="152" tvg-chno="152" tvg-name="Comforter Hindi" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083775_unnamed+%283%29.png" tvg-region="",Comforter Hindi
 https://jrd.lanevservices.in/jrdlive-abr/jrdhin/jrdlive/jrdhin1/playlist.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="Angel TV - Africa" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083832_unnamed+%283%29.jpg" tvg-name="",Angel TV - Africa
+#EXTINF:-1 tvg-id="153" tvg-chno="153" tvg-name="Angel TV - Africa" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083832_unnamed+%283%29.jpg" tvg-region="",Angel TV - Africa
 https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="154" tvg-name="Angel Tv - America" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083854_unnamed+%283%29.jpg" tvg-name="",Angel Tv - America
+#EXTINF:-1 tvg-id="154" tvg-chno="154" tvg-name="Angel Tv - America" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083854_unnamed+%283%29.jpg" tvg-region="",Angel Tv - America
 https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="155" tvg-name="Angel TV - Chinese" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083957_unnamed+%283%29.jpg" tvg-name="",Angel TV - Chinese
+#EXTINF:-1 tvg-id="155" tvg-chno="155" tvg-name="Angel TV - Chinese" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1762083957_unnamed+%283%29.jpg" tvg-region="",Angel TV - Chinese
 https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="156" tvg-name="SHARON TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781674397_SHARON+TV.webp" tvg-name="",SHARON TV
+#EXTINF:-1 tvg-id="156" tvg-chno="156" tvg-name="SHARON TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjoshuaott%2Fuploads%2F1781674397_SHARON+TV.webp" tvg-region="",SHARON TV
 https://rtmp.bmlive.net/bms/sharontv/index.m3u8

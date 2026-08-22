@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Info" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782740489_logo.png" tvg-name="India",Info
+#EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="Info" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782740489_logo.png" tvg-region="India",Info
 http://112.133.198.71:1935/srivinayagatv/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="SRI VINAYAGA TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782804200_1002948169.jpg" tvg-name="Uthangarai",SRI VINAYAGA TV
+#EXTINF:-1 tvg-id="2" tvg-chno="2" tvg-name="SRI VINAYAGA TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782804200_1002948169.jpg" tvg-region="Uthangarai",SRI VINAYAGA TV
 http://112.133.198.71:1935/srivinayagatv/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="SRI VINAYAGA MUSIC" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782804241_1002948170.jpg" tvg-name="Uthangarai",SRI VINAYAGA MUSIC
+#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="SRI VINAYAGA MUSIC" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782804241_1002948170.jpg" tvg-region="Uthangarai",SRI VINAYAGA MUSIC
 http://112.133.198.71:1935/srivinayagatv/music/playlist.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="SRI VINAYAGA MOVIES" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782804280_1002948171.jpg" tvg-name="Uthangarai",SRI VINAYAGA MOVIES
+#EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="SRI VINAYAGA MOVIES" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782804280_1002948171.jpg" tvg-region="Uthangarai",SRI VINAYAGA MOVIES
 http://112.133.198.71:1935/srivinayagatv/movies/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="SRI VINAYAGA HOLLYWOOD" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782962302_hollywood+2.png" tvg-name="Uthangarai",SRI VINAYAGA HOLLYWOOD
+#EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="SRI VINAYAGA HOLLYWOOD" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782962302_hollywood+2.png" tvg-region="Uthangarai",SRI VINAYAGA HOLLYWOOD
 http://112.133.198.71:1935/srivinayagatv/hollywood/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="MAYIL TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782824649_mayil+tv+logo+ip+tv+copy.jpg" tvg-name="Mayiladuthurai ",MAYIL TV
+#EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="MAYIL TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fvinayagaott%2Fuploads%2F1782824649_mayil+tv+logo+ip+tv+copy.jpg" tvg-region="Mayiladuthurai ",MAYIL TV
 http://103.186.231.25:8080/hls/mayiltv/index.m3u8
