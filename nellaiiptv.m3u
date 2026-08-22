@@ -123,6 +123,14 @@ https://srv5.nellaiiptv.com/rojatv/rojatv/index.m3u8
 https://srv5.nellaiiptv.com/rojatventer/rojatventer/index.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="385" tvg-name="ROJA ENTERTAINMENT TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785419966.webp" group-title="Entertainment",48 ROJA ENTERTAINMENT TV [RTMP]
 
+#EXTINF:-1 tvg-chno="50" tvg-id="400" tvg-name="THARUN MOVIES" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311587.webp" group-title="Movies",50 THARUN MOVIES
+https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="400" tvg-name="THARUN MOVIES" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311587.webp" group-title="Movies",50 THARUN MOVIES [RTMP]
+
+#EXTINF:-1 tvg-chno="51" tvg-id="399" tvg-name="7 GREEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311494.webp" group-title="Entertainment",51 7 GREEN TV
+https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="399" tvg-name="7 GREEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311494.webp" group-title="Entertainment",51 7 GREEN TV [RTMP]
+
 #EXTINF:-1 tvg-chno="101" tvg-id="5" tvg-name="VEERALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/veerali_tv_1770715202.webp" group-title="",101 VEERALI TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="5" tvg-name="VEERALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/veerali_tv_1770715202.webp" group-title="",101 VEERALI TV [RTMP]
@@ -1078,14 +1086,6 @@ rtmp://stream1.rojatv.cloud:1935/kumaran/tv
 #EXTINF:-1 tvg-chno="633" tvg-id="398" tvg-name="ADHIYAMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311216.webp" group-title="Entertainment",633 ADHIYAMAN TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
 #EXTINF:-1 tvg-chno="633" tvg-id="398" tvg-name="ADHIYAMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311216.webp" group-title="Entertainment",633 ADHIYAMAN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="634" tvg-id="399" tvg-name="7 GREEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311494.webp" group-title="Entertainment",634 7 GREEN TV
-https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
-#EXTINF:-1 tvg-chno="634" tvg-id="399" tvg-name="7 GREEN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311494.webp" group-title="Entertainment",634 7 GREEN TV [RTMP]
-
-#EXTINF:-1 tvg-chno="635" tvg-id="400" tvg-name="THARUN MOVIES" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311587.webp" group-title="Movies",635 THARUN MOVIES
-https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
-#EXTINF:-1 tvg-chno="635" tvg-id="400" tvg-name="THARUN MOVIES" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311587.webp" group-title="Movies",635 THARUN MOVIES [RTMP]
 
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV
 https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
