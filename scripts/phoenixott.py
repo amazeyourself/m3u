@@ -15,7 +15,7 @@ for ott in ottlist:
         tvg_name = channel_data['channelname']
         tvg_region = channel_data['area']
         tvg_logo = urllib.parse.quote_plus(channel_data['logo'])
-        playlist.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" tvg-name="{tvg_region}",{tvg_name}')
+        playlist.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-chno="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" tvg-region="{tvg_region}",{tvg_name}')
         playlist.append(channel_data['playbackurl'])
 
     with open(f'./{ott}.m3u', 'w', newline='', encoding="utf-8") as f:
