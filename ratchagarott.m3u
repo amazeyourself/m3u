@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="Ratchagar TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fratchagarott%2Fuploads%2F1775206311_play.png" tvg-region="Tamilnadu",Ratchagar TV
+#EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="Ratchagar TV" tvg-logo="http://phoenixcreations.online/ott/ratchagarott/uploads/1775206311_play.png" tvg-region="Tamilnadu",Ratchagar TV
 http://ratchagartv.phoenixcreations.online/ratchagartv/ratchagar/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="Shiya TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fratchagarott%2Fuploads%2F1775310470_shiyatv.png" tvg-region="India",Shiya TV
+#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="Shiya TV" tvg-logo="http://phoenixcreations.online/ott/ratchagarott/uploads/1775310470_shiyatv.png" tvg-region="India",Shiya TV
 http://shiyatv.phoenixcreations.online/shiyatv/shiya/playlist.m3u8

@@ -1,85 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="ஜெயம் டி.வி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775654228_Jayam+Tv+Logo.png" tvg-region=" சிவகாசி",ஜெயம் டி.வி
+#EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="ஜெயம் டி.வி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775654228_Jayam Tv Logo.png" tvg-region=" சிவகாசி",ஜெயம் டி.வி
 https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
-#EXTINF:-1 tvg-id="2" tvg-chno="2" tvg-name="Phoenix TV" tvg-logo="https%3A%2F%2Fplay-lh.googleusercontent.com%2FCgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8%3Dw512-h512-rw" tvg-region="Tamilnadu",Phoenix TV
+#EXTINF:-1 tvg-id="2" tvg-chno="2" tvg-name="Phoenix TV" tvg-logo="https://play-lh.googleusercontent.com/CgR5PN5Jd8RTd8XqsUB7-Hq14-pv-Xw7giZfKls-BZMxn3NvnhtBDIh6lO_cp8ykHA8=w512-h512-rw" tvg-region="Tamilnadu",Phoenix TV
 https://phoenix-hs-ott.tamilstream.in/phoenix/phoenix/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="JRP TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775654862_JRP+HD2024.png" tvg-region="Usulampatti",JRP TV
+#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="JRP TV" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775654862_JRP HD2024.png" tvg-region="Usulampatti",JRP TV
 https://ipcloud.live/jrptv/jrphd/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="சஹாரா டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775899044_WhatsApp+Image+2026-04-11+at+2.37.02+PM.jpeg" tvg-region="திருச்செந்தூர்",சஹாரா டிவி
+#EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="சஹாரா டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775899044_WhatsApp Image 2026-04-11 at 2.37.02 PM.jpeg" tvg-region="திருச்செந்தூர்",சஹாரா டிவி
 https://ipcloud.live/saharatv/saharatvhd/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="M TV " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775654900_WhatsApp+Image+2026-04-08+at+6.18.png" tvg-region="Kodaikanal",M TV 
+#EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="M TV " tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775654900_WhatsApp Image 2026-04-08 at 6.18.png" tvg-region="Kodaikanal",M TV 
 https://ipcloud.live/mtv/menhd/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-chno="7" tvg-name="கார்த்திக் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775656421_WhatsApp+Image+2026-04-08+at+7.01.05+PM+%281%29.jpeg" tvg-region="சங்கரன்கோவில்",கார்த்திக் டிவி
+#EXTINF:-1 tvg-id="7" tvg-chno="7" tvg-name="கார்த்திக் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775656421_WhatsApp Image 2026-04-08 at 7.01.05 PM (1).jpeg" tvg-region="சங்கரன்கோவில்",கார்த்திக் டிவி
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-name="சூப்பர் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1781529671_WhatsApp+Image+2026-04-08+at+7.00.58+PM.jpeg" tvg-region="திண்டுக்கல்",சூப்பர் டிவி
+#EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-name="சூப்பர் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1781529671_WhatsApp Image 2026-04-08 at 7.00.58 PM.jpeg" tvg-region="திண்டுக்கல்",சூப்பர் டிவி
 http://122.165.249.163:8080/hls/supertv/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-chno="9" tvg-name="THENDRAL Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775658462_Thendral+.png" tvg-region="Madurai",THENDRAL Tv
+#EXTINF:-1 tvg-id="9" tvg-chno="9" tvg-name="THENDRAL Tv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775658462_Thendral .png" tvg-region="Madurai",THENDRAL Tv
 https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-name="எழில் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1786417280_WhatsApp+Image+2026-08-10+at+7.52.04+PM.jpeg" tvg-region="",எழில் டிவி
+#EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-name="எழில் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1786417280_WhatsApp Image 2026-08-10 at 7.52.04 PM.jpeg" tvg-region="",எழில் டிவி
 https://notvstream.in:1935/ezhiltv/ezhiltv
-#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-name="crayonz" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775708457_CRAYONZ+TV+LOGO+NEW%282%29.png" tvg-region="சென்னை",crayonz
+#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-name="crayonz" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775708457_CRAYONZ TV LOGO NEW(2).png" tvg-region="சென்னை",crayonz
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-name="தேவதை டி.வி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775656374_WhatsApp+Image+2026-04-08+at+7.01.07+PM+%281%29.jpeg" tvg-region="",தேவதை டி.வி
+#EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-name="தேவதை டி.வி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775656374_WhatsApp Image 2026-04-08 at 7.01.07 PM (1).jpeg" tvg-region="",தேவதை டி.வி
 https://ipcloud.live/devadhaitv/devadhaitv/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-name="ரோஜா டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775656573_WhatsApp+Image+2026-04-08+at+7.01.08+PM+%282%29.jpeg" tvg-region="",ரோஜா டிவி
+#EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-name="ரோஜா டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775656573_WhatsApp Image 2026-04-08 at 7.01.08 PM (2).jpeg" tvg-region="",ரோஜா டிவி
 https://rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-chno="15" tvg-name="RK Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775656903_WhatsApp+Image+2026-04-08+at+7.01.09+PM+%282%29.jpeg" tvg-region="Tenkasi",RK Tv
+#EXTINF:-1 tvg-id="15" tvg-chno="15" tvg-name="RK Tv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775656903_WhatsApp Image 2026-04-08 at 7.01.09 PM (2).jpeg" tvg-region="Tenkasi",RK Tv
 https://rktv-hs1.tamilstream.in/rktv/tenkasi/playlist.m3u8
-#EXTINF:-1 tvg-id="16" tvg-chno="16" tvg-name="அறம் டி.வி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775657199_WhatsApp+Image+2026-04-08+at+7.01.09+PM+%281%29.jpeg" tvg-region="மேட்டுப்பாளையம்",அறம் டி.வி
+#EXTINF:-1 tvg-id="16" tvg-chno="16" tvg-name="அறம் டி.வி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775657199_WhatsApp Image 2026-04-08 at 7.01.09 PM (1).jpeg" tvg-region="மேட்டுப்பாளையம்",அறம் டி.வி
 https://singamcloud.in/arammtv/arammtv/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-chno="17" tvg-name="Shalwin tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775658628_WhatsApp+Image+2026-04-08+at+7.01.07+PM+%282%29.jpeg" tvg-region="",Shalwin tv
+#EXTINF:-1 tvg-id="17" tvg-chno="17" tvg-name="Shalwin tv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775658628_WhatsApp Image 2026-04-08 at 7.01.07 PM (2).jpeg" tvg-region="",Shalwin tv
 https://live3.onecloudlive.in/shalwintv/shalwintv/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-chno="18" tvg-name="சக்திடிவி " tvg-logo="" tvg-region="",சக்திடிவி 
 https://stream.onecloudlive.in/sachintv/sakthitv/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-chno="19" tvg-name="அதியமான் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775659012_WhatsApp+Image+2026-04-08+at+7.01.01+PM+%281%29.jpeg" tvg-region="",அதியமான் டிவி
+#EXTINF:-1 tvg-id="19" tvg-chno="19" tvg-name="அதியமான் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775659012_WhatsApp Image 2026-04-08 at 7.01.01 PM (1).jpeg" tvg-region="",அதியமான் டிவி
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-chno="20" tvg-name="கிங் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775659863_WhatsApp+Image+2026-04-08+at+7.01.04+PM+%281%29.jpeg" tvg-region="ஆலங்குளம்",கிங் டிவி
+#EXTINF:-1 tvg-id="20" tvg-chno="20" tvg-name="கிங் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775659863_WhatsApp Image 2026-04-08 at 7.01.04 PM (1).jpeg" tvg-region="ஆலங்குளம்",கிங் டிவி
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-chno="21" tvg-name="Silver Sat Media" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1778983711_WhatsApp+Image+2026-05-17+at+7.34.57+AM+%281%29.jpeg" tvg-region="",Silver Sat Media
+#EXTINF:-1 tvg-id="21" tvg-chno="21" tvg-name="Silver Sat Media" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1778983711_WhatsApp Image 2026-05-17 at 7.34.57 AM (1).jpeg" tvg-region="",Silver Sat Media
 http://sanplayout.xyz/live2/silversatmedia/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-chno="22" tvg-name="தமிழ்மகன்டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775660222_WhatsApp+Image+2026-04-08+at+7.00.58+PM+%283%29.jpeg" tvg-region="ஸ்ரீவில்லிபுத்தூர்",தமிழ்மகன்டிவி
+#EXTINF:-1 tvg-id="22" tvg-chno="22" tvg-name="தமிழ்மகன்டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775660222_WhatsApp Image 2026-04-08 at 7.00.58 PM (3).jpeg" tvg-region="ஸ்ரீவில்லிபுத்தூர்",தமிழ்மகன்டிவி
 http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-name="டெல்டா டி.வி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775660297_WhatsApp+Image+2026-04-08+at+7.00.58+PM+%282%29.jpeg" tvg-region="",டெல்டா டி.வி
+#EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-name="டெல்டா டி.வி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775660297_WhatsApp Image 2026-04-08 at 7.00.58 PM (2).jpeg" tvg-region="",டெல்டா டி.வி
 https://live.onecloudlive.in/delta/namtv/index.m3u8
 #EXTINF:-1 tvg-id="24" tvg-chno="24" tvg-name="சுபாஷ் டிவி" tvg-logo="" tvg-region="தென்காசி",சுபாஷ் டிவி
 https://subashhd-sscloud7-in.proxy.nellaiiptv.com/live/subashhd/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-chno="25" tvg-name="சர்விக் டிவி" tvg-logo="" tvg-region="",சர்விக் டிவி
 https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-chno="26" tvg-name="சிம்ரோஸ் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775666572_WhatsApp+Image+2026-04-08+at+10.12.38+PM.jpeg" tvg-region="சாத்தான்குளம்",சிம்ரோஸ் டிவி
+#EXTINF:-1 tvg-id="26" tvg-chno="26" tvg-name="சிம்ரோஸ் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775666572_WhatsApp Image 2026-04-08 at 10.12.38 PM.jpeg" tvg-region="சாத்தான்குளம்",சிம்ரோஸ் டிவி
 https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-chno="27" tvg-name="முல்லை டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775660766_WhatsApp+Image+2026-04-08+at+7.00.55+PM.jpeg" tvg-region="ஈரோடு",முல்லை டிவி
+#EXTINF:-1 tvg-id="27" tvg-chno="27" tvg-name="முல்லை டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775660766_WhatsApp Image 2026-04-08 at 7.00.55 PM.jpeg" tvg-region="ஈரோடு",முல்லை டிவி
 https://live.apcloud.in/mullaitv/live/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-chno="28" tvg-name="தென்றல் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785515910_WhatsApp+Image+2026-07-31+at+10.06.25+PM+%281%29.jpeg" tvg-region="ஸ்ரீவில்லிபுத்தூர்",தென்றல் டிவி
+#EXTINF:-1 tvg-id="28" tvg-chno="28" tvg-name="தென்றல் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785515910_WhatsApp Image 2026-07-31 at 10.06.25 PM (1).jpeg" tvg-region="ஸ்ரீவில்லிபுத்தூர்",தென்றல் டிவி
 https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-chno="29" tvg-name="jcvtv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775660930_WhatsApp+Image+2026-04-08+at+7.00.47+PM.jpeg" tvg-region="நாகர்கோவில்",jcvtv
+#EXTINF:-1 tvg-id="29" tvg-chno="29" tvg-name="jcvtv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775660930_WhatsApp Image 2026-04-08 at 7.00.47 PM.jpeg" tvg-region="நாகர்கோவில்",jcvtv
 https://play.applelive.in/jcvtv/jcvtv.m3u8
-#EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-name="Thirai tamil tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1775661046_WhatsApp+Image+2026-04-08+at+7.01.08+PM+%281%29.jpeg" tvg-region="",Thirai tamil tv
+#EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-name="Thirai tamil tv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775661046_WhatsApp Image 2026-04-08 at 7.01.08 PM (1).jpeg" tvg-region="",Thirai tamil tv
 https://tn.streamezy.in/hls/tthirai/live.m3u8
-#EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-name="கணேஷ்டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785515971_WhatsApp+Image+2026-07-31+at+10.06.25+PM+%282%29.jpeg" tvg-region="",கணேஷ்டிவி
+#EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-name="கணேஷ்டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785515971_WhatsApp Image 2026-07-31 at 10.06.25 PM (2).jpeg" tvg-region="",கணேஷ்டிவி
 https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-chno="32" tvg-name="MN Tv" tvg-logo="" tvg-region="",MN Tv
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="33" tvg-chno="33" tvg-name="CTN Tv" tvg-logo="" tvg-region="",CTN Tv
 https://rtmp.bmlive.net/ctn/ctntn/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-chno="34" tvg-name="தெய்வீக ஒலி டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785900083_Deiveeka+oli_00606.png" tvg-region="சங்கரன்கோவில்",தெய்வீக ஒலி டிவி
+#EXTINF:-1 tvg-id="34" tvg-chno="34" tvg-name="தெய்வீக ஒலி டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785900083_Deiveeka oli_00606.png" tvg-region="சங்கரன்கோவில்",தெய்வீக ஒலி டிவி
 https://stream.onecloudlive.in/karthick/deivegaolitv/index.m3u8
-#EXTINF:-1 tvg-id="35" tvg-chno="35" tvg-name="லோட்டஸ் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785600220_WhatsApp+Image+2026-08-01+at+9.28.20+PM.jpeg" tvg-region="கொடுமுடி",லோட்டஸ் டிவி
+#EXTINF:-1 tvg-id="35" tvg-chno="35" tvg-name="லோட்டஸ் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785600220_WhatsApp Image 2026-08-01 at 9.28.20 PM.jpeg" tvg-region="கொடுமுடி",லோட்டஸ் டிவி
 https://akshaya.phoenixcreations.online/lotustv/lotustv
 #EXTINF:-1 tvg-id="36" tvg-chno="36" tvg-name="தங்கம் டிவி" tvg-logo="" tvg-region="",தங்கம் டிவி
 https://stream.onecloudlive.in/thangamtv/thangamtvhd/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-chno="37" tvg-name="மின்னல் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785637207_WhatsApp+Image+2026-08-01+at+10.32.06+PM.jpeg" tvg-region="",மின்னல் டிவி
+#EXTINF:-1 tvg-id="37" tvg-chno="37" tvg-name="மின்னல் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785637207_WhatsApp Image 2026-08-01 at 10.32.06 PM.jpeg" tvg-region="",மின்னல் டிவி
 https://ipcloud.live/minnaltv/minnalhd/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-chno="38" tvg-name="பொதிகை தென்றல்" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785637504_WhatsApp+Image+2026-08-01+at+10.32.07+PM.jpeg" tvg-region="சங்கரன்கோவில்",பொதிகை தென்றல்
+#EXTINF:-1 tvg-id="38" tvg-chno="38" tvg-name="பொதிகை தென்றல்" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785637504_WhatsApp Image 2026-08-01 at 10.32.07 PM.jpeg" tvg-region="சங்கரன்கோவில்",பொதிகை தென்றல்
 https://ipcloud.live/pothigai/thendral/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-chno="39" tvg-name="லக்கி டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785637267_WhatsApp+Image+2026-08-01+at+10.32.07+PM+%281%29.jpeg" tvg-region="",லக்கி டிவி
+#EXTINF:-1 tvg-id="39" tvg-chno="39" tvg-name="லக்கி டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785637267_WhatsApp Image 2026-08-01 at 10.32.07 PM (1).jpeg" tvg-region="",லக்கி டிவி
 https://live3.onecloudlive.in/luckytv/luckytvhd/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-chno="40" tvg-name="மலர் டி.வி" tvg-logo="" tvg-region="",மலர் டி.வி
 https://malartv.sscloud7.in/malartv/malartv/playlist.m3u8
-#EXTINF:-1 tvg-id="41" tvg-chno="41" tvg-name="இதயம் டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1778983521_WhatsApp+Image+2026-05-17+at+7.34.56+AM.jpeg" tvg-region="",இதயம் டிவி
+#EXTINF:-1 tvg-id="41" tvg-chno="41" tvg-name="இதயம் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1778983521_WhatsApp Image 2026-05-17 at 7.34.56 AM.jpeg" tvg-region="",இதயம் டிவி
 http://sanplayout.xyz/live2/idhayamtv/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-chno="42" tvg-name="ஜெயம் டிவி " tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785637320_WhatsApp+Image+2026-08-01+at+10.33.56+PM.jpeg" tvg-region="கரூர்",ஜெயம் டிவி 
+#EXTINF:-1 tvg-id="42" tvg-chno="42" tvg-name="ஜெயம் டிவி " tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785637320_WhatsApp Image 2026-08-01 at 10.33.56 PM.jpeg" tvg-region="கரூர்",ஜெயம் டிவி 
 https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
-#EXTINF:-1 tvg-id="43" tvg-chno="43" tvg-name="இதயம் கிட்ஸ்" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1778983676_WhatsApp+Image+2026-05-17+at+7.34.57+AM.jpeg" tvg-region="",இதயம் கிட்ஸ்
+#EXTINF:-1 tvg-id="43" tvg-chno="43" tvg-name="இதயம் கிட்ஸ்" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1778983676_WhatsApp Image 2026-05-17 at 7.34.57 AM.jpeg" tvg-region="",இதயம் கிட்ஸ்
 http://sanplayout.xyz/live2/idhayamkidz/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-chno="45" tvg-name="Sky Tv" tvg-logo="" tvg-region="",Sky Tv
 http://sanplayout.xyz/live2/skytv/index.m3u8
@@ -87,17 +87,17 @@ http://sanplayout.xyz/live2/skytv/index.m3u8
 http://live.mintv.in/vezhamugam/live/playlist.m3u8
 #EXTINF:-1 tvg-id="47" tvg-chno="47" tvg-name="Chola Tv" tvg-logo="" tvg-region="",Chola Tv
 https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-chno="48" tvg-name="Nammagopi Tv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1780123084_WhatsApp+Image+2026-05-29+at+11.42.52+AM.jpeg" tvg-region="",Nammagopi Tv
+#EXTINF:-1 tvg-id="48" tvg-chno="48" tvg-name="Nammagopi Tv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1780123084_WhatsApp Image 2026-05-29 at 11.42.52 AM.jpeg" tvg-region="",Nammagopi Tv
 https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
-#EXTINF:-1 tvg-id="49" tvg-chno="49" tvg-name="N vision Chennal" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1781011661_WhatsApp+Image+2026-06-09+at+10.18.18+AM.jpeg" tvg-region="PALAKKAD",N vision Chennal
+#EXTINF:-1 tvg-id="49" tvg-chno="49" tvg-name="N vision Chennal" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1781011661_WhatsApp Image 2026-06-09 at 10.18.18 AM.jpeg" tvg-region="PALAKKAD",N vision Chennal
 https://ipcloud.live/nvision/nvisionhd/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-name="N vision music" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1781011714_WhatsApp+Image+2026-06-09+at+10.18.18+AM.jpeg" tvg-region="PALAKKAD",N vision music
+#EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-name="N vision music" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1781011714_WhatsApp Image 2026-06-09 at 10.18.18 AM.jpeg" tvg-region="PALAKKAD",N vision music
 https://stream.onecloudlive.in/nvision/nvisionmusic/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-chno="51" tvg-name="Retro Music" tvg-logo="" tvg-region="",Retro Music
 https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-chno="52" tvg-name="Rainbow Tv" tvg-logo="" tvg-region="",Rainbow Tv
 https://live.cloudvu.in/rainbowtv/ssdslive/playlist.m3u8
-#EXTINF:-1 tvg-id="53" tvg-chno="53" tvg-name="Pugal TV" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1783236906_unnamed.webp" tvg-region="India",Pugal TV
+#EXTINF:-1 tvg-id="53" tvg-chno="53" tvg-name="Pugal TV" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1783236906_unnamed.webp" tvg-region="India",Pugal TV
 http://pugal.phoenixcreations.online/pugaltv/pugal/playlist.m3u8
 #EXTINF:-1 tvg-id="55" tvg-chno="55" tvg-name="citytv" tvg-logo="" tvg-region="",citytv
 https://hd.singamcloud.in/citytv/citytv/index.m3u8
@@ -107,11 +107,11 @@ https://app.xstream.onecloudlive.in/akaramtvhd/akaram/index.m3u8
 https://rtmp.applelive.in/swastiktv/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-chno="58" tvg-name="chittoortvhd" tvg-logo="" tvg-region="",chittoortvhd
 https://server.streamwell.in/chittoortvhd.m3u8
-#EXTINF:-1 tvg-id="59" tvg-chno="59" tvg-name="mtntv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785126728_LOGO.png" tvg-region="",mtntv
+#EXTINF:-1 tvg-id="59" tvg-chno="59" tvg-name="mtntv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785126728_LOGO.png" tvg-region="",mtntv
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-chno="60" tvg-name="velavantv" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785637360_WhatsApp+Image+2026-08-01+at+10.32.07+PM.jpeg" tvg-region="ஆலங்குளம்",velavantv
+#EXTINF:-1 tvg-id="60" tvg-chno="60" tvg-name="velavantv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785637360_WhatsApp Image 2026-08-01 at 10.32.07 PM.jpeg" tvg-region="ஆலங்குளம்",velavantv
 http://velavantv-iptv.sscloud7.in/live/velavantv/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-name="சித்தர் இசை" tvg-logo="" tvg-region="",சித்தர் இசை
 http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
-#EXTINF:-1 tvg-id="62" tvg-chno="62" tvg-name="சாரா டிவி" tvg-logo="http%3A%2F%2Fphoenixcreations.online%2Fott%2Fjayamott%2Fuploads%2F1785900010_WhatsApp+Image+2026-08-04+at+9.34.30+PM.jpeg" tvg-region="",சாரா டிவி
+#EXTINF:-1 tvg-id="62" tvg-chno="62" tvg-name="சாரா டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1785900010_WhatsApp Image 2026-08-04 at 9.34.30 PM.jpeg" tvg-region="",சாரா டிவி
 http://sarah.7starcloud.com:1935/live/sarahtv/live.m3u8
