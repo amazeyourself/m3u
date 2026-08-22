@@ -18,7 +18,7 @@ for ott in ottlist:
         playlist.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" tvg-name="{tvg_region}",{tvg_name}')
         playlist.append(channel_data['playbackurl'])
 
-    with open(f'{ott}.m3u', 'w', newline='', encoding="utf-8") as f:
+    with open(f'./{ott}.m3u', 'w', newline='', encoding="utf-8") as f:
         for lines in playlist:
             f.write(f'{lines}\n')
 
