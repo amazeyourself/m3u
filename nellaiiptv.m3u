@@ -479,6 +479,10 @@ None
 https://stream.onecloudlive.in/ezhiltv/ezhilhd/index.m3u8
 #EXTINF:-1 tvg-chno="372" tvg-id="198" tvg-name="EZHIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771257205.webp" group-title="Entertainment",372 EZHIL TV [RTMP]
 null
+#EXTINF:-1 tvg-chno="373" tvg-id="199" tvg-name="ROWTHIRAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253547.webp" group-title="Entertainment",373 ROWTHIRAM TV
+https://live.applelive.in/rowthiramtv/rowthiramtv/index.m3u8
+#EXTINF:-1 tvg-chno="373" tvg-id="199" tvg-name="ROWTHIRAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771253547.webp" group-title="Entertainment",373 ROWTHIRAM TV [RTMP]
+rtmp://eleventv.live3.onecloudlive.in:1935/eleventv/eleventv
 #EXTINF:-1 tvg-chno="374" tvg-id="201" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081746.webp" group-title="Entertainment",374 LUCKY TV
 https://live.onecloudlive.in/luckytvtk/luckytv/index.m3u8
 #EXTINF:-1 tvg-chno="374" tvg-id="201" tvg-name="LUCKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1773081746.webp" group-title="Entertainment",374 LUCKY TV [RTMP]
@@ -1060,7 +1064,7 @@ https://sarah-7starcloud-com.proxy.nellaiiptv.com/live/sarahtv/live.m3u8
 #EXTINF:-1 tvg-chno="626" tvg-id="391" tvg-name="SARAH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785858499.webp" group-title="Entertainment",626 SARAH TV [RTMP]
 
 #EXTINF:-1 tvg-chno="627" tvg-id="392" tvg-name="JEYA SUBBU TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786379346.webp" group-title="Entertainment",627 JEYA SUBBU TV
-https://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
+http://view.apserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 #EXTINF:-1 tvg-chno="627" tvg-id="392" tvg-name="JEYA SUBBU TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786379346.webp" group-title="Entertainment",627 JEYA SUBBU TV [RTMP]
 
 #EXTINF:-1 tvg-chno="628" tvg-id="393" tvg-name="AGSHAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1786803298.webp" group-title="Entertainment",628 AGSHAM TV
@@ -1086,6 +1090,10 @@ rtmp://stream1.rojatv.cloud:1935/kumaran/tv
 #EXTINF:-1 tvg-chno="633" tvg-id="398" tvg-name="ADHIYAMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311216.webp" group-title="Entertainment",633 ADHIYAMAN TV
 https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
 #EXTINF:-1 tvg-chno="633" tvg-id="398" tvg-name="ADHIYAMAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787311216.webp" group-title="Entertainment",633 ADHIYAMAN TV [RTMP]
+
+#EXTINF:-1 tvg-chno="634" tvg-id="401" tvg-name="AADHAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787463159.webp" group-title="Entertainment",634 AADHAVAN TV
+https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
+#EXTINF:-1 tvg-chno="634" tvg-id="401" tvg-name="AADHAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787463159.webp" group-title="Entertainment",634 AADHAVAN TV [RTMP]
 
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV
 https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
