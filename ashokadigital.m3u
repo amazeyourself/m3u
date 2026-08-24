@@ -120,7 +120,7 @@ http://122.165.249.163:8080/hls/supertv/index.m3u8
 #EXTINF:-1 tvg-id="87" tvg-chno="87" tvg-name="thirumalai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775583461_WhatsApp%20Image%202026-04-07%20at%206.43.19%20PM.jpeg" group-title="Tamil Nadu Channels",87 thirumalai tv
 
 #EXTINF:-1 tvg-id="88" tvg-chno="88" tvg-name="jaya subu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786290541_WhatsApp%20Image%202026-08-09%20at%208.35.04%20PM.jpeg" group-title="Tamil Nadu Channels",88 jaya subu tv
-http://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
+https://view.apserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 #EXTINF:-1 tvg-id="90" tvg-chno="90" tvg-name="Aalaya Magimai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731768528_AALYA%20MAGAMAI%20TV%20LOGO%20BAKTHI%20TV.png" group-title="Bakthi",90 Aalaya Magimai Tv
 https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 #EXTINF:-1 tvg-id="91" tvg-chno="91" tvg-name="BRITAIN TAMIL BHAKTHI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740571804_Britain%20Tamil-Logo%20Bhakthi.png" group-title="Bakthi",91 BRITAIN TAMIL BHAKTHI
@@ -281,6 +281,8 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 
 #EXTINF:-1 tvg-id="237" tvg-chno="237" tvg-name=" Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785674178_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Tamil Nadu Channels",237  Tv
 https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
+#EXTINF:-1 tvg-id="238" tvg-chno="238" tvg-name="thoma tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437744_1786264094_WhatsApp%20Image%202026-08-08%20at%2010.03.07%20PM-Photoroom.png" group-title="Christian Tv Channels",238 thoma tv
+
 #EXTINF:-1 tvg-id="239" tvg-chno="239" tvg-name="idhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png" group-title="Tamil Nadu Channels",239 idhayam tv
 https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
 #EXTINF:-1 tvg-id="240" tvg-chno="240" tvg-name="VDS TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787038089_WhatsApp%20Image%202026-08-17%20at%207.49.21%20PM.jpeg" group-title="Tamil Nadu Channels",240 VDS TV
