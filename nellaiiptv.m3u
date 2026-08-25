@@ -24,7 +24,7 @@ http://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="337" tvg-name="CRAYONZ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787293302.webp" group-title="Entertainment",8 CRAYONZ TV [RTMP]
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="119" tvg-name="SHARK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/shark_tv_1770713207.webp" group-title="Entertainment",9 SHARK TV
-https://srvx.nellaiiptv.com/restream/av4hud/index.m3u8
+https://srvx.nellaiiptv.com/restream/av4hu/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="119" tvg-name="SHARK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/shark_tv_1770713207.webp" group-title="Entertainment",9 SHARK TV [RTMP]
 rtmp://sharktv.stream.nellaiiptv.com:1935/live/789456
 #EXTINF:-1 tvg-chno="10" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",10 V TAMIL TV
