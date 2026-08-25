@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
-#EXTINF:-1 tvg-id="6a1ea44109705ebdf73b7c49" tvg-name="House of Creators" tvg-logo="https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png",House of Creators
-https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8
+#EXTINF:-1 tvg-id="678f891a3de7c8cf94765b01" tvg-name="Pluto TV Stand Up" tvg-logo="https://images.pluto.tv/channels/678f891a3de7c8cf94765b01/colorLogoPNG_1782908038932.png",Pluto TV Stand Up
+https://jmp2.uk/plu-678f891a3de7c8cf94765b01.m3u8
 #EXTINF:-1 tvg-id="6a6a02bd93ac783fe20d1bf7" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02bd93ac783fe20d1bf7/colorLogoPNG_1785333415249.png",NFL Channel
 https://jmp2.uk/plu-6a6a02bd93ac783fe20d1bf7.m3u8
-#EXTINF:-1 tvg-id="691b351d427d68a118fdda13" tvg-name="Cut" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png",Cut
-https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8
 #EXTINF:-1 tvg-id="6a31608fac88749b9cb85dd8" tvg-name="Ciné Charme by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a31608fac88749b9cb85dd8/colorLogoPNG_1785329824052.png",Ciné Charme by Pluto TV
 https://jmp2.uk/plu-6a31608fac88749b9cb85dd8.m3u8
 #EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-name="Pluto TV Polar" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",Pluto TV Polar
@@ -63,6 +61,8 @@ https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
 https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
 #EXTINF:-1 tvg-id="6683cd0f63a5f20008fb84a3" tvg-name="Un Si Grand Soleil" tvg-logo="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/colorLogoPNG_1749650858325.png",Un Si Grand Soleil
 https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
+#EXTINF:-1 tvg-id="691b351d427d68a118fdda13" tvg-name="Cut" tvg-logo="https://images.pluto.tv/channels/691b351d427d68a118fdda13/colorLogoPNG_1771923741719.png",Cut
+https://jmp2.uk/plu-691b351d427d68a118fdda13.m3u8
 #EXTINF:-1 tvg-id="6304f2e2eb10450007298023" tvg-name="Un Village Français" tvg-logo="https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png",Un Village Français
 https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
 #EXTINF:-1 tvg-id="5f8ed6d569d2d4000864a976" tvg-name="Louis La Brocante" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png",Louis La Brocante
@@ -199,6 +199,8 @@ https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
 https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8
 #EXTINF:-1 tvg-id="69b3db536c0414a7ecf564fb" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b3db536c0414a7ecf564fb/colorLogoPNG_1775061732639.png",Space Live
 https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8
+#EXTINF:-1 tvg-id="6a1ea44109705ebdf73b7c49" tvg-name="House of Creators" tvg-logo="https://images.pluto.tv/channels/6a1ea44109705ebdf73b7c49/colorLogoPNG_1782459640532.png",House of Creators
+https://jmp2.uk/plu-6a1ea44109705ebdf73b7c49.m3u8
 #EXTINF:-1 tvg-id="5f8ed3892ed7bb000741a1d2" tvg-name="Pluto TV Inside" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",Pluto TV Inside
 https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 #EXTINF:-1 tvg-id="5f8ed48146ba9e00078424b6" tvg-name="Pluto TV Cuisine" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png",Pluto TV Cuisine
