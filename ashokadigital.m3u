@@ -39,8 +39,6 @@ http://asokaapp-malartv.sscloud7.in/malartv/malartv/index.mpd
 
 #EXTINF:-1 tvg-id="20" tvg-chno="20" tvg-name="jkt tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746533345_jtk.png" group-title="Christian Tv Channels",20 jkt tv 
 https://app.ashokadigital.net/app/f8af5632/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-chno="21" tvg-name="thendral tv madurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748264819_thendral%20tv%20madurai.png" group-title="Tamil Nadu Channels",21 thendral tv madurai
-https://app.ashokadigital.net/app/830bad0d/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-chno="22" tvg-name="VAJRAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1765194225_202%20vajram%20tv%20new%20png.png" group-title="Tamil Nadu Channels",22 VAJRAM TV
 https://app.ashokadigital.net/app/68b001a0/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-name="VAJRA TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1765194315_203%20VAJRA%20NEW%20LOGO%202.png" group-title="Tamil Nadu Channels",23 VAJRA TV 
@@ -271,8 +269,8 @@ http://player.applemedianetwork.com/jcv/jcv.html
 http://skytv-iptv.sscloud7.in/live/skytv/index.m3u8
 #EXTINF:-1 tvg-id="232" tvg-chno="232" tvg-name="athithoothartv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785218651_1785156668_athithoothartv.png" group-title="Christian Tv Channels",232 athithoothartv
 https://athithoothartv-hls.proxy.nellaiiptv.com/live/athithoothartv/index.m3u8
-#EXTINF:-1 tvg-id="233" tvg-chno="233" tvg-name="garudantv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785328102_Garudan%20TV%20Logo.png" group-title="Tamil Nadu Channels",233 garudantv
-https://applelive.in/stream/garudantv
+#EXTINF:-1 tvg-id="233" tvg-chno="233" tvg-name="garudan tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787643805_garudan%20tv.png" group-title="Tamil Nadu Channels",233 garudan tv
+http://play.applelive.in/hls/garudantv.m3u8
 #EXTINF:-1 tvg-id="234" tvg-chno="234" tvg-name="kirubai tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411549_WhatsApp%20Image%202026-07-30%20at%205.02.41%20PM.jpeg" group-title="Christian Tv Channels",234 kirubai tv 
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="235" tvg-chno="235" tvg-name="subhash tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785411879_Subash%20Tv%20Logo%20copy.png" group-title="Tamil Nadu Channels",235 subhash tv
