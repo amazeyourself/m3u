@@ -291,6 +291,8 @@ http://117.247.192.123:8080/vds/vds.m3u8
 
 #EXTINF:-1 tvg-id="242" tvg-chno="242" tvg-name="globel TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787288061_WhatsApp%20Image%202026-08-21%20at%2010.15.54%20AM.jpeg" group-title="Tamil Nadu Channels",242 globel TV
 https://play.applelive.in/globaltv/globaltv.m3u8
+#EXTINF:-1 tvg-id="243" tvg-chno="243" tvg-name="monisha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787571932_WhatsApp%20Image%202026-08-24%20at%204.56.08%20PM.jpeg" group-title="Tamil Nadu Channels",243 monisha Tv
+http://manishatv1.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 tvg-id="287" tvg-chno="287" tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp%20Image%202026-08-06%20at%2012.21.27%20PM.jpeg" group-title="Tamil Nadu Channels",287 abnaztv
 https://live.toponlinetv.com/abnaztv/index.m3u8
 #EXTINF:-1 tvg-id="288" tvg-chno="288" tvg-name="Coimbatore " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title="Tamil Nadu Channels",288 Coimbatore 
