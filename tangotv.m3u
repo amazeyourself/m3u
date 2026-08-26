@@ -356,7 +356,9 @@ https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8
 #EXTINF:-1 tvg-logo="",Kairali TV
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
 #EXTINF:-1 tvg-logo="",Kairali We
-https://mumt01.tangotv.in/WETV/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
+#EXTINF:-1 tvg-logo="",Kairali We
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",Kalinga TV
 https://mumt01.tangotv.in/KALINGATV/index.m3u8
 #EXTINF:-1 tvg-logo="",Kappa TV
@@ -655,6 +657,8 @@ https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Sakshi TV
 https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Salaam TV
+https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
 #EXTINF:-1 tvg-logo="",Sandesh News
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="",Sangeet Bangla
@@ -675,10 +679,14 @@ https://mumt05.tangotv.in/87NeALx2SATSANG/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HSHEKINAHTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Shekinah TV
 https://mumt04.tangotv.in/m18aqlK4SHEKINAHTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Shemaroo Josh
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-logo="",Shemaroo Marathibana
 https://mumt07.tangotv.in/zHjX9OFlSHEMAROOMARATHIBANA/index.m3u8
 #EXTINF:-1 tvg-logo="",Shemaroo TV
-https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Shemaroo TV
+https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",Shemaroo Umang
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 tvg-logo="",Shraddha MH One
@@ -716,7 +724,13 @@ https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
 #EXTINF:-1 tvg-logo="",Subhavaartha TV
 https://mumt05.tangotv.in/87NeALx2SUBHAVAARTHATV/index.m3u8
 #EXTINF:-1 tvg-logo="",Sudarshan News
-https://mumt04.tangotv.in/SUDARSHANNEWS/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4SUDARSHANNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Sudarshan News
+https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-logo="",Suvarna News
+https://mumt04.tangotv.in/m18aqlK4SUVARNANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Suvarna News
+https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",SVBC
 https://mumt04.tangotv.in/m18aqlK4SVBCTELUGU/index.m3u8
 #EXTINF:-1 tvg-logo="",SVBC 2
@@ -733,6 +747,8 @@ https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="",Tabbar Hits
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+#EXTINF:-1 tvg-logo="",Tabbar Hits
+https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",Tadka
 https://mumt03.tangotv.in/Dsly5z3HTADKA/index.m3u8
 #EXTINF:-1 tvg-logo="",Tamil Janam
@@ -754,23 +770,33 @@ https://mumt03.tangotv.in/Dsly5z3HTIMESNOWNAVBHARAT/index.m3u8
 #EXTINF:-1 tvg-logo="",Total TV
 https://mumt04.tangotv.in/TOTALTV/index.m3u8
 #EXTINF:-1 tvg-logo="",TV5 Kannada
-https://mumt02.tangotv.in/TV5KANNADA/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
 #EXTINF:-1 tvg-logo="",TV5 News
 https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
 #EXTINF:-1 tvg-logo="",TV9 Bangla
 https://mumt05.tangotv.in/87NeALx2TV9BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Bangla
+https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",TV9 Bharatvarsh
 https://mumt01.tangotv.in/O5aw8Zn3TV9BHARATVARSH/index.m3u8
 #EXTINF:-1 tvg-logo="",TV9 Bharatvarsh
-https://mumt03.tangotv.in/Dsly5z3HTV9BHARATVARSH/index.m3u8
+https://streams.tangotv.in/TV9BHARATVARSH/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",TV9 Gujarati
 https://mumt03.tangotv.in/Dsly5z3HTV9GUJARATI/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Gujarati
+https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",TV9 Kannada
 https://mumt01.tangotv.in/O5aw8Zn3TV9KANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Kannada
+https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",TV9 Marathi
 https://mumt01.tangotv.in/O5aw8Zn3TV9MARATHI/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Marathi
+https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",TV9 Telugu
 https://mumt04.tangotv.in/m18aqlK4TV9TELUGU/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Telugu
+https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",TV 24
 https://mumt01.tangotv.in/TV24/index.m3u8
 #EXTINF:-1 tvg-logo="",TV 27 News
@@ -778,7 +804,7 @@ https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
 #EXTINF:-1 tvg-logo="",TV 100
 https://mumt01.tangotv.in/TV100/index.m3u8
 #EXTINF:-1 tvg-logo="",Unique TV
-https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 #EXTINF:-1 tvg-logo="",UTV Anandam
 https://mumt07.tangotv.in/zHjX9OFlUTVANANDAM/index.m3u8
 #EXTINF:-1 tvg-logo="",V6 News
@@ -792,11 +818,11 @@ https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Vedic
 https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 #EXTINF:-1 tvg-logo="",Velicham TV
-https://mumt05.tangotv.in/VALICHAMPLUS/index.m3u8
+https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="",Vendhar TV
 https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Vertent Samachar Plus 24x7
-https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
+https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="",Vissa TV
 https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
 #EXTINF:-1 tvg-logo="",Vistaar News
@@ -804,12 +830,16 @@ https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="",VTV News
 https://mumt04.tangotv.in/m18aqlK4VTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Win TV
-https://mumt03.tangotv.in/Dsly5z3HWINTV/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8
 #EXTINF:-1 tvg-logo="",WPN World Punjabi
-https://mumt02.tangotv.in/WPNWORLDPUNJABI/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8
 #EXTINF:-1 tvg-logo="",Zee 24 Taas
 https://mumt04.tangotv.in/m18aqlK4ZEE24TAAS/index.m3u8
+#EXTINF:-1 tvg-logo="",Zee 24 Taas
+https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-logo="",Zee Bharat
 https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
+#EXTINF:-1 tvg-logo="",Zee News
+https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8
 #EXTINF:-1 tvg-logo="",Zee Uttar Pradesh/Uttarakhand
 https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
