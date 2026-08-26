@@ -53,8 +53,6 @@ https://stream.d6-pro.com/Dtv/live/video.m3u8
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="28" tvg-chno="28" tvg-name="Params Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631200_params%20tv%20png%20lgog%20.png" group-title="Salem | Namakkal | Dharmapuri ",28 Params Tv
 https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-chno="29" tvg-name="kanishq" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787328303_2bce5445-aaa6-4982-988a-af44e1fccea4-Photoroom.png" group-title="Tamil Nadu Channels",29 kanishq
-https://app.ashokadigital.net/app/5926fcd7/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-name="palkarnu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785202037_palkaarnu%20tv%20logo%20png.png" group-title="Tamil Nadu Channels",30 palkarnu tv
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-chno="33" tvg-name="CTN Channel " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762496906_ctn%20channel%20log%20copy.png" group-title="Tamil Nadu Channels",33 CTN Channel 
@@ -405,6 +403,8 @@ https://app.ashokadigital.net/app/7fff5003/index.m3u8
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 tvg-id="851" tvg-chno="851" tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785667797_WhatsApp%20Image%202026-08-02%20at%2012.09.05%20PM.jpeg" group-title="Andhra Pradesh",851 rv digital tv
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
+#EXTINF:-1 tvg-id="852" tvg-chno="852" tvg-name="Tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787670977_3_2_01_copy__01-removebg-preview.png" group-title="Andhra Pradesh",852 Tv 
+https://stream.ashokadigital.net///index.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title="Tamil Nadu Channels",901 Chanakya up/uk
