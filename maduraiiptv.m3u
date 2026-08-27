@@ -187,10 +187,6 @@ https://srv5.nellaiiptv.com/rojatv/rojatv/index.m3u8
 https://srv5.nellaiiptv.com/rojatventer/rojatventer/index.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="385" tvg-name="ROJA ENTERTAINMENT TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786946977.webp" group-title="Entertainment",48 ROJA ENTERTAINMENT TV [RTMP]
 
-#EXTINF:-1 tvg-chno="56" tvg-id="321" tvg-name="PARAMS TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1777820994.webp" group-title="Entertainment",56 PARAMS TV
-https://stream.ashokadigital.net/ashokaslm/paramstv/index.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="321" tvg-name="PARAMS TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1777820994.webp" group-title="Entertainment",56 PARAMS TV [RTMP]
-
 #EXTINF:-1 tvg-chno="58" tvg-id="220" tvg-name="SITHAR TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771310492.webp" group-title="Entertainment",58 SITHAR TV
 https://kavintv-3.proxy.nellaiiptv.com/DINESH/PT2/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-chno="58" tvg-id="220" tvg-name="SITHAR TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771310492.webp" group-title="Entertainment",58 SITHAR TV [RTMP]
@@ -223,10 +219,6 @@ null
 https://stream.onecloudlive.in/pntv/pntv/index.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="308" tvg-name="PN TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1777320043.webp" group-title="Entertainment",71 PN TV [RTMP]
 rtmp://pntv.stream.onecloudlive.in/pntv/pntv
-#EXTINF:-1 tvg-chno="72" tvg-id="208" tvg-name="ASOKA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787210473.webp" group-title="Entertainment",72 ASOKA TV
-https://ipcloud.live/asokatv/asokahd/index.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-id="208" tvg-name="ASOKA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787210473.webp" group-title="Entertainment",72 ASOKA TV [RTMP]
-rtmp://ipcloud.live/asokatv/asokahd
 #EXTINF:-1 tvg-chno="73" tvg-id="369" tvg-name="SWASTIK TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1784549154.webp" group-title="Entertainment",73 SWASTIK TV
 https://srvx.nellaiiptv.com/restream/rhk9cx/index.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="369" tvg-name="SWASTIK TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1784549154.webp" group-title="Entertainment",73 SWASTIK TV [RTMP]
