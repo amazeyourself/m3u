@@ -1103,6 +1103,14 @@ https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-chno="636" tvg-id="405" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547123.webp" group-title="Entertainment",636 THENDRAL TV [RTMP]
 
+#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547229.webp" group-title="Entertainment",637 LION TV
+https://stream.iplive.xyz/smmedia/liontv/index.m3u8
+#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547229.webp" group-title="Entertainment",637 LION TV [RTMP]
+
+#EXTINF:-1 tvg-chno="638" tvg-id="407" tvg-name="CGN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787749407.webp" group-title="Devotional",638 CGN TV
+https://play.applelive.in/cgntv/cgntv.m3u8
+#EXTINF:-1 tvg-chno="638" tvg-id="407" tvg-name="CGN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787749407.webp" group-title="Devotional",638 CGN TV [RTMP]
+
 #EXTINF:-1 tvg-chno="639" tvg-id="408" tvg-name="KRISHNA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787552716.webp" group-title="Entertainment",639 KRISHNA TV
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 #EXTINF:-1 tvg-chno="639" tvg-id="408" tvg-name="KRISHNA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787552716.webp" group-title="Entertainment",639 KRISHNA TV [RTMP]
