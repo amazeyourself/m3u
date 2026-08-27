@@ -349,7 +349,7 @@ http://103.159.180.34:5001/live/561.m3u8
 http://103.159.180.34:5001/live/562.m3u8
 #EXTINF:-1 tvg-id="563" tvg-name="Kaumudy TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kaumudy_TV.png" tvg-language="Malayalam" group-title="Lifestyle", Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="565" tvg-name="ETV Abhiruchi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" tvg-language="Telugu" group-title="Lifestyle", ETV Abhiruchi
+#EXTINF:-1 tvg-id="565" tvg-name="ETV Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" tvg-language="Telugu" group-title="Music", ETV Music
 https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
 #EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHin.png" tvg-language="Hindi" group-title="Infotainment", Animal Planet Hindi
 http://103.159.180.34:5001/live/566.m3u8
@@ -2613,7 +2613,7 @@ https://knocktv.wiseplayout.com/Knock_News/master.m3u8
 http://103.159.180.34:5001/live/3557.m3u8
 #EXTINF:-1 tvg-id="3558" tvg-name="ETV News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png" tvg-language="Telugu" group-title="News", ETV News
 https://jmp2.uk/stvp-IN4900001AQ
-#EXTINF:-1 tvg-id="3559" tvg-name="ETV Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Music.png" tvg-language="Telugu" group-title="Music", ETV Music
+#EXTINF:-1 tvg-id="3559" tvg-name="ETV Beats" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Music.png" tvg-language="Telugu" group-title="Music", ETV Beats
 https://jmp2.uk/stvp-IN4900002RV
 #EXTINF:-1 tvg-id="3560" tvg-name="ETV Josh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" tvg-language="Telugu" group-title="Entertainment", ETV Josh
 https://jmp2.uk/stvp-IN4900004LP
