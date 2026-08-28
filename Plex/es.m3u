@@ -103,8 +103,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-668402fa702b9db9f8177254.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-68251044ae4546e02a6ba4f7.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",Tennis+
 https://jmp2.uk/plex-643054b1fc3be59477853717-6761f91555e174e95ccc4e4c.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",Motorvision TV en Español
-https://jmp2.uk/plex-643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6154a863e3e4d9577f96b31a" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",Nosey Escándalos
 https://jmp2.uk/plex-643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6880001d015fe7e375a1a0a8" tvg-name="Wedotv Amor Piel Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7aa34d17-de26-4b64-b4cc-628d572de91f/PielLight_Logo__1_.png",Wedotv Amor Piel Salvaje
@@ -153,6 +151,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-686462bf1a2f321847ec0395.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-65623e0eb7d737841f30a4ff.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75" tvg-name="Naturaleza" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png",Naturaleza
 https://jmp2.uk/plex-643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6a8cbec6fc51826f5301a15e" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b5fceee7-7621-4d5a-9012-92841799b250/Jail_channel_logo_4c_1500x1000RDX.png",JAIL
+https://jmp2.uk/plex-643054b1fc3be59477853717-6a8cbec6fc51826f5301a15e.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-69ae4f38e657bab5f7a9b7ec" tvg-name="Bondi Rescue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png",Bondi Rescue
 https://jmp2.uk/plex-643054b1fc3be59477853717-69ae4f38e657bab5f7a9b7ec.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-63f0ca427b78030ed9990309" tvg-name="CombaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png",CombaTV
@@ -277,6 +277,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-60d4edd6b2fdec002c141123.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66f6b947515e742745f5ca34" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",21 Jump Street
 https://jmp2.uk/plex-643054b1fc3be59477853717-66f6b947515e742745f5ca34.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",GrowthDay Network
+https://jmp2.uk/plex-643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",Billboard Español TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-6a3c2c8c14e447db7984cc3a.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",Death Valley Days
@@ -357,8 +359,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-61d73c3ca7b7c7f703418518.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-621672e42c2627c068e73ad8.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-65cd316a40ab06259e8168a0" tvg-name="Tastemade en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc603999-a138-434c-9bd9-ddad49009913/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png",Tastemade en Español
 https://jmp2.uk/plex-643054b1fc3be59477853717-65cd316a40ab06259e8168a0.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-67642f277c5e3b38af72dcdb" tvg-name="Cirque du Soleil" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
-https://jmp2.uk/plex-643054b1fc3be59477853717-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-635c61cc797a33fa4193cc93" tvg-name="Cosmic Frontiers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a514ca78-cb8d-4c2f-9d21-cdb8e6ed8197/Plex_CosmicFrontiers__Logo_DarkBackground_.png",Cosmic Frontiers
 https://jmp2.uk/plex-643054b1fc3be59477853717-635c61cc797a33fa4193cc93.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-65b80306e5cf85050598aba4" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",Made It Myself TV

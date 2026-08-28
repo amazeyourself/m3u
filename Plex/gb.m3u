@@ -211,6 +211,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-650b60deb2413c46bf584d86.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-67d9a3d663c5439aeaf61305.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69bb1f002028859eafc637e1" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",Legacy
 https://jmp2.uk/plex-64305451fc3be5947773c339-69bb1f002028859eafc637e1.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a8cc101fc51826f5301a160" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",COPS Reloaded
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a8cc101fc51826f5301a160.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6448ba1baf92c31f4a190c27" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",JAIL
 https://jmp2.uk/plex-64305451fc3be5947773c339-6448ba1baf92c31f4a190c27.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a2ab3dce6a243c85608e4b2" tvg-name="60 Days In Jail" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f98eaac1-2402-4220-bc91-c71ad34c49e1/60_Days_In_Jail_channel_logo_dark_1500x1000WHT_RDX.png",60 Days In Jail
@@ -323,6 +325,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-60d4edddb2fdec002c141135.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-62d1a58e520656fda09e609d.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-652a8b001b5c74bc83cf727c" tvg-name="Dog Whisperer" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",Dog Whisperer
 https://jmp2.uk/plex-64305451fc3be5947773c339-652a8b001b5c74bc83cf727c.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",GrowthDay Network
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6582a1316b91be4547aa153c" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png",Hot Ones
 https://jmp2.uk/plex-64305451fc3be5947773c339-6582a1316b91be4547aa153c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64e43b37200cd2f67473e0d4" tvg-name="True Crime Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png",True Crime Now
@@ -341,8 +345,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-63894c1965b848bf2c8a7800.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6515fd4f2ff655e77635c628.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68893b831b1a8359c63cf6ee" tvg-name="Real Crime Uncovered" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf91965d-eded-47f6-8594-0a9d02e6cffc/RealCrimeUncovered_Logo_White_Denise_O_KeeffeWHITE.png",Real Crime Uncovered
 https://jmp2.uk/plex-64305451fc3be5947773c339-68893b831b1a8359c63cf6ee.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",Motorvision TV
-https://jmp2.uk/plex-64305451fc3be5947773c339-603fb593a99efc002dbf90e4.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-650b5bb3f4b2d9579946a500" tvg-name="Mythical 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png",Mythical 24/7
 https://jmp2.uk/plex-64305451fc3be5947773c339-650b5bb3f4b2d9579946a500.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69d57d295a891b1ff36c0c5c" tvg-name="Entertains" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d5fc6d1-628c-459a-afd8-061feab68458/ABC-enertains-logo-dark-mode_wht_pink_text.png",Entertains
@@ -503,8 +505,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-630fa9e577ec3866def38fa2.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-61d73c3ca7b7c7f703418518.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",Yahoo Finance
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f170f01b898490041b49dd1.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-67642f277c5e3b38af72dcdb" tvg-name="Cirque du Soleil" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
-https://jmp2.uk/plex-64305451fc3be5947773c339-67642f277c5e3b38af72dcdb.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-61a945156547ba4d6d238dc9" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png",Racing America
 https://jmp2.uk/plex-64305451fc3be5947773c339-61a945156547ba4d6d238dc9.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-67f45ef989089d917e1b1634" tvg-name="Unbeaten" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",Unbeaten
@@ -563,8 +563,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-665e48c419c3bb1f606d86ab.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a63a912a1deb5624927c62b.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64b1da0f46d96b0c91bb1a40" tvg-name="Yu-Gi-Oh!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1d1124ab-5158-49f6-b748-1bd22455746d/Wurl_Yu-Gi-Oh_Channel_Logo_light_Astridrdx.png",Yu-Gi-Oh!
 https://jmp2.uk/plex-64305451fc3be5947773c339-64b1da0f46d96b0c91bb1a40.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-65621cad5dbccec83a87b63f" tvg-name="The Talk Show Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/916f4af0-91c4-4501-b233-0216354ae982/TheTalkShowChannelLogo_1500x1000.png",The Talk Show Channel
-https://jmp2.uk/plex-64305451fc3be5947773c339-65621cad5dbccec83a87b63f.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-664e9fade8824b0c3476278b" tvg-name="Tiny Pop" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6889ca2-529e-42fd-bd5a-623b1467cdb9/Tiny-Pop-Light-_-Dark-Logo__1_.png",Tiny Pop
 https://jmp2.uk/plex-64305451fc3be5947773c339-664e9fade8824b0c3476278b.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png",TG Junior
