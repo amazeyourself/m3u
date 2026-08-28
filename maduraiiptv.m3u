@@ -187,6 +187,10 @@ https://srv5.nellaiiptv.com/rojatv/rojatv/index.m3u8
 https://srv5.nellaiiptv.com/rojatventer/rojatventer/index.m3u8
 #EXTINF:-1 tvg-chno="48" tvg-id="385" tvg-name="ROJA ENTERTAINMENT TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786946977.webp" group-title="Entertainment",48 ROJA ENTERTAINMENT TV [RTMP]
 
+#EXTINF:-1 tvg-chno="49" tvg-id="436" tvg-name="adhiyamam tv" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787898696.webp" group-title="Entertainment",49 adhiyamam tv
+https://hd.singamcloud.in/adhiyamamtv/adhiyamamtv/index.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="436" tvg-name="adhiyamam tv" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787898696.webp" group-title="Entertainment",49 adhiyamam tv [RTMP]
+
 #EXTINF:-1 tvg-chno="58" tvg-id="220" tvg-name="SITHAR TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771310492.webp" group-title="Entertainment",58 SITHAR TV
 https://kavintv-3.proxy.nellaiiptv.com/DINESH/PT2/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-chno="58" tvg-id="220" tvg-name="SITHAR TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771310492.webp" group-title="Entertainment",58 SITHAR TV [RTMP]
@@ -236,7 +240,7 @@ rtmp://stream.dureshtech.com/vtv/vtv
 #EXTINF:-1 tvg-chno="77" tvg-id="413" tvg-name="Puthiya Thalaimurai TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403355.webp" group-title="News",77 Puthiya Thalaimurai TV [RTMP]
 
 #EXTINF:-1 tvg-chno="78" tvg-id="414" tvg-name="News18 Tamil Nadu" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403794.webp" group-title="News",78 News18 Tamil Nadu
- https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8 
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="414" tvg-name="News18 Tamil Nadu" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403794.webp" group-title="News",78 News18 Tamil Nadu [RTMP]
 
 #EXTINF:-1 tvg-chno="79" tvg-id="415" tvg-name="News 7 Tamil" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787404439.webp" group-title="News",79 News 7 Tamil
@@ -275,9 +279,13 @@ http://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 http://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="429" tvg-name="THIRAI MUSIC TV" tvg-logo="" group-title="Music",95 THIRAI MUSIC TV [RTMP]
 
-#EXTINF:-1 tvg-chno="97" tvg-id="139" tvg-name="POTHIGAI THENTRAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245718.webp" group-title="Entertainment",97 POTHIGAI THENTRAL TV
+#EXTINF:-1 tvg-chno="96" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",96 palaar tv
+https://livetv.ipcloud.live/channels/palaartv/palaartv.php
+#EXTINF:-1 tvg-chno="96" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",96 palaar tv [RTMP]
+
+#EXTINF:-1 tvg-chno="98" tvg-id="139" tvg-name="POTHIGAI THENTRAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245718.webp" group-title="Entertainment",98 POTHIGAI THENTRAL TV
 https://srvx.nellaiiptv.com/restream/eg7arr/index.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="139" tvg-name="POTHIGAI THENTRAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245718.webp" group-title="Entertainment",97 POTHIGAI THENTRAL TV [RTMP]
+#EXTINF:-1 tvg-chno="98" tvg-id="139" tvg-name="POTHIGAI THENTRAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245718.webp" group-title="Entertainment",98 POTHIGAI THENTRAL TV [RTMP]
 rtmp://ipcloud.live:1935/pothigai/thendral
 #EXTINF:-1 tvg-chno="101" tvg-id="5" tvg-name="VEERALI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/veerali_tv_1770715202.webp" group-title="",101 VEERALI TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
@@ -840,11 +848,11 @@ https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
 #EXTINF:-1 tvg-chno="457" tvg-id="230" tvg-name="EZHIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771601170.webp" group-title="Entertainment",457 EZHIL TV [RTMP]
 rtmp://rtmp.notvstream.in:1935/ezhiltv/ezhiltv
 #EXTINF:-1 tvg-chno="500" tvg-id="113" tvg-name="Polimer News" tvg-logo="https://files.catbox.moe/jn8jwc.jpg" group-title="News",500 Polimer News
-https://live-cf-polimernews.dailyhunt.in/master.m3u8
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-chno="500" tvg-id="113" tvg-name="Polimer News" tvg-logo="https://files.catbox.moe/jn8jwc.jpg" group-title="News",500 Polimer News [RTMP]
 null
 #EXTINF:-1 tvg-chno="501" tvg-id="34" tvg-name="News24x7 Tamil" tvg-logo="https://files.catbox.moe/ts1jaf.webp" group-title="News",501 News24x7 Tamil
-https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
+https://cdn-3.pishow.tv/live/1433/master.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="34" tvg-name="News24x7 Tamil" tvg-logo="https://files.catbox.moe/ts1jaf.webp" group-title="News",501 News24x7 Tamil [RTMP]
 null
 #EXTINF:-1 tvg-chno="545" tvg-id="299" tvg-name="NIJAM TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1774419921.webp" group-title="Devotional",545 NIJAM TV
@@ -1235,10 +1243,22 @@ null
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 tvg-chno="770" tvg-id="110" tvg-name="Cartoon Classics" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787210977.webp" group-title="Kids",770 Cartoon Classics [RTMP]
 null
-#EXTINF:-1 tvg-chno="808" tvg-id="125" tvg-name="KRISHNA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787211036.webp" group-title="Entertainment",808 KRISHNA TV
+#EXTINF:-1 tvg-chno="776" tvg-id="125" tvg-name="KRISHNA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787211036.webp" group-title="Entertainment",776 KRISHNA TV
 https://stream.onecloudlive.in/krishnatv/krishnatvhd/index.m3u8
-#EXTINF:-1 tvg-chno="808" tvg-id="125" tvg-name="KRISHNA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787211036.webp" group-title="Entertainment",808 KRISHNA TV [RTMP]
+#EXTINF:-1 tvg-chno="776" tvg-id="125" tvg-name="KRISHNA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787211036.webp" group-title="Entertainment",776 KRISHNA TV [RTMP]
 null
+#EXTINF:-1 tvg-chno="800" tvg-id="433" tvg-name="9XM" tvg-logo="" group-title="Music",800 9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-chno="800" tvg-id="433" tvg-name="9XM" tvg-logo="" group-title="Music",800 9XM [RTMP]
+
+#EXTINF:-1 tvg-chno="801" tvg-id="434" tvg-name="pishow.tv" tvg-logo="" group-title="",801 pishow.tv
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-chno="801" tvg-id="434" tvg-name="pishow.tv" tvg-logo="" group-title="",801 pishow.tv [RTMP]
+
+#EXTINF:-1 tvg-chno="803" tvg-id="435" tvg-name="akamaized" tvg-logo="" group-title="International",803 akamaized
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-chno="803" tvg-id="435" tvg-name="akamaized" tvg-logo="" group-title="International",803 akamaized [RTMP]
+
 #EXTINF:-1 tvg-chno="1302" tvg-id="119" tvg-name="SHARK TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/shark_tv_1770713207.webp" group-title="Entertainment",1302 SHARK TV
 https://srvx.nellaiiptv.com/restream/av4hud/index.m3u8
 #EXTINF:-1 tvg-chno="1302" tvg-id="119" tvg-name="SHARK TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/shark_tv_1770713207.webp" group-title="Entertainment",1302 SHARK TV [RTMP]
