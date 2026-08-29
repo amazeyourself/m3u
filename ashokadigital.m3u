@@ -89,6 +89,8 @@ https://app.ashokadigital.net/app/55c65ef4/index.m3u8
 https://app.ashokadigital.net/app/74f6070c/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-chno="70" tvg-name="Hansitha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" group-title="Tamil Nadu Channels",70 Hansitha Tv
 https://air.rojatv.cloud/hanshitha/tv/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-chno="73" tvg-name="JRP TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739251156_JRP%20.png" group-title="Tamil Nadu Channels",73 JRP TV HD
+https://app.ashokadigital.net/app/16b78045/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-chno="74" tvg-name="Ruby Digital Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1781012797_RubyDigitalTv.png" group-title="Tamil Nadu Channels",74 Ruby Digital Tv
 https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-chno="75" tvg-name="KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km%20music.png" group-title="Tamil Nadu Channels",75 KM Music
@@ -131,6 +133,8 @@ https://stream.d6-pro.com/Dbhakhi/live/video.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-chno="96" tvg-name="VEZHAMUGAM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284662_New%20Ai%20Logp%20copy.png" group-title="Tamil Nadu Channels",96 VEZHAMUGAM
 http://live.mintv.in/vezhamugam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="99" tvg-chno="99" tvg-name="globel TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787288061_WhatsApp%20Image%202026-08-21%20at%2010.15.54%20AM.jpeg" group-title="Tamil Nadu Channels",99 globel TV
+https://play.applelive.in/globaltv/globaltv.m3u8
 #EXTINF:-1 tvg-id="102" tvg-chno="102" tvg-name="kathir tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png" group-title="Tamil Nadu Channels",102 kathir tv
 https://app.ashokadigital.net/app/cbc54d21/index.m3u8
 #EXTINF:-1 tvg-id="110" tvg-chno="110" tvg-name="RAINBOW TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png" group-title="Tamil Nadu Channels",110 RAINBOW TV
@@ -235,6 +239,8 @@ https://app.ashokadigital.net/app/eb990565/index.m3u8
 
 #EXTINF:-1 tvg-id="212" tvg-chno="212" tvg-name="DEEPAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777284451_DEEPAM%20TV%20LOGO%20new%20logo%20copy.png" group-title="Salem | Namakkal | Dharmapuri ",212 DEEPAM TV
 http://deepam.7starcloud.com:1935/live/deepamtv/live.m3u8
+#EXTINF:-1 tvg-id="213" tvg-chno="213" tvg-name="HAI TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787907930_IMG_3011.PNG" group-title="Tamil Nadu Channels",213 HAI TV 
+https://play.applelive.in/haitv/haitv.m3u8
 #EXTINF:-1 tvg-id="214" tvg-chno="214" tvg-name="Sri Naga Sai Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1751355066_250%20sri%20naga%20sai%20trust%20tv.png" group-title="Bakthi",214 Sri Naga Sai Tv
 http://singamcloud.in/saibaba/livekovai/index.m3u8
 #EXTINF:-1 tvg-id="215" tvg-chno="215" tvg-name="aalaya magimai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770880756_AALYA%20MAGAMAI%20TV%20LOGO%20BAKTHI%20TV.png" group-title="Tamil Nadu Channels",215 aalaya magimai
@@ -287,8 +293,6 @@ https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
 http://117.247.192.123:8080/vds/vds.m3u8
 #EXTINF:-1 tvg-id="241" tvg-chno="241" tvg-name="AGASHAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787145831_file_00000000df288208984131c6f69dc32d.png" group-title="Tamil Nadu Channels",241 AGASHAM TV
 
-#EXTINF:-1 tvg-id="242" tvg-chno="242" tvg-name="globel TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787288061_WhatsApp%20Image%202026-08-21%20at%2010.15.54%20AM.jpeg" group-title="Tamil Nadu Channels",242 globel TV
-https://play.applelive.in/globaltv/globaltv.m3u8
 #EXTINF:-1 tvg-id="243" tvg-chno="243" tvg-name="monisha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787571932_WhatsApp%20Image%202026-08-24%20at%204.56.08%20PM.jpeg" group-title="Tamil Nadu Channels",243 monisha Tv
 http://manishatv1.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 tvg-id="244" tvg-chno="244" tvg-name="cgn tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787725031_CGN%20TV%20%20YT%201.jpg-Photoroom.png" group-title="Christian Tv Channels",244 cgn tv
