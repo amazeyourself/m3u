@@ -139,6 +139,10 @@ None
 https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="123" tvg-name="JAYAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246621.webp" group-title="Entertainment",102 JAYAM TV [RTMP]
 None
+#EXTINF:-1 tvg-chno="104" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785822487.webp" group-title="Entertainment",104 GLOBAL TV
+https://play.applelive.in/globaltv/globaltv.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785822487.webp" group-title="Entertainment",104 GLOBAL TV [RTMP]
+
 #EXTINF:-1 tvg-chno="105" tvg-id="340" tvg-name="CHOLA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779709839.webp" group-title="Entertainment",105 CHOLA TV
 https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="340" tvg-name="CHOLA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1779709839.webp" group-title="Entertainment",105 CHOLA TV [RTMP]
@@ -1055,10 +1059,6 @@ https://orange.stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
 https://rtmp.bmlive.net/ctn/ctntn/index.m3u8
 #EXTINF:-1 tvg-chno="624" tvg-id="389" tvg-name="CTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785675453.webp" group-title="",624 CTN TV [RTMP]
 
-#EXTINF:-1 tvg-chno="625" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785822487.webp" group-title="Entertainment",625 GLOBAL TV
-https://play.applelive.in/globaltv/globaltv.m3u8
-#EXTINF:-1 tvg-chno="625" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785822487.webp" group-title="Entertainment",625 GLOBAL TV [RTMP]
-
 #EXTINF:-1 tvg-chno="626" tvg-id="391" tvg-name="SARAH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785858499.webp" group-title="Entertainment",626 SARAH TV
 https://sarah-7starcloud-com.proxy.nellaiiptv.com/live/sarahtv/live.m3u8
 #EXTINF:-1 tvg-chno="626" tvg-id="391" tvg-name="SARAH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785858499.webp" group-title="Entertainment",626 SARAH TV [RTMP]
@@ -1103,9 +1103,9 @@ https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-chno="636" tvg-id="405" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547123.webp" group-title="Entertainment",636 THENDRAL TV [RTMP]
 
-#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547229.webp" group-title="Entertainment",637 LION TV
+#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787936948.webp" group-title="Entertainment",637 LION TV
 https://stream.iplive.xyz/smmedia/liontv/index.m3u8
-#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547229.webp" group-title="Entertainment",637 LION TV [RTMP]
+#EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787936948.webp" group-title="Entertainment",637 LION TV [RTMP]
 
 #EXTINF:-1 tvg-chno="638" tvg-id="407" tvg-name="CGN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787749407.webp" group-title="Devotional",638 CGN TV
 https://play.applelive.in/cgntv/cgntv.m3u8
@@ -1114,6 +1114,14 @@ https://play.applelive.in/cgntv/cgntv.m3u8
 #EXTINF:-1 tvg-chno="639" tvg-id="408" tvg-name="KRISHNA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787552716.webp" group-title="Entertainment",639 KRISHNA TV
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 #EXTINF:-1 tvg-chno="639" tvg-id="408" tvg-name="KRISHNA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787552716.webp" group-title="Entertainment",639 KRISHNA TV [RTMP]
+
+#EXTINF:-1 tvg-chno="640" tvg-id="409" tvg-name="PALAAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937211.webp" group-title="Entertainment",640 PALAAR TV
+https://live.onecloudlive.in/palaartv/palaartv/index.m3u8
+#EXTINF:-1 tvg-chno="640" tvg-id="409" tvg-name="PALAAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937211.webp" group-title="Entertainment",640 PALAAR TV [RTMP]
+
+#EXTINF:-1 tvg-chno="641" tvg-id="410" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937387.webp" group-title="Entertainment",641 NILA TV
+https://live.onecloudlive.in/palaartv/nilatv/index.m3u8
+#EXTINF:-1 tvg-chno="641" tvg-id="410" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787937387.webp" group-title="Entertainment",641 NILA TV [RTMP]
 
 #EXTINF:-1 tvg-chno="656" tvg-id="319" tvg-name="ANANDAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777820681.webp" group-title="Entertainment",656 ANANDAM TV
 https://app.ashokadigital.net/app/8fe44fd0/index.m3u8
