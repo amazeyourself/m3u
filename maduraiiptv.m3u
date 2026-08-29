@@ -235,10 +235,10 @@ https://rtmp.bmlive.net/bms/kctv/index.m3u8
 https://srvx.nellaiiptv.com/restream/88k94t/index.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",76 V TAMIL TV [RTMP]
 rtmp://stream.dureshtech.com/vtv/vtv
-#EXTINF:-1 tvg-chno="77" tvg-id="413" tvg-name="Puthiya Thalaimurai TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403355.webp" group-title="News",77 Puthiya Thalaimurai TV
-  https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8 
-#EXTINF:-1 tvg-chno="77" tvg-id="413" tvg-name="Puthiya Thalaimurai TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403355.webp" group-title="News",77 Puthiya Thalaimurai TV [RTMP]
-
+#EXTINF:-1 tvg-chno="77" tvg-id="113" tvg-name="Polimer News" tvg-logo="https://files.catbox.moe/jn8jwc.jpg" group-title="News",77 Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="113" tvg-name="Polimer News" tvg-logo="https://files.catbox.moe/jn8jwc.jpg" group-title="News",77 Polimer News [RTMP]
+null
 #EXTINF:-1 tvg-chno="78" tvg-id="414" tvg-name="News18 Tamil Nadu" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403794.webp" group-title="News",78 News18 Tamil Nadu
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="414" tvg-name="News18 Tamil Nadu" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403794.webp" group-title="News",78 News18 Tamil Nadu [RTMP]
@@ -282,6 +282,10 @@ http://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 #EXTINF:-1 tvg-chno="96" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",96 palaar tv
 https://livetv.ipcloud.live/channels/palaartv/palaartv.php
 #EXTINF:-1 tvg-chno="96" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",96 palaar tv [RTMP]
+
+#EXTINF:-1 tvg-chno="97" tvg-id="438" tvg-name="nila tv" tvg-logo="" group-title="Entertainment",97 nila tv
+https://livetv.ipcloud.live/channels/palaartv/nilatv.php
+#EXTINF:-1 tvg-chno="97" tvg-id="438" tvg-name="nila tv" tvg-logo="" group-title="Entertainment",97 nila tv [RTMP]
 
 #EXTINF:-1 tvg-chno="98" tvg-id="139" tvg-name="POTHIGAI THENTRAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245718.webp" group-title="Entertainment",98 POTHIGAI THENTRAL TV
 https://srvx.nellaiiptv.com/restream/eg7arr/index.m3u8
@@ -847,10 +851,10 @@ https://stream.d6-pro.com/tunes6music/live/index.m3u8
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
 #EXTINF:-1 tvg-chno="457" tvg-id="230" tvg-name="EZHIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771601170.webp" group-title="Entertainment",457 EZHIL TV [RTMP]
 rtmp://rtmp.notvstream.in:1935/ezhiltv/ezhiltv
-#EXTINF:-1 tvg-chno="500" tvg-id="113" tvg-name="Polimer News" tvg-logo="https://files.catbox.moe/jn8jwc.jpg" group-title="News",500 Polimer News
-https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:-1 tvg-chno="500" tvg-id="113" tvg-name="Polimer News" tvg-logo="https://files.catbox.moe/jn8jwc.jpg" group-title="News",500 Polimer News [RTMP]
-null
+#EXTINF:-1 tvg-chno="500" tvg-id="413" tvg-name="Puthiya Thalaimurai TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403355.webp" group-title="News",500 Puthiya Thalaimurai TV
+  https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8 
+#EXTINF:-1 tvg-chno="500" tvg-id="413" tvg-name="Puthiya Thalaimurai TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403355.webp" group-title="News",500 Puthiya Thalaimurai TV [RTMP]
+
 #EXTINF:-1 tvg-chno="501" tvg-id="34" tvg-name="News24x7 Tamil" tvg-logo="https://files.catbox.moe/ts1jaf.webp" group-title="News",501 News24x7 Tamil
 https://cdn-3.pishow.tv/live/1433/master.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="34" tvg-name="News24x7 Tamil" tvg-logo="https://files.catbox.moe/ts1jaf.webp" group-title="News",501 News24x7 Tamil [RTMP]
