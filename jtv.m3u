@@ -2666,6 +2666,6 @@ https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-id="3591" tvg-name="Pitaara Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png" tvg-language="Punjabi" group-title="Entertainment", Pitaara Comedy
 https://jmp2.uk/stvp-IN1600001OG
 #EXTINF:-1 tvg-id="3592" tvg-name="Vietnam Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VietnamToday.png" tvg-language="English" group-title="News", Vietnam Today
-http://103.159.180.34:5001/live/3592.m3u8
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 tvg-id="3594" tvg-name="TeluguOne" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/teluguone.png" tvg-language="Telugu" group-title="Entertainment", TeluguOne
 https://jmp2.uk/stvp-IN400058AF
