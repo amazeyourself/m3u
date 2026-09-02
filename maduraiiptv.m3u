@@ -27,9 +27,9 @@ rtmp://mm.stream.onecloudlive.in:1935/mm/maduratv
 https://srv-i.maduraiiptv.in/eyetv/live/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="411" tvg-name="EYE TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787553796.webp" group-title="Entertainment",7 EYE TV [RTMP]
 
-#EXTINF:-1 tvg-chno="9" tvg-id="394" tvg-name="AadhavanColours" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786966779.webp" group-title="Music",9 AadhavanColours
+#EXTINF:-1 tvg-chno="9" tvg-id="394" tvg-name="AadhavanColours" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788271371.webp" group-title="Music",9 AadhavanColours
 http://mkpcloud.playit.plus:1024/AadhavanColours/AadhavanColours.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="394" tvg-name="AadhavanColours" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786966779.webp" group-title="Music",9 AadhavanColours [RTMP]
+#EXTINF:-1 tvg-chno="9" tvg-id="394" tvg-name="AadhavanColours" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788271371.webp" group-title="Music",9 AadhavanColours [RTMP]
 
 #EXTINF:-1 tvg-chno="10" tvg-id="372" tvg-name="MADURAI ARASI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1784121502.webp" group-title="Entertainment",10 MADURAI ARASI TV
 https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
@@ -602,10 +602,6 @@ null
 #EXTINF:-1 tvg-chno="343" tvg-id="345" tvg-name="LOURDES TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1781266470.webp" group-title="Devotional",343 LOURDES TV
 https://srvx.nellaiiptv.com/restream/uwm02i/index.m3u8
 #EXTINF:-1 tvg-chno="343" tvg-id="345" tvg-name="LOURDES TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1781266470.webp" group-title="Devotional",343 LOURDES TV [RTMP]
-rtmp://pondicherry-lourdestv.stream.nellaiiptv.com:1935/live/pondicherry-lourdestv
-#EXTINF:-1 tvg-chno="347" tvg-id="169" tvg-name="MARUTHU TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771244112.webp" group-title="Movies",347 MARUTHU TV
-https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
-#EXTINF:-1 tvg-chno="347" tvg-id="169" tvg-name="MARUTHU TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771244112.webp" group-title="Movies",347 MARUTHU TV [RTMP]
 rtmp://pondicherry-lourdestv.stream.nellaiiptv.com:1935/live/pondicherry-lourdestv
 #EXTINF:-1 tvg-chno="349" tvg-id="173" tvg-name="S MAX TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771243874.webp" group-title="Entertainment",349 S MAX TV
 https://play.applelive.in/smaxtv/smaxtv.m3u8
