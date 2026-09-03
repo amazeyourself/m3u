@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml.gz"
+#EXTINF:-1 tvg-id="66ba1f16cd0d3100086dcf22" tvg-name="Alien Files Unsealed" tvg-logo="https://images.pluto.tv/channels/66ba1f16cd0d3100086dcf22/colorLogoPNG_1788357835352.png",Alien Files Unsealed
+https://jmp2.uk/plu-66ba1f16cd0d3100086dcf22.m3u8
 #EXTINF:-1 tvg-id="67f4ffda8ddd60c57dc24e35" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67f4ffda8ddd60c57dc24e35/colorLogoPNG_1747213241493.png",Pluto TV Creature Features
 https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8
 #EXTINF:-1 tvg-id="67f4fde1fbe45309c7699d6f" tvg-name="Pluto TV Masters of Horror" tvg-logo="https://images.pluto.tv/channels/67f4fde1fbe45309c7699d6f/colorLogoPNG_1747213230911.png",Pluto TV Masters of Horror

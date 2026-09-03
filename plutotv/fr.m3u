@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
 #EXTINF:-1 tvg-id="61f93af0b253440007c54ad8" tvg-name="Ciné Star Trek by Pluto TV" tvg-logo="https://images.pluto.tv/channels/61f93af0b253440007c54ad8/colorLogoPNG_1750347902035.png",Ciné Star Trek by Pluto TV
 https://jmp2.uk/plu-61f93af0b253440007c54ad8.m3u8
+#EXTINF:-1 tvg-id="691b3505e70325a3b15b12f0" tvg-name="Nos années pensions" tvg-logo="https://images.pluto.tv/channels/691b3505e70325a3b15b12f0/colorLogoPNG_1771923830629.png",Nos années pensions
+https://jmp2.uk/plu-691b3505e70325a3b15b12f0.m3u8
 #EXTINF:-1 tvg-id="678f891a3de7c8cf94765b01" tvg-name="Pluto TV Stand Up" tvg-logo="https://images.pluto.tv/channels/678f891a3de7c8cf94765b01/colorLogoPNG_1782908038932.png",Pluto TV Stand Up
 https://jmp2.uk/plu-678f891a3de7c8cf94765b01.m3u8
 #EXTINF:-1 tvg-id="6a6a02bd93ac783fe20d1bf7" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02bd93ac783fe20d1bf7/colorLogoPNG_1785333415249.png",NFL Channel
