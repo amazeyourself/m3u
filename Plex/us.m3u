@@ -617,8 +617,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a024c8e981d28c38fb16f21.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6449369eb3ff17382cae5801.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-678819cadb8f0c5dc195cf50" tvg-name="Pam Grier's Soul Flix" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e5edb46c630a8a5a90867289950f841e.png",Pam Grier's Soul Flix
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-678819cadb8f0c5dc195cf50.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66f6b947515e742745f5ca34" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",21 Jump Street
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6933306bac5b3f9f53442372" tvg-name="FilmRise Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2499ab6b-a57f-421a-869b-f311c1e052be/FilmRise_Mysteries_1500x1000_Light_Logo.png",FilmRise Mysteries
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6933306bac5b3f9f53442372.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63b5df3f27159bc9de3062aa" tvg-name="MSG SportsZone" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6786da65a6db13732b7b580755932165.png",MSG SportsZone
@@ -789,7 +787,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-68e03664c63d8255360a2cd7.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64106a1075be345a863fe0d7.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141127" tvg-name="Shout! TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/390674f3-43ef-4f52-95f9-0fdabd9b0269/S_TV_Logo_DARKRDX_2023__1_.png",Shout! TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60d4edd6b2fdec002c141127.m3u8

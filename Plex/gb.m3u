@@ -351,7 +351,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69d57d295a891b1ff36c0c5c.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6674baf1a9c715b93ca6ca90.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-692719bf5d6063fc5b96b699" tvg-name="Most Haunted" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abcea44a-b25a-4c68-9d9a-7d8d815175ac/Most_HauntedLIGHT_LOGO__3_.png",Most Haunted
 https://jmp2.uk/plex-64305451fc3be5947773c339-692719bf5d6063fc5b96b699.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
 https://jmp2.uk/plex-64305451fc3be5947773c339-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
 https://jmp2.uk/plex-64305451fc3be5947773c339-68db6b54475aa6420c85f230.m3u8
@@ -363,8 +363,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-6449369eb3ff17382cae5807.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-65ec577b07060fb76a3916bf.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6615360a8423b8d7e61a099b" tvg-name="Go Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/616ccdb3-bc16-4546-bfda-3102d114be5a/Go_Wild_Tilef0c5e75034912cf50d05c24ee0530aa8RDXFINAL.png",Go Wild
 https://jmp2.uk/plex-64305451fc3be5947773c339-6615360a8423b8d7e61a099b.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-66f6b947515e742745f5ca34" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",21 Jump Street
-https://jmp2.uk/plex-64305451fc3be5947773c339-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png",The Biggest Loser
 https://jmp2.uk/plex-64305451fc3be5947773c339-6515ff231fc969615e69d170.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6515fb621fc969615e69d16e" tvg-name="WipeoutXtra" tvg-logo="https://provider-static.plex.tv/epg/cms/production/570e54aa-3cb9-4676-a11e-5aabb2bca2ce/WipeoutXtra_Logo_Light_1500x1000_-_Harry_Marshall.png",WipeoutXtra
