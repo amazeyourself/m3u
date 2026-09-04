@@ -721,8 +721,12 @@ https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-id="5cf96c0222df39f1a338d163" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png",Pluto TV Novelas
 https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+#EXTINF:-1 tvg-id="6a722821ff94431f8bfbc260" tvg-name="Celia" tvg-logo="https://images.pluto.tv/channels/6a722821ff94431f8bfbc260/colorLogoPNG_1788451076389.png",Celia
+https://jmp2.uk/plu-6a722821ff94431f8bfbc260.m3u8
 #EXTINF:-1 tvg-id="6a7b7c50307dc8b67b372008" tvg-name="La novia de Estambul" tvg-logo="https://images.pluto.tv/channels/6a7b7c50307dc8b67b372008/colorLogoPNG_1786477846466.png",La novia de Estambul
 https://jmp2.uk/plu-6a7b7c50307dc8b67b372008.m3u8
+#EXTINF:-1 tvg-id="6a7228e19307bc770a5b440c" tvg-name="El Capo" tvg-logo="https://images.pluto.tv/channels/6a7228e19307bc770a5b440c/colorLogoPNG_1788205371519.png",El Capo
+https://jmp2.uk/plu-6a7228e19307bc770a5b440c.m3u8
 #EXTINF:-1 tvg-id="668c5cb4f01dbe0008dd4082" tvg-name="CBS en español" tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoPNG.png",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1 tvg-id="604928d54a4f730007ff76bc" tvg-name="CSI en Español" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png",CSI en Español
