@@ -435,6 +435,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-614e286b2bac097ffd6fd6ab.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-687e47c33f6f86f29359b2c7.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76" tvg-name="Comedy Dynamics" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/92ece91992893ff338b2f45016877c9c.png",Comedy Dynamics
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",21 Jump Street
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a" tvg-name="RetroCrush" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fbecdfb-fdb9-4b5c-b490-0ce30557533c/Plex_RetroCrush_Logo_Light_X_Dark_BG_-_Souharddya_Basu__2_.png",RetroCrush
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874" tvg-name="FilmRise Classic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5afbac06-0369-49b8-bc1e-8d599f857b03/FilmRise_ClassicTV_1500x1000_Dark_Logo.png",FilmRise Classic TV
@@ -455,6 +457,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-698fb1938f934d915eb13488.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d" tvg-name="OUTflix Proud" tvg-logo="https://provider-static.plex.tv/epg/cms/production/399d8851-ddfa-43c8-90e2-18f60c42353c/outflix-proud-plex-wh_1500x1000.png",OUTflix Proud
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a9512a7f534d4312a699c22.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66be955c8711311880995282" tvg-name="GB News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png",GB News
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66be955c8711311880995282.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a10ad97b05301ef36a6a8e6" tvg-name="I Shouldn't Be Alive" tvg-logo="https://provider-static.plex.tv/epg/cms/production/048549fe-9723-418a-be64-e06a2901d377/IShouldntBeAlive_Logo_White_1500x1000_-_Harry_Marshall.png",I Shouldn't Be Alive
