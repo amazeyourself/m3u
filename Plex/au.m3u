@@ -281,6 +281,10 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-60d4edd6b2fdec002c141125.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-62d1a58e520656fda09e609d.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68b9f334fc12601028c5651e" tvg-name="World Billiards TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png",World Billiards TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-68b9f334fc12601028c5651e.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
+https://jmp2.uk/plex-697140a85d851f5e69414688-62280162c9f485cc7afe8c46.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
+https://jmp2.uk/plex-697140a85d851f5e69414688-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-6a9512a7f534d4312a699c22.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",GrowthDay Network
