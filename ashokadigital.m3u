@@ -401,10 +401,12 @@ https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 
 #EXTINF:-1 tvg-id="764" tvg-chno="764" tvg-name="A1 Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758524651_LOGO%20PSD.png" group-title="Tamil Nadu Channels",764 A1 Tv
 https://app.ashokadigital.net/app/7fff5003/index.m3u8
+#EXTINF:-1 tvg-id="849" tvg-chno="849" tvg-name="Calvari Prardhana" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788691744_c1ef8ebc-30a4-47e3-b040-125e7d1403b4-Photoroom.png" group-title="Andhra Pradesh",849 Calvari Prardhana
+https://mumbai-edge.smartplaytv.in/CalvariPrardhana/index.m3u8
 #EXTINF:-1 tvg-id="850" tvg-chno="850" tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Andhra Pradesh",850 7gtv
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 tvg-id="853" tvg-chno="853" tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Andhra Pradesh",853 Reshya Tv
-http://reshyatv.in:8052/telugu/reshyatv/index.m3u8
+https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
 #EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="RT TV FACK SONG" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh",854 RT TV FACK SONG
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
