@@ -19,8 +19,6 @@ https://account8.livebox.co.in/Yeshuahls/live.m3u8
 https://app.ashokadigital.net/app/1ef919c6/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-name="shalwin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769047456_234234234234.png" group-title="Tamil Nadu Channels",10 shalwin tv
 
-#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-name="om tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774590800_om%20tv%20logo%20png.png" group-title="Tamil Nadu Channels",11 om tv
-http://omtv.7starcloud.com:1935/omtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-name="Aaryaa Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784357930_aaryaa%20tv%20logo%20(1).gif" group-title="Tamil Nadu Channels",12 Aaryaa Tv
 https://app.ashokadigital.net/app/3641a4da/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-name="velan tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784299507_ashoka-digital-320x180.gif" group-title="Tamil Nadu Channels",13 velan tv
@@ -371,6 +369,8 @@ http://guru.sritv.co.in:1935/musicbeat/live/sri_network_cdn.m3u8
 http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
 #EXTINF:-1 tvg-id="616" tvg-chno="616" tvg-name="అశోక తెలుగు" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788414638_7bc9b907-5cfd-472f-ab68-20e4677c6004-Photoroom%20(1).png" group-title="Andhra Pradesh",616 అశోక తెలుగు
 https://app.ashokadigital.net/app/ce705f4a/index.m3u8
+#EXTINF:-1 tvg-id="620" tvg-chno="620" tvg-name="dhanya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788848546_3_2_01_copy__01-removebg-preview%20(1).png" group-title="Andhra Pradesh",620 dhanya tv
+https://stream.ashokadigital.net/demotv/demo/index.m3u8
 #EXTINF:-1 tvg-id="647" tvg-chno="647" tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788536805_RV%20GIGITAL.png" group-title="Andhra Pradesh",647 rv digital tv
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
 #EXTINF:-1 tvg-id="648" tvg-chno="648" tvg-name="Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Andhra Pradesh",648 Blessing Tv
@@ -407,6 +407,8 @@ https://app.ashokadigital.net/app/7fff5003/index.m3u8
 https://mumbai-edge.smartplaytv.in/CalvariPrardhana/index.m3u8
 #EXTINF:-1 tvg-id="850" tvg-chno="850" tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Andhra Pradesh",850 7gtv
 https://rtmp.streamwell.in/hls/7gtv.m3u8
+#EXTINF:-1 tvg-id="852" tvg-chno="852" tvg-name="pps tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788337678_03581834-faa6-46e3-83e9-4f7228a3cbc0-Photoroom.png" group-title="Andhra Pradesh",852 pps tv
+https://app.ashokadigital.net/app/2c33bc6b/index.m3u8
 #EXTINF:-1 tvg-id="853" tvg-chno="853" tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Andhra Pradesh",853 Reshya Tv
 https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
 #EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="Rv tv folk songs" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh",854 Rv tv folk songs
