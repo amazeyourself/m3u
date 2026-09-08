@@ -15,6 +15,8 @@ http://7starcloud.com:1935/live/7star/live.m3u8
 https://account8.livebox.co.in/Yeshuahls/live.m3u8
 #EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-name="karthick tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782982584_ashoka-digital-640x360.gif" group-title="Tamil Nadu Channels",8 karthick tv
 
+#EXTINF:-1 tvg-id="9" tvg-chno="9" tvg-name="thalapathy tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739547835_WhatsApp_Image_2025-02-14_at_8.57.35_PM-removebg-preview.png" group-title="Tamil Nadu Channels",9 thalapathy tv
+https://app.ashokadigital.net/app/1ef919c6/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-name="shalwin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769047456_234234234234.png" group-title="Tamil Nadu Channels",10 shalwin tv
 
 #EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-name="om tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774590800_om%20tv%20logo%20png.png" group-title="Tamil Nadu Channels",11 om tv
@@ -307,8 +309,6 @@ rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
 https://app.ashokadigital.net/app/55c65ef4/index.m3u8
 #EXTINF:-1 tvg-id="295" tvg-chno="295" tvg-name="CITI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366217_1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" group-title="Tamil Nadu Channels",295 CITI TV
 https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
-#EXTINF:-1 tvg-id="296" tvg-chno="296" tvg-name="VIMAL tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787365816_1782983392_ashoka-digital-560x315.gif" group-title="Tamil Nadu Channels",296 VIMAL tv
-
 #EXTINF:-1 tvg-id="297" tvg-chno="297" tvg-name=" TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366653_1777712105_MTV%201.png" group-title="Tamil Nadu Channels",297  TV 
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
 #EXTINF:-1 tvg-id="298" tvg-chno="298" tvg-name=" TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366560_1781012797_RubyDigitalTv.png" group-title="Tamil Nadu Channels",298  TV 
@@ -337,6 +337,8 @@ https://livetv.ashokadigital.net/upload/vod/1782902632_AVR_Swarna_Mahal_Jeweller
 https://livetv.ashokadigital.net/upload/vod/1755166998_Benaka_Gold_New_Ad_1mint_1_.mp4
 #EXTINF:-1 tvg-id="502" tvg-chno="502" tvg-name="ಅಶೋಕ" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782897166_ChatGPT%20Image%20Jul%201,%202026,%2002_36_07%20PM.png" group-title="Karnataka Channels",502 ಅಶೋಕ
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
+#EXTINF:-1 tvg-id="503" tvg-chno="503" tvg-name="Salam Bengalore" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787846608_salam%20banglore.png" group-title="Karnataka Channels",503 Salam Bengalore
+https://live.streambox24.in:5443/SalamBengalore/streams/SalamBengalore.m3u8
 #EXTINF:-1 tvg-id="600" tvg-chno="600" tvg-name="Km News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316%20copy.png" group-title="Karnataka Channels",600 Km News Bengaluru
 https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
 #EXTINF:-1 tvg-id="602" tvg-chno="602" tvg-name="Music Beats" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786440228_1837ec5c-4bbf-4bde-9078-608d9afdc805-Photoroom.png" group-title="Karnataka Channels",602 Music Beats
@@ -407,7 +409,7 @@ https://mumbai-edge.smartplaytv.in/CalvariPrardhana/index.m3u8
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 tvg-id="853" tvg-chno="853" tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Andhra Pradesh",853 Reshya Tv
 https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
-#EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="RT TV FACK SONG" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh",854 RT TV FACK SONG
+#EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="Rv tv folk songs" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh",854 Rv tv folk songs
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
