@@ -117,12 +117,12 @@ https://jmp2.uk/stvp-IN400058AF
 https://jmp2.uk/stvp-IN49000103E
 #EXTINF:-1 tvg-id="IN4600019L1" tvg-name="Series K BY MBC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600019L1_20260623T015640SQUARE.png",Series K BY MBC
 https://jmp2.uk/stvp-IN4600019L1
+#EXTINF:-1 tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20260908T033551SQUARE.png",ABP News
+https://jmp2.uk/stvp-IN4600012BD
 #EXTINF:-1 tvg-id="INBC4300010Z6" tvg-name="Zee News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20260901T053451SQUARE.png",Zee News
 https://jmp2.uk/stvp-INBC4300010Z6
 #EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20260623T013556SQUARE.png",Aaj Tak HD
 https://jmp2.uk/stvp-IN3800001ZH
-#EXTINF:-1 tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20260908T033551SQUARE.png",ABP News
-https://jmp2.uk/stvp-IN4600012BD
 #EXTINF:-1 tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20260805T004026SQUARE.png",TV9 Bharatvarsh
 https://jmp2.uk/stvp-IN3800003SV
 #EXTINF:-1 tvg-id="IN400059ZR" tvg-name="Times Now Navbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260901T055437SQUARE.png",Times Now Navbharat
@@ -161,12 +161,12 @@ https://jmp2.uk/stvp-IN4000012ML
 https://jmp2.uk/stvp-INBD1300007ST
 #EXTINF:-1 tvg-id="INBD400004NS" tvg-name="Zee Business" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400004NS_20260728T010502SQUARE.png",Zee Business
 https://jmp2.uk/stvp-INBD400004NS
-#EXTINF:-1 tvg-id="INBC2800001D8" tvg-name="NDTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20260908T033558SQUARE.png",NDTV
-https://jmp2.uk/stvp-INBC2800001D8
 #EXTINF:-1 tvg-id="INBC2800005X4" tvg-name="India Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20260623T015135SQUARE.png",India Today
 https://jmp2.uk/stvp-INBC2800005X4
 #EXTINF:-1 tvg-id="INBD4000058T" tvg-name="WION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000058T_20260623T013446SQUARE.png",WION
 https://jmp2.uk/stvp-INBD4000058T
+#EXTINF:-1 tvg-id="INBC2800001D8" tvg-name="NDTV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800001D8_20260908T033558SQUARE.png",NDTV
+https://jmp2.uk/stvp-INBC2800001D8
 #EXTINF:-1 tvg-id="INBD1300009QZ" tvg-name="CNN News18" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20260623T014648SQUARE.png",CNN News18
 https://jmp2.uk/stvp-INBD1300009QZ
 #EXTINF:-1 tvg-id="INBA4900020A5" tvg-name="Republic TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20260623T013003SQUARE.png",Republic TV
@@ -405,8 +405,6 @@ https://jmp2.uk/stvp-IN39000216A
 https://jmp2.uk/stvp-IN22000018J
 #EXTINF:-1 tvg-id="IN39000260R" tvg-name="TheSorryGirls TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000260R_20260623T013430SQUARE.png",TheSorryGirls TV
 https://jmp2.uk/stvp-IN39000260R
-#EXTINF:-1 tvg-id="INBA5100025YE" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20260623T012246SQUARE.png",GoUSA TV
-https://jmp2.uk/stvp-INBA5100025YE
 #EXTINF:-1 tvg-id="IN490000951" tvg-name="CJ ENM K-Food & Travel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN490000951_20260812T010918SQUARE.png",CJ ENM K-Food & Travel
 https://jmp2.uk/stvp-IN490000951
 #EXTINF:-1 tvg-id="IN3300001P5" tvg-name="Time2Rlx" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3300001P5_20260708T005926SQUARE.png",Time2Rlx

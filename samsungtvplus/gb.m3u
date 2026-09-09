@@ -65,6 +65,8 @@ https://jmp2.uk/stvp-GB120000761
 https://jmp2.uk/stvp-GBBD25000038Y
 #EXTINF:-1 tvg-id="GBBB4600001IK" tvg-name="Project Runway" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4600001IK_20260901T102531SQUARE.png",Project Runway
 https://jmp2.uk/stvp-GBBB4600001IK
+#EXTINF:-1 tvg-id="GB3500003E5" tvg-name="Keeping Up With..." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500003E5_20260908T033500SQUARE.png",Keeping Up With...
+https://jmp2.uk/stvp-GB3500003E5
 #EXTINF:-1 tvg-id="GBBC2300002GG" tvg-name="America's Got Talent" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20260622T064035SQUARE.png",America's Got Talent
 https://jmp2.uk/stvp-GBBC2300002GG
 #EXTINF:-1 tvg-id="GBBC2300001X5" tvg-name="American Idol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20260528T054034SQUARE.png",American Idol
@@ -117,8 +119,6 @@ https://jmp2.uk/stvp-GBBA330003941
 https://jmp2.uk/stvp-GB2000007ID
 #EXTINF:-1 tvg-id="GB17000066A" tvg-name="CJ ENM K-Reality" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB17000066A_20260818T050924SQUARE.png",CJ ENM K-Reality
 https://jmp2.uk/stvp-GB17000066A
-#EXTINF:-1 tvg-id="GB3500003E5" tvg-name="Keeping Up With..." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3500003E5_20260908T033500SQUARE.png",Keeping Up With...
-https://jmp2.uk/stvp-GB3500003E5
 #EXTINF:-1 tvg-id="GBBD3100006XM" tvg-name="Sky Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20260421T123849SQUARE.png",Sky Mix
 https://jmp2.uk/stvp-GBBD3100006XM
 #EXTINF:-1 tvg-id="GB51000044P" tvg-name="Heartland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB51000044P_20260528T054101SQUARE.png",Heartland
@@ -147,9 +147,9 @@ https://jmp2.uk/stvp-GB1200008XG
 https://jmp2.uk/stvp-GB20009440
 #EXTINF:-1 tvg-id="GB4400001OO" tvg-name="Series K: Heart" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4400001OO_20251209T004621SQUARE.png",Series K: Heart
 https://jmp2.uk/stvp-GB4400001OO
-#EXTINF:-1 tvg-id="GB2100002R7" tvg-name="Genie K-Drama" tvg-logo="",Genie K-Drama
+#EXTINF:-1 tvg-id="GB2100002R7" tvg-name="Genie K-Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100002R7_20250811T172932SQUARE.png",Genie K-Drama
 https://jmp2.uk/stvp-GB2100002R7
-#EXTINF:-1 tvg-id="GBBD4100011RE" tvg-name="K-Drama+" tvg-logo="",K-Drama+
+#EXTINF:-1 tvg-id="GBBD4100011RE" tvg-name="K-Drama+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100011RE_20260707T052002SQUARE.png",K-Drama+
 https://jmp2.uk/stvp-GBBD4100011RE
 #EXTINF:-1 tvg-id="GB200093HQ" tvg-name="Series K Legacy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200093HQ_20260505T035908SQUARE.png",Series K Legacy
 https://jmp2.uk/stvp-GB200093HQ
@@ -517,9 +517,9 @@ https://jmp2.uk/stvp-GB2600020OP
 https://jmp2.uk/stvp-GBBD500007TG
 #EXTINF:-1 tvg-id="GB32000024G" tvg-name="British Screen Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB32000024G_20250107T031100SQUARE.png",British Screen Classics
 https://jmp2.uk/stvp-GB32000024G
-#EXTINF:-1 tvg-id="GB21000038X" tvg-name="Genie K-Movie" tvg-logo="",Genie K-Movie
+#EXTINF:-1 tvg-id="GB21000038X" tvg-name="Genie K-Movie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB21000038X_20250811T172936SQUARE.png",Genie K-Movie
 https://jmp2.uk/stvp-GB21000038X
-#EXTINF:-1 tvg-id="GB1700007PK" tvg-name="NEW K-MOVIES" tvg-logo="",NEW K-MOVIES
+#EXTINF:-1 tvg-id="GB1700007PK" tvg-name="NEW K-MOVIES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1700007PK_20251013T054402SQUARE.png",NEW K-MOVIES
 https://jmp2.uk/stvp-GB1700007PK
 #EXTINF:-1 tvg-id="GB2600013BO" tvg-name="Sci-Fi - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png",Sci-Fi - Rakuten TV
 https://jmp2.uk/stvp-GB2600013BO
