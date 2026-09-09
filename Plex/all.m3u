@@ -791,7 +791,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-68e03664c63d8255360a2cd7.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64106a1075be345a863fe0d7.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141127" tvg-name="Shout! TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/390674f3-43ef-4f52-95f9-0fdabd9b0269/S_TV_Logo_DARKRDX_2023__1_.png",Shout! TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60d4edd6b2fdec002c141127.m3u8
@@ -1001,8 +1001,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-641496bf238e21f260e7844a.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6449369eb3ff17382cae580d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68e03ae418c739b4d91a6a57" tvg-name="Novelas de Siempre" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4104a44f-21ec-4ee6-8eca-7d151cfbd85d/Novelas_de_Siempre_Channel-Icon_ColorRDX.png",Novelas de Siempre
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68e03ae418c739b4d91a6a57.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86" tvg-name="Caracol Mix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",Caracol Mix
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6434540bf43c8cfbfdc6e600" tvg-name="ElectricNOW en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ba8f950-5d83-4adb-8fd5-e0bf4426de43/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png",ElectricNOW en Español
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6434540bf43c8cfbfdc6e600.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69a516217c245b3390e8a4d2" tvg-name="Delito" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png",Delito
@@ -2603,8 +2601,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869" tvg-name="FilmRise Series Gratis" tvg-logo="https://provider-static.plex.tv/epg/cms/production/be76f2ee-2a7a-4020-9072-cfb4b8539906/FilmRise_SeriesGratis_1500x1000_logo_light.png",FilmRise Series Gratis
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-69b3481702912c2ce7ad9a3d" tvg-name="Caracol Mix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",Caracol Mix
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-69b3481702912c2ce7ad9a3d.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" tvg-name="Cine de Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png",Cine de Horror
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995" tvg-name="Todo Novelas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png",Todo Novelas
@@ -3135,8 +3131,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-67d4afc7f6df733141442cb4.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6490e59918a55242eea95995" tvg-name="Todo Novelas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png",Todo Novelas
 https://jmp2.uk/plex-643054b1fc3be59477853717-6490e59918a55242eea95995.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d" tvg-name="Caracol Mix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",Caracol Mix
-https://jmp2.uk/plex-643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Internacional" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png",Azteca Internacional
 https://jmp2.uk/plex-643054b1fc3be59477853717-646d06c9b09f13b2d8af68d8.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-64487696af92c31f4a190bc4" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb43f8a1-fb9e-4a1b-b0db-0d720db95f66/MT_PLEX_1500x1000_SPAIN_WHITE_-_Sam_Abraham.png",MyTime Movie Network
@@ -4349,7 +4343,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee7992271f393d2d9f709c.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a664.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89" tvg-name="Stingray DJAZZ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png",Stingray DJAZZ
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1" tvg-name="Ninja Kidz TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",Ninja Kidz TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8
@@ -4485,8 +4479,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6245cd154f27f4e9c76d67e9.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064" tvg-name="C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",C4 en Alerta
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86" tvg-name="Caracol Mix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",Caracol Mix
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d" tvg-name="Euronews Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eea28bcc-26ea-4266-81b4-2945f334c3d9/Plex-WURL_Euronews-Logos_ES_-_astrid_collomb.png",Euronews Español
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6245f13093b402a3d1097789" tvg-name="Euronews Italiano" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png",Euronews Italiano
@@ -5363,7 +5355,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69d57d295a891b1ff36c0c5c.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6674baf1a9c715b93ca6ca90.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-692719bf5d6063fc5b96b699" tvg-name="Most Haunted" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abcea44a-b25a-4c68-9d9a-7d8d815175ac/Most_HauntedLIGHT_LOGO__3_.png",Most Haunted
 https://jmp2.uk/plex-64305451fc3be5947773c339-692719bf5d6063fc5b96b699.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
 https://jmp2.uk/plex-64305451fc3be5947773c339-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
 https://jmp2.uk/plex-64305451fc3be5947773c339-68db6b54475aa6420c85f230.m3u8

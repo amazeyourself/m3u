@@ -745,7 +745,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee7992271f393d2d9f709c.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a664.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89" tvg-name="Stingray DJAZZ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png",Stingray DJAZZ
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1" tvg-name="Ninja Kidz TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",Ninja Kidz TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8
@@ -881,8 +881,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6245cd154f27f4e9c76d67e9.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064" tvg-name="C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",C4 en Alerta
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86" tvg-name="Caracol Mix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",Caracol Mix
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d" tvg-name="Euronews Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eea28bcc-26ea-4266-81b4-2945f334c3d9/Plex-WURL_Euronews-Logos_ES_-_astrid_collomb.png",Euronews Español
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6245f13093b402a3d1097789" tvg-name="Euronews Italiano" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png",Euronews Italiano
