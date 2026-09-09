@@ -2,8 +2,8 @@ import json
 import urllib3
 f = urllib3.request("GET", "https://api.maduraiiptv.in/public/api/channels?limit=-1",
                     headers={
-                        "X-Api-Key": "xkey_for_local_dev_only_12345",
-                        "X-Client-Platform": "android",
+                        "X-Api-Key": "64bcc5a116eac9f5322c4b1d1722ffec8f6f063c",
+                        "X-Client-Platform": "tv",
                         "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
                         })
 data = f.json()
@@ -34,4 +34,3 @@ with open('maduraiiptv.m3u', 'w', newline='') as g:
     for lines in playlist:
         g.write('%s\n' %lines)
     print("Exported!")
-
