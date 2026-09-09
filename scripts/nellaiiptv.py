@@ -29,7 +29,7 @@ for i in data['data']:
         rtmp = ""
     playlist.append(f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{epg}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{chno} {name}')
     playlist.append(hls)
-    if channel_data['rtmp_url'] != None or channel_data['rtmp_url'] != "null" or channel_data['rtmp_url'] != "":
+    if channel_data['rtmp_url'] != None or rtmp != "null" or rtmp != "":
         playlist.append(f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{epg}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{chno} {name} [RTMP]')
         playlist.append(rtmp)
 f.close()
