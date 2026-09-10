@@ -215,6 +215,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6995ef6821d3ea5c24827b1b.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-68b74890b5b437bf872b6b72" tvg-name="TV5MONDE Chefs" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",TV5MONDE Chefs
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-68b74890b5b437bf872b6b72.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",Tennis TV
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",Tennis+
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e" tvg-name="FailArmy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",FailArmy

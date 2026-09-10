@@ -277,6 +277,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-6449369eb3ff17382cae5801.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-644b13a3a1c0a5b2024c8403.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64ac687b4192b4e1bab96279" tvg-name="PokerGO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",PokerGO
 https://jmp2.uk/plex-64305451fc3be5947773c339-64ac687b4192b4e1bab96279.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",Tennis TV
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a90b2b5c0870218305e909b.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",Tennis+
 https://jmp2.uk/plex-64305451fc3be5947773c339-6761f91555e174e95ccc4e4c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-656fb850cb7e8e6a9bc3f36e" tvg-name="Popular Science" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png",Popular Science
@@ -351,7 +353,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69d57d295a891b1ff36c0c5c.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6674baf1a9c715b93ca6ca90.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-692719bf5d6063fc5b96b699" tvg-name="Most Haunted" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abcea44a-b25a-4c68-9d9a-7d8d815175ac/Most_HauntedLIGHT_LOGO__3_.png",Most Haunted
 https://jmp2.uk/plex-64305451fc3be5947773c339-692719bf5d6063fc5b96b699.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
 https://jmp2.uk/plex-64305451fc3be5947773c339-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
 https://jmp2.uk/plex-64305451fc3be5947773c339-68db6b54475aa6420c85f230.m3u8

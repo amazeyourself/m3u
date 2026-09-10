@@ -147,6 +147,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f170d62b898490041b4936e.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-643f0ecd76de2b4015ae6c01.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-63ec0b739866d8d2120ac759" tvg-name="PickleTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",PickleTV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-63ec0b739866d8d2120ac759.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",Tennis TV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a90b2b5c0870218305e909b.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",Tennis+
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6761f91555e174e95ccc4e4c.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png",Wired2Fish

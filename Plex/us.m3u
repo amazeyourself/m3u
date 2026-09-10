@@ -147,11 +147,13 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-689fb8470a486aeba3c7917e.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png",A&E Crime 360
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f74cf7effbe690040689f41.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-668561babc1490a2f408f30d" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",48 Hours
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-668561babc1490a2f408f30d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d" tvg-name="Forensic Files" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3f79b58a-d938-4555-bed6-f64107110e63/FilmRise_ForensicFiles_Color_Logo.png",Forensic Files
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a2c1370b91165254efdb3c" tvg-name="At the Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf7b7e0a-feb0-49cf-8962-428a06c1becf/AtTheMovies_Logo_Dark_1500x1000.png",At the Movies
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66a2c1370b91165254efdb3c.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4" tvg-name="Cold Case Files by A&E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/397a22d3-edbe-4dab-830e-030e4d2b7680/Cold_Case_Files_channel_logo_4c_1500x1000.png",Cold Case Files by A&E
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4" tvg-name="Cold Case Files by A&E" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7908be53-0dc6-46ee-8a4f-a22506e6fb2a/National_Cold_Case_Month_channel_logo_4c_1500x1000.png",Cold Case Files by A&E
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5816" tvg-name="Unsolved Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3dfda714-2c2e-409d-a54a-c386f8110a3d/FilmRise_UnsolvedMysteries_Color_Logo.png",Unsolved Mysteries
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6449369eb3ff17382cae5816.m3u8
@@ -503,6 +505,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-63ec0b739866d8d2120ac759.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64f1177d79fd56092f9061bf.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63e63f20abacad42ed3d1acf" tvg-name="Baywatch" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dda6e0f8-0807-417b-b30f-1f67dc5084d6/BAYWATCH_PLEX_LOGO_COLOR_DarkBkg_1500x1000_-_Elaine_De_Santiago.png",Baywatch
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63e63f20abacad42ed3d1acf.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",Tennis TV
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a90b2b5c0870218305e909b.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",Tennis+
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6761f91555e174e95ccc4e4c.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-636d9d2d4ea1109a7d205a70" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png",Real Crime
@@ -553,10 +557,14 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a2c3fd5699622bf0f7a8185.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b" tvg-name="MrBeast" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f543ede1-40f6-4c84-9ac5-ab5db78d82f3/MB_LOGO_1500X1000_WHITEandCOLOR_TRANSPARENT.png",MrBeast
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a3c23ef776737893b3d488f" tvg-name="Judge Judy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",Judge Judy
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a3c23ef776737893b3d488f.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6876f82754325376973fd316" tvg-name="Paternity Court" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4108fe4-e876-41a3-904d-39148f3e2e30/PaternityCourt_logo_dark_-_Carl_HoffelderRDX.png",Paternity Court
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6876f82754325376973fd316.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6438ee5a83766488c3bc9d4d" tvg-name="Confess by Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48adab71-cd9a-4f87-8a77-e0b687825727/NoseyConfess_Logo_Color_Dark_1500x1000RDXwhitetext.png",Confess by Nosey
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6438ee5a83766488c3bc9d4d.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a3c23ec97845f69835ac533" tvg-name="HOT BENCH" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png",HOT BENCH
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a3c23ec97845f69835ac533.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec018" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",Judge Nosey
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec018.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",The Bold and the Beautiful
@@ -649,6 +657,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6571f43a1d2aae780d597196.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545" tvg-name="CNN Headlines" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",CNN Headlines
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-668561babc1490a2f408f30c" tvg-name="60 Minutes" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",60 Minutes
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-668561babc1490a2f408f30c.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a" tvg-name="BBC News (North America)" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png",BBC News (North America)
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64b1e1217d4037206787f384" tvg-name="Nolly Africa HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png",Nolly Africa HD
@@ -791,7 +801,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-68e03664c63d8255360a2cd7.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64106a1075be345a863fe0d7.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-640205c68ecb41f2d89d5814.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60d4edd6b2fdec002c141127" tvg-name="Shout! TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/390674f3-43ef-4f52-95f9-0fdabd9b0269/S_TV_Logo_DARKRDX_2023__1_.png",Shout! TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60d4edd6b2fdec002c141127.m3u8
@@ -945,8 +955,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-64d4e82ac5d4668c9cb7b5df.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f5132e362fe160040f26c15.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68b9f5a3d60e5dd29263c7ac" tvg-name="NEW KFOOD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png",NEW KFOOD
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68b9f5a3d60e5dd29263c7ac.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-686451cd75b26c0a7c946bcb" tvg-name="Geraldo Rivera" tvg-logo="https://provider-static.plex.tv/epg/cms/production/971bcaab-304f-493c-b22a-67e866097f83/GeraldoRivera_Logo_1500x1000_DarkBG_-_Chris_Connors.png",Geraldo Rivera
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-686451cd75b26c0a7c946bcb.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fe27da18cdd46002d85efed" tvg-name="The Grio" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e2b22c28c76774811fcd7847400aeda6.png",The Grio
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fe27da18cdd46002d85efed.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5811" tvg-name="Autopista al Cielo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png",Autopista al Cielo

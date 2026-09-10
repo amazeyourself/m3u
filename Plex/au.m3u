@@ -111,6 +111,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-66e4cbef38de9754b6b13e90.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-5f0ff262d71dcb00449ec015.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-670858335b42d01c9391e325" tvg-name="The Kids in the Hall" tvg-logo="https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",The Kids in the Hall
 https://jmp2.uk/plex-697140a85d851f5e69414688-670858335b42d01c9391e325.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",Tennis TV
+https://jmp2.uk/plex-697140a85d851f5e69414688-6a90b2b5c0870218305e909b.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",Cricket Gold
 https://jmp2.uk/plex-697140a85d851f5e69414688-65e0c8c6d899afe817b9d224.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-64f101b1c4b308f2fe3e7c0c" tvg-name="Beyond Belief" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1837808e-79a1-439e-9ae2-ff9c4b200b81/FilmRise_BeyondBelief_Logo_Whiterdx.png",Beyond Belief
@@ -185,8 +187,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-6707dc42da81682f2d1e6846.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-682dfbf4dfc9c452b8f98428" tvg-name="Homeful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df0c8122-ce9c-4ef8-b278-546a7ed303ef/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones.png",Homeful
 https://jmp2.uk/plex-697140a85d851f5e69414688-682dfbf4dfc9c452b8f98428.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4" tvg-name="Taste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png",Taste
-https://jmp2.uk/plex-697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-5eea71d65252710041e0ccbc" tvg-name="The Reuters 60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png",The Reuters 60
 https://jmp2.uk/plex-697140a85d851f5e69414688-5eea71d65252710041e0ccbc.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68017ed20268b77d02a5f4bd" tvg-name="PGA TOUR" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eed7be0b-c44c-4afa-bfa4-66b9536ace9a/PGA_TOUR_PrimaryLogo_Color_RGB_Reverse_654_-_Lily_MorrisonRDX.png",PGA TOUR

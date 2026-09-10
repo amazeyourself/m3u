@@ -203,8 +203,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-673d2a870d39ac306d6f2ceb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-635195e9ccee3e1547a8831a.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-672948f0297d4ea7584a2e13" tvg-name="The Martha Stewart Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png",The Martha Stewart Channel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-672948f0297d4ea7584a2e13.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4" tvg-name="Taste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png",Taste
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png",Hunter
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad" tvg-name="Garden with Monty Don" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb442bf5-7b1e-4451-8846-f37363c2fa77/garden_green_wht.png",Garden with Monty Don
@@ -411,6 +409,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668d3d9c164d5df264c08d2d.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-611152a48f945c002c40021a.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-636d9d2d4ea1109a7d205a70" tvg-name="Real Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0d345b3-05d6-41d2-82b1-0bfdd351312a/Real_Crime_Logo_White_-_Simon_Tuquabordx2.png",Real Crime
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-636d9d2d4ea1109a7d205a70.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a90b2b5c0870218305e909b" tvg-name="Tennis TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",Tennis TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a90b2b5c0870218305e909b.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6761f91555e174e95ccc4e4c" tvg-name="Tennis+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",Tennis+
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6761f91555e174e95ccc4e4c.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66bfb17c144c201b8b61c10d" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png",RCM
@@ -745,7 +745,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee7992271f393d2d9f709c.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a664.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89" tvg-name="Stingray DJAZZ" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dfc07c-0399-4e64-b0f5-e2617d410896/Stingray_DJazz_artwork_horizontal_Logo.png",Stingray DJAZZ
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62fc0150c67d52bddf74cc89.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png",Degrassi
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1" tvg-name="Ninja Kidz TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",Ninja Kidz TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8
