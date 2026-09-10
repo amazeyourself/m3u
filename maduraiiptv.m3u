@@ -32,7 +32,7 @@ https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2
 #EXTINF:-1 tvg-chno="9" tvg-id="12" tvg-name="THENDRAL TV MDU" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/thentral_tv_1771226071.webp" group-title="Entertainment",9 THENDRAL TV MDU [RTMP]
 null
 #EXTINF:-1 tvg-chno="10" tvg-id="372" tvg-name="MADURAI ARASI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1784121502.webp" group-title="Entertainment",10 MADURAI ARASI TV
-https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u
+https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="372" tvg-name="MADURAI ARASI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1784121502.webp" group-title="Entertainment",10 MADURAI ARASI TV [RTMP]
 
 #EXTINF:-1 tvg-chno="11" tvg-id="11" tvg-name="AALAYA MAGIMAI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/aalaya_magimai_tv_1771225296.webp" group-title="Regional",11 AALAYA MAGIMAI TV
@@ -79,6 +79,10 @@ rtmp://ipcloud.live/mathantv/mathantv
 https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="215" tvg-name="SHA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771301751.webp" group-title="Entertainment",24 SHA TV [RTMP]
 
+#EXTINF:-1 tvg-chno="25" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1785822487.webp" group-title="Entertainment",25 GLOBAL TV
+https://play.applelive.in/globaltv/globaltv.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1785822487.webp" group-title="Entertainment",25 GLOBAL TV [RTMP]
+
 #EXTINF:-1 tvg-chno="26" tvg-id="252" tvg-name="AARON TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786948233.webp" group-title="Entertainment",26 AARON TV
 https://stream.onecloudlive.in/sachintv/aarontvhd/index.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="252" tvg-name="AARON TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786948233.webp" group-title="Entertainment",26 AARON TV [RTMP]
@@ -99,17 +103,9 @@ rtmp://rtmp.applelive.in/gvkumaritv/gvkumaritv
 https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="402" tvg-name=" AADHAVANTAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787291365.webp" group-title="Entertainment",30  AADHAVANTAMIL TV [RTMP]
 
-#EXTINF:-1 tvg-chno="31" tvg-id="403" tvg-name="SPICE TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787293331.webp" group-title="Entertainment",31 SPICE TV
-https://stream.onecloudlive.in/spicetv/spicetv/index.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="403" tvg-name="SPICE TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787293331.webp" group-title="Entertainment",31 SPICE TV [RTMP]
-
 #EXTINF:-1 tvg-chno="32" tvg-id="404" tvg-name="JRP TVHD" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787293571.webp" group-title="Entertainment",32 JRP TVHD
 https://jrptv.stream.ipcloud.live/jrptv/jrphd/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="404" tvg-name="JRP TVHD" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787293571.webp" group-title="Entertainment",32 JRP TVHD [RTMP]
-
-#EXTINF:-1 tvg-chno="33" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1785822487.webp" group-title="Entertainment",33 GLOBAL TV
-https://play.applelive.in/globaltv/globaltv.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1785822487.webp" group-title="Entertainment",33 GLOBAL TV [RTMP]
 
 #EXTINF:-1 tvg-chno="35" tvg-id="409" tvg-name="7GREEN 4K TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788351842.webp" group-title="Entertainment",35 7GREEN 4K TV
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
@@ -280,7 +276,7 @@ http://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="429" tvg-name="THIRAI MUSIC TV" tvg-logo="" group-title="Music",95 THIRAI MUSIC TV [RTMP]
 
 #EXTINF:-1 tvg-chno="96" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",96 palaar tv
-https://livetv.ipcloud.live/channels/palaartv/palaartv.php
+https://live.onecloudlive.in/palaartv/palaartv/index.m3u8?token=github.com/amazeyourself
 #EXTINF:-1 tvg-chno="96" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",96 palaar tv [RTMP]
 
 #EXTINF:-1 tvg-chno="97" tvg-id="438" tvg-name="nila tv" tvg-logo="" group-title="Entertainment",97 nila tv
@@ -994,6 +990,10 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #EXTINF:-1 tvg-chno="484" tvg-id="498" tvg-name="Kairali.arabia TV" tvg-logo="" group-title="Entertainment",484 Kairali.arabia TV
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-chno="484" tvg-id="498" tvg-name="Kairali.arabia TV" tvg-logo="" group-title="Entertainment",484 Kairali.arabia TV [RTMP]
+
+#EXTINF:-1 tvg-chno="485" tvg-id="508" tvg-name="mcn tv" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789006072.webp" group-title="Entertainment",485 mcn tv
+https://play.applelive.in/mcntv/mcntv.m3u8
+#EXTINF:-1 tvg-chno="485" tvg-id="508" tvg-name="mcn tv" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789006072.webp" group-title="Entertainment",485 mcn tv [RTMP]
 
 #EXTINF:-1 tvg-chno="500" tvg-id="413" tvg-name="Puthiya Thalaimurai TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787403355.webp" group-title="News",500 Puthiya Thalaimurai TV
   https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8 
