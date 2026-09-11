@@ -413,6 +413,8 @@ https://app.ashokadigital.net/app/2c33bc6b/index.m3u8
 https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
 #EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="Rv tv folk songs" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh",854 Rv tv folk songs
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
+#EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS%20NEWS.png" group-title="Andhra Pradesh",856 VS NEWS
+https://vvsolutions-server11.in/dcn24_44/video.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title="Tamil Nadu Channels",901 Chanakya up/uk
