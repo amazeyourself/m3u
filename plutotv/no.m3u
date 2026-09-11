@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
+#EXTINF:-1 tvg-id="6a427495775f5e0d90f0a3c8" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/6a427495775f5e0d90f0a3c8/colorLogoPNG_1782740162482.png",Star Trek: Enterprise
+https://jmp2.uk/plu-6a427495775f5e0d90f0a3c8.m3u8
 #EXTINF:-1 tvg-id="67a23b899a300a00086f3371" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png",Dominance FC TV
 https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
 #EXTINF:-1 tvg-id="6a427b4e7dd69d931963e771" tvg-name="Pluto TV Sci-fi filmer" tvg-logo="https://images.pluto.tv/channels/6a427b4e7dd69d931963e771/colorLogoPNG_1788157956182.png",Pluto TV Sci-fi filmer
@@ -25,8 +27,6 @@ https://jmp2.uk/plu-6a329b878aa69b1cc8c5d1b6.m3u8
 https://jmp2.uk/plu-6a426ea9a1c1cd6c590e17e4.m3u8
 #EXTINF:-1 tvg-id="6a4270ee50c71f4dc3af2b0f" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a4270ee50c71f4dc3af2b0f/colorLogoPNG_1782739257443.png",Star Trek: The Next Generation
 https://jmp2.uk/plu-6a4270ee50c71f4dc3af2b0f.m3u8
-#EXTINF:-1 tvg-id="6a427495775f5e0d90f0a3c8" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/6a427495775f5e0d90f0a3c8/colorLogoPNG_1782740162482.png",Star Trek: Enterprise
-https://jmp2.uk/plu-6a427495775f5e0d90f0a3c8.m3u8
 #EXTINF:-1 tvg-id="6a427247cdc5ae2dd1174b50" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/6a427247cdc5ae2dd1174b50/colorLogoPNG_1782739789622.png",Star Trek: Voyager
 https://jmp2.uk/plu-6a427247cdc5ae2dd1174b50.m3u8
 #EXTINF:-1 tvg-id="693addd62bf6cf7414c4b2fc" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693addd62bf6cf7414c4b2fc/colorLogoPNG_1765465615277.png",Star Trek: The Original Series
