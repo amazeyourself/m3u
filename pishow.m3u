@@ -3,7 +3,7 @@
 https://cdn.pishow.tv/ott/live/6/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Urdu
 https://cdn.pishow.tv/ott/live/8/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",DD Kisan (No logo)
+#EXTINF:-1 tvg-id="" tvg-logo="",DD Kisan
 https://cdn.pishow.tv/ott/live/9/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Bharati
 https://cdn.pishow.tv/ott/live/10/master.m3u8
@@ -101,7 +101,7 @@ https://cdn.pishow.tv/ott/live/266/master.m3u8
 https://cdn.pishow.tv/ott/live/267/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",News 1st Kannada
 https://cdn.pishow.tv/ott/live/268/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Utkrisht Samachar Plus UP/UK
+#EXTINF:-1 tvg-id="" tvg-logo="",India Ahead
 https://cdn.pishow.tv/ott/live/269/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Republic Bangla
 https://cdn.pishow.tv/ott/live/270/master.m3u8
