@@ -268,9 +268,9 @@ https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 #EXTINF:-1 tvg-chno="308" tvg-id="129" tvg-name="TAMIL OLI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246267.webp" group-title="Entertainment",308 TAMIL OLI TV [RTMP]
 None
 #EXTINF:-1 tvg-chno="309" tvg-id="130" tvg-name="RK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246050.webp" group-title="Entertainment",309 RK TV
-https://rktv-hs1.tamilstream.in/rktv/tenkasi/playlist.m3u8
+http://rktv.phoenixcreations.online/rktv/rktv/index.m3u8
 #EXTINF:-1 tvg-chno="309" tvg-id="130" tvg-name="RK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771246050.webp" group-title="Entertainment",309 RK TV [RTMP]
-None
+null
 #EXTINF:-1 tvg-chno="310" tvg-id="373" tvg-name="MTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266150.webp" group-title="Entertainment",310 MTN TV
 https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-id="373" tvg-name="MTN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266150.webp" group-title="Entertainment",310 MTN TV [RTMP]
@@ -1066,10 +1066,6 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-chno="653" tvg-id="425" tvg-name="GOPURAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788546706.webp" group-title="Entertainment",653 GOPURAM TV
 https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
 #EXTINF:-1 tvg-chno="653" tvg-id="425" tvg-name="GOPURAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788546706.webp" group-title="Entertainment",653 GOPURAM TV [RTMP]
-
-#EXTINF:-1 tvg-chno="654" tvg-id="426" tvg-name="ANJ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788877274.webp" group-title="Entertainment",654 ANJ TV
-https://rtmp.notvstream.in/anj/anjtv/index.m3u8
-#EXTINF:-1 tvg-chno="654" tvg-id="426" tvg-name="ANJ TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788877274.webp" group-title="Entertainment",654 ANJ TV [RTMP]
 
 #EXTINF:-1 tvg-chno="655" tvg-id="427" tvg-name="SKY TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788934514.webp" group-title="Entertainment",655 SKY TV
 https://view.rcserver.in/tmp_hls11/skytv/index.m3u8
