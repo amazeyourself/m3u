@@ -209,8 +209,8 @@ https://stream6.livebox.co.in/manasutvhls/live.m3u8
 https://rtmp.bmlive.net/bms/kctv/index.m3u8
 #EXTINF:-1 tvg-id="190" tvg-chno="190" tvg-name="KC MUSIC" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784854592_WhatsApp%20Image%202026-07-23%20at%201.38.19%20PM.jpeg" group-title="Tamil Nadu Channels",190 KC MUSIC
 https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
-#EXTINF:-1 tvg-id="191" tvg-chno="191" tvg-name="boss tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788595566_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Tamil Nadu Channels",191 boss tv
-https://web.applelive.in/bosstv/bosstv/index.m3u8
+#EXTINF:-1 tvg-id="191" tvg-chno="191" tvg-name="harin" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789149794_boss.png" group-title="Tamil Nadu Channels",191 harin
+https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
 #EXTINF:-1 tvg-id="198" tvg-chno="198" tvg-name="sha tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1745500074_WhatsApp%20Image%202025-04-24%20at%206.20.29%20PM.jpeg" group-title="Tamil Nadu Channels",198 sha tv
 https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-id="199" tvg-chno="199" tvg-name="koodal tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437923_1784698493_1000503599-Photoroom.png" group-title="Tamil Nadu Channels",199 koodal tv
@@ -413,6 +413,8 @@ https://app.ashokadigital.net/app/2c33bc6b/index.m3u8
 https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
 #EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="Rv tv folk songs" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh",854 Rv tv folk songs
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
+#EXTINF:-1 tvg-id="855" tvg-chno="855" tvg-name="BMC TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750579765_IMG_20250622_133711.jpg" group-title="Andhra Pradesh",855 BMC TV
+https://mumbai-edge.smartplaytv.in/BMC/index.m3u8
 #EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS%20NEWS.png" group-title="Andhra Pradesh",856 VS NEWS
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
