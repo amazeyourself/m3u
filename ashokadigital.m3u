@@ -157,8 +157,6 @@ https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
 http://play.applelive.in/smaxtv/smaxtv.m3u8
 #EXTINF:-1 tvg-id="140" tvg-chno="140" tvg-name="Kavin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN%20TV.png" group-title="Tamil Nadu Channels",140 Kavin tv
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="141" tvg-chno="141" tvg-name="anandham tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM%20TV%20LOGO.png" group-title="Tamil Nadu Channels",141 anandham tv
-
 #EXTINF:-1 tvg-id="147" tvg-chno="147" tvg-name="BSC OLD tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771731192_bsc%20tv.png" group-title="Tamil Nadu Channels",147 BSC OLD tv
 https://app.ashokadigital.net/app/dd82e91b/index.m3u8
 #EXTINF:-1 tvg-id="149" tvg-chno="149" tvg-name="Subash HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785745653_1785411879_Subash%20Tv%20Logo%20copy.png" group-title="Tamil Nadu Channels",149 Subash HD
