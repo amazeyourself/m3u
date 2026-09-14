@@ -917,3 +917,5 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b845bb8b510f5b7fff04b2.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69d6d88b1790acff6189dea5.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a1609442476ab8600b1841c" tvg-name="Real Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",Real Wild
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a1609442476ab8600b1841c.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",48 Hours
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d.m3u8
