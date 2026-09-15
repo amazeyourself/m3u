@@ -44,7 +44,7 @@ https://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="11" tvg-name="AALAYA MAGIMAI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/aalaya_magimai_tv_1771225296.webp" group-title="Regional",11 AALAYA MAGIMAI TV [RTMP]
 rtmp://stream.ashokadigital.net/aalayamagimaitv/aalayamagimaitv
 #EXTINF:-1 tvg-chno="12" tvg-id="368" tvg-name="S TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1783178029.webp" group-title="Entertainment",12 S TV
-https://srvx.nellaiiptv.com/restream/rwtcwi/index.m3u8
+https://sx.nellaiiptv.com/app-restream/rwtcaa-stv/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="368" tvg-name="S TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1783178029.webp" group-title="Entertainment",12 S TV [RTMP]
 rtmp://stv.stream.nellaiiptv.com/live/stv
 #EXTINF:-1 tvg-chno="13" tvg-id="131" tvg-name="ROJA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245973.webp" group-title="Entertainment",13 ROJA TV
