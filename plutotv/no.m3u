@@ -1,16 +1,14 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
 #EXTINF:-1 tvg-id="6a427495775f5e0d90f0a3c8" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/6a427495775f5e0d90f0a3c8/colorLogoPNG_1782740162482.png",Star Trek: Enterprise
 https://jmp2.uk/plu-6a427495775f5e0d90f0a3c8.m3u8
-#EXTINF:-1 tvg-id="67a23b899a300a00086f3371" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png",Dominance FC TV
-https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
+#EXTINF:-1 tvg-id="6a6772828a40fc87bc5b2782" tvg-name="FloHockey 24/7" tvg-logo="https://images.pluto.tv/channels/6a6772828a40fc87bc5b2782/colorLogoPNG_1785825090378.png",FloHockey 24/7
+https://jmp2.uk/plu-6a6772828a40fc87bc5b2782.m3u8
 #EXTINF:-1 tvg-id="6a427b4e7dd69d931963e771" tvg-name="Pluto TV Sci-fi filmer" tvg-logo="https://images.pluto.tv/channels/6a427b4e7dd69d931963e771/colorLogoPNG_1788157956182.png",Pluto TV Sci-fi filmer
 https://jmp2.uk/plu-6a427b4e7dd69d931963e771.m3u8
 #EXTINF:-1 tvg-id="62724ae034f5190007b63424" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png",Doc Martin
 https://jmp2.uk/plu-62724ae034f5190007b63424.m3u8
 #EXTINF:-1 tvg-id="6a68c4f2f107abb1a6e9df7a" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c4f2f107abb1a6e9df7a/colorLogoPNG_1785251107268.png",NFL Channel
 https://jmp2.uk/plu-6a68c4f2f107abb1a6e9df7a.m3u8
-#EXTINF:-1 tvg-id="6a0f0f857120a26f0d85426c" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f857120a26f0d85426c/colorLogoPNG_1782464595980.png",American Gladiators
-https://jmp2.uk/plu-6a0f0f857120a26f0d85426c.m3u8
 #EXTINF:-1 tvg-id="6a7d7d8a0218a8f8ee697113" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d7d8a0218a8f8ee697113/colorLogoPNG_1786627120870.png",That's Rock
 https://jmp2.uk/plu-6a7d7d8a0218a8f8ee697113.m3u8
 #EXTINF:-1 tvg-id="67a9d77a15d6eb000837c6f4" tvg-name="Xena: Warrior Princess" tvg-logo="https://images.pluto.tv/channels/67a9d77a15d6eb000837c6f4/colorLogoPNG.png",Xena: Warrior Princess
@@ -21,8 +19,8 @@ https://jmp2.uk/plu-6a7d7d54c5ec41dd0f12e029.m3u8
 https://jmp2.uk/plu-6a7d7d67a939793d163768d2.m3u8
 #EXTINF:-1 tvg-id="6a7d7d7b417a4b67e5a740bc" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d7d7b417a4b67e5a740bc/colorLogoPNG_1786626708941.png",That's 90s00s
 https://jmp2.uk/plu-6a7d7d7b417a4b67e5a740bc.m3u8
-#EXTINF:-1 tvg-id="6a329b878aa69b1cc8c5d1b6" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b878aa69b1cc8c5d1b6/colorLogoPNG_1782465097383.png",The Bob Ross Channel
-https://jmp2.uk/plu-6a329b878aa69b1cc8c5d1b6.m3u8
+#EXTINF:-1 tvg-id="6a0f0f857120a26f0d85426c" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f857120a26f0d85426c/colorLogoPNG_1782464595980.png",American Gladiators
+https://jmp2.uk/plu-6a0f0f857120a26f0d85426c.m3u8
 #EXTINF:-1 tvg-id="6a426ea9a1c1cd6c590e17e4" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/6a426ea9a1c1cd6c590e17e4/colorLogoPNG_1782738712339.png",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-6a426ea9a1c1cd6c590e17e4.m3u8
 #EXTINF:-1 tvg-id="6a4270ee50c71f4dc3af2b0f" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a4270ee50c71f4dc3af2b0f/colorLogoPNG_1782739257443.png",Star Trek: The Next Generation
@@ -75,6 +73,8 @@ https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 https://jmp2.uk/plu-660e746024e1d00008610ea1.m3u8
 #EXTINF:-1 tvg-id="671656dfdaad7f00085d2133" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671656dfdaad7f00085d2133/colorLogoPNG_1732093602845.png",MODUS Super Series Darts
 https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
+#EXTINF:-1 tvg-id="67a23b899a300a00086f3371" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png",Dominance FC TV
+https://jmp2.uk/plu-67a23b899a300a00086f3371.m3u8
 #EXTINF:-1 tvg-id="68ac55fe3efb41cd979a6877" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
 #EXTINF:-1 tvg-id="62e7ba25be69bc0007b77fdc" tvg-name="Jakt är Jakt" tvg-logo="https://images.pluto.tv/channels/62e7ba25be69bc0007b77fdc/colorLogoPNG.png",Jakt är Jakt
@@ -243,6 +243,8 @@ https://jmp2.uk/plu-682b3932faaa60cd7dbf87b4.m3u8
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1 tvg-id="61814ff322e67b00074a5c43" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/61814ff322e67b00074a5c43/colorLogoPNG.png",Project Runway
 https://jmp2.uk/plu-61814ff322e67b00074a5c43.m3u8
+#EXTINF:-1 tvg-id="6a329b878aa69b1cc8c5d1b6" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b878aa69b1cc8c5d1b6/colorLogoPNG_1782465097383.png",The Bob Ross Channel
+https://jmp2.uk/plu-6a329b878aa69b1cc8c5d1b6.m3u8
 #EXTINF:-1 tvg-id="69e1007eb7dabef981d8625e" tvg-name="Pluto TV Urbex" tvg-logo="https://images.pluto.tv/channels/69e1007eb7dabef981d8625e/colorLogoPNG_1777465659265.png",Pluto TV Urbex
 https://jmp2.uk/plu-69e1007eb7dabef981d8625e.m3u8
 #EXTINF:-1 tvg-id="66d71485167a8b0008fd3345" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/66d71485167a8b0008fd3345/colorLogoPNG.png",Escape to the Country
