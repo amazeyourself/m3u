@@ -485,6 +485,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-618ab2f275913b296fbe56dd.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67db3546d66f778a752f7eaa.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",Camp Spoopy
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6164a963766ab4f9f57e81b1.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc" tvg-name="Rookie Blue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",Rookie Blue
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",Qwest TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",Stingray Greatest Hits
@@ -547,5 +549,3 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png",Women's Sports Network
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc" tvg-name="Rookie Blue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",Rookie Blue
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc.m3u8
