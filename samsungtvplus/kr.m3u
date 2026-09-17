@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml.gz"
-#EXTINF:-1 tvg-id="KR2900023XU" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900023XU_20260915T035347SQUARE.png",Samsung Television Network
-https://jmp2.uk/stvp-KR2900023XU
+#EXTINF:-1 tvg-id="KR1300003KW" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1300003KW_20260915T035354SQUARE.png",Samsung Television Network
+https://jmp2.uk/stvp-KR1300003KW
 #EXTINF:-1 tvg-id="KR3700002JT" tvg-name="TV조선" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3700002JT_20260901T053954SQUARE.png",TV조선
 https://jmp2.uk/stvp-KR3700002JT
 #EXTINF:-1 tvg-id="KR3600002ZY" tvg-name="JTBC4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png",JTBC4
@@ -203,14 +203,14 @@ https://jmp2.uk/stvp-KRBC3200018FU
 https://jmp2.uk/stvp-KR2000011GA
 #EXTINF:-1 tvg-id="KRBC800013YF" tvg-name="tvN 견우와 선녀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20260901T054013SQUARE.png",tvN 견우와 선녀
 https://jmp2.uk/stvp-KRBC800013YF
+#EXTINF:-1 tvg-id="KR7000023Z" tvg-name="KBS 오월의 청춘" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20260915T035351SQUARE.png",KBS 오월의 청춘
+https://jmp2.uk/stvp-KR7000023Z
 #EXTINF:-1 tvg-id="KRBC4500003W6" tvg-name="tvN 슬기로운 의사생활 1~2 이어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500003W6_20260422T013943SQUARE.png",tvN 슬기로운 의사생활 1~2 이어보기
 https://jmp2.uk/stvp-KRBC4500003W6
 #EXTINF:-1 tvg-id="KRBC4500002Q4" tvg-name="tvN 정년이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20260901T054059SQUARE.png",tvN 정년이
 https://jmp2.uk/stvp-KRBC4500002Q4
 #EXTINF:-1 tvg-id="KRBB42000061Z" tvg-name="SBS 야인시대" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20260422T013836SQUARE.png",SBS 야인시대
 https://jmp2.uk/stvp-KRBB42000061Z
-#EXTINF:-1 tvg-id="KR7000023Z" tvg-name="KBS 구르미 그린 달빛" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20260915T035351SQUARE.png",KBS 구르미 그린 달빛
-https://jmp2.uk/stvp-KR7000023Z
 #EXTINF:-1 tvg-id="KRBC4400002AO" tvg-name="KBS 최고다 이순신" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20260506T053640SQUARE.png",KBS 최고다 이순신
 https://jmp2.uk/stvp-KRBC4400002AO
 #EXTINF:-1 tvg-id="KRBC4400001TZ" tvg-name="KBS 신사와 아가씨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20260422T013647SQUARE.png",KBS 신사와 아가씨
