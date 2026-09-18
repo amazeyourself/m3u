@@ -239,7 +239,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f5132da62fe160040f26b5b.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-630905af0417b7074a4ad95e" tvg-name="BBC Food" tvg-logo="https://provider-static.plex.tv/epg/cms/production/243c6bd7-a203-4d60-8a20-b0e288f1e5fc/BBC_FOOD_LOGO_WHITE_1500x1000.png",BBC Food
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-630905af0417b7074a4ad95e.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",Z Nation
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",Z Nation
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66ce3e009ac0b1441b19ca29.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec015" tvg-name="Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",Nosey
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec015.m3u8
@@ -425,7 +425,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-695d6e5fe625040869eaebec.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60aeb5cd87f9b1002ce12323.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66fbf9cf128ab3f65b259bcb" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png",Willow Sports
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66fbf9cf128ab3f65b259bcb.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",Documentary+
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",Documentary+
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-614e286b2bac097ffd6fd6ab.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-687e47c33f6f86f29359b2c7" tvg-name="Hong Kong Fight Club" tvg-logo="https://provider-static.plex.tv/epg/cms/production/83976408-3f6b-4f5b-9359-9c1e140a7cec/HKFC_Logo_Dark_-_Paige_Sherman.png",Hong Kong Fight Club
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-687e47c33f6f86f29359b2c7.m3u8
@@ -455,6 +455,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",48 Hours
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a3c23ec97845f69835ac533" tvg-name="HOT BENCH" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png",HOT BENCH
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a3c23ec97845f69835ac533.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV

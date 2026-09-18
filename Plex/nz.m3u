@@ -21,7 +21,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ce3cf459062698a13c39df.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69154308e449c6fdde65a661.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-67c24a7645ae99120c07158a" tvg-name="Bondi Vet" tvg-logo="https://provider-static.plex.tv/epg/cms/production/204c0102-2aa5-4867-879d-9697ce1272b2/BV_Logo_1500_x_1000__1__Anna.png",Bondi Vet
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67c24a7645ae99120c07158a.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",Z Nation
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",Z Nation
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806" tvg-name="Heartland" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4f771dfa-0588-46f0-9a02-25dc76dd4abe/Logo_Heartland_White_1500x1000RDX.png",Heartland
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806.m3u8
@@ -211,7 +211,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66855a2a714fe577eb7db920.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224" tvg-name="Cricket Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",Cricket Gold
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",Documentary+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",Documentary+
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png",SportsGrid
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8

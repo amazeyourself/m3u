@@ -171,7 +171,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-671ab1dc79fce66281154344.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-6349ed0eb1adc4cfa571fd37.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-67c2496d45ae99120c071588" tvg-name="Life Down Under" tvg-logo="https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",Life Down Under
 https://jmp2.uk/plex-64305451fc3be5947773c339-67c2496d45ae99120c071588.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",Z Nation
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-66ce3e009ac0b1441b19ca29" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png",Z Nation
 https://jmp2.uk/plex-64305451fc3be5947773c339-66ce3e009ac0b1441b19ca29.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66469eecdad45e1759c1c06b" tvg-name="PBS Science" tvg-logo="https://provider-static.plex.tv/epg/cms/production/98120494-d8ce-4851-9567-b0a22d1135ad/PBS_Science_Logo_Horizontal_WhiteBlue_1500x1000_-_Jaszmine_RayRDX.png",PBS Science
 https://jmp2.uk/plex-64305451fc3be5947773c339-66469eecdad45e1759c1c06b.m3u8
@@ -313,7 +313,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-5efe1de5e0b3f5003f5d9f76.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-69d57e725a891b1ff36c0c5e.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6448b4e8af92c31f4a190c25" tvg-name="MyTime Movie Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8258d765-c5e7-4f6e-85fb-69116ee9b060/MT_PLEX_1500x1000_UK_WHITE_-_Sam_Abraham.png",MyTime Movie Network
 https://jmp2.uk/plex-64305451fc3be5947773c339-6448b4e8af92c31f4a190c25.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",Documentary+
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",Documentary+
 https://jmp2.uk/plex-64305451fc3be5947773c339-614e286b2bac097ffd6fd6ab.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66bfb17c144c201b8b61c10d" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png",RCM
 https://jmp2.uk/plex-64305451fc3be5947773c339-66bfb17c144c201b8b61c10d.m3u8
@@ -369,6 +369,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-6615360a8423b8d7e61a099b.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a9512a7f534d4312a699c22.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a3c23ec97845f69835ac533" tvg-name="HOT BENCH" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png",HOT BENCH
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a3c23ec97845f69835ac533.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-668561babc1490a2f408f30d" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",48 Hours
 https://jmp2.uk/plex-64305451fc3be5947773c339-668561babc1490a2f408f30d.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV

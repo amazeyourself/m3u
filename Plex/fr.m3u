@@ -43,7 +43,7 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-69a1f7228d9f2822f6f50637.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6490e06718a55242eea9598f" tvg-name="Emotion' L" tvg-logo="https://provider-static.plex.tv/epg/cms/production/699cff89-9106-4de6-b340-3852cc1ec444/EMOTION_L_-_Logo_1500x1000.png",Emotion' L
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e06718a55242eea9598f.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6760d828ba503b54def4afd2" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f859f96d-c7e2-48f7-ac08-9e2fdd166432/ZNation_Channel_Logo_White.png",Z Nation
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6760d828ba503b54def4afd2" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/924cb81f-e08a-4a00-b831-7f82628fe02a/ZNation_logo_1500x1000_light.png.png",Z Nation
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6760d828ba503b54def4afd2.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6a5d50fe5830ca1b11df3c4f" tvg-name="Inazuma Eleven" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1f4b2564-fc79-4c3a-bc79-56eb8ea7f06c/Logo_InazumaEleven_1500x1000_DarkBackground.png",Inazuma Eleven
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a5d50fe5830ca1b11df3c4f.m3u8
@@ -399,7 +399,7 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d9.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f07e9fdf313eb0041bbecda.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png",GUSTOTV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f8746eabd529300418246d9.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png",Documentary+
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",Documentary+
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-614e286b2bac097ffd6fd6ab.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png",Galxy TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-621672e42c2627c068e73ad8.m3u8
