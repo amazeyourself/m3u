@@ -15,7 +15,7 @@ except urllib3.exceptions.MaxRetryError:
                         "X-Client-Platform": "tv",
                         "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
                         })
-print(f)
+print(f.data)
 try:
   data = f.json()
 except json.decoder.JSONDecodeError:
@@ -25,6 +25,7 @@ except json.decoder.JSONDecodeError:
                         "X-Client-Platform": "tv",
                         "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
                         })
+  print(f.data)
   data = f.json()
 print(data)
 playlist = []
