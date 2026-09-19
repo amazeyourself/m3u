@@ -291,7 +291,7 @@ https://play.applelive.in/cgntv/cgntv.m3u8
 https://joshuatv-hs1.tamilstream.in/joshuatv/joshuatv/playlist.m3u8
 #EXTINF:-1 tvg-id="246" tvg-chno="246" tvg-name="leo tv hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788335982_27f17779-7c3a-4305-b69f-0d2a89986df3-Photoroom.png" group-title="Tamil Nadu Channels",246 leo tv hd
 
-#EXTINF:-1 tvg-id="247" tvg-chno="247" tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789183443_green-gradient-abstract-background-empty-room-with-space-your-text-picture_1258-52336.png" group-title="Tamil Nadu Channels",247 harin tv
+#EXTINF:-1 tvg-id="247" tvg-chno="247" tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786062_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Tamil Nadu Channels",247 harin tv
 https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
 #EXTINF:-1 tvg-id="275" tvg-chno="275" tvg-name="KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km%20music.png" group-title="Tamil Nadu Channels",275 KM Music
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
@@ -425,6 +425,12 @@ https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
 https://mumbai-edge.smartplaytv.in/BMC/index.m3u8
 #EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS%20NEWS.png" group-title="Andhra Pradesh",856 VS NEWS
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
+#EXTINF:-1 tvg-id="857" tvg-chno="857" tvg-name="TV9 VOICE OF PROPLE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785620_tv9.png" group-title="Andhra Pradesh",857 TV9 VOICE OF PROPLE TV
+http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="858" tvg-chno="858" tvg-name="PUBLIC TV న్యూస్" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785930_pulic%20tv.png" group-title="Andhra Pradesh",858 PUBLIC TV న్యూస్
+https://publictvtelugu.co.in/publictv_1/video.m3u8
+#EXTINF:-1 tvg-id="859" tvg-chno="859" tvg-name="PUBLIC TV Folk music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786293_public%20fock.png" group-title="Andhra Pradesh",859 PUBLIC TV Folk music
+https://publictvtelugu.co.in/publictvfolkmusic_2/video.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title="Tamil Nadu Channels",901 Chanakya up/uk
