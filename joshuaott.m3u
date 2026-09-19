@@ -8,7 +8,7 @@ https://joshuamusic-hls.tamilstream.in/joshuamusic/joshua/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-name="Mahimai TV" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1780564329_1758118153_images (8).jpeg" tvg-region="Valliyur",Mahimai TV
 https://ktismaservers.in:3161/live/mahimaitvlive.m3u8
 #EXTINF:-1 tvg-id="4" tvg-chno="4" tvg-name="Nijam Tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761745671_nijam.png" tvg-region="Valliyur",Nijam Tv
-https://nijamtv.nijamtv.org/live/nijamtv/video.m3u8
+http://nijamtv.nijamtv.org/live/nijamtv/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-chno="5" tvg-name="Good News Time" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1758854174_Logo copy1000x1000.jpg" tvg-region="Tirunelveli ",Good News Time
 https://5dd3981940faa.streamlock.net/goodnewstime/goodnewstime/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-chno="6" tvg-name="LOVE JOY TV" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761144558_1000002302.png" tvg-region="Tirunelveli",LOVE JOY TV
@@ -22,7 +22,7 @@ https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-name="Chutti Grace Tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761223109_grace madurai suddi.png" tvg-region="Madurai",Chutti Grace Tv
 https://server1.thewebworld.in:3065/live/chuttigracetvlive.m3u8
 #EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-name="JTK Tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761369484_jtk.png" tvg-region="Tirunelveli",JTK Tv
-https://app.xstream.onecloudlive.in/jtktv/jtktvhd/index.m3u8
+https://ktismaservers.in:3346/live/jtktvlive.m3u8
 #EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-name="Faith Tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761238152_faith.png" tvg-region="Vellore",Faith Tv
 https://stream.iplive.xyz/faithtv/faithtv/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-name="Holy Land Tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761712117_holy.png" tvg-region="Nagercoil",Holy Land Tv
@@ -102,7 +102,7 @@ https://stream.onecloudlive.in/novamani/ruahtv/index.m3u8
 #EXTINF:-1 tvg-id="49" tvg-chno="49" tvg-name="Nambikkai TV" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1762179850_channels4_profile.jpg" tvg-region="",Nambikkai TV
 https://mk9qa7n8qwyb-hls-live.wmncdn.net/nambikkaitv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-name="Vaanmalar TV" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1762179895_channels4_profile (1).jpg" tvg-region="",Vaanmalar TV
-https://liveserv.in/videoplayer/vaanmalar.php
+https://31.liveserv.in/hls/vaanmalar/live.m3u8
 #EXTINF:-1 tvg-id="51" tvg-chno="51" tvg-name="New Life Tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1762941385_New Life Tv From Ooty.png" tvg-region="Ooty",New Life Tv
 https://stream.e2is.in/hls/Newlife.m3u8
 #EXTINF:-1 tvg-id="52" tvg-chno="52" tvg-name="நற்செய்தி டிவி " tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1764856351_நற்செய்தி  டிவி.png" tvg-region="Pavoorchatram",நற்செய்தி டிவி 
