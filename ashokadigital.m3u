@@ -293,6 +293,8 @@ https://joshuatv-hs1.tamilstream.in/joshuatv/joshuatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="247" tvg-chno="247" tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786062_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Tamil Nadu Channels",247 harin tv
 https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
+#EXTINF:-1 tvg-id="248" tvg-chno="248" tvg-name="kingdom channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789927049_qUntitled-1s.png" group-title="Christian Tv Channels",248 kingdom channel
+https://rtmp.applelive.in/kingdomtv/kingdomtv/index.m3u8
 #EXTINF:-1 tvg-id="275" tvg-chno="275" tvg-name="KM Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km%20music.png" group-title="Tamil Nadu Channels",275 KM Music
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
 #EXTINF:-1 tvg-id="286" tvg-chno="286" tvg-name="Rj Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Tamil Nadu Channels",286 Rj Tamil Tv
@@ -375,23 +377,23 @@ http://guru.sritv.co.in:1935/metro/live/sri_network_cdn.m3u8
 http://guru.sritv.co.in:1935/musicbeat/live/sri_network_cdn.m3u8
 #EXTINF:-1 tvg-id="615" tvg-chno="615" tvg-name="akashtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784650650_615.png" group-title="Karnataka Channels",615 akashtv
 http://guru.sritv.co.in:1935/akash/live/sri_network_cdn.m3u8
-#EXTINF:-1 tvg-id="616" tvg-chno="616" tvg-name="అశోక తెలుగు" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788414638_7bc9b907-5cfd-472f-ab68-20e4677c6004-Photoroom%20(1).png" group-title="Andhra Pradesh",616 అశోక తెలుగు
+#EXTINF:-1 tvg-id="616" tvg-chno="616" tvg-name="అశోక తెలుగు" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788414638_7bc9b907-5cfd-472f-ab68-20e4677c6004-Photoroom%20(1).png" group-title="Andhra Pradesh and Telangana",616 అశోక తెలుగు
 https://app.ashokadigital.net/app/ce705f4a/index.m3u8
-#EXTINF:-1 tvg-id="620" tvg-chno="620" tvg-name="dhanya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788848546_3_2_01_copy__01-removebg-preview%20(1).png" group-title="Andhra Pradesh",620 dhanya tv
+#EXTINF:-1 tvg-id="620" tvg-chno="620" tvg-name="dhanya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788848546_3_2_01_copy__01-removebg-preview%20(1).png" group-title="Andhra Pradesh and Telangana",620 dhanya tv
 https://stream.ashokadigital.net/dhanyatv/dhanyatv/index.m3u8
-#EXTINF:-1 tvg-id="647" tvg-chno="647" tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788536805_RV%20GIGITAL.png" group-title="Andhra Pradesh",647 rv digital tv
+#EXTINF:-1 tvg-id="647" tvg-chno="647" tvg-name="rv digital tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788536805_RV%20GIGITAL.png" group-title="Andhra Pradesh and Telangana",647 rv digital tv
 https://rtmp.streamwell.in/hls/rvdigitaltv.m3u8
-#EXTINF:-1 tvg-id="648" tvg-chno="648" tvg-name="Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Andhra Pradesh",648 Blessing Tv
+#EXTINF:-1 tvg-id="648" tvg-chno="648" tvg-name="Blessing Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750414088_IMG_20250620_153652.jpg" group-title="Andhra Pradesh and Telangana",648 Blessing Tv
 https://mumbai-edge.smartplaytv.in/BlessingTv/index.m3u8
-#EXTINF:-1 tvg-id="652" tvg-chno="652" tvg-name="gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788412018_gs.png" group-title="Andhra Pradesh",652 gs channel
+#EXTINF:-1 tvg-id="652" tvg-chno="652" tvg-name="gs channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788412018_gs.png" group-title="Andhra Pradesh and Telangana",652 gs channel
 https://shivaganeshtelicom.in/gschannel/video.m3u8
-#EXTINF:-1 tvg-id="655" tvg-chno="655" tvg-name="GNT GUNTUR NEWS " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788535917_GNT%20NEWS%20ANDHRA.png" group-title="Andhra Pradesh",655 GNT GUNTUR NEWS 
+#EXTINF:-1 tvg-id="655" tvg-chno="655" tvg-name="GNT GUNTUR NEWS " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788535917_GNT%20NEWS%20ANDHRA.png" group-title="Andhra Pradesh and Telangana",655 GNT GUNTUR NEWS 
 https://amigofx.com:1936/srkent/srkent/playlist.m3u8
-#EXTINF:-1 tvg-id="708" tvg-chno="708" tvg-name="sree news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788358582_7c034eab-6437-417a-914e-1112679b7794-Photoroom.png" group-title="Andhra Pradesh",708 sree news
+#EXTINF:-1 tvg-id="708" tvg-chno="708" tvg-name="sree news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788358582_7c034eab-6437-417a-914e-1112679b7794-Photoroom.png" group-title="Andhra Pradesh and Telangana",708 sree news
 https://vvsolutions.in/sreenews/sreenews.m3u8
-#EXTINF:-1 tvg-id="709" tvg-chno="709" tvg-name="dcn 24 news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788440916_WhatsApp%20Image%202026-09-03%20at%202.01.56%20PM.jpeg" group-title="Andhra Pradesh",709 dcn 24 news
+#EXTINF:-1 tvg-id="709" tvg-chno="709" tvg-name="dcn 24 news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788440916_WhatsApp%20Image%202026-09-03%20at%202.01.56%20PM.jpeg" group-title="Andhra Pradesh and Telangana",709 dcn 24 news
 https://server2.shashwatha.com:444/live/ac2f8d1809fb.m3u8
-#EXTINF:-1 tvg-id="710" tvg-chno="710" tvg-name="srk news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788533782_SRK%20Logo%20Entertainments.png" group-title="Andhra Pradesh",710 srk news
+#EXTINF:-1 tvg-id="710" tvg-chno="710" tvg-name="srk news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788533782_SRK%20Logo%20Entertainments.png" group-title="Andhra Pradesh and Telangana",710 srk news
 https://sharsolution.in/hls/s1.m3u8
 #EXTINF:-1 tvg-id="732" tvg-chno="732" tvg-name="boys tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890703_WhatsApp_Image_2025-02-18_at_8.27.30_PM-removebg-preview.png" group-title="Tamil Nadu Channels",732 boys tv
 http://rtmp.applelive.in/boystv/boystv/index.m3u8
@@ -411,26 +413,32 @@ https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 
 #EXTINF:-1 tvg-id="764" tvg-chno="764" tvg-name="A1 Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758524651_LOGO%20PSD.png" group-title="Tamil Nadu Channels",764 A1 Tv
 https://app.ashokadigital.net/app/7fff5003/index.m3u8
-#EXTINF:-1 tvg-id="849" tvg-chno="849" tvg-name="Calvari Prardhana" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788691744_c1ef8ebc-30a4-47e3-b040-125e7d1403b4-Photoroom.png" group-title="Andhra Pradesh",849 Calvari Prardhana
+#EXTINF:-1 tvg-id="849" tvg-chno="849" tvg-name="Calvari Prardhana" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788691744_c1ef8ebc-30a4-47e3-b040-125e7d1403b4-Photoroom.png" group-title="Andhra Pradesh and Telangana",849 Calvari Prardhana
 https://mumbai-edge.smartplaytv.in/CalvariPrardhana/index.m3u8
-#EXTINF:-1 tvg-id="850" tvg-chno="850" tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Andhra Pradesh",850 7gtv
+#EXTINF:-1 tvg-id="850" tvg-chno="850" tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Andhra Pradesh and Telangana",850 7gtv
 https://rtmp.streamwell.in/hls/7gtv.m3u8
-#EXTINF:-1 tvg-id="852" tvg-chno="852" tvg-name="pps tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788337678_03581834-faa6-46e3-83e9-4f7228a3cbc0-Photoroom.png" group-title="Andhra Pradesh",852 pps tv
+#EXTINF:-1 tvg-id="852" tvg-chno="852" tvg-name="pps tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788337678_03581834-faa6-46e3-83e9-4f7228a3cbc0-Photoroom.png" group-title="Andhra Pradesh and Telangana",852 pps tv
 https://app.ashokadigital.net/app/2c33bc6b/index.m3u8
-#EXTINF:-1 tvg-id="853" tvg-chno="853" tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Andhra Pradesh",853 Reshya Tv
+#EXTINF:-1 tvg-id="853" tvg-chno="853" tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Andhra Pradesh and Telangana",853 Reshya Tv
 https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
-#EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="Rv tv folk songs" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh",854 Rv tv folk songs
+#EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="Rv tv folk songs" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh and Telangana",854 Rv tv folk songs
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
-#EXTINF:-1 tvg-id="855" tvg-chno="855" tvg-name="BMC TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750579765_IMG_20250622_133711.jpg" group-title="Andhra Pradesh",855 BMC TV
+#EXTINF:-1 tvg-id="855" tvg-chno="855" tvg-name="BMC TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750579765_IMG_20250622_133711.jpg" group-title="Andhra Pradesh and Telangana",855 BMC TV
 https://mumbai-edge.smartplaytv.in/BMC/index.m3u8
-#EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS%20NEWS.png" group-title="Andhra Pradesh",856 VS NEWS
+#EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS%20NEWS.png" group-title="Andhra Pradesh and Telangana",856 VS NEWS
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
-#EXTINF:-1 tvg-id="857" tvg-chno="857" tvg-name="TV9 VOICE OF PROPLE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785620_tv9.png" group-title="Andhra Pradesh",857 TV9 VOICE OF PROPLE TV
+#EXTINF:-1 tvg-id="857" tvg-chno="857" tvg-name="TV9 VOICE OF PROPLE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785620_tv9.png" group-title="Andhra Pradesh and Telangana",857 TV9 VOICE OF PROPLE TV
 http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="858" tvg-chno="858" tvg-name="PUBLIC TV న్యూస్" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785930_pulic%20tv.png" group-title="Andhra Pradesh",858 PUBLIC TV న్యూస్
+#EXTINF:-1 tvg-id="858" tvg-chno="858" tvg-name="PUBLIC TV న్యూస్" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785930_pulic%20tv.png" group-title="Andhra Pradesh and Telangana",858 PUBLIC TV న్యూస్
 https://publictvtelugu.co.in/publictv_1/video.m3u8
-#EXTINF:-1 tvg-id="859" tvg-chno="859" tvg-name="PUBLIC TV Folk music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786293_public%20fock.png" group-title="Andhra Pradesh",859 PUBLIC TV Folk music
+#EXTINF:-1 tvg-id="859" tvg-chno="859" tvg-name="PUBLIC TV Folk music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786293_public%20fock.png" group-title="Andhra Pradesh and Telangana",859 PUBLIC TV Folk music
 https://publictvtelugu.co.in/publictvfolkmusic_2/video.m3u8
+#EXTINF:-1 tvg-id="860" tvg-chno="860" tvg-name="siti cable " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789898731_sirte%20cable%20png.png" group-title="Andhra Pradesh and Telangana",860 siti cable 
+https://vvsolutions-server14.in/siticablefolk_32/video.m3u8
+#EXTINF:-1 tvg-id="861" tvg-chno="861" tvg-name="Media 10" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789898868_media%2010.png" group-title="Andhra Pradesh and Telangana",861 Media 10
+https://vvsolutions-server14.in/media10news_22/video.m3u8
+#EXTINF:-1 tvg-id="862" tvg-chno="862" tvg-name="nsr news " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789899252_nsr.png" group-title="Andhra Pradesh and Telangana",862 nsr news 
+https://vvsolutions.in/nsrnews/nsrnews.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title="Tamil Nadu Channels",901 Chanakya up/uk
