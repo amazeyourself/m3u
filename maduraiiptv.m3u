@@ -8,7 +8,7 @@ https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="495" tvg-name="G TV HD" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788507469.webp" group-title="Entertainment",2 G TV HD [RTMP]
 
 #EXTINF:-1 tvg-chno="3" tvg-id="2" tvg-name="DURESH TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787471596.webp" group-title="Entertainment",3 DURESH TV
-https://sx.nellaiiptv.com/app-restream/e434f1-dureshtv/index.m3u8
+http://srvvii.nellaiiptv.com:8033/app-restream/e434f1-dureshtv/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="2" tvg-name="DURESH TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787471596.webp" group-title="Entertainment",3 DURESH TV [RTMP]
 rtmp://103.78.164.108:1935/static/PDPTV
 #EXTINF:-1 tvg-chno="4" tvg-id="401" tvg-name="CRAYONZ TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787290966.webp" group-title="Entertainment",4 CRAYONZ TV
@@ -44,9 +44,9 @@ http://217.216.79.247/rtv/rtv/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="420" tvg-name="R TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787474636.webp" group-title="Entertainment",11 R TV [RTMP]
 
 #EXTINF:-1 tvg-chno="12" tvg-id="368" tvg-name="S TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1783178029.webp" group-title="Entertainment",12 S TV
-https://sx.nellaiiptv.com/app-restream/rwtcaa-stv/index.m3u8
+http://srvvii.nellaiiptv.com:8033/app-restream/rwtcaa-stv/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="368" tvg-name="S TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1783178029.webp" group-title="Entertainment",12 S TV [RTMP]
-rtmp://stv.stream.nellaiiptv.com/live/stv
+
 #EXTINF:-1 tvg-chno="13" tvg-id="518" tvg-name="SRI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789198606.webp" group-title="Entertainment",13 SRI TV
 http://sritv.phoenixcreations.online/sritv/sri/playlist.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="518" tvg-name="SRI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789198606.webp" group-title="Entertainment",13 SRI TV [RTMP]
@@ -66,10 +66,6 @@ http://view.rcserver.in/tmp_hls6/jeyasubbutv/index.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="148" tvg-name="RIO TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245073.webp" group-title="Entertainment",17 RIO TV
 https://ipcloud.live/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="148" tvg-name="RIO TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771245073.webp" group-title="Entertainment",17 RIO TV [RTMP]
-
-#EXTINF:-1 tvg-chno="18" tvg-id="394" tvg-name="AadhavanColours" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788271371.webp" group-title="Music",18 AadhavanColours
-http://mkpcloud.playit.plus:1024/AadhavanColours/AadhavanColours.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="394" tvg-name="AadhavanColours" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788271371.webp" group-title="Music",18 AadhavanColours [RTMP]
 
 #EXTINF:-1 tvg-chno="20" tvg-id="170" tvg-name="CUDDALORE VOICE TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771243988.webp" group-title="Entertainment",20 CUDDALORE VOICE TV
 https://stream.ashokadigital.net/voicetv/voicetvhd/index.m3u8
@@ -279,6 +275,10 @@ https://play.applelive.in/riyatv/riyatv.m3u8
 https://sx.nellaiiptv.com/app-restream/150cqo-selfietv/index.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="367" tvg-name="SELFIE HD TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1784266089.webp" group-title="Entertainment",88 SELFIE HD TV [RTMP]
 
+#EXTINF:-1 tvg-chno="89" tvg-id="540" tvg-name="V BHAKTHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789917873.webp" group-title="Regional",89 V BHAKTHI TV
+https://siii.mystreams.in/live/vbhakthi/index.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="540" tvg-name="V BHAKTHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789917873.webp" group-title="Regional",89 V BHAKTHI TV [RTMP]
+
 #EXTINF:-1 tvg-chno="93" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1778775017.webp" group-title="Regional",93 VEZHAMUGAM TV
 http://live.vezhamugam.com/vezhamugam/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1778775017.webp" group-title="Regional",93 VEZHAMUGAM TV [RTMP]
@@ -296,13 +296,13 @@ https://live.onecloudlive.in/palaartv/palaartv/index.m3u8?token=github.com/amaze
 #EXTINF:-1 tvg-chno="96" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",96 palaar tv [RTMP]
 
 #EXTINF:-1 tvg-chno="97" tvg-id="115" tvg-name="V MUSIC TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="Music",97 V MUSIC TV
-https://sx.nellaiiptv.com/app-restream/5akaf8-vmusictv/index.m3u8
+http://srvvii.nellaiiptv.com:8033/app-restream/5akaf8-vmusictv/index.m3u8
 #EXTINF:-1 tvg-chno="97" tvg-id="115" tvg-name="V MUSIC TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="Music",97 V MUSIC TV [RTMP]
 
 #EXTINF:-1 tvg-chno="98" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",98 V TAMIL TV
-https://sx.nellaiiptv.com/app-restream/88kp4t-vtamizhtv/index.m3u8
+http://srvvii.nellaiiptv.com:8033/app-restream/88kp4t-vtamizhtv/index.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",98 V TAMIL TV [RTMP]
-rtmp://stream.dureshtech.com/vtv/vtv
+
 #EXTINF:-1 tvg-chno="99" tvg-id="215" tvg-name="SHA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771301751.webp" group-title="Entertainment",99 SHA TV
 https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-id="215" tvg-name="SHA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771301751.webp" group-title="Entertainment",99 SHA TV [RTMP]
