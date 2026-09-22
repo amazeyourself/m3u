@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml.gz"
 #EXTINF:-1 tvg-id="6a315581df0b6d462c18397e" tvg-name="Pluto TV 90s Hit Comedy" tvg-logo="https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png",Pluto TV 90s Hit Comedy
 https://jmp2.uk/plu-6a315581df0b6d462c18397e.m3u8
+#EXTINF:-1 tvg-id="6a7b1e40ad0d80253c6e10ce" tvg-name="Family Feud Canada" tvg-logo="https://images.pluto.tv/channels/6a7b1e40ad0d80253c6e10ce/colorLogoPNG_1789751514509.png",Family Feud Canada
+https://jmp2.uk/plu-6a7b1e40ad0d80253c6e10ce.m3u8
 #EXTINF:-1 tvg-id="6a67825875fd5e3828e83703" tvg-name="FloHockey 24/7" tvg-logo="https://images.pluto.tv/channels/6a67825875fd5e3828e83703/colorLogoPNG_1785780851784.png",FloHockey 24/7
 https://jmp2.uk/plu-6a67825875fd5e3828e83703.m3u8
 #EXTINF:-1 tvg-id="67054838ec9d6d00082ee426" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/67054838ec9d6d00082ee426/colorLogoPNG.png",Pluto TV Zombies
