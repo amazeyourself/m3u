@@ -15,9 +15,9 @@ rtmp://103.78.164.108:1935/static/PDPTV
 https://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="401" tvg-name="CRAYONZ TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787290966.webp" group-title="Entertainment",4 CRAYONZ TV [RTMP]
 
-#EXTINF:-1 tvg-chno="5" tvg-id="513" tvg-name="prime music TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789198366.webp" group-title="Music",5 prime music TV
-https://live.primestream.in/prime/music/index.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="513" tvg-name="prime music TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789198366.webp" group-title="Music",5 prime music TV [RTMP]
+#EXTINF:-1 tvg-chno="5" tvg-id="540" tvg-name="V BHAKTHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789917873.webp" group-title="Regional",5 V BHAKTHI TV
+https://siii.mystreams.in/live/vbhakthi/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="540" tvg-name="V BHAKTHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789917873.webp" group-title="Regional",5 V BHAKTHI TV [RTMP]
 
 #EXTINF:-1 tvg-chno="6" tvg-id="203" tvg-name="MADURA TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771253349.webp" group-title="Entertainment",6 MADURA TV
 https://stream.onecloudlive.in/mm/maduratv/index.m3u8
@@ -275,14 +275,14 @@ https://play.applelive.in/riyatv/riyatv.m3u8
 https://sx.nellaiiptv.com/app-restream/150cqo-selfietv/index.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="367" tvg-name="SELFIE HD TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1784266089.webp" group-title="Entertainment",88 SELFIE HD TV [RTMP]
 
-#EXTINF:-1 tvg-chno="89" tvg-id="540" tvg-name="V BHAKTHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789917873.webp" group-title="Regional",89 V BHAKTHI TV
-https://siii.mystreams.in/live/vbhakthi/index.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-id="540" tvg-name="V BHAKTHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789917873.webp" group-title="Regional",89 V BHAKTHI TV [RTMP]
+#EXTINF:-1 tvg-chno="89" tvg-id="513" tvg-name="prime music TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789198366.webp" group-title="Music",89 prime music TV
+https://live.primestream.in/prime/music/index.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-id="513" tvg-name="prime music TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789198366.webp" group-title="Music",89 prime music TV [RTMP]
 
 #EXTINF:-1 tvg-chno="93" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1778775017.webp" group-title="Regional",93 VEZHAMUGAM TV
-http://live.vezhamugam.com/vezhamugam/live/playlist.m3u8
+https://iptv.vezhamugam.com/hls/vezhamugam/live_hd.m3u8
 #EXTINF:-1 tvg-chno="93" tvg-id="336" tvg-name="VEZHAMUGAM TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1778775017.webp" group-title="Regional",93 VEZHAMUGAM TV [RTMP]
-http://live.vezhamugam.com/vezhamugam/live/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="94" tvg-id="428" tvg-name="THIRAI TV " tvg-logo="" group-title="Music",94 THIRAI TV 
 http://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-id="428" tvg-name="THIRAI TV " tvg-logo="" group-title="Music",94 THIRAI TV  [RTMP]
@@ -1004,11 +1004,11 @@ https://phoenix-srivi.phoenixcreations-online.proxy.nellaiiptv.com/phoenix/phoen
 #EXTINF:-1 tvg-chno="451" tvg-id="279" tvg-name="PHOENIX TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786947888.webp" group-title="Entertainment",451 PHOENIX TV [RTMP]
 rtmp://phoenix-srivi.phoenixcreations.online:1935/phoenix/phoenix
 #EXTINF:-1 tvg-chno="453" tvg-id="281" tvg-name="D TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771917388.webp" group-title="Entertainment",453 D TV
-https://stream.d6-pro.com/Dtv/live/index.m3u8
+https://stream.d6-pro.com/dtv/live/video.m3u8
 #EXTINF:-1 tvg-chno="453" tvg-id="281" tvg-name="D TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771917388.webp" group-title="Entertainment",453 D TV [RTMP]
 
 #EXTINF:-1 tvg-chno="454" tvg-id="282" tvg-name="DBHAKHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771917454.webp" group-title="Devotional",454 DBHAKHI TV
-https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
+https://stream.d6-pro.com/dtv/live/video.m3u8
 #EXTINF:-1 tvg-chno="454" tvg-id="282" tvg-name="DBHAKHI TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771917454.webp" group-title="Devotional",454 DBHAKHI TV [RTMP]
 
 #EXTINF:-1 tvg-chno="456" tvg-id="283" tvg-name="TUNES 6 MUSIC TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1771917533.webp" group-title="Music",456 TUNES 6 MUSIC TV
