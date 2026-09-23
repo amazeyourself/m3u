@@ -51,6 +51,8 @@ https://stream.d6-pro.com/Dtv/live/video.m3u8
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-name="palkarnu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785202037_palkaarnu%20tv%20logo%20png.png" group-title="Tamil Nadu Channels",30 palkarnu tv
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-name="T TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" group-title="Tamil Nadu Channels",31 T TV 
+
 #EXTINF:-1 tvg-id="33" tvg-chno="33" tvg-name="CTN Channel " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762496906_ctn%20channel%20log%20copy.png" group-title="Tamil Nadu Channels",33 CTN Channel 
 http://217.216.79.247/ctn/channel/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-chno="38" tvg-name="kunnoor CYN " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785768756_ctn.png" group-title="Tamil Nadu Channels",38 kunnoor CYN 
@@ -185,8 +187,8 @@ rtmp://103.226.186.82:1935/Saraltv/Saraltv
 https://live.applelive.in/boobsh/boobsh/index.m3u8
 #EXTINF:-1 tvg-id="168" tvg-chno="168" tvg-name="EZHIL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg" group-title="Tamil Nadu Channels",168 EZHIL TV
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
-#EXTINF:-1 tvg-id="171" tvg-chno="171" tvg-name="udhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969478_WhatsApp%20Image%202026-09-21%20at%2010.40.11%20AM.jpeg" group-title="Tamil Nadu Channels",171 udhayam tv
-https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
+#EXTINF:-1 tvg-id="171" tvg-chno="171" tvg-name="udhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790083266_Udhayam%20Tv.png" group-title="Tamil Nadu Channels",171 udhayam tv
+https://hd.singamcloud.in/udhayam/udhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="172" tvg-chno="172" tvg-name="Delta Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha%20tv.png" group-title="Tamil Nadu Channels",172 Delta Tv
 http://deltatv-hls.stream.nellaiiptv.com/deltatv/deltatv/index.m3u8
 #EXTINF:-1 tvg-id="175" tvg-chno="175" tvg-name="sai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599891_logo-removebg-preview.png" group-title="Tamil Nadu Channels",175 sai tv
@@ -491,3 +493,5 @@ https://live.castmaxcloud.com/live/hstv.m3u8
 https://live.newsmpd.com/newsmpd/newsmpd/index.m3u8
 #EXTINF:-1 tvg-id="925" tvg-chno="925" tvg-name="DAT NEWS " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787848339_dat.png" group-title="Delhi Channels",925 DAT NEWS 
 https://live.dainikayodhyatimes.com/datnews/datnews/index.m3u8
+#EXTINF:-1 tvg-id="929" tvg-chno="929" tvg-name="2test" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790088534_ttvlogo.png" group-title="Tamil Nadu Channels",929 2test
+https://app.ashokadigital.net/app/ce705f4a/index.m3u8
