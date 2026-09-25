@@ -16,8 +16,6 @@ https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_PUBLISHERID=671b62be995a1cf780079b55&AV_CHANNELID=&AVS_SSAIID=6a09dadf1894bf701301d6a6&AVS_SOURCE=https%3A%2F%2Fstream.ottlive.co.in%2Famarujalatv%2Findex.m3u8&AVS_STREAM_TYPE=LIVE&AVS_STREAM_FORMAT=HLS&AVS_TEMPLATE=IN_APP&AVS_ADSERVER_RESPONSE_TYPE=VAST&AVS_NOMARK=true&ssai=1
 #EXTINF:-1 tvg-id="" tvg-chno="133" tvg-name="C News Bharat" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ChanJor-1762193506271.jpg" group-title="News",C News Bharat
 https://legitpro.co.in/cnews/cnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="202" tvg-name="Epic TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/Epic-tv-1776821257627.jpg" group-title="Entertainment",Epic TV
-https://stream.ottlive.co.in/epic1/master.m3u8
 #EXTINF:-1 tvg-id="https://test.legitpro.co.in/uploads/Zingabad" tvg-chno="208" tvg-name="Zingabad" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/ZINGA-1789762510525.jpg" group-title="Entertainment",Zingabad
 https://stream.ottlive.co.in/zingabad/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood Masala" tvg-chno="209" tvg-name="Bollywood Masala" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/bm-1767112336664.jpg" group-title="Entertainment",Bollywood Masala
