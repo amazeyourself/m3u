@@ -285,6 +285,10 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-67f45ef989089d917e1b1634.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png",Racing America
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",Real Emergency
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
@@ -311,8 +315,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-686462bf1a2f321847ec0395.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",Billiard TV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993" tvg-name="Dude Perfect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",Dude Perfect
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png",Bloomberg Originals
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png",Galxy TV
@@ -445,10 +447,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-61aa9e73784a2161d3caf7f9" tvg-name="Stingray Hot Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/21cb88d9-8ca5-4a3c-b8dc-ca5b42ed351d/13212_SM_Plex_Logos_Hot-Country_1500x1000_V01-white_-_Olivia_bronfman.png",Stingray Hot Country
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61aa9e73784a2161d3caf7f9.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1" tvg-name="Ninja Kidz TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",Ninja Kidz TV
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a" tvg-name="Kidoodle TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",Kidoodle TV
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f" tvg-name="Brat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png",Brat TV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-618ab2f275913b296fbe56dd" tvg-name="Eddie's Wonderland" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a27f5de6-ea10-48ad-ab05-6a5c3e63d46c/Eddies-Wonderland_logo_dark.png",Eddie's Wonderland
@@ -483,8 +481,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66be8cd4871131188099527e.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66bfb2e6144c201b8b61c10f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-616df1be2cf008a748c8cb53" tvg-name="SLOPES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png",SLOPES
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-616df1be2cf008a748c8cb53.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-66fbfd67bde73c589ab2af42" tvg-name="PLL Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",PLL Network
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66fbfd67bde73c589ab2af42.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3" tvg-name="BOOT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png",BOOT
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-621670feab2095ca85353ad4" tvg-name="XFC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",XFC TV

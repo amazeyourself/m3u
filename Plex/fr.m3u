@@ -217,8 +217,6 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-6449369eb3ff17382cae5801.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6615885e1eabecf2c9d56495.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5fd115b8b7ef8d002dcf1817" tvg-name="Waypoint TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png",Waypoint TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5fd115b8b7ef8d002dcf1817.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-66fbfc8ebde73c589ab2af40" tvg-name="PLL Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",PLL Network
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-66fbfc8ebde73c589ab2af40.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2" tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png",Women's Sports Network
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",Pac-12 Insider
@@ -245,6 +243,10 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68caada21fabab6eb2e99331.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",GrowthDay Network
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a8786c4fa0d0293e2681b7c.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6aaa2279083227098739435f.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",Real Emergency
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6aa9bc040832270987394353.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
@@ -371,8 +373,6 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-68c98e7460586565cc56baab.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-650b5bb3f4b2d9579946a500.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6349ed0eb1adc4cfa571fd37" tvg-name="SPEEDVISION" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",SPEEDVISION
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6349ed0eb1adc4cfa571fd37.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993" tvg-name="Dude Perfect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",Dude Perfect
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6245cd154f27f4e9c76d67e9" tvg-name="Euronews Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76a8ddca-38be-4d5b-b8db-be69fcaa6231/Plex-WURL_Euronews-Logos_PT_-_astrid_collomb.png",Euronews Portuguese
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6245cd154f27f4e9c76d67e9.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6245f13093b402a3d1097789" tvg-name="Euronews Italiano" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png",Euronews Italiano
@@ -429,8 +429,6 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-60e737a4ebef9d002c4d0a0c.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-64b1e1217d4037206787f384.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2" tvg-name="The Wiggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png",The Wiggles
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5eea605574085f0040ddc79a" tvg-name="Kidoodle TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",Kidoodle TV
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-5eea605574085f0040ddc79a.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png",TG Junior
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f123330eca6a20040b328e8.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-63eecb32ac23d1ee072087cb" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",123GO!
