@@ -9,7 +9,7 @@ while True:
                           "X-Client-Platform": "tv",
                           "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
                           })
-  except urllib3.exceptions.MaxRetryError:
+  except urllib3.exceptions.MaxRetryError or TimeoutError:
     f = urllib3.request("GET", "https://api.nellaiiptv.com/public/api/channels?limit=-1",
                       headers={
                           "X-Api-Key": "852c497e6699849e297d974429682a9a7606f52e9812b2df71ce05ae3584e8dd",
@@ -31,7 +31,7 @@ while True:
                             "X-Client-Platform": "tv",
                             "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
                             })
-      except urllib3.exceptions.MaxRetryError:
+      except urllib3.exceptions.MaxRetryError or TimeoutError:
         f = urllib3.request("GET", "https://api.nellaiiptv.com/public/api/channels?limit=-1",
                         headers={
                             "X-Api-Key": "852c497e6699849e297d974429682a9a7606f52e9812b2df71ce05ae3584e8dd",
