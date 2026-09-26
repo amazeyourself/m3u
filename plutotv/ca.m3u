@@ -1,12 +1,14 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/ca.xml.gz"
+#EXTINF:-1 tvg-id="6a71f490f5f14c2045cd6118" tvg-name="Pluto TV TGIF Comedy" tvg-logo="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png",Pluto TV TGIF Comedy
+https://jmp2.uk/plu-6a71f490f5f14c2045cd6118.m3u8
 #EXTINF:-1 tvg-id="6a7b1e40ad0d80253c6e10ce" tvg-name="Family Feud Canada" tvg-logo="https://images.pluto.tv/channels/6a7b1e40ad0d80253c6e10ce/colorLogoPNG_1789751514509.png",Family Feud Canada
 https://jmp2.uk/plu-6a7b1e40ad0d80253c6e10ce.m3u8
 #EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png",SI TV
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
-#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png",Wired2Fish TV
-https://jmp2.uk/plu-6a8d96996d62a56d3bdd959c.m3u8
 #EXTINF:-1 tvg-id="6a56add5f7dc4ada892d374b" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/colorLogoPNG_1784069781833.png",The Wild Wild West
 https://jmp2.uk/plu-6a56add5f7dc4ada892d374b.m3u8
+#EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png",Wired2Fish TV
+https://jmp2.uk/plu-6a8d96996d62a56d3bdd959c.m3u8
 #EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png",Hogan's Heroes
 https://jmp2.uk/plu-6a56adb02f9e0117d78f5b44.m3u8
 #EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png",The X-Files

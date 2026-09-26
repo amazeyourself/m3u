@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
+#EXTINF:-1 tvg-id="6a6ca5ced3e322cab93401d0" tvg-name="MTV VMA 2026 em Português" tvg-logo="https://images.pluto.tv/channels/6a6ca5ced3e322cab93401d0/colorLogoPNG_1789483009541.png",MTV VMA 2026 em Português
+https://jmp2.uk/plu-6a6ca5ced3e322cab93401d0.m3u8
+#EXTINF:-1 tvg-id="6a6ca5fef8b727c1f2e7bde4" tvg-name="MTV VMA 2026 em Inglês" tvg-logo="https://images.pluto.tv/channels/6a6ca5fef8b727c1f2e7bde4/colorLogoPNG_1789482802690.png",MTV VMA 2026 em Inglês
+https://jmp2.uk/plu-6a6ca5fef8b727c1f2e7bde4.m3u8
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG_1785430162956.png",Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 #EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",Pluto TV Filmes Ação
