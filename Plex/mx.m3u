@@ -187,7 +187,7 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13" tvg-name="The Martha Stewart Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png",The Martha Stewart Channel
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",Dr. Phil
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",Dr. Phil
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d" tvg-name="Mr. Bean" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8270acf-b6fc-4708-9e35-e45dfc3a4110/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png",Mr. Bean
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d.m3u8
@@ -311,8 +311,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-688b7f47c8caf40b4a62239f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-686462bf1a2f321847ec0395" tvg-name="Comercio TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f13dd872-9888-4a98-953b-2d2cf306d69a/comercioDark_Logo__1_.png",Comercio TV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-686462bf1a2f321847ec0395.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",Made It Myself TV
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",Billiard TV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png",Bloomberg Originals

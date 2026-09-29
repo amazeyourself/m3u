@@ -131,7 +131,7 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f6b8e7900b0950040d0f2b2.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-644b13a3a1c0a5b2024c8403.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff" tvg-name="TRAILERS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d899e517-40dd-40fe-ba6a-3cebb736b821/Logo_Trailers_Germany_1500x1000_DarkBackground_-_Belen_Bruno.png",TRAILERS
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6720049929bcfe7b69d4feff.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",Dr. Phil
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",Dr. Phil
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-66e4cbef38de9754b6b13e90.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5eea71d65252710041e0ccbc" tvg-name="The Reuters 60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png",The Reuters 60
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5eea71d65252710041e0ccbc.m3u8
@@ -257,8 +257,6 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a9512a7f534d4312a699c22.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a63a9c6a1deb5624927c62d.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6a3c2c8c14e447db7984cc3a" tvg-name="Billboard Español TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",Billboard Español TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a3c2c8c14e447db7984cc3a.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-65b80306e5cf85050598aba4" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",Made It Myself TV
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-65b80306e5cf85050598aba4.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5f0641d3e8ffda004033b16e" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",The Design Network
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f0641d3e8ffda004033b16e.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",Death Valley Days

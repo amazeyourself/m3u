@@ -111,7 +111,7 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-6a2abfa3e6a243c85608e4c6.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-69ad8b244f342aa128c21abe.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a160ac72476ab8600b1841e" tvg-name="Bring It!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e20d8d73-7b59-4175-84de-69c6337551ea/Bring_It_channel_logo_4c_1500x1000PNKRDX.png",Bring It!
 https://jmp2.uk/plex-697140a85d851f5e69414688-6a160ac72476ab8600b1841e.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",Dr. Phil
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",Dr. Phil
 https://jmp2.uk/plex-697140a85d851f5e69414688-66e4cbef38de9754b6b13e90.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-5f0ff262d71dcb00449ec015" tvg-name="Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",Nosey
 https://jmp2.uk/plex-697140a85d851f5e69414688-5f0ff262d71dcb00449ec015.m3u8
@@ -219,8 +219,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-66bfb17c144c201b8b61c10d.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-6365779dde08f8eec6c3f21f.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png",GUSTOTV
 https://jmp2.uk/plex-697140a85d851f5e69414688-5f8746eabd529300418246d9.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-65b80306e5cf85050598aba4" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",Made It Myself TV
-https://jmp2.uk/plex-697140a85d851f5e69414688-65b80306e5cf85050598aba4.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-614e286b2bac097ffd6fd6ab" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",Documentary+
 https://jmp2.uk/plex-697140a85d851f5e69414688-614e286b2bac097ffd6fd6ab.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-5ef11485d33ab9004048a1ca" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png",SportsGrid

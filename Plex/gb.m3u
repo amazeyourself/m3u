@@ -119,7 +119,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69a20544bccf10670e5e498e.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-64106a1075be345a863fe0d7.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62e3232ca105dea9c400e9fe" tvg-name="This Old House" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4b6f778-c8f5-47cd-b6a4-266b73842fc8/TOHLogo_1500x1000.png",This Old House
 https://jmp2.uk/plex-64305451fc3be5947773c339-62e3232ca105dea9c400e9fe.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",Dr. Phil
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",Dr. Phil
 https://jmp2.uk/plex-64305451fc3be5947773c339-66e4cbef38de9754b6b13e90.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-682dfbf4dfc9c452b8f98428" tvg-name="Homeful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df0c8122-ce9c-4ef8-b278-546a7ed303ef/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones.png",Homeful
 https://jmp2.uk/plex-64305451fc3be5947773c339-682dfbf4dfc9c452b8f98428.m3u8
@@ -465,8 +465,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-6578ec93eef129f30fb38dfd.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-5fd115bdb7ef8d002dcf1820.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6707dc42da81682f2d1e6846" tvg-name="Sheriffs: El Dorado County" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ea9a1621-fb9e-4c60-b8c4-57d57a8a12df/SheriffsElDoradoCounty_Color_Logo_wht_TXT_RDX.png",Sheriffs: El Dorado County
 https://jmp2.uk/plex-64305451fc3be5947773c339-6707dc42da81682f2d1e6846.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-65b80306e5cf85050598aba4" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",Made It Myself TV
-https://jmp2.uk/plex-64305451fc3be5947773c339-65b80306e5cf85050598aba4.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-63ec0b739866d8d2120ac759" tvg-name="PickleTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",PickleTV
 https://jmp2.uk/plex-64305451fc3be5947773c339-63ec0b739866d8d2120ac759.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-682dfe1b47a628d2f56948ce" tvg-name="Love Pets" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb94ec9f-1bdb-4f14-8a32-0048cca4fc88/PlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png",Love Pets

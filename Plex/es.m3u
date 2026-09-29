@@ -93,7 +93,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-68645c1f1a2f321847ec0391.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-64d4e82ac5d4668c9cb7b5df.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66842aa2cd6f1d3940941159" tvg-name="Sangre Fría" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a8afd09-cee5-42af-aa6f-ddb9918abd19/Sangre_Fria_Dark_Mode_Logordx.png",Sangre Fría
 https://jmp2.uk/plex-643054b1fc3be59477853717-66842aa2cd6f1d3940941159.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",Dr. Phil
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-66e4cbef38de9754b6b13e90" tvg-name="Dr. Phil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",Dr. Phil
 https://jmp2.uk/plex-643054b1fc3be59477853717-66e4cbef38de9754b6b13e90.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-668402fa702b9db9f8177254" tvg-name="Runtime Romance" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de846d7d-8bcd-4d63-876f-5b15c3368f9a/Runtime_BR_Romance_Dark_Mode_Logordx.png",Runtime Romance
 https://jmp2.uk/plex-643054b1fc3be59477853717-668402fa702b9db9f8177254.m3u8
@@ -363,8 +363,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-621672e42c2627c068e73ad8.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-65cd316a40ab06259e8168a0.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-635c61cc797a33fa4193cc93" tvg-name="Cosmic Frontiers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a514ca78-cb8d-4c2f-9d21-cdb8e6ed8197/Plex_CosmicFrontiers__Logo_DarkBackground_.png",Cosmic Frontiers
 https://jmp2.uk/plex-643054b1fc3be59477853717-635c61cc797a33fa4193cc93.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65b80306e5cf85050598aba4" tvg-name="Made It Myself TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",Made It Myself TV
-https://jmp2.uk/plex-643054b1fc3be59477853717-65b80306e5cf85050598aba4.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-685f27cca7111a932d28f1ae" tvg-name="Asian Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d7c5e34-9335-479e-8d6a-e7a80565e45b/Asian_Drama_whtLogo.png",Asian Drama
 https://jmp2.uk/plex-643054b1fc3be59477853717-685f27cca7111a932d28f1ae.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-62167144ab2095ca85353ad6" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png",CINEPRIDE
