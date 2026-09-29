@@ -120,7 +120,7 @@ https://stream.d6-pro.com/dbhakhi/live/video.m3u8
 #EXTINF:-1 tvg-id="97" tvg-chno="97" tvg-name="V BHAKTHI " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789645396_file_00709.png" group-title="Tamil Nadu Channels",97 V BHAKTHI 
 http://vbhakthi.stream.nellaiiptv.com:80/live/vbhakthi/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-chno="99" tvg-name="globel TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787288061_WhatsApp%20Image%202026-08-21%20at%2010.15.54%20AM.jpeg" group-title="Tamil Nadu Channels",99 globel TV
-https://play.applelive.in/globaltv/globaltv.m3u8
+https://applelive.in/globaltv/globaltv/index.m3u8
 #EXTINF:-1 tvg-id="102" tvg-chno="102" tvg-name="kathir tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png" group-title="Tamil Nadu Channels",102 kathir tv
 https://app.ashokadigital.net/app/cbc54d21/index.m3u8
 #EXTINF:-1 tvg-id="110" tvg-chno="110" tvg-name="RAINBOW TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png" group-title="Tamil Nadu Channels",110 RAINBOW TV
