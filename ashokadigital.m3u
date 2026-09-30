@@ -74,7 +74,7 @@ https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-chno="67" tvg-name="Ragam tv Ooty " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736940221_SAVE_20250115_162418.jpg" group-title="Tamil Nadu Channels",67 Ragam tv Ooty 
 https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
 #EXTINF:-1 tvg-id="68" tvg-chno="68" tvg-name="Shalini tv kanchipuram " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392678_IMG-20250109-WA0048.jpg" group-title="Tamil Nadu Channels",68 Shalini tv kanchipuram 
-https://app.ashokadigital.net/app/55c65ef4/index.m3u8
+http://app.ashokadigital.net/app/55c65ef4/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-chno="69" tvg-name="Sss hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736392738_cf77d13b-c021-40e7-9596-ce3964e03fc9.png" group-title="Tamil Nadu Channels",69 Sss hd
 https://app.ashokadigital.net/app/74f6070c/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-chno="70" tvg-name="Hansitha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" group-title="Tamil Nadu Channels",70 Hansitha Tv
@@ -183,6 +183,8 @@ rtmp://103.226.186.82:1935/Saraltv/Saraltv
 https://live.applelive.in/boobsh/boobsh/index.m3u8
 #EXTINF:-1 tvg-id="168" tvg-chno="168" tvg-name="EZHIL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1740735792_SAVE_20250228_143607.jpg" group-title="Tamil Nadu Channels",168 EZHIL TV
 https://rtmp.notvstream.in/ezhiltv/ezhiltv/index.m3u8
+#EXTINF:-1 tvg-id="169" tvg-chno="169" tvg-name="lucky tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790695624_4ec1f5e9-19ea-46ec-af76-398ba678d031-Photoroom.png" group-title="Tamil Nadu Channels",169 lucky tv
+
 #EXTINF:-1 tvg-id="171" tvg-chno="171" tvg-name="udhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790083266_Udhayam%20Tv.png" group-title="Tamil Nadu Channels",171 udhayam tv
 https://hd.singamcloud.in/udhayam/udhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="172" tvg-chno="172" tvg-name="Delta Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha%20tv.png" group-title="Tamil Nadu Channels",172 Delta Tv
@@ -288,7 +290,7 @@ http://117.247.192.123:8080/vds/vds.m3u8
 #EXTINF:-1 tvg-id="243" tvg-chno="243" tvg-name="monisha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787571932_WhatsApp%20Image%202026-08-24%20at%204.56.08%20PM.jpeg" group-title="Tamil Nadu Channels",243 monisha Tv
 http://manishatv1.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 tvg-id="244" tvg-chno="244" tvg-name="cgn tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787725031_CGN%20TV%20%20YT%201.jpg-Photoroom.png" group-title="Christian Tv Channels",244 cgn tv
-https://play.applelive.in/cgntv/cgntv.m3u8
+https://applelive.in/cgntv/cgntv/index.m3u8
 #EXTINF:-1 tvg-id="245" tvg-chno="245" tvg-name="joshua tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788015723_IMG_20260829_202503_341.png" group-title="Christian Tv Channels",245 joshua tv
 https://joshuatv-hs1.tamilstream.in/joshuatv/joshuatv/playlist.m3u8
 #EXTINF:-1 tvg-id="246" tvg-chno="246" tvg-name="leo tv hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788335982_27f17779-7c3a-4305-b69f-0d2a89986df3-Photoroom.png" group-title="Tamil Nadu Channels",246 leo tv hd
