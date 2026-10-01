@@ -79,9 +79,9 @@ https://pothigai.stream.ipcloud.live/pothigai/thendral/index.m3u8
 https://ipcloud.live/mathantv/mathantv/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="211" tvg-name="MATHAN TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787210330.webp" group-title="Entertainment",23 MATHAN TV [RTMP]
 rtmp://ipcloud.live/mathantv/mathantv
-#EXTINF:-1 tvg-chno="24" tvg-id="406" tvg-name="M TV" tvg-logo="" group-title="Entertainment",24 M TV
-https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="406" tvg-name="M TV" tvg-logo="" group-title="Entertainment",24 M TV [RTMP]
+#EXTINF:-1 tvg-chno="24" tvg-id="406" tvg-name="M TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1790750974.webp" group-title="Entertainment",24 M TV
+https://deva1.nellaiiptv.com/Mercury/tv/index.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="406" tvg-name="M TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1790750974.webp" group-title="Entertainment",24 M TV [RTMP]
 
 #EXTINF:-1 tvg-chno="25" tvg-id="390" tvg-name="GLOBAL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1785822487.webp" group-title="Entertainment",25 GLOBAL TV
 https://applelive.in/globaltv/globaltv/index.m3u8
@@ -323,9 +323,9 @@ null
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-chno="410" tvg-id="443" tvg-name="ASIANETMIDDLEEAST" tvg-logo="" group-title="Movies",410 ASIANETMIDDLEEAST [RTMP]
 
-#EXTINF:-1 tvg-chno="411" tvg-id="444" tvg-name="anandtv" tvg-logo="" group-title="Entertainment",411 anandtv
+#EXTINF:-1 tvg-chno="411" tvg-id="444" tvg-name="ANAND TV" tvg-logo="" group-title="Entertainment",411 ANAND TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 tvg-chno="411" tvg-id="444" tvg-name="anandtv" tvg-logo="" group-title="Entertainment",411 anandtv [RTMP]
+#EXTINF:-1 tvg-chno="411" tvg-id="444" tvg-name="ANAND TV" tvg-logo="" group-title="Entertainment",411 ANAND TV [RTMP]
 
 #EXTINF:-1 tvg-chno="412" tvg-id="445" tvg-name="Maganavision TV" tvg-logo="" group-title="Movies",412 Maganavision TV
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
@@ -750,6 +750,10 @@ https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
 #EXTINF:-1 tvg-chno="921" tvg-id="383" tvg-name="ABNAZ TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786946902.webp" group-title="Entertainment",921 ABNAZ TV
 https://live.toponlinetv.com/abnaztv/index.m3u8
 #EXTINF:-1 tvg-chno="921" tvg-id="383" tvg-name="ABNAZ TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786946902.webp" group-title="Entertainment",921 ABNAZ TV [RTMP]
+
+#EXTINF:-1 tvg-chno="923" tvg-id="388" tvg-name="ME24TAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786946961.webp" group-title="Entertainment",923 ME24TAMIL TV
+https://orange.stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
+#EXTINF:-1 tvg-chno="923" tvg-id="388" tvg-name="ME24TAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1786946961.webp" group-title="Entertainment",923 ME24TAMIL TV [RTMP]
 
 #EXTINF:-1 tvg-chno="927" tvg-id="503" tvg-name="Wild.earth" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1789198472.webp" group-title="International",927 Wild.earth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
