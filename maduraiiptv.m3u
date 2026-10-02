@@ -135,6 +135,10 @@ http://deiveegam.live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
 http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="554" tvg-name="NILA TV 4K" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1790689436.webp" group-title="Entertainment",42 NILA TV 4K [RTMP]
 
+#EXTINF:-1 tvg-chno="43" tvg-id="320" tvg-name="THALAPATHY TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1777820867.webp" group-title="Entertainment",43 THALAPATHY TV
+https://applelive.in/thalapathytv/thalapathytv/index.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="320" tvg-name="THALAPATHY TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1777820867.webp" group-title="Entertainment",43 THALAPATHY TV [RTMP]
+
 #EXTINF:-1 tvg-chno="45" tvg-id="449" tvg-name="SVBC2" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787983603.webp" group-title="Regional",45 SVBC2
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="449" tvg-name="SVBC2" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787983603.webp" group-title="Regional",45 SVBC2 [RTMP]
