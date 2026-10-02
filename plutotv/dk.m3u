@@ -3,6 +3,8 @@
 https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8
 #EXTINF:-1 tvg-id="66b22714d512590008c3d573" tvg-name="Den gule sofa med Allan Sindberg" tvg-logo="https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png",Den gule sofa med Allan Sindberg
 https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
+#EXTINF:-1 tvg-id="6a2aa7f163d0b737c2f0a668" tvg-name="Just Shoot Me" tvg-logo="https://images.pluto.tv/channels/6a2aa7f163d0b737c2f0a668/colorLogoPNG_1787551854121.png",Just Shoot Me
+https://jmp2.uk/plu-6a2aa7f163d0b737c2f0a668.m3u8
 #EXTINF:-1 tvg-id="6a9a7add58918556e6f386ef" tvg-name="MTV VMAs 2026" tvg-logo="https://images.pluto.tv/channels/6a9a7add58918556e6f386ef/colorLogoPNG_1790584056510.png",MTV VMAs 2026
 https://jmp2.uk/plu-6a9a7add58918556e6f386ef.m3u8
 #EXTINF:-1 tvg-id="6202358b9794740007133363" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/6202358b9794740007133363/colorLogoPNG.png",Doctor Who
@@ -19,34 +21,30 @@ https://jmp2.uk/plu-6a749d816d05845d59c65de6.m3u8
 https://jmp2.uk/plu-6a3e3b2aee8afbaedeebdd84.m3u8
 #EXTINF:-1 tvg-id="6a6772429547fd4fecfab76c" tvg-name="FloHockey 24/7" tvg-logo="https://images.pluto.tv/channels/6a6772429547fd4fecfab76c/colorLogoPNG_1785825039671.png",FloHockey 24/7
 https://jmp2.uk/plu-6a6772429547fd4fecfab76c.m3u8
-#EXTINF:-1 tvg-id="6a42707f7dd69d931963b5d4" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a42707f7dd69d931963b5d4/colorLogoPNG_1782739113794.png",Star Trek: The Next Generation
-https://jmp2.uk/plu-6a42707f7dd69d931963b5d4.m3u8
 #EXTINF:-1 tvg-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-name="Kebab Date" tvg-logo="https://images.pluto.tv/channels/6a4b5f7c4ac01af3ed4e6fa1/colorLogoPNG_1787131841044.png",Kebab Date
 https://jmp2.uk/plu-6a4b5f7c4ac01af3ed4e6fa1.m3u8
 #EXTINF:-1 tvg-id="6a329ace8b8fb5b94c6910eb" tvg-name="Danske Hollywoodfruer" tvg-logo="https://images.pluto.tv/channels/6a329ace8b8fb5b94c6910eb/colorLogoPNG_1785239750042.png",Danske Hollywoodfruer
 https://jmp2.uk/plu-6a329ace8b8fb5b94c6910eb.m3u8
-#EXTINF:-1 tvg-id="6a7d7f8f57bd65df5db7e96f" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d7f8f57bd65df5db7e96f/colorLogoPNG_1786627144229.png",That's Rock
-https://jmp2.uk/plu-6a7d7f8f57bd65df5db7e96f.m3u8
-#EXTINF:-1 tvg-id="6a7d7e95ff94431f8b311276" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d7e95ff94431f8b311276/colorLogoPNG_1786626430694.png",That's 70s
-https://jmp2.uk/plu-6a7d7e95ff94431f8b311276.m3u8
-#EXTINF:-1 tvg-id="6a7d7f5c8ce7aa093242784a" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a7d7f5c8ce7aa093242784a/colorLogoPNG_1788432637893.png",That's 80s
-https://jmp2.uk/plu-6a7d7f5c8ce7aa093242784a.m3u8
-#EXTINF:-1 tvg-id="6a7d7f79496b635ad6067d2a" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d7f79496b635ad6067d2a/colorLogoPNG_1786626729215.png",That's 90s00s
-https://jmp2.uk/plu-6a7d7f79496b635ad6067d2a.m3u8
-#EXTINF:-1 tvg-id="6a426e053a96e5056db52261" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/6a426e053a96e5056db52261/colorLogoPNG_1782738570404.png",Star Trek: Deep Space Nine
-https://jmp2.uk/plu-6a426e053a96e5056db52261.m3u8
-#EXTINF:-1 tvg-id="6a427428fa7175aa6984df25" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/6a427428fa7175aa6984df25/colorLogoPNG_1782740054131.png",Star Trek: Enterprise
-https://jmp2.uk/plu-6a427428fa7175aa6984df25.m3u8
-#EXTINF:-1 tvg-id="6a4b84a439c0e50c685e882c" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/6a4b84a439c0e50c685e882c/colorLogoPNG_1783334185248.png",Star Trek: Voyager
-https://jmp2.uk/plu-6a4b84a439c0e50c685e882c.m3u8
-#EXTINF:-1 tvg-id="693add137e308621c051e733" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png",Star Trek: The Original Series
-https://jmp2.uk/plu-693add137e308621c051e733.m3u8
-#EXTINF:-1 tvg-id="61c1979dfa307000070bbe4d" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png",Pluto TV Star Trek
-https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
-#EXTINF:-1 tvg-id="689221db83c26b27fdabe995" tvg-name="Star Trek: Fanfavoritter" tvg-logo="https://images.pluto.tv/channels/689221db83c26b27fdabe995/colorLogoPNG-1757069068335.png",Star Trek: Fanfavoritter
-https://jmp2.uk/plu-689221db83c26b27fdabe995.m3u8
-#EXTINF:-1 tvg-id="6a427956e7884b99f27ec152" tvg-name="Star Trek: The Klingon Logs" tvg-logo="https://images.pluto.tv/channels/6a427956e7884b99f27ec152/colorLogoPNG_1787901870305.png",Star Trek: The Klingon Logs
-https://jmp2.uk/plu-6a427956e7884b99f27ec152.m3u8
+#EXTINF:-1 tvg-id="63a1c9790cc44a0007dc8857" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",Pluto TV Horror
+https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+#EXTINF:-1 tvg-id="69f84f38b56fa4a9fe661fd4" tvg-name="Pluto TV Horror Classics" tvg-logo="https://images.pluto.tv/channels/69f84f38b56fa4a9fe661fd4/colorLogoPNG_1787552128071.png",Pluto TV Horror Classics
+https://jmp2.uk/plu-69f84f38b56fa4a9fe661fd4.m3u8
+#EXTINF:-1 tvg-id="679b5f7297bed7000809cda9" tvg-name="Pluto TV Hus fra helvede" tvg-logo="https://images.pluto.tv/channels/679b5f7297bed7000809cda9/colorLogoPNG_1749452698955.png",Pluto TV Hus fra helvede
+https://jmp2.uk/plu-679b5f7297bed7000809cda9.m3u8
+#EXTINF:-1 tvg-id="655ca83f9d5ac400080d1fd3" tvg-name="Pluto TV Sherlock Holmes" tvg-logo="https://images.pluto.tv/channels/655ca83f9d5ac400080d1fd3/colorLogoPNG_1768891980038.png",Pluto TV Sherlock Holmes
+https://jmp2.uk/plu-655ca83f9d5ac400080d1fd3.m3u8
+#EXTINF:-1 tvg-id="6a902eaa99e7db5e8a5b33dc" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/6a902eaa99e7db5e8a5b33dc/colorLogoPNG_1787834141973.png",The Addams Family
+https://jmp2.uk/plu-6a902eaa99e7db5e8a5b33dc.m3u8
+#EXTINF:-1 tvg-id="6a3e3c189d516ba88f5d2952" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6a3e3c189d516ba88f5d2952/colorLogoPNG_1782463698418.png",The Outer Limits
+https://jmp2.uk/plu-6a3e3c189d516ba88f5d2952.m3u8
+#EXTINF:-1 tvg-id="66c701172630fc00080e520e" tvg-name="Fredag den 13." tvg-logo="https://images.pluto.tv/channels/66c701172630fc00080e520e/colorLogoPNG.png",Fredag den 13.
+https://jmp2.uk/plu-66c701172630fc00080e520e.m3u8
+#EXTINF:-1 tvg-id="66d1ad34e5de930008f9d8d4" tvg-name="Friday the 13th - The TV series" tvg-logo="https://images.pluto.tv/channels/66d1ad34e5de930008f9d8d4/colorLogoPNG.png",Friday the 13th - The TV series
+https://jmp2.uk/plu-66d1ad34e5de930008f9d8d4.m3u8
+#EXTINF:-1 tvg-id="69afee21684d0f30872ca3e6" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee21684d0f30872ca3e6/colorLogoPNG_1778675384556.png",From Dusk Till Dawn: The Series
+https://jmp2.uk/plu-69afee21684d0f30872ca3e6.m3u8
+#EXTINF:-1 tvg-id="6501c8c76625510008cbe20f" tvg-name="South Park Halloween" tvg-logo="https://images.pluto.tv/channels/6501c8c76625510008cbe20f/colorLogoPNG.png",South Park Halloween
+https://jmp2.uk/plu-6501c8c76625510008cbe20f.m3u8
 #EXTINF:-1 tvg-id="61c19af83fae0a00078c8918" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png",Paradise Hotel
 https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
 #EXTINF:-1 tvg-id="662b71658dd8160008fc3abf" tvg-name="Paradise Hotel: Under lagnerne" tvg-logo="https://images.pluto.tv/channels/662b71658dd8160008fc3abf/colorLogoPNG.png",Paradise Hotel: Under lagnerne
@@ -93,10 +91,10 @@ https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8
 https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 #EXTINF:-1 tvg-id="62790dc1c733e8000733ba4d" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png",Pixel.tv
 https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
-#EXTINF:-1 tvg-id="66fd1338ec9d6d00081e0443" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png",Retake E-sport Live
-https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
 #EXTINF:-1 tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-name="Asfalten kalder" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png",Asfalten kalder
 https://jmp2.uk/plu-698ddf8fe93b210d1aaaa2fc.m3u8
+#EXTINF:-1 tvg-id="66fd1338ec9d6d00081e0443" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png",Retake E-sport Live
+https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
 #EXTINF:-1 tvg-id="6272511cb389bb0007b30b09" tvg-name="For lækker til love" tvg-logo="https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png",For lækker til love
 https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
 #EXTINF:-1 tvg-id="643814ef479f6400086ff043" tvg-name="Mit plastikmareridt" tvg-logo="https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png",Mit plastikmareridt
@@ -219,8 +217,6 @@ https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
 #EXTINF:-1 tvg-id="61c1939b8929e40007ff6382" tvg-name="BET" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png",BET
 https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
-#EXTINF:-1 tvg-id="69afee21684d0f30872ca3e6" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee21684d0f30872ca3e6/colorLogoPNG_1778675384556.png",From Dusk Till Dawn: The Series
-https://jmp2.uk/plu-69afee21684d0f30872ca3e6.m3u8
 #EXTINF:-1 tvg-id="6400c281dff38e00083f59da" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png",Star Trek Movies
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 #EXTINF:-1 tvg-id="65b915b1dc10a40008d53797" tvg-name="Pluto TV Bud & Terence" tvg-logo="https://images.pluto.tv/channels/65b915b1dc10a40008d53797/colorLogoPNG.png",Pluto TV Bud & Terence
@@ -237,8 +233,6 @@ https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
 https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1 tvg-id="61c0974945b45d0007aaa5ac" tvg-name="Pluto TV Humor" tvg-logo="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",Pluto TV Humor
 https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
-#EXTINF:-1 tvg-id="63a1c9790cc44a0007dc8857" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",Pluto TV Horror
-https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
 #EXTINF:-1 tvg-id="63dbe7ed51f5d000083e9499" tvg-name="Pluto TV Kultfilm" tvg-logo="https://images.pluto.tv/channels/63dbe7ed51f5d000083e9499/colorLogoPNG.png",Pluto TV Kultfilm
 https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
 #EXTINF:-1 tvg-id="63a1c954d3897300079fcb12" tvg-name="Pluto TV Romantik" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png",Pluto TV Romantik
@@ -337,10 +331,10 @@ https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
 https://jmp2.uk/plu-6915e0eda570568f53435398.m3u8
 #EXTINF:-1 tvg-id="627254d6ba35210007e5d4ca" tvg-name="Project Runway" tvg-logo="https://images.pluto.tv/channels/627254d6ba35210007e5d4ca/colorLogoPNG.png",Project Runway
 https://jmp2.uk/plu-627254d6ba35210007e5d4ca.m3u8
-#EXTINF:-1 tvg-id="682b385876963fba9abf0f26" tvg-name="Iron Chef" tvg-logo="https://images.pluto.tv/channels/682b385876963fba9abf0f26/colorLogoPNG_1747663110321.png",Iron Chef
-https://jmp2.uk/plu-682b385876963fba9abf0f26.m3u8
 #EXTINF:-1 tvg-id="6a329b4aff3691f8e69cc74f" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b4aff3691f8e69cc74f/colorLogoPNG_1782465052673.png",The Bob Ross Channel
 https://jmp2.uk/plu-6a329b4aff3691f8e69cc74f.m3u8
+#EXTINF:-1 tvg-id="682b385876963fba9abf0f26" tvg-name="Iron Chef" tvg-logo="https://images.pluto.tv/channels/682b385876963fba9abf0f26/colorLogoPNG_1747663110321.png",Iron Chef
+https://jmp2.uk/plu-682b385876963fba9abf0f26.m3u8
 #EXTINF:-1 tvg-id="61c194ff6f23a7000780073a" tvg-name="Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/61c194ff6f23a7000780073a/colorLogoPNG.png",Hell's Kitchen
 https://jmp2.uk/plu-61c194ff6f23a7000780073a.m3u8
 #EXTINF:-1 tvg-id="65d7239066eec8000881e293" tvg-name="Come Dine with Me" tvg-logo="https://images.pluto.tv/channels/65d7239066eec8000881e293/colorLogoPNG.png",Come Dine with Me
@@ -383,6 +377,22 @@ https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
 https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
 #EXTINF:-1 tvg-id="6512ec7a2ce8e40008bdb433" tvg-name="Beauty and the Beast" tvg-logo="https://images.pluto.tv/channels/6512ec7a2ce8e40008bdb433/colorLogoPNG.png",Beauty and the Beast
 https://jmp2.uk/plu-6512ec7a2ce8e40008bdb433.m3u8
+#EXTINF:-1 tvg-id="6a426e053a96e5056db52261" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/6a426e053a96e5056db52261/colorLogoPNG_1782738570404.png",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-6a426e053a96e5056db52261.m3u8
+#EXTINF:-1 tvg-id="6a42707f7dd69d931963b5d4" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a42707f7dd69d931963b5d4/colorLogoPNG_1782739113794.png",Star Trek: The Next Generation
+https://jmp2.uk/plu-6a42707f7dd69d931963b5d4.m3u8
+#EXTINF:-1 tvg-id="6a427428fa7175aa6984df25" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/6a427428fa7175aa6984df25/colorLogoPNG_1782740054131.png",Star Trek: Enterprise
+https://jmp2.uk/plu-6a427428fa7175aa6984df25.m3u8
+#EXTINF:-1 tvg-id="6a4b84a439c0e50c685e882c" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/6a4b84a439c0e50c685e882c/colorLogoPNG_1783334185248.png",Star Trek: Voyager
+https://jmp2.uk/plu-6a4b84a439c0e50c685e882c.m3u8
+#EXTINF:-1 tvg-id="693add137e308621c051e733" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png",Star Trek: The Original Series
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
+#EXTINF:-1 tvg-id="61c1979dfa307000070bbe4d" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png",Pluto TV Star Trek
+https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:-1 tvg-id="689221db83c26b27fdabe995" tvg-name="Star Trek: Fanfavoritter" tvg-logo="https://images.pluto.tv/channels/689221db83c26b27fdabe995/colorLogoPNG-1757069068335.png",Star Trek: Fanfavoritter
+https://jmp2.uk/plu-689221db83c26b27fdabe995.m3u8
+#EXTINF:-1 tvg-id="6a427956e7884b99f27ec152" tvg-name="Star Trek: The Klingon Logs" tvg-logo="https://images.pluto.tv/channels/6a427956e7884b99f27ec152/colorLogoPNG_1787901870305.png",Star Trek: The Klingon Logs
+https://jmp2.uk/plu-6a427956e7884b99f27ec152.m3u8
 #EXTINF:-1 tvg-id="61f9598588f86000078ee7d6" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61f9598588f86000078ee7d6/colorLogoPNG.png",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 #EXTINF:-1 tvg-id="69afec3af59c873b7b874520" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afec3af59c873b7b874520/colorLogoPNG_1776175816506.png",The 4400
@@ -405,8 +415,6 @@ https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
 https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
 #EXTINF:-1 tvg-id="6915dd5ca570568f53431c7f" tvg-name="The Graham Norton Show" tvg-logo="https://images.pluto.tv/channels/6915dd5ca570568f53431c7f/colorLogoPNG_1763041361750.png",The Graham Norton Show
 https://jmp2.uk/plu-6915dd5ca570568f53431c7f.m3u8
-#EXTINF:-1 tvg-id="660d6bc10cd4630008f4a25a" tvg-name="Det sene show med Christian Fuhlendorff" tvg-logo="https://images.pluto.tv/channels/660d6bc10cd4630008f4a25a/colorLogoPNG.png",Det sene show med Christian Fuhlendorff
-https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 #EXTINF:-1 tvg-id="660d6c0094db140008fe2f74" tvg-name="Breinholts" tvg-logo="https://images.pluto.tv/channels/660d6c0094db140008fe2f74/colorLogoPNG.png",Breinholts
 https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
 #EXTINF:-1 tvg-id="619e1ef4f42ad90007e00a21" tvg-name="Nosey" tvg-logo="https://images.pluto.tv/channels/619e1ef4f42ad90007e00a21/colorLogoPNG.png",Nosey
@@ -465,6 +473,14 @@ https://jmp2.uk/plu-69c2940612e978ee4920d9b0.m3u8
 https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8
 #EXTINF:-1 tvg-id="61de96114757070008d33cae" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61de96114757070008d33cae/colorLogoPNG.png",Euronews
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+#EXTINF:-1 tvg-id="6a7d7f8f57bd65df5db7e96f" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/6a7d7f8f57bd65df5db7e96f/colorLogoPNG_1786627144229.png",That's Rock
+https://jmp2.uk/plu-6a7d7f8f57bd65df5db7e96f.m3u8
+#EXTINF:-1 tvg-id="6a7d7e95ff94431f8b311276" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/6a7d7e95ff94431f8b311276/colorLogoPNG_1786626430694.png",That's 70s
+https://jmp2.uk/plu-6a7d7e95ff94431f8b311276.m3u8
+#EXTINF:-1 tvg-id="6a7d7f5c8ce7aa093242784a" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a7d7f5c8ce7aa093242784a/colorLogoPNG_1788432637893.png",That's 80s
+https://jmp2.uk/plu-6a7d7f5c8ce7aa093242784a.m3u8
+#EXTINF:-1 tvg-id="6a7d7f79496b635ad6067d2a" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d7f79496b635ad6067d2a/colorLogoPNG_1786626729215.png",That's 90s00s
+https://jmp2.uk/plu-6a7d7f79496b635ad6067d2a.m3u8
 #EXTINF:-1 tvg-id="61c09ac98a80a4000703f992" tvg-name="SvampeBob Firkant" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png",SvampeBob Firkant
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 tvg-id="61c0b9aab7facb0007913908" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",iCarly
