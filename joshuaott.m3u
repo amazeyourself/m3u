@@ -131,6 +131,8 @@ https://ipcloud.live/novamani/jctv/index.m3u8
 https://ipcloud.live/novamani/divinetv/index.m3u8
 #EXTINF:-1 tvg-id="64" tvg-chno="64" tvg-name="Gospel tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1781788970_Gospel tv.webp" tvg-region="",Gospel tv
 https://play.applelive.in/gospeltv/gospeltv.m3u8
+#EXTINF:-1 tvg-id="65" tvg-chno="65" tvg-name="Ezra Bible Network TV" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1790853712_white1.png" tvg-region="Alangulam",Ezra Bible Network TV
+https://riotv.stream.onecloudlive.in/riotv/riotvmax/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-chno="101" tvg-name=" Vinmeen Music" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761226085_vinmeen.png" tvg-region="Valliyur", Vinmeen Music
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 #EXTINF:-1 tvg-id="102" tvg-chno="102" tvg-name="Matha Tv" tvg-logo="http://phoenixcreations.online/ott/joshuaott/uploads/1761240647_matha tv.png" tvg-region="Nagercoil",Matha Tv
