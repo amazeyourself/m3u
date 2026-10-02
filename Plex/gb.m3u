@@ -211,8 +211,10 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-650b60deb2413c46bf584d86.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-67d9a3d663c5439aeaf61305.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69bb1f002028859eafc637e1" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",Legacy
 https://jmp2.uk/plex-64305451fc3be5947773c339-69bb1f002028859eafc637e1.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6448ba1baf92c31f4a190c27" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",JAIL
-https://jmp2.uk/plex-64305451fc3be5947773c339-6448ba1baf92c31f4a190c27.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a8cc101fc51826f5301a160" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",COPS Reloaded
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a8cc101fc51826f5301a160.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/78fd3266-e931-4918-9016-525a1f8dd296/Jail_channel_logo_4c_1500x1000RDX.png",JAIL
+https://jmp2.uk/plex-64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a2ab3dce6a243c85608e4b2" tvg-name="60 Days In Jail" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f98eaac1-2402-4220-bc91-c71ad34c49e1/60_Days_In_Jail_channel_logo_dark_1500x1000WHT_RDX.png",60 Days In Jail
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a2ab3dce6a243c85608e4b2.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86e" tvg-name="FilmRise Free Series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d16da0ef-6eb2-4013-8fe3-09d800303cd7/FilmRise_FreeSeries_1500x1000_logo_light.png",FilmRise Free Series
@@ -243,8 +245,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-64f115ad2173e54397ce0d40.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-68017ed20268b77d02a5f4bd.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69814bbff871095eafc65925" tvg-name="Powernation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png",Powernation
 https://jmp2.uk/plex-64305451fc3be5947773c339-69814bbff871095eafc65925.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-626c1753ffda6789d20a452e" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",COPS
-https://jmp2.uk/plex-64305451fc3be5947773c339-626c1753ffda6789d20a452e.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6ab19406e7969627826876ae" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/328b5088-1205-4e6e-ad6c-9b387a8b1e7c/Cops_channel_logo_white_1500x1000RDX.png",COPS
+https://jmp2.uk/plex-64305451fc3be5947773c339-6ab19406e7969627826876ae.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60089d90f682a3002c348299" tvg-name="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png",Euronews
 https://jmp2.uk/plex-64305451fc3be5947773c339-60089d90f682a3002c348299.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6196c9241d310bf925e02616" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png",Lone Star
@@ -403,8 +405,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-6943f7fa967bd8849e141979.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-670858335b42d01c9391e325.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",Johnny Carson TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-60d4edd6b2fdec002c141123.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-68c98e7460586565cc56baab" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",Crime Beat TV
-https://jmp2.uk/plex-64305451fc3be5947773c339-68c98e7460586565cc56baab.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
 https://jmp2.uk/plex-64305451fc3be5947773c339-640205c68ecb41f2d89d5814.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",Pitufo TV
