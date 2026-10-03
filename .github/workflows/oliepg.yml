@@ -20,7 +20,7 @@ jobs:
       - name: Run script
         run: |
           curl -o ./epg/olitv.xml "https://olidigital.space/olitv-epg.php"
-          gzip -k ./epg/olitv.xml
+          gzip -kf ./epg/olitv.xml
 
       - name: Commit changes if any
         run: |
