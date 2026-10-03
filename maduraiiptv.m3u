@@ -131,6 +131,10 @@ https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
 http://deiveegam.live3.onecloudlive.in/deiveegam/deiveegamtv/index.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="548" tvg-name="DEIVEEGAM TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1790662919.webp" group-title="Regional",40 DEIVEEGAM TV [RTMP]
 
+#EXTINF:-1 tvg-chno="41" tvg-id="402" tvg-name=" AADHAVANTAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787291365.webp" group-title="Entertainment",41  AADHAVANTAMIL TV
+https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="402" tvg-name=" AADHAVANTAMIL TV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787291365.webp" group-title="Entertainment",41  AADHAVANTAMIL TV [RTMP]
+
 #EXTINF:-1 tvg-chno="42" tvg-id="554" tvg-name="NILA TV 4K" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1790689436.webp" group-title="Entertainment",42 NILA TV 4K
 http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
 #EXTINF:-1 tvg-chno="42" tvg-id="554" tvg-name="NILA TV 4K" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1790689436.webp" group-title="Entertainment",42 NILA TV 4K [RTMP]
