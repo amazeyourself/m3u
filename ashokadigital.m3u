@@ -24,7 +24,7 @@ https://cloudstream4k.com:443/velantvhdkanchi/bsk/playlist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-name="Oscar Tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1741858477_PeMGZ-pz_400x400.png" group-title="Tamil Nadu Channels",14 Oscar Tv 
 https://account21.livebox.co.in/oscartvhls/live.m3u8
 #EXTINF:-1 tvg-id="15" tvg-chno="15" tvg-name="SSCN tV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756807421_d9220ae9-986b-4336-a2a9-9c212cb00935-removebg-preview.png" group-title="Tamil Nadu Channels",15 SSCN tV
-https://stream.ashokadigital.net/sscn/sscn/index.m3u8
+https://live-stream.in/sscntv/sscntv/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-chno="16" tvg-name="Thendral tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784602360_ashoka-digital-560x315.gif" group-title="Tamil Nadu Channels",16 Thendral tv
 https://app.ashokadigital.net/app/320fe68e/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-chno="17" tvg-name="MALAR TV SURANDAI" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1766937001_94933e74-395c-4256-a988-c606e16b040b.png" group-title="Tamil Nadu Channels",17 MALAR TV SURANDAI
@@ -39,6 +39,8 @@ https://app.ashokadigital.net/app/f8af5632/index.m3u8
 https://live-stream.in/archanatv/archanatv/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-chno="22" tvg-name="T TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" group-title="Tamil Nadu Channels",22 T TV 
 
+#EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-name="mydictionary.in" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790918424_Thamizhpparithi%20Maari%20Sir.png" group-title="Tamil Nadu Channels",23 mydictionary.in
+https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 #EXTINF:-1 tvg-id="24" tvg-chno="24" tvg-name="spice tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1735633715_IMG-20241231-WA0070(1).jpg" group-title="Tamil Nadu Channels",24 spice tv
 https://app.ashokadigital.net/app/0ea078fe/index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-chno="25" tvg-name="POTHIGAI PRIME TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769192_WhatsApp%20Image%202026-09-30%20at%204.58.27%20PM.jpeg" group-title="Tamil Nadu Channels",25 POTHIGAI PRIME TV
