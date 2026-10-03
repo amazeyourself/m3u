@@ -2,7 +2,7 @@ name: Generate Oli TV EPG
 
 on:
   schedule:
-    - cron: '0 */2 * * *' 
+    - cron: '0 */4 * * *' 
   push:
     branches:
       - main  # Runs on push to the main branch
@@ -17,19 +17,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6.0.2
 
-      - name: Set up Python
-        uses: actions/setup-python@v6.2.0
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install urllib3
-          pip install lxml
-
       - name: Run script
-        run: "python ./scripts/oliepg.py"
+        run: |
+          curl -o ./epg/olitv.xml "https://olidigital.space/olitv-epg.php"
+          gzip -k ./epg/olitv.xml
 
       - name: Commit changes if any
         run: |
