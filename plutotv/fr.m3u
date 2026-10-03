@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
+#EXTINF:-1 tvg-id="667d38df64aca60008eab7c6" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/667d38df64aca60008eab7c6/colorLogoPNG_1790238529013.png",That's Rock
+https://jmp2.uk/plu-667d38df64aca60008eab7c6.m3u8
+#EXTINF:-1 tvg-id="667d38a5ca74680008696392" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/667d38a5ca74680008696392/colorLogoPNG_1790760509250.png",That's 90s00s
+https://jmp2.uk/plu-667d38a5ca74680008696392.m3u8
 #EXTINF:-1 tvg-id="6a43ab7bfd93e35b5dadb67e" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png",Tennis Channel
 https://jmp2.uk/plu-6a43ab7bfd93e35b5dadb67e.m3u8
 #EXTINF:-1 tvg-id="68236417b85ccee1c1a025ad" tvg-name="Ciné Gore & Slasher by Pluto TV" tvg-logo="https://images.pluto.tv/channels/68236417b85ccee1c1a025ad/colorLogoPNG_1751376882405.png",Ciné Gore & Slasher by Pluto TV

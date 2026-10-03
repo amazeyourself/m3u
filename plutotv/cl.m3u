@@ -5,6 +5,12 @@ https://jmp2.uk/plu-6abab1c8d33c7e25d227502e.m3u8
 https://jmp2.uk/plu-6abab32a198ce62db3f7e54d.m3u8
 #EXTINF:-1 tvg-id="6a71f490f5f14c2045cd6118" tvg-name="Pluto TV TGIF Comedy" tvg-logo="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png",Pluto TV TGIF Comedy
 https://jmp2.uk/plu-6a71f490f5f14c2045cd6118.m3u8
+#EXTINF:-1 tvg-id="6aa1c48cf5f14c2045c43776" tvg-name="Private Eyes" tvg-logo="https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png",Private Eyes
+https://jmp2.uk/plu-6aa1c48cf5f14c2045c43776.m3u8
+#EXTINF:-1 tvg-id="6aa2c3d1cb18e0ed0255f8d0" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png",COPS
+https://jmp2.uk/plu-6aa2c3d1cb18e0ed0255f8d0.m3u8
+#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png",Paranormal Chronicles
+https://jmp2.uk/plu-6aa2c09cf5f14c2045c7c87a.m3u8
 #EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-name="SI TV" tvg-logo="https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png",SI TV
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
 #EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png",Wired2Fish TV
@@ -193,8 +199,6 @@ https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png",Pluto TV Anime
 https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
-#EXTINF:-1 tvg-id="6aa2c09cf5f14c2045c7c87a" tvg-name="Paranormal Chronicles" tvg-logo="https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png",Paranormal Chronicles
-https://jmp2.uk/plu-6aa2c09cf5f14c2045c7c87a.m3u8
 #EXTINF:-1 tvg-id="688a44cf5d73ec0a3f49718b" tvg-name="Weeds / Nurse Jackie" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png",Weeds / Nurse Jackie
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 tvg-id="62bdae69a47b6c00076af298" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png",Baywatch
