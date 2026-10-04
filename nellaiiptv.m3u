@@ -1143,16 +1143,10 @@ https://lanka.vaanam24.com:3712/hybrid/play.m3u8
 https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 tvg-chno="669" tvg-id="442" tvg-name="SAKTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789320614.webp" group-title="Entertainment",669 SAKTHI TV [RTMP]
 
-#EXTINF:-1 tvg-chno="670" tvg-id="443" tvg-name="YET MAX TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789320750.webp" group-title="Entertainment",670 YET MAX TV
-https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 #EXTINF:-1 tvg-chno="670" tvg-id="443" tvg-name="YET MAX TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789320750.webp" group-title="Entertainment",670 YET MAX TV [RTMP]
 
-#EXTINF:-1 tvg-chno="671" tvg-id="444" tvg-name="LOOP TAMIZH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789320814.webp" group-title="Entertainment",671 LOOP TAMIZH TV
-https://stream.yettelevision.com:5443/WebRTCApp/streams/LOOPTAMIL4Vx8Qp2NmK7RdPLAY.m3u8
 #EXTINF:-1 tvg-chno="671" tvg-id="444" tvg-name="LOOP TAMIZH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789320814.webp" group-title="Entertainment",671 LOOP TAMIZH TV [RTMP]
 
-#EXTINF:-1 tvg-chno="672" tvg-id="445" tvg-name="MOVIES TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789320921.webp" group-title="Entertainment",672 MOVIES TV
-https://live.yettelevision.com:5443/LiveApp/streams/MoviesHDBdXb7gtHJIkT7mQx9LpV2Nc8Hd.m3u8
 #EXTINF:-1 tvg-chno="672" tvg-id="445" tvg-name="MOVIES TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789320921.webp" group-title="Entertainment",672 MOVIES TV [RTMP]
 
 #EXTINF:-1 tvg-chno="673" tvg-id="446" tvg-name="AMMA VISION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789321018.webp" group-title="Entertainment",673 AMMA VISION TV
@@ -1223,8 +1217,6 @@ https://stream.onecloudlive.in/krntv/krntvhd/index.m3u8
 https://3.proxy.nellaiiptv.com/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-chno="689" tvg-id="463" tvg-name="KANCHI MEDIA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789630387.webp" group-title="Entertainment",689 KANCHI MEDIA TV [RTMP]
 
-#EXTINF:-1 tvg-chno="690" tvg-id="464" tvg-name="YET TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789438888.webp" group-title="Entertainment",690 YET TV
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-chno="690" tvg-id="464" tvg-name="YET TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789438888.webp" group-title="Entertainment",690 YET TV [RTMP]
 
 #EXTINF:-1 tvg-chno="691" tvg-id="465" tvg-name="KNR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789630193.webp" group-title="Entertainment",691 KNR TV
