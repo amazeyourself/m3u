@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="344" tvg-name="INFO" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947311.webp" group-title="",1 INFO
-https://srv-i.maduraiiptv.in/madurai-iptv-info/madurai-iptv-info-v1.mp4/index.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="344" tvg-name="INFO" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947311.webp" group-title="",1 INFO [RTMP]
-
 #EXTINF:-1 tvg-chno="2" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",2 RIGHT TV HD
 https://srv-i.maduraiiptv.in/live/righttv-hd/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",2 RIGHT TV HD [RTMP]
@@ -200,9 +196,9 @@ https://malartv-sscloud7-in.proxy.nellaiiptv.com/malartv/malartv/playlist.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-id="306" tvg-name="MALAR TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1777319836.webp" group-title="Entertainment",81 MALAR TV [RTMP]
 
 #EXTINF:-1 tvg-chno="87" tvg-id="165" tvg-name="RIYA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771244344.webp" group-title="Movies",87 RIYA TV
-https://play.applelive.in/riyatv/riyatv.m3u8
+https://applelive.in/riyatv/riyatv/index.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="165" tvg-name="RIYA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771244344.webp" group-title="Movies",87 RIYA TV [RTMP]
-
+null
 #EXTINF:-1 tvg-chno="89" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",89 palaar tv
 https://live.onecloudlive.in/palaartv/palaartv/index.m3u8?token=github.com/amazeyourself
 #EXTINF:-1 tvg-chno="89" tvg-id="437" tvg-name="palaar tv" tvg-logo="" group-title="Entertainment",89 palaar tv [RTMP]
@@ -230,6 +226,10 @@ http://srvvii.nellaiiptv.com:8033/app-restream/5akaf8-vmusictv/index.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",98 V TAMIL TV
 http://srvvii.nellaiiptv.com:8033/app-restream/88kp4t-vtamizhtv/index.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",98 V TAMIL TV [RTMP]
+
+#EXTINF:-1 tvg-chno="103" tvg-id="499" tvg-name="7smusic" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198420.webp" group-title="Entertainment",103 7smusic
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="499" tvg-name="7smusic" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198420.webp" group-title="Entertainment",103 7smusic [RTMP]
 
 #EXTINF:-1 tvg-chno="111" tvg-id="15" tvg-name="DHEIVEEGAM TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/dheiveegam_tv_1771226867.webp" group-title="Regional",111 DHEIVEEGAM TV
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
@@ -651,25 +651,61 @@ null
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-chno="721" tvg-id="53" tvg-name="ZB Cartoon" tvg-logo="" group-title="Kids",721 ZB Cartoon [RTMP]
 null
+#EXTINF:-1 tvg-chno="725" tvg-id="58" tvg-name="Cowboy Movie Channel" tvg-logo="" group-title="Movies",725 Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+#EXTINF:-1 tvg-chno="725" tvg-id="58" tvg-name="Cowboy Movie Channel" tvg-logo="" group-title="Movies",725 Cowboy Movie Channel [RTMP]
+null
 #EXTINF:-1 tvg-chno="726" tvg-id="59" tvg-name="24 Hour Free Movies" tvg-logo="" group-title="Movies",726 24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-chno="726" tvg-id="59" tvg-name="24 Hour Free Movies" tvg-logo="" group-title="Movies",726 24 Hour Free Movies [RTMP]
+null
+#EXTINF:-1 tvg-chno="731" tvg-id="63" tvg-name="Gospel Movie TV" tvg-logo="" group-title="Movies",731 Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-chno="731" tvg-id="63" tvg-name="Gospel Movie TV" tvg-logo="" group-title="Movies",731 Gospel Movie TV [RTMP]
+null
+#EXTINF:-1 tvg-chno="732" tvg-id="64" tvg-name="GGREAT! movies" tvg-logo="" group-title="Movies",732 GGREAT! movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="732" tvg-id="64" tvg-name="GGREAT! movies" tvg-logo="" group-title="Movies",732 GGREAT! movies [RTMP]
+null
+#EXTINF:-1 tvg-chno="733" tvg-id="65" tvg-name="Grjngo Western Movies" tvg-logo="" group-title="Movies",733 Grjngo Western Movies
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="733" tvg-id="65" tvg-name="Grjngo Western Movies" tvg-logo="" group-title="Movies",733 Grjngo Western Movies [RTMP]
 null
 #EXTINF:-1 tvg-chno="738" tvg-id="70" tvg-name="MovieBox" tvg-logo="" group-title="Movies",738 MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 #EXTINF:-1 tvg-chno="738" tvg-id="70" tvg-name="MovieBox" tvg-logo="" group-title="Movies",738 MovieBox [RTMP]
 null
+#EXTINF:-1 tvg-chno="740" tvg-id="72" tvg-name="MyTime Movie Network Brazil" tvg-logo="" group-title="Movies",740 MyTime Movie Network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="740" tvg-id="72" tvg-name="MyTime Movie Network Brazil" tvg-logo="" group-title="Movies",740 MyTime Movie Network Brazil [RTMP]
+null
+#EXTINF:-1 tvg-chno="741" tvg-id="73" tvg-name="MyTime movie network Spain" tvg-logo="" group-title="Movies",741 MyTime movie network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="741" tvg-id="73" tvg-name="MyTime movie network Spain" tvg-logo="" group-title="Movies",741 MyTime movie network Spain [RTMP]
+null
 #EXTINF:-1 tvg-chno="742" tvg-id="74" tvg-name="Oscar Movies Bhojpuri" tvg-logo="" group-title="Movies",742 Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-chno="742" tvg-id="74" tvg-name="Oscar Movies Bhojpuri" tvg-logo="" group-title="Movies",742 Oscar Movies Bhojpuri [RTMP]
+null
+#EXTINF:-1 tvg-chno="743" tvg-id="75" tvg-name="Rakuten TV Action Movies Finland" tvg-logo="" group-title="Movies",743 Rakuten TV Action Movies Finland
+https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+#EXTINF:-1 tvg-chno="743" tvg-id="75" tvg-name="Rakuten TV Action Movies Finland" tvg-logo="" group-title="Movies",743 Rakuten TV Action Movies Finland [RTMP]
 null
 #EXTINF:-1 tvg-chno="744" tvg-id="76" tvg-name="Rakuten TV Action Movies UK" tvg-logo="" group-title="Movies",744 Rakuten TV Action Movies UK
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 tvg-chno="744" tvg-id="76" tvg-name="Rakuten TV Action Movies UK" tvg-logo="" group-title="Movies",744 Rakuten TV Action Movies UK [RTMP]
 null
+#EXTINF:-1 tvg-chno="745" tvg-id="77" tvg-name="Rakuten TV Drama Movies UK" tvg-logo="" group-title="Movies",745 Rakuten TV Drama Movies UK
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-chno="745" tvg-id="77" tvg-name="Rakuten TV Drama Movies UK" tvg-logo="" group-title="Movies",745 Rakuten TV Drama Movies UK [RTMP]
+null
 #EXTINF:-1 tvg-chno="746" tvg-id="78" tvg-name="Rakuten TV Family Movies UK" tvg-logo="" group-title="Movies",746 Rakuten TV Family Movies UK
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 tvg-chno="746" tvg-id="78" tvg-name="Rakuten TV Family Movies UK" tvg-logo="" group-title="Movies",746 Rakuten TV Family Movies UK [RTMP]
+null
+#EXTINF:-1 tvg-chno="749" tvg-id="81" tvg-name="TVS Classic Movies" tvg-logo="" group-title="Movies",749 TVS Classic Movies
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-chno="749" tvg-id="81" tvg-name="TVS Classic Movies" tvg-logo="" group-title="Movies",749 TVS Classic Movies [RTMP]
 null
 #EXTINF:-1 tvg-chno="750" tvg-id="82" tvg-name="TVS Drive In Movie" tvg-logo="" group-title="Movies",750 TVS Drive In Movie
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
