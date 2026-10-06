@@ -55,9 +55,9 @@ http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8
 http://103.87.105.51:8080/acphd/acphd.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="545" tvg-name="ACP HD MADURAI" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790489829.webp" group-title="Entertainment",18 ACP HD MADURAI [RTMP]
 
-#EXTINF:-1 tvg-chno="19" tvg-id="546" tvg-name="ACP CLASSIC" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790489240.webp" group-title="",19 ACP CLASSIC
+#EXTINF:-1 tvg-chno="19" tvg-id="546" tvg-name="ACP CLASSIC" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790489240.webp" group-title="Entertainment",19 ACP CLASSIC
 http://103.87.105.51:8080/acpclassic/acpclassic.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="546" tvg-name="ACP CLASSIC" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790489240.webp" group-title="",19 ACP CLASSIC [RTMP]
+#EXTINF:-1 tvg-chno="19" tvg-id="546" tvg-name="ACP CLASSIC" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790489240.webp" group-title="Entertainment",19 ACP CLASSIC [RTMP]
 
 #EXTINF:-1 tvg-chno="20" tvg-id="513" tvg-name="prime music TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198366.webp" group-title="Music",20 prime music TV
 https://live.primestream.in/prime/music/index.m3u8
