@@ -47,6 +47,7 @@ while True:
 print(data)
 playlist = []
 playlist.append("#EXTM3U")
+blockedEPG = ["443","444","445","464"]
 for i in data['data']:
     stringdata = json.dumps(i, indent=4)
     channel_data = json.loads(stringdata)
@@ -63,6 +64,7 @@ for i in data['data']:
         rtmp = channel_data['rtmp_url']
     else:
         rtmp = ""
+    if epg in 
     playlist.append(f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{epg}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{chno} {name}')
     playlist.append(hls)
     if channel_data['rtmp_url'] != None or rtmp != "null" or rtmp != "":
