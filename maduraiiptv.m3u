@@ -16,7 +16,7 @@ https://stream.onecloudlive.in/mm/maduratv/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="203" tvg-name="MADURA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771253349.webp" group-title="Entertainment",6 MADURA TV [RTMP]
 rtmp://mm.stream.onecloudlive.in:1935/mm/maduratv
 #EXTINF:-1 tvg-chno="7" tvg-id="411" tvg-name="EYE TV HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787553796.webp" group-title="Entertainment",7 EYE TV HD
-https://oqgdrwzzy4rm-hls-live.5centscdn.com/eye/dd6f0d500e182201ad9681c7cc7d4f9e.sdp/playlist.m3u8
+http://eyetv.live.mystreams.in/live/eyetv/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="411" tvg-name="EYE TV HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787553796.webp" group-title="Entertainment",7 EYE TV HD [RTMP]
 
 #EXTINF:-1 tvg-chno="8" tvg-id="494" tvg-name="ALPHA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1788507924.webp" group-title="Entertainment",8 ALPHA TV
