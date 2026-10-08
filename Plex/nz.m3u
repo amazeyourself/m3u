@@ -239,6 +239,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",21 Jump Street
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",INTER 24/7
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",Monster Jam
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68caada21fabab6eb2e99331" tvg-name="Bassmaster" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6d14e42-d9be-4f81-893f-cb676d32c473/BassmasterChannel_DarkBackground_-_Will_Flowers.png",Bassmaster
@@ -299,8 +301,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png",FTF Sports
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",INTER 24/7
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",The Bob Ross Channel
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",Revry
