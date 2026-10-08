@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/it.xml.gz"
-#EXTINF:-1 tvg-id="6a7c73738a40fc87bcbac99e" tvg-name="Call the Midwife" tvg-logo="https://images.pluto.tv/channels/6a7c73738a40fc87bcbac99e/colorLogoPNG_1790774970554.png",Call the Midwife
-https://jmp2.uk/plu-6a7c73738a40fc87bcbac99e.m3u8
+#EXTINF:-1 tvg-id="691c5ba253a7a030e7c509d8" tvg-name="Distretto di Polizia" tvg-logo="https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1788787884193.png",Distretto di Polizia
+https://jmp2.uk/plu-691c5ba253a7a030e7c509d8.m3u8
 #EXTINF:-1 tvg-id="62e8d3c2c2db99000787b786" tvg-name="Pluto TV Halloween" tvg-logo="https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png",Pluto TV Halloween
 https://jmp2.uk/plu-62e8d3c2c2db99000787b786.m3u8
 #EXTINF:-1 tvg-id="66335533307fa300082bd80a" tvg-name="Pluto TV Splatter" tvg-logo="https://images.pluto.tv/channels/66335533307fa300082bd80a/colorLogoPNG.png",Pluto TV Splatter
@@ -25,10 +25,10 @@ https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
 #EXTINF:-1 tvg-id="62e7fa5ab5062e0007dcf97d" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG_1770365241843.png",BBC Series
 https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
+#EXTINF:-1 tvg-id="6a7c73738a40fc87bcbac99e" tvg-name="Call the Midwife" tvg-logo="https://images.pluto.tv/channels/6a7c73738a40fc87bcbac99e/colorLogoPNG_1790774970554.png",Call the Midwife
+https://jmp2.uk/plu-6a7c73738a40fc87bcbac99e.m3u8
 #EXTINF:-1 tvg-id="6349279ed5023700078f2bc2" tvg-name="Mai dire sì" tvg-logo="https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png",Mai dire sì
 https://jmp2.uk/plu-6349279ed5023700078f2bc2.m3u8
-#EXTINF:-1 tvg-id="691c5ba253a7a030e7c509d8" tvg-name="Distretto di Polizia" tvg-logo="https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1788787884193.png",Distretto di Polizia
-https://jmp2.uk/plu-691c5ba253a7a030e7c509d8.m3u8
 #EXTINF:-1 tvg-id="69664afedcbf5c784492e422" tvg-name="The Intern" tvg-logo="https://images.pluto.tv/channels/69664afedcbf5c784492e422/colorLogoPNG_1772434734016.png",The Intern
 https://jmp2.uk/plu-69664afedcbf5c784492e422.m3u8
 #EXTINF:-1 tvg-id="66d7120815d2c60008cec006" tvg-name="Flashpoint" tvg-logo="https://images.pluto.tv/channels/66d7120815d2c60008cec006/colorLogoPNG.png",Flashpoint
