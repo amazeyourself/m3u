@@ -37,8 +37,6 @@ http://asokaapp-malartv.sscloud7.in/malartv/malartv/index.mpd
 https://app.ashokadigital.net/app/f8af5632/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-chno="21" tvg-name="archana tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790181143_ARSHNA%20TV%201.png" group-title="Tamil Nadu Channels",21 archana tv
 https://live-stream.in/archanatv/archanatv/index.m3u8
-#EXTINF:-1 tvg-id="22" tvg-chno="22" tvg-name="T TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" group-title="Tamil Nadu Channels",22 T TV 
-
 #EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-name="mydictionary.in" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790918424_Thamizhpparithi%20Maari%20Sir.png" group-title="Tamil Nadu Channels",23 mydictionary.in
 https://mydictionary.in/divsection/MyDictionary.in%20Donation%20Video.mp4
 #EXTINF:-1 tvg-id="24" tvg-chno="24" tvg-name="spice tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1735633715_IMG-20241231-WA0070(1).jpg" group-title="Tamil Nadu Channels",24 spice tv
@@ -51,6 +49,8 @@ https://stream.d6-pro.com/dtv/live/video.m3u8
 https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-name="palkarnu tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785202037_palkaarnu%20tv%20logo%20png.png" group-title="Tamil Nadu Channels",30 palkarnu tv
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-chno="32" tvg-name="T TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790077071_ttvlogo.png" group-title="Tamil Nadu Channels",32 T TV 
+
 #EXTINF:-1 tvg-id="33" tvg-chno="33" tvg-name="CTN Channel " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762496906_ctn%20channel%20log%20copy.png" group-title="Tamil Nadu Channels",33 CTN Channel 
 http://217.216.79.247/ctn/channel/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-chno="38" tvg-name="kunnoor CYN " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785768756_ctn.png" group-title="Tamil Nadu Channels",38 kunnoor CYN 
@@ -111,8 +111,6 @@ http://btc.inet.moe/live/btctv/video.m3u8
 https://app.ashokadigital.net/app/34e04c34/index.m3u8
 #EXTINF:-1 tvg-id="93" tvg-chno="93" tvg-name="Dheiveegam Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731847296_WhatsApp_Image_2024-11-17_at_6.04.32_PM-removebg-preview.png" group-title="Bakthi",93 Dheiveegam Tv
 https://stream.singamcloud.in/Dheiveegamtv/Dheiveegamtv/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-chno="94" tvg-name="d bhakthi tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title="Bakthi",94 d bhakthi tv 
-https://stream.d6-pro.com/dbhakhi/live/video.m3u8
 #EXTINF:-1 tvg-id="95" tvg-chno="95" tvg-name="Yatra Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1762598647_IMG-20251108-WA0090.jpg" group-title="Tamil Nadu Channels",95 Yatra Tv
 
 #EXTINF:-1 tvg-id="96" tvg-chno="96" tvg-name="dharshan hd" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791256883_WhatsApp%20Image%202026-10-06%20at%208.42.31%20AM.jpeg" group-title="Bakthi",96 dharshan hd
@@ -177,14 +175,6 @@ http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 https://app.ashokadigital.net/app/63351686/index.m3u8
 #EXTINF:-1 tvg-id="153" tvg-chno="153" tvg-name="M television " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743837928_TELEVESION.png" group-title="Tamil Nadu Channels",153 M television 
 
-#EXTINF:-1 tvg-id="154" tvg-chno="154" tvg-name="AMMA HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782888_a%20private%20channel%20copy.png" group-title="Tamil Nadu Channels",154 AMMA HD
-https://app.ashokadigital.net/app/341dfe1b/index.m3u8
-#EXTINF:-1 tvg-id="155" tvg-chno="155" tvg-name="ACN ISAI HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782861_a%20private%20channel%20copy.png" group-title="Tamil Nadu Channels",155 ACN ISAI HD
-https://app.ashokadigital.net/app/92954bf6/index.m3u8
-#EXTINF:-1 tvg-id="156" tvg-chno="156" tvg-name="ARASAN TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782837_a%20private%20channel%20copy.png" group-title="Tamil Nadu Channels",156 ARASAN TV HD
-https://app.ashokadigital.net/app/d7dbeab6/index.m3u8
-#EXTINF:-1 tvg-id="157" tvg-chno="157" tvg-name="ACN CINEMA HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782799_a%20private%20channel%20copy.png" group-title="Tamil Nadu Channels",157 ACN CINEMA HD
-https://app.ashokadigital.net/app/ea6afbb7/index.m3u8
 #EXTINF:-1 tvg-id="165" tvg-chno="165" tvg-name="SARAL TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764914890_logo%20Saral%20Tv%2010%20png.png" group-title="Tamil Nadu Channels",165 SARAL TV
 rtmp://103.226.186.82:1935/Saraltv/Saraltv
 #EXTINF:-1 tvg-id="166" tvg-chno="166" tvg-name="MARUTHI TV HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768917435_MARUTHI%20TV.png" group-title="Tamil Nadu Channels",166 MARUTHI TV HD
@@ -293,8 +283,6 @@ https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
 #EXTINF:-1 tvg-id="240" tvg-chno="240" tvg-name="VDS TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787038089_WhatsApp%20Image%202026-08-17%20at%207.49.21%20PM.jpeg" group-title="Tamil Nadu Channels",240 VDS TV
 http://117.247.192.123:8080/vds/vds.m3u8
-#EXTINF:-1 tvg-id="241" tvg-chno="241" tvg-name="Eegul tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791271326_WhatsApp%20Image%202026-10-06%20at%2012.40.31%20PM.jpeg" group-title="Tamil Nadu Channels",241 Eegul tv 
-
 #EXTINF:-1 tvg-id="243" tvg-chno="243" tvg-name="monisha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787571932_WhatsApp%20Image%202026-08-24%20at%204.56.08%20PM.jpeg" group-title="Tamil Nadu Channels",243 monisha Tv
 http://manishatv1.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 tvg-id="244" tvg-chno="244" tvg-name="cgn tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787725031_CGN%20TV%20%20YT%201.jpg-Photoroom.png" group-title="Christian Tv Channels",244 cgn tv
@@ -315,8 +303,6 @@ https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 https://stream.apcloud.in/jettvhd/jettv/index.m3u8
 #EXTINF:-1 tvg-id="275" tvg-chno="275" tvg-name="POTHIGAI FM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769821_WhatsApp%20Image%202026-09-30%20at%204.58.03%20PM.jpeg" group-title="Tamil Nadu Channels",275 POTHIGAI FM
 https://pothigaifm-prabak78.radioca.st/stream
-#EXTINF:-1 tvg-id="285" tvg-chno="285" tvg-name="Delta Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha%20tv.png" group-title="Tamil Nadu Channels",285 Delta Tv
-http://deltatv-hls.stream.nellaiiptv.com/deltatv/deltatv/index.m3u8
 #EXTINF:-1 tvg-id="286" tvg-chno="286" tvg-name="Rj Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Tamil Nadu Channels",286 Rj Tamil Tv
 
 #EXTINF:-1 tvg-id="287" tvg-chno="287" tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp%20Image%202026-08-06%20at%2012.21.27%20PM.jpeg" group-title="Tamil Nadu Channels",287 abnaztv
@@ -341,8 +327,6 @@ https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
 https://stream.ashokadigital.net/RubyDigitalTv/RubyDigitalTv/index.m3u8
 #EXTINF:-1 tvg-id="299" tvg-chno="299" tvg-name=" TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787365985_1775814267_CRAYONZ%20TV%20LOGO%20NEW(2).png" group-title="Tamil Nadu Channels",299  TV
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
-#EXTINF:-1 tvg-id="300" tvg-chno="300" tvg-name="D TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366106_1785171805_d%20tv%20logo%20(1).png" group-title="Tamil Nadu Channels",300 D TV 
-https://stream.d6-pro.com/Dtv/live/video.m3u8
 #EXTINF:-1 tvg-id="306" tvg-chno="306" tvg-name="VAAGAI TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787365671_1783397514_Vaagai%20TV%20logo.png" group-title="Tamil Nadu Channels",306 VAAGAI TV 
 https://app.ashokadigital.net/app/7fe2793b/index.m3u8
 #EXTINF:-1 tvg-id="307" tvg-chno="307" tvg-name="ARK tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787365462_1784905126_WhatsApp%20Image%202026-07-24%20at%2020.08.51.jpeg" group-title="Tamil Nadu Channels",307 ARK tv
@@ -473,6 +457,10 @@ https://vvsolutions.in/nsrnews/nsrnews.m3u8
 https://nstv.co.in/nstv/video.m3u8
 #EXTINF:-1 tvg-id="864" tvg-chno="864" tvg-name="BSK TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791257437_bsk%20news%20copy.png" group-title="Andhra Pradesh and Telangana",864 BSK TV
 https://vvsolutions-server15.in/bsknews_18/video.m3u8
+#EXTINF:-1 tvg-id="865" tvg-chno="865" tvg-name="AN TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791356424_WhatsApp%20Image%202026-10-06%20at%204.00.51%20PM.jpeg" group-title="Andhra Pradesh and Telangana",865 AN TV
+https://mars.streambridge.link:8052/telugu/antv/index.m3u8
+#EXTINF:-1 tvg-id="866" tvg-chno="866" tvg-name="GEE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791365488_gtv.png" group-title="Andhra Pradesh and Telangana",866 GEE TV
+https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title="Tamil Nadu Channels",901 Chanakya up/uk
@@ -525,5 +513,7 @@ https://live.dainikayodhyatimes.com/datnews/datnews/index.m3u8
 
 #EXTINF:-1 tvg-id="951" tvg-chno="951" tvg-name="Subash HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785745653_1785411879_Subash%20Tv%20Logo%20copy.png" group-title="Tamil Nadu Channels",951 Subash HD
 
+#EXTINF:-1 tvg-id="953" tvg-chno="953" tvg-name="d bhakthi tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785171965_Dbhakthi.png" group-title="Bakthi",953 d bhakthi tv 
+https://stream.d6-pro.com/dbhakhi/live/video.m3u8
 #EXTINF:-1 tvg-id="960" tvg-chno="960" tvg-name="LION TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790777390_d6f0dc8c-f4bc-4827-a2ee-ac557900c312-Photoroom.png" group-title="Tamil Nadu Channels",960 LION TV
 
