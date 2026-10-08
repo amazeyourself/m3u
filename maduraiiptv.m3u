@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="344" tvg-name="INFO" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947311.webp" group-title="",1 INFO
+https://deva1.nellaiiptv.com/Mercury/tv/index.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="344" tvg-name="INFO" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947311.webp" group-title="",1 INFO [RTMP]
+
 #EXTINF:-1 tvg-chno="2" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",2 RIGHT TV HD
 https://srv-i.maduraiiptv.in/live/righttv-hd/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",2 RIGHT TV HD [RTMP]
@@ -16,7 +20,7 @@ https://stream.onecloudlive.in/mm/maduratv/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="203" tvg-name="MADURA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771253349.webp" group-title="Entertainment",6 MADURA TV [RTMP]
 rtmp://mm.stream.onecloudlive.in:1935/mm/maduratv
 #EXTINF:-1 tvg-chno="7" tvg-id="411" tvg-name="EYE TV HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787553796.webp" group-title="Entertainment",7 EYE TV HD
-http://eyetv.live.mystreams.in/live/eyetv/index.m3u8
+http://eyetv.live.mystreams.in:80/live/eyetv/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="411" tvg-name="EYE TV HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787553796.webp" group-title="Entertainment",7 EYE TV HD [RTMP]
 
 #EXTINF:-1 tvg-chno="8" tvg-id="494" tvg-name="ALPHA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1788507924.webp" group-title="Entertainment",8 ALPHA TV
@@ -139,9 +143,17 @@ http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
 https://applelive.in/thalapathytv/thalapathytv/index.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="320" tvg-name="THALAPATHY TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1777820867.webp" group-title="Entertainment",43 THALAPATHY TV [RTMP]
 
-#EXTINF:-1 tvg-chno="45" tvg-id="449" tvg-name="SVBC2" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787983603.webp" group-title="Regional",45 SVBC2
+#EXTINF:-1 tvg-chno="44" tvg-id="129" tvg-name="TAMIL OLI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771246267.webp" group-title="Devotional",44 TAMIL OLI TV
+https://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="129" tvg-name="TAMIL OLI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771246267.webp" group-title="Devotional",44 TAMIL OLI TV [RTMP]
+null
+#EXTINF:-1 tvg-chno="45" tvg-id="555" tvg-name="AMN" tvg-logo="" group-title="",45 AMN
+https://amn.live.onecloudlive.in/amn/amntv/index.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="555" tvg-name="AMN" tvg-logo="" group-title="",45 AMN [RTMP]
+
+#EXTINF:-1 tvg-chno="48" tvg-id="449" tvg-name="SVBC2" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787983603.webp" group-title="Regional",48 SVBC2
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="449" tvg-name="SVBC2" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787983603.webp" group-title="Regional",45 SVBC2 [RTMP]
+#EXTINF:-1 tvg-chno="48" tvg-id="449" tvg-name="SVBC2" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787983603.webp" group-title="Regional",48 SVBC2 [RTMP]
 
 #EXTINF:-1 tvg-chno="55" tvg-id="141" tvg-name="STAR FM" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/star_fm_1770714428.webp" group-title="Radio",55 STAR FM
 https://play.rtmp1.nellaiiptv.com/hls/264782/index.m3u8
@@ -214,10 +226,6 @@ http://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="429" tvg-name="THIRAI MUSIC TV" tvg-logo="" group-title="Music",95 THIRAI MUSIC TV
 http://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="429" tvg-name="THIRAI MUSIC TV" tvg-logo="" group-title="Music",95 THIRAI MUSIC TV [RTMP]
-
-#EXTINF:-1 tvg-chno="96" tvg-id="543" tvg-name="COMEDY" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790163771.webp" group-title="Entertainment",96 COMEDY
-https://deva1.nellaiiptv.com/Mercury/tv/index.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="543" tvg-name="COMEDY" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790163771.webp" group-title="Entertainment",96 COMEDY [RTMP]
 
 #EXTINF:-1 tvg-chno="97" tvg-id="115" tvg-name="V MUSIC TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="Music",97 V MUSIC TV
 http://srvvii.nellaiiptv.com:8033/app-restream/5akaf8-vmusictv/index.m3u8
