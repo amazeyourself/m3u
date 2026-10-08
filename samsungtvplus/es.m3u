@@ -305,7 +305,7 @@ https://jmp2.uk/stvp-ES190000224
 https://jmp2.uk/stvp-ES1900003JT
 #EXTINF:-1 tvg-id="ES1800006ZS" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800006ZS_20260528T055835SQUARE.png",Rainy Day Vibes
 https://jmp2.uk/stvp-ES1800006ZS
-#EXTINF:-1 tvg-id="ES1800009VX" tvg-name="Spring Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800009VX_20261006T033907SQUARE.png",Spring Vibes
+#EXTINF:-1 tvg-id="ES1800009VX" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800009VX_20261006T033907SQUARE.png",Fall Vibes
 https://jmp2.uk/stvp-ES1800009VX
 #EXTINF:-1 tvg-id="ES1800007GH" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png",Island Vibes
 https://jmp2.uk/stvp-ES1800007GH
@@ -333,6 +333,8 @@ https://jmp2.uk/stvp-ES2800002MM
 https://jmp2.uk/stvp-ES1400002CJ
 #EXTINF:-1 tvg-id="ES12000024R" tvg-name="Historia y Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260901T054105SQUARE.png",Historia y Vida
 https://jmp2.uk/stvp-ES12000024R
+#EXTINF:-1 tvg-id="ES1800005H2" tvg-name="BBC Historia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800005H2_20261006T033919SQUARE.png",BBC Historia
+https://jmp2.uk/stvp-ES1800005H2
 #EXTINF:-1 tvg-id="ESBD1400003QN" tvg-name="Royalworld - Nobleza y Dinastias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png",Royalworld - Nobleza y Dinastias
 https://jmp2.uk/stvp-ESBD1400003QN
 #EXTINF:-1 tvg-id="ES3200001F1" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png",BBC Earth

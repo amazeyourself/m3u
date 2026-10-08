@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/at.xml.gz"
 #EXTINF:-1 tvg-id="AT1100006NI" tvg-name="Lucky Dog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100006NI_20260929T035714SQUARE.png",Lucky Dog
 https://jmp2.uk/stvp-AT1100006NI
+#EXTINF:-1 tvg-id="ATBD3700001EH" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD3700001EH_20261006T033701SQUARE.png",X-MAS Mix
+https://jmp2.uk/stvp-ATBD3700001EH
 #EXTINF:-1 tvg-id="AT1800008KG" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1800008KG_20260929T035658SQUARE.png",Bares für Rares
 https://jmp2.uk/stvp-AT1800008KG
 #EXTINF:-1 tvg-id="AT48000012I" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20260915T034831SQUARE.png",Hochzeit auf den ersten Blick
@@ -191,6 +193,8 @@ https://jmp2.uk/stvp-AT19000045A
 https://jmp2.uk/stvp-ATAJ0500443A
 #EXTINF:-1 tvg-id="ATAK3504501A" tvg-name="Pluto TV Food" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504501A_20250107T021829SQUARE.png",Pluto TV Food
 https://jmp2.uk/stvp-ATAK3504501A
+#EXTINF:-1 tvg-id="AT28000027U" tvg-name="Stadt Land Kunst" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT28000027U_20261006T033656SQUARE.png",Stadt Land Kunst
+https://jmp2.uk/stvp-AT28000027U
 #EXTINF:-1 tvg-id="ATAJ0500428A" tvg-name="Xplore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500428A_20250107T022005SQUARE.png",Xplore
 https://jmp2.uk/stvp-ATAJ0500428A
 #EXTINF:-1 tvg-id="ATBD700001VF" tvg-name="DAZN Rise" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD700001VF_20260421T123448SQUARE.png",DAZN Rise
@@ -255,7 +259,7 @@ https://jmp2.uk/stvp-AT2000006OM
 https://jmp2.uk/stvp-AT2000010RT
 #EXTINF:-1 tvg-id="AT20000098I" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000098I_20260609T041752SQUARE.png",Rainy Day Vibes
 https://jmp2.uk/stvp-AT20000098I
-#EXTINF:-1 tvg-id="AT2000011A3" tvg-name="Spring Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000011A3_20261006T033642SQUARE.png",Spring Vibes
+#EXTINF:-1 tvg-id="AT2000011A3" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000011A3_20261006T033642SQUARE.png",Fall Vibes
 https://jmp2.uk/stvp-AT2000011A3
 #EXTINF:-1 tvg-id="AT20000077X" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000077X_20260609T041729SQUARE.png",Island Vibes
 https://jmp2.uk/stvp-AT20000077X
@@ -275,13 +279,15 @@ https://jmp2.uk/stvp-AT14000022I
 https://jmp2.uk/stvp-ATAJ700005T3
 #EXTINF:-1 tvg-id="AT4100002MY" tvg-name="Rabbids Invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4100002MY_20260120T031200SQUARE.png",Rabbids Invasion
 https://jmp2.uk/stvp-AT4100002MY
+#EXTINF:-1 tvg-id="AT1300001GT" tvg-name="Fix&Foxi und Freunde" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1300001GT_20261006T033648SQUARE.png",Fix&Foxi und Freunde
+https://jmp2.uk/stvp-AT1300001GT
 #EXTINF:-1 tvg-id="ATAJ7000065Y" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000065Y_20250107T022016SQUARE.png",iCarly
 https://jmp2.uk/stvp-ATAJ7000065Y
 #EXTINF:-1 tvg-id="ATAJ700004UZ" tvg-name="Teen Nick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700004UZ_20250603T004826SQUARE.png",Teen Nick
 https://jmp2.uk/stvp-ATAJ700004UZ
 #EXTINF:-1 tvg-id="ATAJ7000037N" tvg-name="Nickelodeon Toons" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000037N_20250603T004823SQUARE.png",Nickelodeon Toons
 https://jmp2.uk/stvp-ATAJ7000037N
-#EXTINF:-1 tvg-id="AT2600007N2" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20261006T143931SQUARE.png",Family - Rakuten TV
+#EXTINF:-1 tvg-id="AT2600007N2" tvg-name="100% Weihnachten - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20261006T143931SQUARE.png",100% Weihnachten - Rakuten TV
 https://jmp2.uk/stvp-AT2600007N2
 #EXTINF:-1 tvg-id="ATBA330002946" tvg-name="Moviedome Family" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA330002946_20250117T111941SQUARE.png",Moviedome Family
 https://jmp2.uk/stvp-ATBA330002946
