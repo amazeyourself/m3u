@@ -40,7 +40,7 @@ http://srvvii.nellaiiptv.com:8033/app-restream/rwtcaa-stv/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="368" tvg-name="S TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1783178029.webp" group-title="Entertainment",12 S TV [RTMP]
 
 #EXTINF:-1 tvg-chno="13" tvg-id="2" tvg-name="DURESH TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787471596.webp" group-title="Entertainment",13 DURESH TV
-http://srvvii.nellaiiptv.com:8033/app-restream/e434f1-dureshtv/index.m3u8
+http://dureshtv.stream.nellaiiptv.com/live/dureshtv/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="2" tvg-name="DURESH TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787471596.webp" group-title="Entertainment",13 DURESH TV [RTMP]
 rtmp://103.78.164.108:1935/static/PDPTV
 #EXTINF:-1 tvg-chno="16" tvg-id="392" tvg-name="JEYA SUBBU TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786379346.webp" group-title="Entertainment",16 JEYA SUBBU TV
