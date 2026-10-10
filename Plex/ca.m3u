@@ -469,6 +469,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a3c23ec97845f69835ac533" tvg-name="HOT BENCH" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png",HOT BENCH
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a3c23ec97845f69835ac533.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6aa9c4a3083227098739435b.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV

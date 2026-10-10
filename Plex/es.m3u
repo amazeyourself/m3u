@@ -283,6 +283,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-62280162c9f485cc7afe8c46.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-6aa9bc040832270987394353.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
 https://jmp2.uk/plex-643054b1fc3be59477853717-6aaa2279083227098739435f.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
+https://jmp2.uk/plex-643054b1fc3be59477853717-6aa9c4a3083227098739435b.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",GrowthDay Network

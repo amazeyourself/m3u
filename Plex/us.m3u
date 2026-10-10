@@ -763,6 +763,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-67a147a7114554261db9e45d.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69011e71d320237a5a2d9f63" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",INTER 24/7
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69011e71d320237a5a2d9f63.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6aa9c4a3083227098739435b.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60a53634126de9002e694bc4" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",beIN SPORTS XTRA
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60a53634126de9002e694bc4.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",The Bob Ross Channel
@@ -969,6 +971,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6615360a8423b8d7e61a099b.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-62a388865440744efae8e243.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a9512a7f534d4312a699c22.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6ac0228963b12fad10f73787" tvg-name="Team USA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b67e21fd-6006-4a12-8c41-bf8c4de2a676/TeamUSA_DarkBKG.png",Team USA TV
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6ac0228963b12fad10f73787.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-61ddcdc03c12aa1e5d320aaf" tvg-name="Caught in Providence" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4de0c09-34ab-452f-9dfd-c28dc607af6d/CaughtinProvidence_1500x1000_lightbgd.png",Caught in Providence
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-61ddcdc03c12aa1e5d320aaf.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6642a07d0e0ec7b4ce5eb294" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b019aa95-c5a6-4ccf-8eac-0740effe749f/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png",ZenLIFE by Stingray
