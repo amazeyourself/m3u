@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/se.xml.gz"
-#EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png",Pluto TV Handboll Live
-https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 #EXTINF:-1 tvg-id="6a6318a71a30976934632c3d" tvg-name="Paradise Hotel: Ny säsong" tvg-logo="https://images.pluto.tv/channels/6a6318a71a30976934632c3d/colorLogoPNG_1787063239097.png",Paradise Hotel: Ny säsong
 https://jmp2.uk/plu-6a6318a71a30976934632c3d.m3u8
 #EXTINF:-1 tvg-id="660d6575aec9680008f8cdc4" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d6575aec9680008f8cdc4/colorLogoPNG.png",Top Gear Classics
@@ -81,6 +79,8 @@ https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
 https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
 #EXTINF:-1 tvg-id="62cd74e38f6f0d000798cd93" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png",Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
+#EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png",Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 #EXTINF:-1 tvg-id="68dfa3e2cc3c6cd904052c41" tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png",Pluto TV Handboll Highlights
 https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
 #EXTINF:-1 tvg-id="660e7488aec9680008fabcf1" tvg-name="AWSN" tvg-logo="https://images.pluto.tv/channels/660e7488aec9680008fabcf1/colorLogoPNG_1748590900265.png",AWSN

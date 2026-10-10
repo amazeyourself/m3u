@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
-#EXTINF:-1 tvg-id="6a427247cdc5ae2dd1174b50" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/6a427247cdc5ae2dd1174b50/colorLogoPNG_1782739789622.png",Star Trek: Voyager
-https://jmp2.uk/plu-6a427247cdc5ae2dd1174b50.m3u8
 #EXTINF:-1 tvg-id="660d64a7aec9680008f8ba77" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png",Top Gear Classics
 https://jmp2.uk/plu-660d64a7aec9680008f8ba77.m3u8
+#EXTINF:-1 tvg-id="6a427247cdc5ae2dd1174b50" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/6a427247cdc5ae2dd1174b50/colorLogoPNG_1782739789622.png",Star Trek: Voyager
+https://jmp2.uk/plu-6a427247cdc5ae2dd1174b50.m3u8
 #EXTINF:-1 tvg-id="620236f52b73dd000719dd0f" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/620236f52b73dd000719dd0f/colorLogoPNG.png",Doctor Who
 https://jmp2.uk/plu-620236f52b73dd000719dd0f.m3u8
 #EXTINF:-1 tvg-id="6a6772828a40fc87bc5b2782" tvg-name="FloHockey 24/7" tvg-logo="https://images.pluto.tv/channels/6a6772828a40fc87bc5b2782/colorLogoPNG_1785825090378.png",FloHockey 24/7
