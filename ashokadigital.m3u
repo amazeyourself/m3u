@@ -60,7 +60,7 @@ https://rtmp.bmlive.net/ctn/ctntn/index.m3u8
 #EXTINF:-1 tvg-id="49" tvg-chno="49" tvg-name="madhura tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1783093211_ashoka-digital-400x225.gif" group-title="Tamil Nadu Channels",49 madhura tv
 
 #EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-name="CITI CHANNEL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" group-title="Tamil Nadu Channels",50 CITI CHANNEL
-https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
+https://live-stream.in/cititv/cititv/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-chno="53" tvg-name="harin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790229561_2.png" group-title="Tamil Nadu Channels",53 harin tv
 https://app.ashokadigital.net/app/ce3ffe97/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-chno="54" tvg-name="tharun movies" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599242_IMG_20250215_111845_234.png" group-title="Tamil Nadu Channels",54 tharun movies
@@ -330,7 +330,7 @@ rtmp://103.136.136.77:1935/abihd/abihd?psk=123456
 #EXTINF:-1 tvg-id="294" tvg-chno="294" tvg-name="SHALINI TV  " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366422_1736392678_IMG-20250109-WA0048.jpg" group-title="Tamil Nadu Channels",294 SHALINI TV  
 https://app.ashokadigital.net/app/55c65ef4/index.m3u8
 #EXTINF:-1 tvg-id="295" tvg-chno="295" tvg-name="CITI TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366217_1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png" group-title="Tamil Nadu Channels",295 CITI TV
-https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
+https://live-stream.in/cititv/cititv/index.m3u8
 #EXTINF:-1 tvg-id="297" tvg-chno="297" tvg-name=" TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366653_1777712105_MTV%201.png" group-title="Tamil Nadu Channels",297  TV 
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
 #EXTINF:-1 tvg-id="298" tvg-chno="298" tvg-name=" TV " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787366560_1781012797_RubyDigitalTv.png" group-title="Tamil Nadu Channels",298  TV 
