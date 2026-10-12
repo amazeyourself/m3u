@@ -235,6 +235,10 @@ http://srvvii.nellaiiptv.com:8033/app-restream/5akaf8-vmusictv/index.m3u8
 http://srvvii.nellaiiptv.com:8033/app-restream/88kp4t-vtamizhtv/index.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",98 V TAMIL TV [RTMP]
 
+#EXTINF:-1 tvg-chno="100" tvg-id="558" tvg-name="KIRUBAI TV MADURAI" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791727598.webp" group-title="Documentary",100 KIRUBAI TV MADURAI
+https://live.sscloud7.in/live/kirubaitv/index.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="558" tvg-name="KIRUBAI TV MADURAI" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791727598.webp" group-title="Documentary",100 KIRUBAI TV MADURAI [RTMP]
+
 #EXTINF:-1 tvg-chno="103" tvg-id="499" tvg-name="7smusic" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198420.webp" group-title="Entertainment",103 7smusic
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="499" tvg-name="7smusic" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198420.webp" group-title="Entertainment",103 7smusic [RTMP]
