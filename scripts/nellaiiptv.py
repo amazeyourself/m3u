@@ -5,6 +5,7 @@ while True:
   try:
     f = requests.get("https://api.nellaiiptv.com/public/api/channels?limit=-1",
                       headers={
+                          "Referer": "https://nellaiiptv.com",
                           "X-Api-Key": "852c497e6699849e297d974429682a9a7606f52e9812b2df71ce05ae3584e8dd",
                           "X-Client-Platform": "tv",
                           "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
@@ -12,6 +13,7 @@ while True:
   except:
     f = requests.get("https://api.nellaiiptv.com/public/api/channels?limit=-1",
                       headers={
+                          "Referer": "https://nellaiiptv.com",
                           "X-Api-Key": "852c497e6699849e297d974429682a9a7606f52e9812b2df71ce05ae3584e8dd",
                           "X-Client-Platform": "tv",
                           "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
@@ -27,6 +29,7 @@ while True:
       try:
         f = requests.get("https://api.nellaiiptv.com/public/api/channels?limit=-1",
                       headers={
+                          "Referer": "https://nellaiiptv.com",
                           "X-Api-Key": "852c497e6699849e297d974429682a9a7606f52e9812b2df71ce05ae3584e8dd",
                           "X-Client-Platform": "tv",
                           "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
@@ -34,6 +37,7 @@ while True:
       except:
         f = requests.get("https://api.nellaiiptv.com/public/api/channels?limit=-1",
                       headers={
+                          "Referer": "https://nellaiiptv.com",
                           "X-Api-Key": "852c497e6699849e297d974429682a9a7606f52e9812b2df71ce05ae3584e8dd",
                           "X-Client-Platform": "tv",
                           "X-Device-Id": "6ea24383-9c2b-4b34-9c8a-1ccc4a744bc9"
@@ -64,12 +68,12 @@ for i in data['data']:
         rtmp = channel_data['rtmp_url']
     else:
         rtmp = ""
-    if epg in 
-    playlist.append(f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{epg}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{chno} {name}')
-    playlist.append(hls)
-    if channel_data['rtmp_url'] != None or rtmp != "null" or rtmp != "":
-        playlist.append(f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{epg}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{chno} {name} [RTMP]')
-        playlist.append(rtmp)
+    if epg not in blockedEPG:
+        playlist.append(f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{epg}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{chno} {name}')
+        playlist.append(hls)
+        if channel_data['rtmp_url'] != None or rtmp != "null" or rtmp != "":
+            playlist.append(f'#EXTINF:-1 tvg-chno="{chno}" tvg-id="{epg}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}",{chno} {name} [RTMP]')
+            playlist.append(rtmp)
 f.close()
 
 with open('./nellaiiptv.m3u', 'w', newline='') as g:
