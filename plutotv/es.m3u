@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1 tvg-id="6a9fc2af17c0d8c7a37697d0" tvg-name="Cenando con Pablo" tvg-logo="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png",Cenando con Pablo
 https://jmp2.uk/plu-6a9fc2af17c0d8c7a37697d0.m3u8
+#EXTINF:-1 tvg-id="6a6a031b10c8f12ffc3adbb5" tvg-name="Series made in Spain de Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png",Series made in Spain de Pluto TV
+https://jmp2.uk/plu-6a6a031b10c8f12ffc3adbb5.m3u8
 #EXTINF:-1 tvg-id="6a43d63071cbfff7dca61d23" tvg-name="Los Misteriosos asesinatos de Miss Fisher" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png",Los Misteriosos asesinatos de Miss Fisher
 https://jmp2.uk/plu-6a43d63071cbfff7dca61d23.m3u8
 #EXTINF:-1 tvg-id="6a43d3bae0c1a33841302952" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png",Noche y día
@@ -267,6 +269,8 @@ https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
 https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8
 #EXTINF:-1 tvg-id="660c29f80cd4630008f1547c" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png",FIFA+
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
+#EXTINF:-1 tvg-id="6a43c8e19d516ba88f728627" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png",Tennis Channel
+https://jmp2.uk/plu-6a43c8e19d516ba88f728627.m3u8
 #EXTINF:-1 tvg-id="67921b873de7c8cf94233f52" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png",UFC
 https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
 #EXTINF:-1 tvg-id="696e02423b9ce349c90edef9" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png",Rally TV
