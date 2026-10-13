@@ -89,7 +89,7 @@ https://rtmp.applelive.in/mtntv/mtntv/index.m3u8
 https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 #EXTINF:-1 tvg-id="79" tvg-chno="79" tvg-name="vinayaga tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768196945_WhatsApp%20Image%202026-01-12%20at%2010.15.02%20AM.jpeg" group-title="Tamil Nadu Channels",79 vinayaga tv
 https://app.ashokadigital.net/app/9d60f10e/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-chno="80" tvg-name="devi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1768196974_WhatsApp%20Image%202026-01-12%20at%2010.15.03%20AM.jpeg" group-title="Tamil Nadu Channels",80 devi tv
+#EXTINF:-1 tvg-id="80" tvg-chno="80" tvg-name="devi tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791798519_WhatsApp%20Image%202026-10-11%20at%202.00.43%20PM.jpeg" group-title="Tamil Nadu Channels",80 devi tv
 https://app.ashokadigital.net/app/7086d917/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-chno="81" tvg-name="ESAN TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774590851_esyan%20tv.png" group-title="Tamil Nadu Channels",81 ESAN TV
 	https://app.ashokadigital.net/app/c29cd7a3/index.m3u8
@@ -449,7 +449,7 @@ https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
 https://mumbai-edge.smartplaytv.in/BMC/index.m3u8
 #EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS%20NEWS.png" group-title="Andhra Pradesh and Telangana",856 VS NEWS
 https://vvsolutions-server11.in/dcn24_44/video.m3u8
-#EXTINF:-1 tvg-id="857" tvg-chno="857" tvg-name="TV9 VOICE OF PROPLE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785620_tv9.png" group-title="Andhra Pradesh and Telangana",857 TV9 VOICE OF PROPLE TV
+#EXTINF:-1 tvg-id="857" tvg-chno="857" tvg-name="TR9 TV – VOICE OF PEOPLE" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785620_tv9.png" group-title="Andhra Pradesh and Telangana",857 TR9 TV – VOICE OF PEOPLE
 http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="858" tvg-chno="858" tvg-name="PUBLIC TV న్యూస్" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785930_pulic%20tv.png" group-title="Andhra Pradesh and Telangana",858 PUBLIC TV న్యూస్
 https://publictvtelugu.co.in/publictv_1/video.m3u8
