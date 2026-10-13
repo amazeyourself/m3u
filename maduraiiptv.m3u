@@ -199,6 +199,10 @@ rtmp://ipcloud.live/sachintv/musichd
 https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="305" tvg-name="SARVIK TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1777319611.webp" group-title="Entertainment",53 SARVIK TV [RTMP]
 
+#EXTINF:-1 tvg-chno="54" tvg-id="574" tvg-name="AADVIK TV" tvg-logo="" group-title="Entertainment",54 AADVIK TV
+https://ipcloud.live/sachintv/aadviktv/index.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="574" tvg-name="AADVIK TV" tvg-logo="" group-title="Entertainment",54 AADVIK TV [RTMP]
+
 #EXTINF:-1 tvg-chno="56" tvg-id="261" tvg-name="BHARATHI THIRAI ULAGAM TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786948126.webp" group-title="Entertainment",56 BHARATHI THIRAI ULAGAM TV
 https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="261" tvg-name="BHARATHI THIRAI ULAGAM TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786948126.webp" group-title="Entertainment",56 BHARATHI THIRAI ULAGAM TV [RTMP]
