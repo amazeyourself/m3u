@@ -349,7 +349,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-614398a08f30fa61e0da7c97.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc" tvg-name="PBS Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7498e884-3fc2-42a7-813d-8294e2ff22a6/PBS_Travel_Logo_Stacked_BLUEWhiteRDX.png",PBS Travel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a" tvg-name="Family Feud Classic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02e41ea5-71c0-4922-b313-5b37b19cb11d/FF_CLASSIC_Logo_lgt_BKG_1500x1000_-_Elaine_De_Santiago.png",Family Feud Classic
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a" tvg-name="Classic Family Feud" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a755121-3503-4036-9727-5a301db01c17/Plex_Classic_Family_Feud_Logo_1500x1000-Full_Color_-_Patty_Gopez.png",Classic Family Feud
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64b1e1217d4037206787f384" tvg-name="Nolly Africa HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png",Nolly Africa HD
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64b1e1217d4037206787f384.m3u8
@@ -675,6 +675,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62d7f68fb19cbf65dc7bef7d.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67182cd9d321899c5dc8a00c.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",Qwest TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60b0f65c0c8ffb002c821a75.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6aaa1f33083227098739435d" tvg-name="VEEPS Concert Pass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",VEEPS Concert Pass
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6aaa1f33083227098739435d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png",NEW K-POP
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-67f99397bf750bd4ca333ddb" tvg-name="Un Si Grand Soleil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/463b2340-1bca-4d07-a8bf-09ed3338d196/Plex_FilmRiseUnSiGrandSoliel_logo_white.png",Un Si Grand Soleil

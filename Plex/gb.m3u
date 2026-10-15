@@ -629,6 +629,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-68b9f5a3d60e5dd29263c7ac.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-66be8cd4871131188099527e.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62d7f68fb19cbf65dc7bef7c" tvg-name="Qello Concerts" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png",Qello Concerts
 https://jmp2.uk/plex-64305451fc3be5947773c339-62d7f68fb19cbf65dc7bef7c.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6aaa1f33083227098739435d" tvg-name="VEEPS Concert Pass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",VEEPS Concert Pass
+https://jmp2.uk/plex-64305451fc3be5947773c339-6aaa1f33083227098739435d.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png",NEW K-POP
 https://jmp2.uk/plex-64305451fc3be5947773c339-60d4edd7b2fdec002c14112d.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62ee74af52f7d73061eec491" tvg-name="Euro Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png",Euro Hits

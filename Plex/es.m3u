@@ -417,6 +417,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-63226c03e67cf9cd9011fcdf.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",Qwest TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-60b0f65c0c8ffb002c821a75.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aaa1f33083227098739435d" tvg-name="VEEPS Concert Pass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",VEEPS Concert Pass
+https://jmp2.uk/plex-643054b1fc3be59477853717-6aaa1f33083227098739435d.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",Camp Spoopy
 https://jmp2.uk/plex-643054b1fc3be59477853717-6164a963766ab4f9f57e81b1.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",Pac-12 Insider

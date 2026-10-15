@@ -513,6 +513,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-62fbf52c1567211fdb82e922.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-61aaa0cc784a2161d3caf7ff.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-62ee784852f7d73061eec493" tvg-name="Smooth Jazz" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png",Smooth Jazz
 https://jmp2.uk/plex-697140a85d851f5e69414688-62ee784852f7d73061eec493.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6aaa1f33083227098739435d" tvg-name="VEEPS Concert Pass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",VEEPS Concert Pass
+https://jmp2.uk/plex-697140a85d851f5e69414688-6aaa1f33083227098739435d.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png",Alternative
 https://jmp2.uk/plex-697140a85d851f5e69414688-62efbb8652f7d73061eec498.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-62f15810a3ffe928ef806c75" tvg-name="Flashback 70s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png",Flashback 70s

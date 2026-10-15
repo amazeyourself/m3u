@@ -591,7 +591,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6745dca72832b870acf53220.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6308fa9c0417b7074a4ad959.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6876f9be20555588ef322221" tvg-name="American Gladiators by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18f1bacd-6b37-4f59-acbf-f2ec32680589/AmericanGladiators_logo_dark_-_Carl_HoffelderRDX.png",American Gladiators by MGM
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6876f9be20555588ef322221.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a" tvg-name="Family Feud Classic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02e41ea5-71c0-4922-b313-5b37b19cb11d/FF_CLASSIC_Logo_lgt_BKG_1500x1000_-_Elaine_De_Santiago.png",Family Feud Classic
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a" tvg-name="Classic Family Feud" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a755121-3503-4036-9727-5a301db01c17/Plex_Classic_Family_Feud_Logo_1500x1000-Full_Color_-_Patty_Gopez.png",Classic Family Feud
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64d2bdf1b18b113e0c610113" tvg-name="GameTVGO" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8c3aad2c9b28628409cee12512aecb32.png",GameTVGO
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64d2bdf1b18b113e0c610113.m3u8
@@ -1261,6 +1261,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-60b0f65c0c8ffb002c821a75.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-62fbf197c67d52bddf74cc87.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",Stingray Greatest Hits
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6aaa1f33083227098739435d" tvg-name="VEEPS Concert Pass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",VEEPS Concert Pass
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6aaa1f33083227098739435d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62ee6eae271f393d2d9f7096" tvg-name="Today's K-Pop" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png",Today's K-Pop
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-62ee6eae271f393d2d9f7096.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63f0ca427b78030ed9990309" tvg-name="CombaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png",CombaTV
