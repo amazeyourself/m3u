@@ -121,14 +121,16 @@ https://jmp2.uk/stvp-IN49000103E
 https://jmp2.uk/stvp-IN4600019L1
 #EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261013T051748SQUARE.png",Aaj Tak HD
 https://jmp2.uk/stvp-IN3800001ZH
+#EXTINF:-1 tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20261013T051816SQUARE.png",TV9 Bharatvarsh
+https://jmp2.uk/stvp-IN3800003SV
+#EXTINF:-1 tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261013T051740SQUARE.png",ABP News
+https://jmp2.uk/stvp-IN4600012BD
+#EXTINF:-1 tvg-id="INBA490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261013T051702SQUARE.png",Republic Bharat
+https://jmp2.uk/stvp-INBA490002119
 #EXTINF:-1 tvg-id="INBD1300010WP" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20260929T041352SQUARE.png",News18 India
 https://jmp2.uk/stvp-INBD1300010WP
 #EXTINF:-1 tvg-id="INBC4300010Z6" tvg-name="Zee News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20260915T042211SQUARE.png",Zee News
 https://jmp2.uk/stvp-INBC4300010Z6
-#EXTINF:-1 tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261013T051740SQUARE.png",ABP News
-https://jmp2.uk/stvp-IN4600012BD
-#EXTINF:-1 tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20261013T051816SQUARE.png",TV9 Bharatvarsh
-https://jmp2.uk/stvp-IN3800003SV
 #EXTINF:-1 tvg-id="IN400059ZR" tvg-name="Times Now Navbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400059ZR_20260901T055437SQUARE.png",Times Now Navbharat
 https://jmp2.uk/stvp-IN400059ZR
 #EXTINF:-1 tvg-id="IN4000001LP" tvg-name="India TV News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000001LP_20260805T004004SQUARE.png",India TV News
@@ -137,8 +139,6 @@ https://jmp2.uk/stvp-IN4000001LP
 https://jmp2.uk/stvp-INBC2800002WJ
 #EXTINF:-1 tvg-id="IN3800004BF" tvg-name="AajTak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800004BF_20260701T005041SQUARE.png",AajTak
 https://jmp2.uk/stvp-IN3800004BF
-#EXTINF:-1 tvg-id="INBA490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261013T051702SQUARE.png",Republic Bharat
-https://jmp2.uk/stvp-INBA490002119
 #EXTINF:-1 tvg-id="IN46000210J" tvg-name="News Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000210J_20260812T011001SQUARE.png",News Nation
 https://jmp2.uk/stvp-IN46000210J
 #EXTINF:-1 tvg-id="IN17000129W" tvg-name="Good News Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000129W_20260623T014954SQUARE.png",Good News Today
@@ -183,12 +183,6 @@ https://jmp2.uk/stvp-INBD1300008ZY
 https://jmp2.uk/stvp-INBA5100021WP
 #EXTINF:-1 tvg-id="INBA5100022O4" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20260623T011857SQUARE.png",Bloomberg Originals
 https://jmp2.uk/stvp-INBA5100022O4
-#EXTINF:-1 tvg-id="IN4000006CF" tvg-name="ABP Ananda" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20261013T051733SQUARE.png",ABP Ananda
-https://jmp2.uk/stvp-IN4000006CF
-#EXTINF:-1 tvg-id="INBD2500016OR" tvg-name="R Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20261013T051809SQUARE.png",R Bangla
-https://jmp2.uk/stvp-INBD2500016OR
-#EXTINF:-1 tvg-id="INBD1300012GJ" tvg-name="TV9 Gujarati" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20261013T051715SQUARE.png",TV9 Gujarati
-https://jmp2.uk/stvp-INBD1300012GJ
 #EXTINF:-1 tvg-id="IN4000003V7" tvg-name="TV9 Marathi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000003V7_20260929T041400SQUARE.png",TV9 Marathi
 https://jmp2.uk/stvp-IN4000003V7
 #EXTINF:-1 tvg-id="IN4000005BW" tvg-name="ABP Majha" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000005BW_20260623T013543SQUARE.png",ABP Majha
@@ -205,16 +199,22 @@ https://jmp2.uk/stvp-INBD2500017JZ
 https://jmp2.uk/stvp-INBD2500009DK
 #EXTINF:-1 tvg-id="INBD400010BD" tvg-name="ABP Asmita" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400010BD_20260623T013536SQUARE.png",ABP Asmita
 https://jmp2.uk/stvp-INBD400010BD
+#EXTINF:-1 tvg-id="INBD1300012GJ" tvg-name="TV9 Gujarati" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20261013T051715SQUARE.png",TV9 Gujarati
+https://jmp2.uk/stvp-INBD1300012GJ
 #EXTINF:-1 tvg-id="INBD2500015H5" tvg-name="CNBC Bajar" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500015H5_20260623T014635SQUARE.png",CNBC Bajar
 https://jmp2.uk/stvp-INBD2500015H5
 #EXTINF:-1 tvg-id="INBD4000027E" tvg-name="Zee 24 Kalak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000027E_20260623T013305SQUARE.png",Zee 24 Kalak
 https://jmp2.uk/stvp-INBD4000027E
 #EXTINF:-1 tvg-id="INBD2500007PD" tvg-name="TV9 Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500007PD_20260623T015715SQUARE.png",TV9 Bangla
 https://jmp2.uk/stvp-INBD2500007PD
+#EXTINF:-1 tvg-id="IN4000006CF" tvg-name="ABP Ananda" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20261013T051733SQUARE.png",ABP Ananda
+https://jmp2.uk/stvp-IN4000006CF
 #EXTINF:-1 tvg-id="INBD400003GE" tvg-name="Zee 24 Ghanta" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20260623T013259SQUARE.png",Zee 24 Ghanta
 https://jmp2.uk/stvp-INBD400003GE
 #EXTINF:-1 tvg-id="INBD25000081V" tvg-name="News18 Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000081V_20260623T015422SQUARE.png",News18 Bangla
 https://jmp2.uk/stvp-INBD25000081V
+#EXTINF:-1 tvg-id="INBD2500016OR" tvg-name="R Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20261013T051809SQUARE.png",R Bangla
+https://jmp2.uk/stvp-INBD2500016OR
 #EXTINF:-1 tvg-id="INBD2500013ID" tvg-name="News18 Odia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500013ID_20260623T015450SQUARE.png",News18 Odia
 https://jmp2.uk/stvp-INBD2500013ID
 #EXTINF:-1 tvg-id="INBD25000148M" tvg-name="News18 Tamil Nadu" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000148M_20260623T015502SQUARE.png",News18 Tamil Nadu

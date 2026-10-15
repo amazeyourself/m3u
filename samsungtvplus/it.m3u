@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/it.xml.gz"
+#EXTINF:-1 tvg-id="IT3600005AL" tvg-name="Cine Paura" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20261013T054224SQUARE.png",Cine Paura
+https://jmp2.uk/stvp-IT3600005AL
+#EXTINF:-1 tvg-id="ITBA3300024IU" tvg-name="Bizzarro Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20261013T054102SQUARE.png",Bizzarro Movies
+https://jmp2.uk/stvp-ITBA3300024IU
+#EXTINF:-1 tvg-id="ITBD600001CL" tvg-name="Brividy Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20261013T054215SQUARE.png",Brividy Cinema
+https://jmp2.uk/stvp-ITBD600001CL
 #EXTINF:-1 tvg-id="IT2600010E0" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20251230T031311SQUARE.png",Family - Rakuten TV
 https://jmp2.uk/stvp-IT2600010E0
 #EXTINF:-1 tvg-id="ITBA33000238E" tvg-name="Cinema italiano" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20260721T040306SQUARE.png",Cinema italiano
@@ -15,8 +21,6 @@ https://jmp2.uk/stvp-ITBD1400003D0
 https://jmp2.uk/stvp-ITAJ38000055E
 #EXTINF:-1 tvg-id="IT2600002F6" tvg-name="Film Top - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20260707T052548SQUARE.png",Film Top - Rakuten TV
 https://jmp2.uk/stvp-IT2600002F6
-#EXTINF:-1 tvg-id="ITBD600001CL" tvg-name="Brividy Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20261013T054215SQUARE.png",Brividy Cinema
-https://jmp2.uk/stvp-ITBD600001CL
 #EXTINF:-1 tvg-id="IT3800001XM" tvg-name="Cine Amore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260622T064232SQUARE.png",Cine Amore
 https://jmp2.uk/stvp-IT3800001XM
 #EXTINF:-1 tvg-id="ITBC4700004EQ" tvg-name="Film Al Femminile - Wedo Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700004EQ_20260915T041803SQUARE.png",Film Al Femminile - Wedo Movies
@@ -59,10 +63,6 @@ https://jmp2.uk/stvp-ITBD3200001VR
 https://jmp2.uk/stvp-IT260000131
 #EXTINF:-1 tvg-id="ITBC400001LX" tvg-name="Action Movie Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400001LX_20250107T022411SQUARE.png",Action Movie Channel
 https://jmp2.uk/stvp-ITBC400001LX
-#EXTINF:-1 tvg-id="ITBA3300024IU" tvg-name="Bizzarro Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20261013T054102SQUARE.png",Bizzarro Movies
-https://jmp2.uk/stvp-ITBA3300024IU
-#EXTINF:-1 tvg-id="IT3600005AL" tvg-name="Cine Paura" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20261013T054224SQUARE.png",Cine Paura
-https://jmp2.uk/stvp-IT3600005AL
 #EXTINF:-1 tvg-id="ITBC1100001G5" tvg-name="Alta Tensione" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20260901T054951SQUARE.png",Alta Tensione
 https://jmp2.uk/stvp-ITBC1100001G5
 #EXTINF:-1 tvg-id="ITBD3200002DU" tvg-name="Cine Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250708T031020SQUARE.png",Cine Thriller
@@ -113,8 +113,8 @@ https://jmp2.uk/stvp-ITBD3600002PA
 https://jmp2.uk/stvp-ITBC4000028E
 #EXTINF:-1 tvg-id="ITBA3300025F5" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300025F5_20260421T124034SQUARE.png",Bloomberg TV+
 https://jmp2.uk/stvp-ITBA3300025F5
-#EXTINF:-1 tvg-id="IT900007I0" tvg-name="Real time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20261013T054240SQUARE.png",Real time
-https://jmp2.uk/stvp-IT900007I0
+#EXTINF:-1 tvg-id="IT700005C9" tvg-name="Studio Uno" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700005C9_20261013T054248SQUARE.png",Studio Uno
+https://jmp2.uk/stvp-IT700005C9
 #EXTINF:-1 tvg-id="IT9000113W" tvg-name="DMAX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000113W_20260622T101519SQUARE.png",DMAX
 https://jmp2.uk/stvp-IT9000113W
 #EXTINF:-1 tvg-id="IT3000010NB" tvg-name="RTL 102.5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000010NB_20260901T055014SQUARE.png",RTL 102.5
@@ -127,6 +127,8 @@ https://jmp2.uk/stvp-IT3000016RH
 https://jmp2.uk/stvp-IT9000060Q
 #EXTINF:-1 tvg-id="IT500010AQ" tvg-name="Class TV Moda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500010AQ_20260113T032834SQUARE.png",Class TV Moda
 https://jmp2.uk/stvp-IT500010AQ
+#EXTINF:-1 tvg-id="IT900007I0" tvg-name="Real time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20261013T054240SQUARE.png",Real time
+https://jmp2.uk/stvp-IT900007I0
 #EXTINF:-1 tvg-id="ITAJ3800006UB" tvg-name="Pluto TV Real Life" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800006UB_20241022T051502SQUARE.png",Pluto TV Real Life
 https://jmp2.uk/stvp-ITAJ3800006UB
 #EXTINF:-1 tvg-id="IT3200006YF" tvg-name="Mudù - Risate dal Sud" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200006YF_20260113T032839SQUARE.png",Mudù - Risate dal Sud
@@ -307,12 +309,12 @@ https://jmp2.uk/stvp-ITBC4700003GR
 https://jmp2.uk/stvp-ITBA33000478X
 #EXTINF:-1 tvg-id="IT700009BQ" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700009BQ_20260901T055034SQUARE.png",Space Live
 https://jmp2.uk/stvp-IT700009BQ
-#EXTINF:-1 tvg-id="IT500011RG" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20261013T054231SQUARE.png",Gambero Rosso
-https://jmp2.uk/stvp-IT500011RG
 #EXTINF:-1 tvg-id="IT3900003FE" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png",Hell's Kitchen
 https://jmp2.uk/stvp-IT3900003FE
 #EXTINF:-1 tvg-id="ITBD4100007LO" tvg-name="A Tavola" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100007LO_20260113T032815SQUARE.png",A Tavola
 https://jmp2.uk/stvp-ITBD4100007LO
+#EXTINF:-1 tvg-id="IT500011RG" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20261013T054231SQUARE.png",Gambero Rosso
+https://jmp2.uk/stvp-IT500011RG
 #EXTINF:-1 tvg-id="IT12000029J" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png",Viaggi & Sapori
 https://jmp2.uk/stvp-IT12000029J
 #EXTINF:-1 tvg-id="IT90001094" tvg-name="Foodnetwork" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT90001094_20260622T101533SQUARE.png",Foodnetwork
