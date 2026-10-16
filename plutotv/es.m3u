@@ -7,8 +7,6 @@ https://jmp2.uk/plu-6a6a031b10c8f12ffc3adbb5.m3u8
 https://jmp2.uk/plu-6a43d63071cbfff7dca61d23.m3u8
 #EXTINF:-1 tvg-id="6a43d3bae0c1a33841302952" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png",Noche y día
 https://jmp2.uk/plu-6a43d3bae0c1a33841302952.m3u8
-#EXTINF:-1 tvg-id="6a43d26599d7b121476c351c" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png",Acapulco Shore
-https://jmp2.uk/plu-6a43d26599d7b121476c351c.m3u8
 #EXTINF:-1 tvg-id="6a846cb6840f7d654710df00" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a846cb6840f7d654710df00/colorLogoPNG_1790842102809.png",That's 90s00s
 https://jmp2.uk/plu-6a846cb6840f7d654710df00.m3u8
 #EXTINF:-1 tvg-id="6a846c44496b635ad62aa13e" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/colorLogoPNG_1790781375896.png",That's 80s
@@ -269,10 +267,10 @@ https://jmp2.uk/plu-65f96cd34e01740008ef1c97.m3u8
 https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8
 #EXTINF:-1 tvg-id="660c29f80cd4630008f1547c" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png",FIFA+
 https://jmp2.uk/plu-660c29f80cd4630008f1547c.m3u8
-#EXTINF:-1 tvg-id="6a43c8e19d516ba88f728627" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png",Tennis Channel
-https://jmp2.uk/plu-6a43c8e19d516ba88f728627.m3u8
 #EXTINF:-1 tvg-id="67921b873de7c8cf94233f52" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png",UFC
 https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
+#EXTINF:-1 tvg-id="6a43c8e19d516ba88f728627" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43c8e19d516ba88f728627/colorLogoPNG_1782827298629.png",Tennis Channel
+https://jmp2.uk/plu-6a43c8e19d516ba88f728627.m3u8
 #EXTINF:-1 tvg-id="696e02423b9ce349c90edef9" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png",Rally TV
 https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
 #EXTINF:-1 tvg-id="6a6a02ae3ee9d966427e62c4" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png",NFL Channel
