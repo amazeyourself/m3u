@@ -319,6 +319,10 @@ http://srvvii.nellaiiptv.com:8033/app-restream/5akaf8-vmusictv/index.m3u8
 http://srvvii.nellaiiptv.com:8033/app-restream/88kp4t-vtamizhtv/index.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",98 V TAMIL TV [RTMP]
 
+#EXTINF:-1 tvg-chno="99" tvg-id="215" tvg-name="SHA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771301751.webp" group-title="Entertainment",99 SHA TV
+https://applelive.in/shatv/shatv/index.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="215" tvg-name="SHA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771301751.webp" group-title="Entertainment",99 SHA TV [RTMP]
+
 #EXTINF:-1 tvg-chno="100" tvg-id="558" tvg-name="KIRUBAI TV MADURAI" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791727598.webp" group-title="Devotional",100 KIRUBAI TV MADURAI
 https://live.sscloud7.in/live/kirubaitv/index.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="558" tvg-name="KIRUBAI TV MADURAI" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791727598.webp" group-title="Devotional",100 KIRUBAI TV MADURAI [RTMP]
@@ -347,9 +351,9 @@ https://cdn.pishow.tv/ott/live/1121/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="569" tvg-name="PUTHUYUGAM TV" tvg-logo="" group-title="Entertainment",106 PUTHUYUGAM TV [RTMP]
 
-#EXTINF:-1 tvg-chno="108" tvg-id="573" tvg-name="VAANAVILTV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791811393.webp" group-title="Entertainment",108 VAANAVILTV
+#EXTINF:-1 tvg-chno="107" tvg-id="573" tvg-name="VAANAVILTV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791811393.webp" group-title="Entertainment",107 VAANAVILTV
 https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="573" tvg-name="VAANAVILTV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791811393.webp" group-title="Entertainment",108 VAANAVILTV [RTMP]
+#EXTINF:-1 tvg-chno="107" tvg-id="573" tvg-name="VAANAVILTV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791811393.webp" group-title="Entertainment",107 VAANAVILTV [RTMP]
 
 #EXTINF:-1 tvg-chno="129" tvg-id="432" tvg-name="LION TV" tvg-logo="" group-title="Entertainment",129 LION TV
 https://stream.iplive.xyz/smmedia/liontv/index.m3u8
