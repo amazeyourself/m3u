@@ -39,10 +39,6 @@ null
 https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="372" tvg-name="MADURAI ARASI TV HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1784121502.webp" group-title="Entertainment",10 MADURAI ARASI TV HD [RTMP]
 
-#EXTINF:-1 tvg-chno="11" tvg-id="578" tvg-name="AYYAPPA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791992700.webp" group-title="Regional",11 AYYAPPA TV
-https://srv-i.maduraiiptv.in/live/ayyappatv/index.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="578" tvg-name="AYYAPPA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791992700.webp" group-title="Regional",11 AYYAPPA TV [RTMP]
-
 #EXTINF:-1 tvg-chno="12" tvg-id="368" tvg-name="S TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1783178029.webp" group-title="Entertainment",12 S TV
 http://srvvii.nellaiiptv.com:8033/app-restream/rwtcaa-stv/index.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="368" tvg-name="S TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1783178029.webp" group-title="Entertainment",12 S TV [RTMP]
