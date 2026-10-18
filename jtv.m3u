@@ -1847,6 +1847,8 @@ http://14.96.244.82:5001/live/3359.m3u8
 http://14.96.244.82:5001/live/3360.m3u8
 #EXTINF:-1 tvg-id="3361" tvg-name="Shri Shyam TV " tvg-logo="http://14.96.244.82:5001/jtvimage/Shri_Shyam_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shri Shyam TV 
 http://14.96.244.82:5001/live/3361.m3u8
+#EXTINF:-1 tvg-id="3368" tvg-name="News TV India" tvg-logo="http://14.96.244.82:5001/jtvimage/News_TV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", News TV India
+http://14.96.244.82:5001/live/3368.m3u8
 #EXTINF:-1 tvg-id="3369" tvg-name="TV13 Gujarati" tvg-logo="http://14.96.244.82:5001/jtvimage/TV13_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="News", TV13 Gujarati
 http://14.96.244.82:5001/live/3369.m3u8
 #EXTINF:-1 tvg-id="3370" tvg-name="Gospel TV" tvg-logo="http://14.96.244.82:5001/jtvimage/gospeltv.png" tvg-language="Telugu" tvg-type="Devotional" group-title="Devotional", Gospel TV
