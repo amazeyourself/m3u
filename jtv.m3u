@@ -2095,3 +2095,5 @@ http://14.96.244.82:5001/live/3617.m3u8
 http://14.96.244.82:5001/live/3618.m3u8
 #EXTINF:-1 tvg-id="3619" tvg-name="NDTV Rajasthan" tvg-logo="http://14.96.244.82:5001/jtvimage/NDTVRajasthan1.png" tvg-language="Hindi" tvg-type="News" group-title="News", NDTV Rajasthan
 http://14.96.244.82:5001/live/3619.m3u8
+#EXTINF:-1 tvg-id="3622" tvg-name="Sony Vizha" tvg-logo="http://14.96.244.82:5001/jtvimage/SonyVizha.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Sony Vizha
+http://14.96.244.82:5001/live/3622.m3u8
