@@ -1679,6 +1679,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-62d1a58e520656fda09e609d.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-68b9f334fc12601028c5651e.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-62280162c9f485cc7afe8c46.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-697140a85d851f5e69414688-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
 https://jmp2.uk/plex-697140a85d851f5e69414688-6aa9c4a3083227098739435b.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
@@ -1699,8 +1701,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-60d4edd6b2fdec002c141123.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a3024ae590e1273e55dd5e3" tvg-name="Tiny House Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/05731f39-c980-4c30-97d0-9874d9999fe8/Tiny_House_Nation_Logo_STACKED_COLOR_RDX.png",Tiny House Nation
 https://jmp2.uk/plex-697140a85d851f5e69414688-6a3024ae590e1273e55dd5e3.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-66be955c8711311880995282" tvg-name="GB News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png",GB News
 https://jmp2.uk/plex-697140a85d851f5e69414688-66be955c8711311880995282.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",Death Valley Days
@@ -2385,8 +2385,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66fd3e25216b603e031725fe.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",Nosey Escándalos
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-name="The Reuters 60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png",The Reuters 60
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png",USA TODAY
@@ -2799,6 +2799,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-67f45ef989089d917e1b1634.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6aa9c4a3083227098739435b.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",Real Emergency
@@ -2953,8 +2955,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc" tvg-name="The Reuters 60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png",The Reuters 60
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",Yahoo Finance
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb" tvg-name="Remember the ‘80s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png",Remember the ‘80s
@@ -3355,6 +3355,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6a9512a7f534d4312a699c22.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-62280162c9f485cc7afe8c46.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",Real Emergency
 https://jmp2.uk/plex-643054b1fc3be59477853717-6aa9bc040832270987394353.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-643054b1fc3be59477853717-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
 https://jmp2.uk/plex-643054b1fc3be59477853717-6aaa2279083227098739435f.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
@@ -3461,8 +3463,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-62fbf36c1567211fdb82e920.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-6245efe9f137de43897ea1ae.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-5f0641d3e8ffda004033b16e" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",The Design Network
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f0641d3e8ffda004033b16e.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png",TG Junior
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f123330eca6a20040b328e8.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6245f13093b402a3d1097789" tvg-name="Euronews Italiano" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png",Euronews Italiano
@@ -3931,8 +3931,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f" tvg-name="Radio-Canada INFO" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/722a587b42db503d96ac4e7b11923644.png",Radio-Canada INFO
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",The Bob Ross Channel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66855a2a714fe577eb7db920" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15f53c2f-081e-47a5-aa7d-5bcabc7ee8bd/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1___1_.png",Deal Or No Deal
@@ -4073,6 +4071,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f" tvg-name="Judge Judy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",Judge Judy
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c" tvg-name="60 Minutes" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",60 Minutes
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",48 Hours
@@ -4711,8 +4711,6 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-606605549dbfca002d2ae877.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-64704954e536e0faaf10be9f.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",NewsWorld
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",Yahoo Finance
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f170f01b898490041b49dd1.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-61d73c3ca7b7c7f703418518" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png",Bloomberg Originals
@@ -4777,6 +4775,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-68caada21fabab6eb2e99331.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6a8786c4fa0d0293e2681b7c.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6aa9c4a3083227098739435b.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6aaa2279083227098739435f.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",Real Emergency
@@ -5211,6 +5211,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-63489a771159f6a5ce819b7b.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f0ff262d71dcb00449ec015.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66be955c8711311880995282" tvg-name="GB News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png",GB News
 https://jmp2.uk/plex-64305451fc3be5947773c339-66be955c8711311880995282.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-64305451fc3be5947773c339-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",Action Hollywood Movies
 https://jmp2.uk/plex-64305451fc3be5947773c339-66be944f8711311880995280.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-651600fb2ff655e77635c62a" tvg-name="Fear Factor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4cae556e-d238-4383-b6dc-84de0ff69940/FearFactor_Logo_Dark_1500x1000_-_Harry_Marshall_COLOR_WHITE.png",Fear Factor
@@ -5445,8 +5447,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-5eea71d65252710041e0ccbc.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-678fe7959407a53556d3e8eb.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png",NHRA TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-60aeb5cd87f9b1002ce12323.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-64305451fc3be5947773c339-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64b1e1217d4037206787f384" tvg-name="Nolly Africa HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png",Nolly Africa HD
 https://jmp2.uk/plex-64305451fc3be5947773c339-64b1e1217d4037206787f384.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60d4edd8b2fdec002c14112f" tvg-name="Rakuten Viki" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png",Rakuten Viki

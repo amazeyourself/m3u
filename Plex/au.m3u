@@ -289,6 +289,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-62d1a58e520656fda09e609d.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-68b9f334fc12601028c5651e.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-62280162c9f485cc7afe8c46.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-697140a85d851f5e69414688-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
 https://jmp2.uk/plex-697140a85d851f5e69414688-6aa9c4a3083227098739435b.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6aaa2279083227098739435f" tvg-name="Nomad Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",Nomad Travel
@@ -309,8 +311,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-60d4edd6b2fdec002c141123.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6a3024ae590e1273e55dd5e3" tvg-name="Tiny House Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/05731f39-c980-4c30-97d0-9874d9999fe8/Tiny_House_Nation_Logo_STACKED_COLOR_RDX.png",Tiny House Nation
 https://jmp2.uk/plex-697140a85d851f5e69414688-6a3024ae590e1273e55dd5e3.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-66be955c8711311880995282" tvg-name="GB News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png",GB News
 https://jmp2.uk/plex-697140a85d851f5e69414688-66be955c8711311880995282.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",Death Valley Days

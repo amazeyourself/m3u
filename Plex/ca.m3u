@@ -321,8 +321,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f" tvg-name="Radio-Canada INFO" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/722a587b42db503d96ac4e7b11923644.png",Radio-Canada INFO
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",The Bob Ross Channel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66855a2a714fe577eb7db920" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15f53c2f-081e-47a5-aa7d-5bcabc7ee8bd/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1___1_.png",Deal Or No Deal
@@ -463,6 +461,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f" tvg-name="Judge Judy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",Judge Judy
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c" tvg-name="60 Minutes" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",60 Minutes
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d" tvg-name="48 Hours" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",48 Hours

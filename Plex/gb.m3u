@@ -197,6 +197,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-63489a771159f6a5ce819b7b.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f0ff262d71dcb00449ec015.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66be955c8711311880995282" tvg-name="GB News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png",GB News
 https://jmp2.uk/plex-64305451fc3be5947773c339-66be955c8711311880995282.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX
+https://jmp2.uk/plex-64305451fc3be5947773c339-6abd4743e1b65dffbc995e44.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",Action Hollywood Movies
 https://jmp2.uk/plex-64305451fc3be5947773c339-66be944f8711311880995280.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-651600fb2ff655e77635c62a" tvg-name="Fear Factor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4cae556e-d238-4383-b6dc-84de0ff69940/FearFactor_Logo_Dark_1500x1000_-_Harry_Marshall_COLOR_WHITE.png",Fear Factor
@@ -431,8 +433,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-5eea71d65252710041e0ccbc.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-678fe7959407a53556d3e8eb.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png",NHRA TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-60aeb5cd87f9b1002ce12323.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-5fb81660b7ad2d002dcb7335" tvg-name="Newsmax2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",Newsmax2
-https://jmp2.uk/plex-64305451fc3be5947773c339-5fb81660b7ad2d002dcb7335.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64b1e1217d4037206787f384" tvg-name="Nolly Africa HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png",Nolly Africa HD
 https://jmp2.uk/plex-64305451fc3be5947773c339-64b1e1217d4037206787f384.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60d4edd8b2fdec002c14112f" tvg-name="Rakuten Viki" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png",Rakuten Viki
