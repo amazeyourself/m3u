@@ -343,14 +343,18 @@ https://jmp2.uk/plu-6aaaec2ec349e6a78bb333eb.m3u8
 https://jmp2.uk/plu-62cbfbd6ad95670007f567af.m3u8
 #EXTINF:-1 tvg-id="6aaaec502714ce519248c55e" tvg-name="CBC News Calgary" tvg-logo="https://images.pluto.tv/channels/6aaaec502714ce519248c55e/colorLogoPNG_1791207790533.png",CBC News Calgary
 https://jmp2.uk/plu-6aaaec502714ce519248c55e.m3u8
-#EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-name="Global News Calgary" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png",Global News Calgary
-https://jmp2.uk/plu-62cbf23dcfb48300077f8348.m3u8
 #EXTINF:-1 tvg-id="62cbf2de1fba5f0007e47d9c" tvg-name="Global News Edmonton" tvg-logo="https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png",Global News Edmonton
 https://jmp2.uk/plu-62cbf2de1fba5f0007e47d9c.m3u8
+#EXTINF:-1 tvg-id="62cbf23dcfb48300077f8348" tvg-name="Global News Calgary" tvg-logo="https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png",Global News Calgary
+https://jmp2.uk/plu-62cbf23dcfb48300077f8348.m3u8
 #EXTINF:-1 tvg-id="6aaaec5abd51830177e9a185" tvg-name="CBC News Edmonton" tvg-logo="https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png",CBC News Edmonton
 https://jmp2.uk/plu-6aaaec5abd51830177e9a185.m3u8
+#EXTINF:-1 tvg-id="6aaaec477a9bc501c300ca35" tvg-name="CBC News Ottawa" tvg-logo="https://images.pluto.tv/channels/6aaaec477a9bc501c300ca35/colorLogoPNG_1792161692436.png",CBC News Ottawa
+https://jmp2.uk/plu-6aaaec477a9bc501c300ca35.m3u8
 #EXTINF:-1 tvg-id="62cbf398b8e02600071deda5" tvg-name="Global News Halifax" tvg-logo="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png",Global News Halifax
 https://jmp2.uk/plu-62cbf398b8e02600071deda5.m3u8
+#EXTINF:-1 tvg-id="6aaaec6dde3a888e5a491479" tvg-name="CBC News New Brunswick" tvg-logo="https://images.pluto.tv/channels/6aaaec6dde3a888e5a491479/colorLogoPNG_1792162742552.png",CBC News New Brunswick
+https://jmp2.uk/plu-6aaaec6dde3a888e5a491479.m3u8
 #EXTINF:-1 tvg-id="62cbf4964446e2000742073e" tvg-name="Global News Kingston" tvg-logo="https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png",Global News Kingston
 https://jmp2.uk/plu-62cbf4964446e2000742073e.m3u8
 #EXTINF:-1 tvg-id="62cbf7439cb58900088dc77b" tvg-name="Global News Lethbridge" tvg-logo="https://images.pluto.tv/channels/62cbf7439cb58900088dc77b/colorLogoPNG.png",Global News Lethbridge
@@ -359,10 +363,14 @@ https://jmp2.uk/plu-62cbf7439cb58900088dc77b.m3u8
 https://jmp2.uk/plu-62cbfc572dc3750007a493ce.m3u8
 #EXTINF:-1 tvg-id="62cbfcd8c2db990007861e43" tvg-name="Global News Peterborough" tvg-logo="https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png",Global News Peterborough
 https://jmp2.uk/plu-62cbfcd8c2db990007861e43.m3u8
+#EXTINF:-1 tvg-id="6aaaec640c9f5239c2f17359" tvg-name="CBC News Saskatchewan" tvg-logo="https://images.pluto.tv/channels/6aaaec640c9f5239c2f17359/colorLogoPNG_1792162938456.png",CBC News Saskatchewan
+https://jmp2.uk/plu-6aaaec640c9f5239c2f17359.m3u8
 #EXTINF:-1 tvg-id="62cbff53ca8f2200080253b5" tvg-name="Global News Regina" tvg-logo="https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png",Global News Regina
 https://jmp2.uk/plu-62cbff53ca8f2200080253b5.m3u8
 #EXTINF:-1 tvg-id="62cc00359cb58900088dc840" tvg-name="Global News Saskatoon" tvg-logo="https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png",Global News Saskatoon
 https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
+#EXTINF:-1 tvg-id="6aaaec396d05845d59cdabc0" tvg-name="CBC News Manitoba" tvg-logo="https://images.pluto.tv/channels/6aaaec396d05845d59cdabc0/colorLogoPNG_1792162386664.png",CBC News Manitoba
+https://jmp2.uk/plu-6aaaec396d05845d59cdabc0.m3u8
 #EXTINF:-1 tvg-id="62cc0120880c890007191016" tvg-name="Global News Winnipeg" tvg-logo="https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png",Global News Winnipeg
 https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 #EXTINF:-1 tvg-id="638e10de75c3a30007092693" tvg-name="Antiques Road Show UK" tvg-logo="https://images.pluto.tv/channels/638e10de75c3a30007092693/colorLogoPNG.png",Antiques Road Show UK
