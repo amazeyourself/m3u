@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/es.xml.gz"
-#EXTINF:-1 tvg-id="6a9fc2af17c0d8c7a37697d0" tvg-name="Cenando con Pablo" tvg-logo="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png",Cenando con Pablo
-https://jmp2.uk/plu-6a9fc2af17c0d8c7a37697d0.m3u8
 #EXTINF:-1 tvg-id="6a6a031b10c8f12ffc3adbb5" tvg-name="Series made in Spain de Pluto TV" tvg-logo="https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/colorLogoPNG_1790242819581.png",Series made in Spain de Pluto TV
 https://jmp2.uk/plu-6a6a031b10c8f12ffc3adbb5.m3u8
+#EXTINF:-1 tvg-id="6a9fc2af17c0d8c7a37697d0" tvg-name="Cenando con Pablo" tvg-logo="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/colorLogoPNG_1789464728847.png",Cenando con Pablo
+https://jmp2.uk/plu-6a9fc2af17c0d8c7a37697d0.m3u8
 #EXTINF:-1 tvg-id="6a43d63071cbfff7dca61d23" tvg-name="Los Misteriosos asesinatos de Miss Fisher" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png",Los Misteriosos asesinatos de Miss Fisher
 https://jmp2.uk/plu-6a43d63071cbfff7dca61d23.m3u8
 #EXTINF:-1 tvg-id="657868a7a620e30008fdbfeb" tvg-name="Embrujadas" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png",Embrujadas

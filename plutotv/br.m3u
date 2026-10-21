@@ -233,12 +233,12 @@ https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 https://jmp2.uk/plu-698392af0cca0cc3458666ab.m3u8
 #EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1791389639208.png",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
-#EXTINF:-1 tvg-id="67813f3162bf016db944c9ab" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/colorLogoPNG.png",Red Bull TV
-https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
-#EXTINF:-1 tvg-id="66997e8d3a4ad20008e50be9" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png",FIFA+
-https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 #EXTINF:-1 tvg-id="6888ee858f4a4aa11feb9430" tvg-name="Top Barça" tvg-logo="https://images.pluto.tv/channels/6888ee858f4a4aa11feb9430/colorLogoPNG_1753987309681.png",Top Barça
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
+#EXTINF:-1 tvg-id="66997e8d3a4ad20008e50be9" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/66997e8d3a4ad20008e50be9/colorLogoPNG_1749841306387.png",FIFA+
+https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
+#EXTINF:-1 tvg-id="67813f3162bf016db944c9ab" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/colorLogoPNG.png",Red Bull TV
+https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-id="65a6818c7bdc8d0008457b21" tvg-name="RACER Brasil" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG_1746817068891.png",RACER Brasil
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="69a20556814d27f4ae630a92" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/69a20556814d27f4ae630a92/colorLogoPNG_1772226745279.png",UFC
@@ -339,7 +339,7 @@ https://jmp2.uk/plu-62d969fd8451a30007f0fd94.m3u8
 https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
 #EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-name="Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",Nickelodeon Toons
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-#EXTINF:-1 tvg-id="6824ce10c5d53e1351ceb8d1" tvg-name="Nickelodeon Clássico" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1788384899252.png",Nickelodeon Clássico
+#EXTINF:-1 tvg-id="6824ce10c5d53e1351ceb8d1" tvg-name="Nickelodeon Clássico" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1792528439389.png",Nickelodeon Clássico
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",Bob Esponja Calça Quadrada
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
