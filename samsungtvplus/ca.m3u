@@ -59,8 +59,6 @@ https://jmp2.uk/stvp-CABC2300019UD
 https://jmp2.uk/stvp-CA18000032W
 #EXTINF:-1 tvg-id="CA2000005K2" tvg-name="Genie K-Movie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000005K2_20260819T010732SQUARE.png",Genie K-Movie
 https://jmp2.uk/stvp-CA2000005K2
-#EXTINF:-1 tvg-id="CA800002TN" tvg-name="OUTflix Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800002TN_20261020T093635SQUARE.png",OUTflix Movies
-https://jmp2.uk/stvp-CA800002TN
 #EXTINF:-1 tvg-id="CA35000078O" tvg-name="Cinevault Westerns" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA35000078O_20260609T034609SQUARE.png",Cinevault Westerns
 https://jmp2.uk/stvp-CA35000078O
 #EXTINF:-1 tvg-id="CA44000025P" tvg-name="Grjngo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA44000025P_20250819T224258SQUARE.png",Grjngo
@@ -363,6 +361,8 @@ https://jmp2.uk/stvp-CABC5200008Q6
 https://jmp2.uk/stvp-CA700003CI
 #EXTINF:-1 tvg-id="CA390001798" tvg-name="The Judge Judy Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA390001798_20260922T060004SQUARE.png",The Judge Judy Channel
 https://jmp2.uk/stvp-CA390001798
+#EXTINF:-1 tvg-id="CA800002TN" tvg-name="OUTflix Proud" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800002TN_20261020T093635SQUARE.png",OUTflix Proud
+https://jmp2.uk/stvp-CA800002TN
 #EXTINF:-1 tvg-id="CA4000007K0" tvg-name="BuzzFeed Celeb" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4000007K0_20260616T032245SQUARE.png",BuzzFeed Celeb
 https://jmp2.uk/stvp-CA4000007K0
 #EXTINF:-1 tvg-id="CABC23000035R" tvg-name="Hollywire" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000035R_20260421T140523SQUARE.png",Hollywire
@@ -471,7 +471,7 @@ https://jmp2.uk/stvp-CABD1200038NZ
 https://jmp2.uk/stvp-CABB2600018T4
 #EXTINF:-1 tvg-id="CABB2600017ZU" tvg-name="XITE 80s Flashback" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20260512T070144SQUARE.png",XITE 80s Flashback
 https://jmp2.uk/stvp-CABB2600017ZU
-#EXTINF:-1 tvg-id="CABD17000043J" tvg-name="XITE The Beatles" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261020T093625SQUARE.png",XITE The Beatles
+#EXTINF:-1 tvg-id="CABD17000043J" tvg-name="XITE Celebrates" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261020T093625SQUARE.png",XITE Celebrates
 https://jmp2.uk/stvp-CABD17000043J
 #EXTINF:-1 tvg-id="CABD120001993" tvg-name="XITE Country Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120001993_20260421T141129SQUARE.png",XITE Country Today
 https://jmp2.uk/stvp-CABD120001993

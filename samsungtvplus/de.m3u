@@ -133,22 +133,6 @@ https://jmp2.uk/stvp-DE700004H4
 https://jmp2.uk/stvp-DE17000032I
 #EXTINF:-1 tvg-id="DE3900002R1" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900002R1_20260915T035250SQUARE.png",CJ ENM K-POP
 https://jmp2.uk/stvp-DE3900002R1
-#EXTINF:-1 tvg-id="DEAH3904006A" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20261020T135417SQUARE.png",Deluxe Lounge HD
-https://jmp2.uk/stvp-DEAH3904006A
-#EXTINF:-1 tvg-id="DE19000024P" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE19000024P_20261020T135454SQUARE.png",Cozy Vibes
-https://jmp2.uk/stvp-DE19000024P
-#EXTINF:-1 tvg-id="DE1900003LE" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900003LE_20261020T135446SQUARE.png",Storm Vibes
-https://jmp2.uk/stvp-DE1900003LE
-#EXTINF:-1 tvg-id="DE1800009MU" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800009MU_20261020T135430SQUARE.png",Rainy Day Vibes
-https://jmp2.uk/stvp-DE1800009MU
-#EXTINF:-1 tvg-id="DE1800012WI" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800012WI_20261020T135440SQUARE.png",Fall Vibes
-https://jmp2.uk/stvp-DE1800012WI
-#EXTINF:-1 tvg-id="DE18000103J" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE18000103J_20261020T135502SQUARE.png",Island Vibes
-https://jmp2.uk/stvp-DE18000103J
-#EXTINF:-1 tvg-id="DE1800011L9" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800011L9_20261020T135422SQUARE.png",Ocean Vibes
-https://jmp2.uk/stvp-DE1800011L9
-#EXTINF:-1 tvg-id="DE22000012Y" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20261020T135512SQUARE.png",Fireplace Vibes
-https://jmp2.uk/stvp-DE22000012Y
 #EXTINF:-1 tvg-id="DE35000030P" tvg-name="Real Madrid TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE35000030P_20261013T053330SQUARE.png",Real Madrid TV
 https://jmp2.uk/stvp-DE35000030P
 #EXTINF:-1 tvg-id="DE1100003YR" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20260224T030543SQUARE.png",Top Barça
@@ -429,3 +413,19 @@ https://jmp2.uk/stvp-DE1200004EZ
 https://jmp2.uk/stvp-DE1100001CQ
 #EXTINF:-1 tvg-id="DE1200011HC" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200011HC_20260505T035524SQUARE.png",H2O & Friends
 https://jmp2.uk/stvp-DE1200011HC
+#EXTINF:-1 tvg-id="DEAH3904006A" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20261020T135417SQUARE.png",Deluxe Lounge HD
+https://jmp2.uk/stvp-DEAH3904006A
+#EXTINF:-1 tvg-id="DE19000024P" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE19000024P_20261020T135454SQUARE.png",Cozy Vibes
+https://jmp2.uk/stvp-DE19000024P
+#EXTINF:-1 tvg-id="DE1900003LE" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900003LE_20261020T135446SQUARE.png",Storm Vibes
+https://jmp2.uk/stvp-DE1900003LE
+#EXTINF:-1 tvg-id="DE1800009MU" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800009MU_20261020T135430SQUARE.png",Rainy Day Vibes
+https://jmp2.uk/stvp-DE1800009MU
+#EXTINF:-1 tvg-id="DE1800012WI" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800012WI_20261020T135440SQUARE.png",Fall Vibes
+https://jmp2.uk/stvp-DE1800012WI
+#EXTINF:-1 tvg-id="DE18000103J" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE18000103J_20261020T135502SQUARE.png",Island Vibes
+https://jmp2.uk/stvp-DE18000103J
+#EXTINF:-1 tvg-id="DE1800011L9" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800011L9_20261020T135422SQUARE.png",Ocean Vibes
+https://jmp2.uk/stvp-DE1800011L9
+#EXTINF:-1 tvg-id="DE22000012Y" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE22000012Y_20261020T135512SQUARE.png",Fireplace Vibes
+https://jmp2.uk/stvp-DE22000012Y
