@@ -2093,14 +2093,6 @@ http://103.17.193.159:5001/live/3608.m3u8
 http://103.17.193.159:5001/live/3609.m3u8
 #EXTINF:-1 tvg-id="3610" tvg-name="Dhool TV" tvg-logo="http://103.17.193.159:5001/jtvimage/DhoolTV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Dhool TV
 http://103.17.193.159:5001/live/3610.m3u8
-#EXTINF:-1 tvg-id="3613" tvg-name="Ayodhya Ki Ramlila 2026 - LIVE" tvg-logo="http://103.17.193.159:5001/jtvimage/Ayodhya_Ramlila_2026.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ayodhya Ki Ramlila 2026 - LIVE
-http://103.17.193.159:5001/live/3613.m3u8
-#EXTINF:-1 tvg-id="3614" tvg-name="Luv Kush Ramlila 2026 - LIVE" tvg-logo="http://103.17.193.159:5001/jtvimage/Luvkush_Ramlila_2026.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Luv Kush Ramlila 2026 - LIVE
-http://103.17.193.159:5001/live/3614.m3u8
-#EXTINF:-1 tvg-id="3615" tvg-name="Linga Bhairavi Navratri Abhishekam 2026" tvg-logo="http://103.17.193.159:5001/jtvimage/Sadhguru.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Linga Bhairavi Navratri Abhishekam 2026
-http://103.17.193.159:5001/live/3615.m3u8
-#EXTINF:-1 tvg-id="3616" tvg-name="Lukshmi Vilas Palace Heritage Garba 2026" tvg-logo="http://103.17.193.159:5001/jtvimage/LVP_2026.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Lukshmi Vilas Palace Heritage Garba 2026
-http://103.17.193.159:5001/live/3616.m3u8
 #EXTINF:-1 tvg-id="3617" tvg-name="Jallosh" tvg-logo="http://103.17.193.159:5001/jtvimage/Jallosh.png" tvg-language="Marathi" tvg-type="Movies" group-title="Movies", Jallosh
 http://103.17.193.159:5001/live/3617.m3u8
 #EXTINF:-1 tvg-id="3618" tvg-name="NDTV MPCG" tvg-logo="http://103.17.193.159:5001/jtvimage/NDTVMPCG.png" tvg-language="Hindi" tvg-type="News" group-title="News", NDTV MPCG
