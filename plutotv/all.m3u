@@ -61,6 +61,8 @@ https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="6ab165fdeae99d62d7e541ff" tvg-name="Pluto TV Halloween" tvg-logo="https://images.pluto.tv/channels/6ab165fdeae99d62d7e541ff/colorLogoPNG_1790715914846.png",Pluto TV Halloween
 https://jmp2.uk/plu-6ab165fdeae99d62d7e541ff.m3u8
+#EXTINF:-1 tvg-id="66ff1d5a565d3a000892bdcd" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1792078736408.png",Stingray Holidayscapes
+https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="633354b63df9700007f6a1b7" tvg-name="Sitcom Legends" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png",Sitcom Legends
@@ -2605,7 +2607,7 @@ https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
 #EXTINF:-1 tvg-id="698392af0cca0cc3458666ab" tvg-name="AdoroCinema" tvg-logo="https://images.pluto.tv/channels/698392af0cca0cc3458666ab/colorLogoPNG_1772734593144.png",AdoroCinema
 https://jmp2.uk/plu-698392af0cca0cc3458666ab.m3u8
-#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1791389639208.png",Pluto TV Esportes
+#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1792601694709.png",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 tvg-id="6888ee858f4a4aa11feb9430" tvg-name="Top Barça" tvg-logo="https://images.pluto.tv/channels/6888ee858f4a4aa11feb9430/colorLogoPNG_1753987309681.png",Top Barça
 https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
@@ -4563,6 +4565,8 @@ https://jmp2.uk/plu-6964b77dff4f2148e520fa9b.m3u8
 https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8
 #EXTINF:-1 tvg-id="63e389dcc111bc0008ee5b8c" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/63e389dcc111bc0008ee5b8c/colorLogoPNG.png",Cheers
 https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
+#EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png",Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 #EXTINF:-1 tvg-id="6a6318a71a30976934632c3d" tvg-name="Paradise Hotel: Ny säsong" tvg-logo="https://images.pluto.tv/channels/6a6318a71a30976934632c3d/colorLogoPNG_1787063239097.png",Paradise Hotel: Ny säsong
 https://jmp2.uk/plu-6a6318a71a30976934632c3d.m3u8
 #EXTINF:-1 tvg-id="660d6575aec9680008f8cdc4" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d6575aec9680008f8cdc4/colorLogoPNG.png",Top Gear Classics
@@ -4645,8 +4649,6 @@ https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
 https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
 #EXTINF:-1 tvg-id="62cd74e38f6f0d000798cd93" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/62cd74e38f6f0d000798cd93/colorLogoPNG_1746816954969.png",Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
-#EXTINF:-1 tvg-id="686faf533ffa5e0c912688e7" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png",Pluto TV Handboll Live
-https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 #EXTINF:-1 tvg-id="68dfa3e2cc3c6cd904052c41" tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png",Pluto TV Handboll Highlights
 https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
 #EXTINF:-1 tvg-id="660e7488aec9680008fabcf1" tvg-name="AWSN" tvg-logo="https://images.pluto.tv/channels/660e7488aec9680008fabcf1/colorLogoPNG_1748590900265.png",AWSN
