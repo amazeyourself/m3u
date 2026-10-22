@@ -157,6 +157,10 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-63f914bffe2c3d32e1a7929f.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-64f101b1c4b308f2fe3e7c0c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68e032fd8bbd79d66c631ab0" tvg-name="Relic Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e7d9a4d-b050-4f83-979a-bbdf4d618198/FilmRise_RelicHunter_Logo_Color.png",Relic Hunter
 https://jmp2.uk/plex-64305451fc3be5947773c339-68e032fd8bbd79d66c631ab0.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6ad26b965374a1e72d13462a" tvg-name="Counting Cars+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02e08094-4ad5-47b6-8867-57f17652c908/Counting_Cars_channel_logo_4c_1500x1000.png",Counting Cars+
+https://jmp2.uk/plex-64305451fc3be5947773c339-6ad26b965374a1e72d13462a.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6ad25b115374a1e72d134620" tvg-name="Carwow" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b7aa62a-bb5e-4844-a1c6-549a1bbdeb03/CarWow_channel_logo_4c_1500x1000.png",Carwow
+https://jmp2.uk/plex-64305451fc3be5947773c339-6ad25b115374a1e72d134620.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64704596e536e0faaf10be9b" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png",Great British Menu
 https://jmp2.uk/plex-64305451fc3be5947773c339-64704596e536e0faaf10be9b.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-699df1c15ca3d4c9d62d753b" tvg-name="Flipping Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a1bc058b-09e8-4e49-8e83-5e83f1ea96cc/Flipping_Nation_Logo_COLOR_RDX.png",Flipping Nation
@@ -213,10 +217,14 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-650b60deb2413c46bf584d86.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-67d9a3d663c5439aeaf61305.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69bb1f002028859eafc637e1" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",Legacy
 https://jmp2.uk/plex-64305451fc3be5947773c339-69bb1f002028859eafc637e1.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6ad26e9c5374a1e72d134630" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d7b95220-3128-4b81-bbcf-91f5537a4bc8/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",COPS Reloaded
+https://jmp2.uk/plex-64305451fc3be5947773c339-6ad26e9c5374a1e72d134630.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a8cc101fc51826f5301a160" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",COPS Reloaded
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a8cc101fc51826f5301a160.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/78fd3266-e931-4918-9016-525a1f8dd296/Jail_channel_logo_4c_1500x1000RDX.png",JAIL
 https://jmp2.uk/plex-64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6abd525ba9d133322be5f943" tvg-name="The First 48 & Beyond" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8480888-bf03-4a20-8723-a3737887db5d/First_48_and_Beyond_channel_logo_4c_1500x1000.png",The First 48 & Beyond
+https://jmp2.uk/plex-64305451fc3be5947773c339-6abd525ba9d133322be5f943.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a2ab3dce6a243c85608e4b2" tvg-name="60 Days In Jail" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f98eaac1-2402-4220-bc91-c71ad34c49e1/60_Days_In_Jail_channel_logo_dark_1500x1000WHT_RDX.png",60 Days In Jail
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a2ab3dce6a243c85608e4b2.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86e" tvg-name="FilmRise Free Series" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d16da0ef-6eb2-4013-8fe3-09d800303cd7/FilmRise_FreeSeries_1500x1000_logo_light.png",FilmRise Free Series

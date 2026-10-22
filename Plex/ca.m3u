@@ -207,6 +207,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-635195e9ccee3e1547a8831a.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-672948f0297d4ea7584a2e13.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b" tvg-name="Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png",Hunter
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66f6b6baac1a1890ef197a4b.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6ad25a35b3edba59b49aabbe" tvg-name="Carwow" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73e31642-ce17-4b41-b286-4d3c7fd4f9cf/CarWow_channel_logo_4c_1500x1000.png",Carwow
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6ad25a35b3edba59b49aabbe.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad" tvg-name="Garden with Monty Don" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb442bf5-7b1e-4451-8846-f37363c2fa77/garden_green_wht.png",Garden with Monty Don
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6308eda9ac9983739c8a29bb" tvg-name="BBC Home & Garden" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca13d56c-b5ee-41c8-be4c-fbacc7972c57/PLEX_HOME_GARDEN_Logo_Light_1500X1000.png",BBC Home & Garden
@@ -905,7 +907,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f07e9fdf313eb0041bbecda.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69791422623bdf0fc9bc3ea6.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6478acb5c83f56da796f166f" tvg-name="Telemundo al Dia" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/183209ec7041b4645921574cffd096f4.png",Telemundo al Dia
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6478acb5c83f56da796f166f.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",beIN Sports Xtra en Español
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e247c07-7b64-422a-87e5-b07091c15702/beIN_SPORTS_XTRA_EN_ESPAN__OL_LOGO.png",beIN Sports Xtra en Español
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",ITV Deportes
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-688d3402a6fe30698ab42007.m3u8

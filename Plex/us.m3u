@@ -189,6 +189,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6414a73254c537d12d8073d7.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6674b595f04cf4bb9233c914.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-635195e9ccee3e1547a8831a" tvg-name="Farscape" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77115f01-d00a-4ef0-bb00-dcb3896e1c09/f5c7ee72e5a980b3ac2a31fd94e112e8.png",Farscape
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-635195e9ccee3e1547a8831a.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",JAIL
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6467891c73e5e029428f0e18" tvg-name="Oxygen True Crime Archives" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3baa91b801c24aacb6d68db7f5c697cf.png",Oxygen True Crime Archives
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6467891c73e5e029428f0e18.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69d93e13a5c870fb1e88f873" tvg-name="Living With Evil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8476d5ef-088a-4f8e-9cf3-e87184aad49c/LivingWithEvil_Logo_Dark_1500x1000.png",Living With Evil
@@ -765,7 +767,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-605a309dc5acdc002c7a20aa.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69011e71d320237a5a2d9f63.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6aa9c4a3083227098739435b.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60a53634126de9002e694bc4" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60a53634126de9002e694bc4" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df24287c-ba1c-461f-b686-b1842ba47857/beIN_SPORTS_XTRA_LOGO.png",beIN SPORTS XTRA
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60a53634126de9002e694bc4.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",The Bob Ross Channel
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5efe1de6e0b3f5003f5d9f88.m3u8
@@ -1081,7 +1083,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6615522e50e81fa51eb0df61.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69333216ac5b3f9f53442374.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68e0371d8bbd79d66c631ab2" tvg-name="The Wiggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png",The Wiggles
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68e0371d8bbd79d66c631ab2.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64a8903d273b89c4e7396553" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",beIN Sports Xtra en Español
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64a8903d273b89c4e7396553" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e247c07-7b64-422a-87e5-b07091c15702/beIN_SPORTS_XTRA_EN_ESPAN__OL_LOGO.png",beIN Sports Xtra en Español
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64a8903d273b89c4e7396553.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-69791422623bdf0fc9bc3ea6" tvg-name="Historias de Corazón" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7720edee-5e05-4391-b46b-94579db1bf73/HDC_logo_light_-_Jordan_Warkol.png",Historias de Corazón
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69791422623bdf0fc9bc3ea6.m3u8
@@ -1179,8 +1181,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-5f91c4ea96a391002df9a661.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-65621e98b7d737841f30a4f9.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-65257cdf65486aca7aa77716" tvg-name="Todo Novelas, más Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png",Todo Novelas, más Pasiones
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-65257cdf65486aca7aa77716.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-608b7095a09205002da4f295" tvg-name="FreeTV Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",FreeTV Drama
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-608b7095a09205002da4f295.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-608b7095a09205002da4f293" tvg-name="FreeTV Estelar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b96e6421-c1fa-4773-8a6d-3e980fcd1084/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo__1_.png",FreeTV Estelar
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-608b7095a09205002da4f293.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-648095ad190e97d15c3470e9" tvg-name="Court TV Legendary Trials" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/44b8c938b34238f227a4030123f8dfcf.png",Court TV Legendary Trials
@@ -1241,6 +1241,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-62a22a2ed95f6a0c0146cc73.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-67db3546d66f778a752f7eaa.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",Camp Spoopy
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6164a963766ab4f9f57e81b1.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6ac7d3f79bc31041616d22a4" tvg-name="FreeTV Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/46ce7754-f528-420b-b905-5a4ce8c8bd33/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",FreeTV Drama
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6ac7d3f79bc31041616d22a4.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png",NEW K-POP
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60d4edd7b2fdec002c14112d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5eea605574085f0040ddc797" tvg-name="KidsFlix" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png",KidsFlix
