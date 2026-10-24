@@ -1,7 +1,7 @@
 import urllib3
 import json
 
-playlist = ['#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/m3u/epg/neotv.xml.gz"','#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/m3u/epg/olitv.xml.gz"']
+playlist = ['#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/epg/epg/neotv.xml.gz"','#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/epg/epg/olitv.xml.gz"']
 test = urllib3.request("GET",
                        "https://livetv.neotvapp.com/wp-admin/admin-ajax.php?action=livetv_get_channels")
 
