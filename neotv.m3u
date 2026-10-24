@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/m3u/epg/neotv.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/m3u/epg/olitv.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/epg/epg/neotv.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/epg/epg/olitv.xml.gz"
 #EXTINF:-1 tvg-id="Newsnation" tvg-chno="108" tvg-name="News Nation" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/news-nation-1732293745825-1739730543958.png" group-title="News",News Nation
 https://nn-khabriyatv.originein.in/nntv/national/master_nnna_khabriyatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="112" tvg-name="Live Times" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/livetimes-1776462448775.jpg" group-title="News",Live Times
