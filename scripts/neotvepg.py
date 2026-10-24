@@ -37,7 +37,7 @@ for i in resp['data']['items']:
     genre = channel_data['genre']
 for i in epgs:
     if ".php" not in i:
-        epgid = i.replace('https://epg.neotvapp.com/','').replace('.xml','').replace('%20',' ').replace('%26', '&amp;')
+        epgid = i.replace('https://epg.neotvapp.com/','').replace('https://test.legitpro.co.in/uploads/', '').replace('.xml','').replace('%20',' ').replace('%26', '&amp;')
         if i != "" and i !="https://api.bongo-solutions.com/roster/EpgXml?channel=bongo-movies&days=1":
             resp = urllib3.request("GET", i)
             with open(f'{epgid}.xml', 'wb') as f:
