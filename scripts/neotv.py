@@ -11,7 +11,7 @@ for i in resp['data']['items']:
     channel_data = json.loads(stringdata)
     if channel_data['epg'] != None:
         if ".php" not in channel_data['epg']:
-            epg = channel_data['epg'].replace('https://epg.neotvapp.com/','').replace('.xml','').replace('%20',' ').replace('%26', '&amp;')
+            epg = channel_data['epg'].replace('https://epg.neotvapp.com/','').replace('https://test.legitpro.co.in/uploads/', '').replace('.xml','').replace('%20',' ').replace('%26', '&amp;')
         elif "oli" in channel_data['epg']:
             epg = "OLI TV"
         elif "https://api.bongo-solutions.com/roster/EpgXml?channel=bongo-movies&days=1 in channel_data['epg']":
