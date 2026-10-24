@@ -141,7 +141,7 @@ https://cdn.pishow.tv/ott/live/298/master.m3u8
 https://cdn.pishow.tv/ott/live/299/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",NDTV
 https://cdn.pishow.tv/ott/live/315/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",???
+#EXTINF:-1 tvg-id="" tvg-logo="",Living India News
 https://cdn.pishow.tv/ott/live/324/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Shemaroo Josh
 https://cdn.pishow.tv/ott/live/337/master.m3u8
@@ -369,8 +369,6 @@ https://cdn.pishow.tv/ott/live/1462/master.m3u8
 https://cdn.pishow.tv/ott/live/1463/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Ishwar TV
 https://cdn.pishow.tv/ott/live/1464/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Jai Maharashtra
-https://cdn.pishow.tv/ott/live/1465/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Janam TV
 https://cdn.pishow.tv/ott/live/1466/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Jeevan TV
@@ -401,8 +399,6 @@ https://cdn.pishow.tv/ott/live/1489/master.m3u8
 https://cdn.pishow.tv/ott/live/1490/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",News Nation
 https://cdn.pishow.tv/ott/live/1493/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",News Time Bangla
-https://cdn.pishow.tv/ott/live/1494/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",News 7 Tamil
 https://cdn.pishow.tv/ott/live/1498/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Orange Bangla
@@ -427,6 +423,8 @@ https://cdn.pishow.tv/ott/live/1511/master.m3u8
 https://cdn.pishow.tv/ott/live/1513/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Sudarshan News
 https://cdn.pishow.tv/ott/live/1516/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",???
+https://cdn.pishow.tv/ott/live/1517/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Maha Punjabi
 https://cdn.pishow.tv/ott/live/1521/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Total TV
