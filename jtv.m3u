@@ -695,6 +695,8 @@ http://103.17.193.159:5001/live/856.m3u8
 http://103.17.193.159:5001/live/857.m3u8
 #EXTINF:-1 tvg-id="858" tvg-name="Republic TV" tvg-logo="http://103.17.193.159:5001/jtvimage/Republic_TV.png" tvg-language="English" tvg-type="News" group-title="News", Republic TV
 http://103.17.193.159:5001/live/858.m3u8
+#EXTINF:-1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Jio Exclusive HD
+http://103.17.193.159:5001/live/866.m3u8
 #EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="http://103.17.193.159:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
 http://103.17.193.159:5001/live/871.m3u8
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-logo="http://103.17.193.159:5001/jtvimage/SonyYAYHin.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
