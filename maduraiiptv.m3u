@@ -203,6 +203,10 @@ https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
 https://ipcloud.live/sachintv/aadviktv/index.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="574" tvg-name="AADVIK TV" tvg-logo="" group-title="Entertainment",54 AADVIK TV [RTMP]
 
+#EXTINF:-1 tvg-chno="55" tvg-id="581" tvg-name="MADHAN TV" tvg-logo="" group-title="",55 MADHAN TV
+http://madhantv.phoenixcreations.online/madhantv/madhantv/index.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="581" tvg-name="MADHAN TV" tvg-logo="" group-title="",55 MADHAN TV [RTMP]
+
 #EXTINF:-1 tvg-chno="56" tvg-id="261" tvg-name="BHARATHI THIRAI ULAGAM TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786948126.webp" group-title="Entertainment",56 BHARATHI THIRAI ULAGAM TV
 https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="261" tvg-name="BHARATHI THIRAI ULAGAM TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786948126.webp" group-title="Entertainment",56 BHARATHI THIRAI ULAGAM TV [RTMP]
@@ -1035,6 +1039,10 @@ https://galaxyott.live/hls/dharshantv.m3u8
 https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8
 #EXTINF:-1 tvg-chno="825" tvg-id="360" tvg-name="EYE TAMIL COMEDY TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1782118675.webp" group-title="Entertainment",825 EYE TAMIL COMEDY TV [RTMP]
 
+#EXTINF:-1 tvg-chno="837" tvg-id="154" tvg-name="DURAI CLASSIC TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771244954.webp" group-title="Entertainment",837 DURAI CLASSIC TV
+https://stream.onecloudlive.in/duraitv/classic/index.m3u8
+#EXTINF:-1 tvg-chno="837" tvg-id="154" tvg-name="DURAI CLASSIC TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771244954.webp" group-title="Entertainment",837 DURAI CLASSIC TV [RTMP]
+null
 #EXTINF:-1 tvg-chno="844" tvg-id="561" tvg-name="HISTOTY" tvg-logo="" group-title="International",844 HISTOTY
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-chno="844" tvg-id="561" tvg-name="HISTOTY" tvg-logo="" group-title="International",844 HISTOTY [RTMP]
