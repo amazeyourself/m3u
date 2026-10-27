@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/ch.xml.gz"
-#EXTINF:-1 tvg-id="CH4800001LT" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20261013T052832SQUARE.png",Hochzeit auf den ersten Blick
+#EXTINF:-1 tvg-id="CH4800001LT" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20261026T041803SQUARE.png",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-CH4800001LT
 #EXTINF:-1 tvg-id="CHBD3700001XS" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700001XS_20261006T033756SQUARE.png",X-MAS Mix
 https://jmp2.uk/stvp-CHBD3700001XS
@@ -9,7 +9,7 @@ https://jmp2.uk/stvp-CH500002H2
 https://jmp2.uk/stvp-CH500003EH
 #EXTINF:-1 tvg-id="CH40000020D" tvg-name="RMC Life" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH40000020D_20251202T002454SQUARE.png",RMC Life
 https://jmp2.uk/stvp-CH40000020D
-#EXTINF:-1 tvg-id="CH180000916" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH180000916_20260929T040027SQUARE.png",Bares für Rares
+#EXTINF:-1 tvg-id="CH180000916" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH180000916_20261026T041741SQUARE.png",Bares für Rares
 https://jmp2.uk/stvp-CH180000916
 #EXTINF:-1 tvg-id="CH1600008JT" tvg-name="Les Anges" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1600008JT_20260622T063200SQUARE.png",Les Anges
 https://jmp2.uk/stvp-CH1600008JT
@@ -73,7 +73,7 @@ https://jmp2.uk/stvp-CH700003RV
 https://jmp2.uk/stvp-CH230000401
 #EXTINF:-1 tvg-id="CHBD5100001EF" tvg-name="ADN [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5100001EF_20250107T025428SQUARE.png",ADN [FR]
 https://jmp2.uk/stvp-CHBD5100001EF
-#EXTINF:-1 tvg-id="CH1100003IR" tvg-name="Beverly Hills 90210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1100003IR_20261013T052818SQUARE.png",Beverly Hills 90210
+#EXTINF:-1 tvg-id="CH1100003IR" tvg-name="Beverly Hills 90210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1100003IR_20261026T041746SQUARE.png",Beverly Hills 90210
 https://jmp2.uk/stvp-CH1100003IR
 #EXTINF:-1 tvg-id="CH300042FH" tvg-name="Poldark" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300042FH_20261013T052856SQUARE.png",Poldark
 https://jmp2.uk/stvp-CH300042FH
@@ -163,11 +163,11 @@ https://jmp2.uk/stvp-CHBA3300018TD
 https://jmp2.uk/stvp-CH34000014Q
 #EXTINF:-1 tvg-id="CH500001V2" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500001V2_20251209T125744SQUARE.png",BFM TV
 https://jmp2.uk/stvp-CH500001V2
-#EXTINF:-1 tvg-id="CH700006GD" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20260622T063136SQUARE.png",Brut.
+#EXTINF:-1 tvg-id="CH700006GD" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700006GD_20261026T041751SQUARE.png",Brut.
 https://jmp2.uk/stvp-CH700006GD
 #EXTINF:-1 tvg-id="CH2200006VD" tvg-name="Welt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2200006VD_20260804T050438SQUARE.png",Welt
 https://jmp2.uk/stvp-CH2200006VD
-#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20261013T052758SQUARE.png",Wilder Planet
+#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20261026T041721SQUARE.png",Wilder Planet
 https://jmp2.uk/stvp-CHBA3300028G3
 #EXTINF:-1 tvg-id="CHBC40000011Y" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",The Wicked Tuna Channel
 https://jmp2.uk/stvp-CHBC40000011Y
@@ -209,7 +209,7 @@ https://jmp2.uk/stvp-CHBC4000006ZD
 https://jmp2.uk/stvp-CHBC80000437
 #EXTINF:-1 tvg-id="CH800002JA" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800002JA_20260901T053333SQUARE.png",Space Live
 https://jmp2.uk/stvp-CH800002JA
-#EXTINF:-1 tvg-id="CH20000288" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20261013T052923SQUARE.png",The Jamie Oliver Channel
+#EXTINF:-1 tvg-id="CH20000288" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20261026T041811SQUARE.png",The Jamie Oliver Channel
 https://jmp2.uk/stvp-CH20000288
 #EXTINF:-1 tvg-id="CH1900002NZ" tvg-name="ZDF kocht!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1900002NZ_20260721T035038SQUARE.png",ZDF kocht!
 https://jmp2.uk/stvp-CH1900002NZ
@@ -219,7 +219,7 @@ https://jmp2.uk/stvp-CHAJ0500443A
 https://jmp2.uk/stvp-CHAK3504501A
 #EXTINF:-1 tvg-id="CH2800002MM" tvg-name="Stadt Land Kunst" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2800002MM_20261006T033751SQUARE.png",Stadt Land Kunst
 https://jmp2.uk/stvp-CH2800002MM
-#EXTINF:-1 tvg-id="CHBC40000027S" tvg-name="Echappées belles & co [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000027S_20250107T031454SQUARE.png",Echappées belles & co [FR]
+#EXTINF:-1 tvg-id="CHBC40000027S" tvg-name="Echappées belles & co [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000027S_20261026T041730SQUARE.png",Echappées belles & co [FR]
 https://jmp2.uk/stvp-CHBC40000027S
 #EXTINF:-1 tvg-id="CHBA22000080G" tvg-name="Tennis Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA22000080G_20251125T102207SQUARE.png",Tennis Channel
 https://jmp2.uk/stvp-CHBA22000080G

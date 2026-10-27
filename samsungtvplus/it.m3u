@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/it.xml.gz"
-#EXTINF:-1 tvg-id="IT3600005AL" tvg-name="Cine Paura" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20261013T054224SQUARE.png",Cine Paura
+#EXTINF:-1 tvg-id="IT3600005AL" tvg-name="Cine Paura" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20261026T042725SQUARE.png",Cine Paura
 https://jmp2.uk/stvp-IT3600005AL
-#EXTINF:-1 tvg-id="ITBA3300024IU" tvg-name="Bizzarro Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20261013T054102SQUARE.png",Bizzarro Movies
+#EXTINF:-1 tvg-id="ITBA3300024IU" tvg-name="Bizzarro Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20261026T042626SQUARE.png",Bizzarro Movies
 https://jmp2.uk/stvp-ITBA3300024IU
-#EXTINF:-1 tvg-id="ITBD600001CL" tvg-name="Brividy Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20261013T054215SQUARE.png",Brividy Cinema
+#EXTINF:-1 tvg-id="ITBD600001CL" tvg-name="Brividy Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20261026T042717SQUARE.png",Brividy Cinema
 https://jmp2.uk/stvp-ITBD600001CL
 #EXTINF:-1 tvg-id="IT2600010E0" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20251230T031311SQUARE.png",Family - Rakuten TV
 https://jmp2.uk/stvp-IT2600010E0
@@ -15,7 +15,7 @@ https://jmp2.uk/stvp-ITBC1100008L4
 https://jmp2.uk/stvp-ITBA14000093A
 #EXTINF:-1 tvg-id="ITBC1100003KC" tvg-name="Grandi Nomi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100003KC_20250527T014831SQUARE.png",Grandi Nomi
 https://jmp2.uk/stvp-ITBC1100003KC
-#EXTINF:-1 tvg-id="ITBD1400003D0" tvg-name="Cinemadame" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20261006T034246SQUARE.png",Cinemadame
+#EXTINF:-1 tvg-id="ITBD1400003D0" tvg-name="Cinemadame" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20261026T042734SQUARE.png",Cinemadame
 https://jmp2.uk/stvp-ITBD1400003D0
 #EXTINF:-1 tvg-id="ITAJ38000055E" tvg-name="Pluto TV Film" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ38000055E_20241022T051450SQUARE.png",Pluto TV Film
 https://jmp2.uk/stvp-ITAJ38000055E
@@ -31,7 +31,7 @@ https://jmp2.uk/stvp-IT2600004K9
 https://jmp2.uk/stvp-IT2600005ZN
 #EXTINF:-1 tvg-id="ITAJ3800009J1" tvg-name="Pluto TV Film Romantici" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800009J1_20241022T051707SQUARE.png",Pluto TV Film Romantici
 https://jmp2.uk/stvp-ITAJ3800009J1
-#EXTINF:-1 tvg-id="IT500004JK" tvg-name="Romantica" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20260528T053632SQUARE.png",Romantica
+#EXTINF:-1 tvg-id="IT500004JK" tvg-name="Romantica" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20261026T042703SQUARE.png",Romantica
 https://jmp2.uk/stvp-IT500004JK
 #EXTINF:-1 tvg-id="ITBC11000047F" tvg-name="Velvet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20260915T041853SQUARE.png",Velvet
 https://jmp2.uk/stvp-ITBC11000047F
@@ -297,7 +297,7 @@ https://jmp2.uk/stvp-IT31000026G
 https://jmp2.uk/stvp-ITBC35000016T
 #EXTINF:-1 tvg-id="IT9000023T" tvg-name="II Guerra Mondiale - La Storia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20260609T044336SQUARE.png",II Guerra Mondiale - La Storia
 https://jmp2.uk/stvp-IT9000023T
-#EXTINF:-1 tvg-id="IT3200002L5" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20260804T052218SQUARE.png",BBC Earth
+#EXTINF:-1 tvg-id="IT3200002L5" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20261026T042711SQUARE.png",BBC Earth
 https://jmp2.uk/stvp-IT3200002L5
 #EXTINF:-1 tvg-id="ITBA3300046KE" tvg-name="WildEarth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300046KE_20241022T043940SQUARE.png",WildEarth
 https://jmp2.uk/stvp-ITBA3300046KE
