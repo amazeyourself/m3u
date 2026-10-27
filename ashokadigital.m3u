@@ -433,6 +433,10 @@ https://vvsolutions-server15.in/bsknews_18/video.m3u8
 https://mars.streambridge.link:8052/telugu/antv/index.m3u8
 #EXTINF:-1 tvg-id="866" tvg-chno="866" tvg-name="GEE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791365488_gtv.png" group-title="Andhra Pradesh and Telangana",866 GEE TV
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
+#EXTINF:-1 tvg-id="867" tvg-chno="867" tvg-name="happy tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793026369_507e0081-b180-457a-a6f8-fea91cb74d51-Photoroom.png" group-title="Andhra Pradesh and Telangana",867 happy tv
+http://happy.dets.fun:8080/hls/.m3u8
+#EXTINF:-1 tvg-id="868" tvg-chno="868" tvg-name="a1 tv media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793026513_a408ee30-c8a3-48a4-a46d-f5c0babb4b49-Photoroom.png" group-title="Andhra Pradesh and Telangana",868 a1 tv media
+https://vvsolutions-server14.in/a1tvmedia_26/video.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title="Tamil Nadu Channels",901 Chanakya up/uk
