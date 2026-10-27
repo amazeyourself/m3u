@@ -2043,13 +2043,13 @@ http://223.25.71.211:5001/live/mpd/857
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/858
 http://223.25.71.211:5001/live/mpd/858
-#EXTINF:-1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-logo="http://223.25.71.211:5001/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Jio Exclusive HD
+#EXTINF:-1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-logo="http://223.25.71.211:5001/jtvimage/JioExclusive2.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Jio Exclusive HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/866
 http://223.25.71.211:5001/live/mpd/866
-#EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="http://223.25.71.211:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
+#EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-logo="http://223.25.71.211:5001/jtvimage/JioEventsHD2.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Jio Events HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
