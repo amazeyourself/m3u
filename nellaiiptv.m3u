@@ -124,7 +124,7 @@ http://srvvii.nellaiiptv.com:8033/app-restream/nilatv-sas/index.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="477" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789751285.webp" group-title="Music",44 NILA TV [RTMP]
 
 #EXTINF:-1 tvg-chno="45" tvg-id="377" tvg-name="KERALA GTPL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788323566.webp" group-title="Entertainment",45 KERALA GTPL TV
-http://srvvii.nellaiiptv.com:8033/app-restream/4vw22q-keralagtpltv/index.m3u8
+http://keralagtpltv.stream.nellaiiptv.com:80/keralagtpltv/keralagtpltv/index.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="377" tvg-name="KERALA GTPL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788323566.webp" group-title="Entertainment",45 KERALA GTPL TV [RTMP]
 
 #EXTINF:-1 tvg-chno="46" tvg-id="474" tvg-name="EYE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789738364.webp" group-title="Entertainment",46 EYE TV
