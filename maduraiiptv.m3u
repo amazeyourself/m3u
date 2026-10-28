@@ -47,10 +47,6 @@ http://srvvii.nellaiiptv.com:8033/app-restream/rwtcaa-stv/index.m3u8
 http://srvvii.nellaiiptv.com:8033/app-restream/e434f1-dureshtv/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="2" tvg-name="DURESH TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787471596.webp" group-title="Entertainment",13 DURESH TV [RTMP]
 rtmp://103.78.164.108:1935/static/PDPTV
-#EXTINF:-1 tvg-chno="14" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",14 LOTUS TV
-https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="378" tvg-name="LOTUS TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1784896615.webp" group-title="Entertainment",14 LOTUS TV [RTMP]
-https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="576" tvg-name="ARCHANA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791978116.webp" group-title="Entertainment",15 ARCHANA TV
 https://live-stream.in/archanatv/archanatv/index.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="576" tvg-name="ARCHANA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1791978116.webp" group-title="Entertainment",15 ARCHANA TV [RTMP]
