@@ -123,6 +123,8 @@ https://jmp2.uk/stvp-FR300032ZK
 https://jmp2.uk/stvp-FR600002ZR
 #EXTINF:-1 tvg-id="FR3600007GW" tvg-name="Alerte Cobra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20261006T034032SQUARE.png",Alerte Cobra
 https://jmp2.uk/stvp-FR3600007GW
+#EXTINF:-1 tvg-id="FR700002UP" tvg-name="Mission Intervention" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20261026T042250SQUARE.png",Mission Intervention
+https://jmp2.uk/stvp-FR700002UP
 #EXTINF:-1 tvg-id="FRBD4800001P4" tvg-name="J'irai dormir chez vous" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
 #EXTINF:-1 tvg-id="FR30000271" tvg-name="RMC alerte secours" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20260721T035912SQUARE.png",RMC alerte secours
@@ -133,8 +135,6 @@ https://jmp2.uk/stvp-FRBC90000220
 https://jmp2.uk/stvp-FRBD410000436
 #EXTINF:-1 tvg-id="FR4200001BN" tvg-name="La Maison France 5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20260528T055238SQUARE.png",La Maison France 5
 https://jmp2.uk/stvp-FR4200001BN
-#EXTINF:-1 tvg-id="FR700002UP" tvg-name="Mission Intervention" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700002UP_20261026T042250SQUARE.png",Mission Intervention
-https://jmp2.uk/stvp-FR700002UP
 #EXTINF:-1 tvg-id="FR3900003Y7" tvg-name="La Vie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3900003Y7_20260818T050826SQUARE.png",La Vie
 https://jmp2.uk/stvp-FR3900003Y7
 #EXTINF:-1 tvg-id="FR400000413" tvg-name="Mayday: Catastrophe Aérienne" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR400000413_20251209T004503SQUARE.png",Mayday: Catastrophe Aérienne
@@ -159,6 +159,8 @@ https://jmp2.uk/stvp-FR3200001NQ
 https://jmp2.uk/stvp-FRBB4900002D4
 #EXTINF:-1 tvg-id="FRBC3900004DS" tvg-name="Cap Terre" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20260528T055150SQUARE.png",Cap Terre
 https://jmp2.uk/stvp-FRBC3900004DS
+#EXTINF:-1 tvg-id="FR3100006XA" tvg-name="Terra Mater Wild" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3100006XA_20261026T042306SQUARE.png",Terra Mater Wild
+https://jmp2.uk/stvp-FR3100006XA
 #EXTINF:-1 tvg-id="FR70000695" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR70000695_20260901T054524SQUARE.png",Space Live
 https://jmp2.uk/stvp-FR70000695
 #EXTINF:-1 tvg-id="FRBD4100002R7" tvg-name="750g" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100002R7_20260528T055254SQUARE.png",750g
@@ -175,8 +177,6 @@ https://jmp2.uk/stvp-FR3700004HZ
 https://jmp2.uk/stvp-FR1300003HM
 #EXTINF:-1 tvg-id="FR1800004EP" tvg-name="TV5 Monde Voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20251013T054046SQUARE.png",TV5 Monde Voyage
 https://jmp2.uk/stvp-FR1800004EP
-#EXTINF:-1 tvg-id="FRBC3500002E4" tvg-name="Echappées belles & co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20261026T042238SQUARE.png",Echappées belles & co
-https://jmp2.uk/stvp-FRBC3500002E4
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png",BFM TV
 https://jmp2.uk/stvp-FRBD410000783
 #EXTINF:-1 tvg-id="FR700007HY" tvg-name="Brut." tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700007HY_20260804T051433SQUARE.png",Brut.
@@ -291,6 +291,8 @@ https://jmp2.uk/stvp-FRAJ3800010QO
 https://jmp2.uk/stvp-FRAJ38000035M
 #EXTINF:-1 tvg-id="FR3400004L5" tvg-name="100% Kidz" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400004L5_20260804T051423SQUARE.png",100% Kidz
 https://jmp2.uk/stvp-FR3400004L5
+#EXTINF:-1 tvg-id="FR2400002YG" tvg-name="Maya l'abeille" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2400002YG_20261026T042244SQUARE.png",Maya l'abeille
+https://jmp2.uk/stvp-FR2400002YG
 #EXTINF:-1 tvg-id="FR2100002YW" tvg-name="Pingu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100002YW_20260901T054517SQUARE.png",Pingu
 https://jmp2.uk/stvp-FR2100002YW
 #EXTINF:-1 tvg-id="FRAJ38000061J" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png",iCarly
