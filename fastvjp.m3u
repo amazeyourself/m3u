@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="17live" tvg-name="ニュース" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/17live/channel_logo",ニュース
 https://ssai.gumgum.com/gs/stream/master/bbm/content.m3u8?stream_url=https%3A%2F%2Flivetv.fastv.jp%2Fchannel_assembly%2F699989FA00007532CED8%2Fmaster.m3u8&gg.ads.publisher_app_name=FASTV&gg.ads.publisher_app_bundle=jp.fastv.gtv.tvapp&gg.ads.publisher_app_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.gtv.tvapp&gg.ads.content_channel=17news
-#EXTINF:-1 tvg-id="tokai" tvg-name="東海" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/tokai/channel_logo",東海
-https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
 #EXTINF:-1 tvg-id="jpthp" tvg-name="落語" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/jpthp/channel_logo",落語
 https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
-#EXTINF:-1 tvg-id="goshogi" tvg-name="囲碁・将棋" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/goshogi/channel_logo",囲碁・将棋
-https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
-#EXTINF:-1 tvg-id="travl" tvg-name="料理" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/travl/channel_logo",料理
-https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
-#EXTINF:-1 tvg-id="entns" tvg-name="ｴﾝﾀﾒﾆｭｰｽ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/entns/channel_logo",ｴﾝﾀﾒﾆｭｰｽ
-https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
-#EXTINF:-1 tvg-id="camng" tvg-name="キャンプ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/camng/channel_logo",キャンプ
-https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
-#EXTINF:-1 tvg-id="news1" tvg-name="九州" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/news1/channel_logo",九州
-https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
 #EXTINF:-1 tvg-id="recip" tvg-name="旅行" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/recip/channel_logo",旅行
 https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
-#EXTINF:-1 tvg-id="snyon" tvg-name="ﾌｧｯｼｮﾝ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/snyon/channel_logo",ﾌｧｯｼｮﾝ
-https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
-#EXTINF:-1 tvg-id="samri" tvg-name="時代劇" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/samri/channel_logo",時代劇
-https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
 #EXTINF:-1 tvg-id="pett1" tvg-name="ペット" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/pett1/channel_logo",ペット
 https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+#EXTINF:-1 tvg-id="news1" tvg-name="九州" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/news1/channel_logo",九州
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+#EXTINF:-1 tvg-id="comdy" tvg-name="バラエティ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/comdy/channel_logo",バラエティ
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+#EXTINF:-1 tvg-id="entns" tvg-name="ｴﾝﾀﾒﾆｭｰｽ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/entns/channel_logo",ｴﾝﾀﾒﾆｭｰｽ
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+#EXTINF:-1 tvg-id="krdrm" tvg-name="韓流" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/krdrm/channel_logo",韓流
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+#EXTINF:-1 tvg-id="goshogi" tvg-name="囲碁・将棋" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/goshogi/channel_logo",囲碁・将棋
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+#EXTINF:-1 tvg-id="samri" tvg-name="時代劇" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/samri/channel_logo",時代劇
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+#EXTINF:-1 tvg-id="asdrm" tvg-name="ｱｼﾞｱﾄﾞﾗﾏ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/asdrm/channel_logo",ｱｼﾞｱﾄﾞﾗﾏ
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+#EXTINF:-1 tvg-id="kids" tvg-name="アニメ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/kids/channel_logo",アニメ
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+#EXTINF:-1 tvg-id="snyon" tvg-name="ﾌｧｯｼｮﾝ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/snyon/channel_logo",ﾌｧｯｼｮﾝ
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+#EXTINF:-1 tvg-id="travl" tvg-name="料理" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/travl/channel_logo",料理
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+#EXTINF:-1 tvg-id="camng" tvg-name="キャンプ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/camng/channel_logo",キャンプ
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+#EXTINF:-1 tvg-id="bgolf" tvg-name="ゴルフ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/bgolf/channel_logo",ゴルフ
+https://ssai.gumgum.com/gs/stream/master/bbm/content.m3u8?stream_url=https%3A%2F%2Flivetv.fastv.jp%2Fchannel_assembly%2F69607D5C725E103DDF9D%2Fmaster.m3u8&gg.ads.publisher_app_name=FASTV&gg.ads.publisher_app_bundle=jp.fastv.gtv.tvapp&gg.ads.publisher_app_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.gtv.tvapp&gg.ads.content_channel=golf
 #EXTINF:-1 tvg-id="hokkaido" tvg-name="北海道" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/hokkaido/channel_logo",北海道
 https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
 #EXTINF:-1 tvg-id="busns" tvg-name="ビジネス" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/busns/channel_logo",ビジネス
 https://ssai.gumgum.com/gs/stream/master/bbm/content.m3u8?stream_url=https%3A%2F%2Flivetv.fastv.jp%2Fchannel_assembly%2F69607EBD725E0F65BEE4%2Fmaster.m3u8&gg.ads.publisher_app_name=FASTV&gg.ads.publisher_app_bundle=jp.fastv.gtv.tvapp&gg.ads.publisher_app_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.gtv.tvapp&gg.ads.content_channel=business
-#EXTINF:-1 tvg-id="kids" tvg-name="アニメ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/kids/channel_logo",アニメ
-https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
-#EXTINF:-1 tvg-id="comdy" tvg-name="バラエティ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/comdy/channel_logo",バラエティ
-https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
-#EXTINF:-1 tvg-id="bgolf" tvg-name="ゴルフ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/bgolf/channel_logo",ゴルフ
-https://ssai.gumgum.com/gs/stream/master/bbm/content.m3u8?stream_url=https%3A%2F%2Flivetv.fastv.jp%2Fchannel_assembly%2F69607D5C725E103DDF9D%2Fmaster.m3u8&gg.ads.publisher_app_name=FASTV&gg.ads.publisher_app_bundle=jp.fastv.gtv.tvapp&gg.ads.publisher_app_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.gtv.tvapp&gg.ads.content_channel=golf
-#EXTINF:-1 tvg-id="krdrm" tvg-name="韓流" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/krdrm/channel_logo",韓流
-https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
-#EXTINF:-1 tvg-id="asdrm" tvg-name="ｱｼﾞｱﾄﾞﾗﾏ" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/asdrm/channel_logo",ｱｼﾞｱﾄﾞﾗﾏ
-https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+#EXTINF:-1 tvg-id="tokai" tvg-name="東海" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/tokai/channel_logo",東海
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
