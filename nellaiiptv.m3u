@@ -3,10 +3,6 @@
 http://srvvii.nellaiiptv.com:8033/app-restream/e434f1-dureshtv/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="2" tvg-name="DURESH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787301696.webp" group-title="Entertainment",2 DURESH TV [RTMP]
 rtmp://103.78.164.108:1935/static/PDPTV
-#EXTINF:-1 tvg-chno="3" tvg-id="1" tvg-name="PDP TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp" group-title="Entertainment",3 PDP TV
-http://srvvii.nellaiiptv.com:8033/app-restream/00e073-pdptv/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="1" tvg-name="PDP TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/pdp_tv_1770711747.webp" group-title="Entertainment",3 PDP TV [RTMP]
-rtmp://pdptv.stream.nellaiiptv.com/pdptv/pdptv
 #EXTINF:-1 tvg-chno="4" tvg-id="4" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/apple_tv_1770712629.webp" group-title="Entertainment",4 APPLE TV
 http://appletv.live.mystreams.in:80/live/appletv/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="4" tvg-name="APPLE TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/apple_tv_1770712629.webp" group-title="Entertainment",4 APPLE TV [RTMP]
@@ -31,10 +27,6 @@ http://sanplayout.xyz/live2/crayonztv/index.m3u8
 http://srvvii.nellaiiptv.com:8033/app-restream/av4i2-sharktv/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="119" tvg-name="SHARK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/shark_tv_1770713207.webp" group-title="Entertainment",9 SHARK TV [RTMP]
 rtmp://sharktv.stream.nellaiiptv.com:1935/live/789456
-#EXTINF:-1 tvg-chno="10" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",10 V TAMIL TV
-http://srvvii.nellaiiptv.com:8033/app-restream/88kp4t-vtamizhtv/index.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="28" tvg-name="V TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/v_tamil_tv_1770713302.webp" group-title="Entertainment",10 V TAMIL TV [RTMP]
-rtmp://stream.dureshtech.com/vtv/vtv
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="GJV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/gjv_tv_1770713443.webp" group-title="Entertainment",11 GJV TV
 http://srvvii.nellaiiptv.com:8033/app-restream/dbjd1j-gjvtv/index.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="30" tvg-name="GJV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/gjv_tv_1770713443.webp" group-title="Entertainment",11 GJV TV [RTMP]
@@ -87,14 +79,6 @@ rtmp://whistletv1.stream.nellaiiptv.com/live/whistletv1
 https://stream.onecloudlive.in/akilamtv/akilamtvhd/index.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="40" tvg-name="AKILAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/akilam_tv_1770714523.webp" group-title="Entertainment",33 AKILAM TV [RTMP]
 None
-#EXTINF:-1 tvg-chno="34" tvg-id="115" tvg-name="V MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="Music",34 V MUSIC TV
-http://srvvii.nellaiiptv.com:8033/app-restream/5akaf8-vmusictv/index.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="115" tvg-name="V MUSIC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="Music",34 V MUSIC TV [RTMP]
-
-#EXTINF:-1 tvg-chno="35" tvg-id="455" tvg-name="V BHAKTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789398135.webp" group-title="Devotional",35 V BHAKTHI TV
-https://siii.mystreams.in/live/vbhakthi/index.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="455" tvg-name="V BHAKTHI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789398135.webp" group-title="Devotional",35 V BHAKTHI TV [RTMP]
-
 #EXTINF:-1 tvg-chno="38" tvg-id="306" tvg-name="MALAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777319836.webp" group-title="Entertainment",38 MALAR TV
 https://malartv-sscloud7-in.proxy.nellaiiptv.com/malartv/malartv/playlist.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="306" tvg-name="MALAR TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1777319836.webp" group-title="Entertainment",38 MALAR TV [RTMP]
@@ -159,6 +143,10 @@ http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
 http://svchannel.live.mystreams.in:80/live/svchannel/index.m3u8
 #EXTINF:-1 tvg-chno="53" tvg-id="503" tvg-name="SV Channel" tvg-logo="" group-title="Entertainment",53 SV Channel [RTMP]
 
+#EXTINF:-1 tvg-chno="54" tvg-id="12" tvg-name="THENTRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1771226071.webp" group-title="",54 THENTRAL TV
+http://thendraltvhd.live.mystreams.in:80/live/thendraltv-hd/index.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="12" tvg-name="THENTRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1771226071.webp" group-title="",54 THENTRAL TV [RTMP]
+null
 #EXTINF:-1 tvg-chno="101" tvg-id="5" tvg-name="VEERALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/veerali_tv_1770715202.webp" group-title="",101 VEERALI TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="5" tvg-name="VEERALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/veerali_tv_1770715202.webp" group-title="",101 VEERALI TV [RTMP]
@@ -183,10 +171,6 @@ null
 https://aalayamagimai.in/tv/live/video.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="11" tvg-name="AALAYA MAGIMAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/aalaya_magimai_tv_1771225296.webp" group-title="",107 AALAYA MAGIMAI TV [RTMP]
 rtmp://aalayamagimai.in/tv/live
-#EXTINF:-1 tvg-chno="108" tvg-id="12" tvg-name="THENTRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1771226071.webp" group-title="",108 THENTRAL TV
-https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-id="12" tvg-name="THENTRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1771226071.webp" group-title="",108 THENTRAL TV [RTMP]
-null
 #EXTINF:-1 tvg-chno="109" tvg-id="13" tvg-name="SAILAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sailam_tv_1771226325.webp" group-title="",109 SAILAM TV
 https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="13" tvg-name="SAILAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sailam_tv_1771226325.webp" group-title="",109 SAILAM TV [RTMP]
