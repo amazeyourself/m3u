@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="0" tvg-chno="0" tvg-name="INFO TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1757781783_0%20.%20ASHOKA%20DIGITAL%20LOGO.png" group-title="Tamil Nadu Channels",0 INFO TV
-https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
+https://ashokaadsplay.ashokadigital.net/player/time-9-news?utm_source=chatgpt.com
 #EXTINF:-1 tvg-id="1" tvg-chno="1" tvg-name="Ashoka Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782816106_Ashoka%20TV%20LOGO%20SWF.gif" group-title="Tamil Nadu Channels",1 Ashoka Tv
 https://live-stream.in/ashokatv/ashokatv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-chno="2" tvg-name="ARK Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784905126_WhatsApp%20Image%202026-07-24%20at%2020.08.51.jpeg" group-title="Christian Tv Channels",2 ARK Tv
