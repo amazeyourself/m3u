@@ -199,9 +199,9 @@ https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
 https://ipcloud.live/sachintv/aadviktv/index.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="574" tvg-name="AADVIK TV" tvg-logo="" group-title="Entertainment",54 AADVIK TV [RTMP]
 
-#EXTINF:-1 tvg-chno="55" tvg-id="581" tvg-name="MADHAN TV" tvg-logo="" group-title="",55 MADHAN TV
+#EXTINF:-1 tvg-chno="55" tvg-id="581" tvg-name="MADHAN TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793195356.webp" group-title="International",55 MADHAN TV
 http://madhantv.phoenixcreations.online/madhantv/madhantv/index.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="581" tvg-name="MADHAN TV" tvg-logo="" group-title="",55 MADHAN TV [RTMP]
+#EXTINF:-1 tvg-chno="55" tvg-id="581" tvg-name="MADHAN TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793195356.webp" group-title="International",55 MADHAN TV [RTMP]
 
 #EXTINF:-1 tvg-chno="56" tvg-id="261" tvg-name="BHARATHI THIRAI ULAGAM TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786948126.webp" group-title="Entertainment",56 BHARATHI THIRAI ULAGAM TV
 https://bharathitv2-sscloud7-in.proxy.nellaiiptv.com/live/bharathithiraiulagam/index.m3u8
@@ -232,7 +232,7 @@ https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="16" tvg-name="NAMMA GOPI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/namma_gopi_tv_1770713623.webp" group-title="Entertainment",69 NAMMA GOPI TV [RTMP]
 null
 #EXTINF:-1 tvg-chno="70" tvg-id="31" tvg-name="DD Tamil" tvg-logo="https://files.catbox.moe/f04865.jpg" group-title="News",70 DD Tamil
-https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+https://cdn.pishow.tv/ott/live/1737/master.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="31" tvg-name="DD Tamil" tvg-logo="https://files.catbox.moe/f04865.jpg" group-title="News",70 DD Tamil [RTMP]
 null
 #EXTINF:-1 tvg-chno="71" tvg-id="113" tvg-name="Polimer News" tvg-logo="https://files.catbox.moe/jn8jwc.jpg" group-title="News",71 Polimer News
@@ -1067,6 +1067,10 @@ https://2.proxy.nellaiiptv.com/EyeMedia/comedy/index.m3u8
 https://stream.onecloudlive.in/duraitv/classic/index.m3u8
 #EXTINF:-1 tvg-chno="837" tvg-id="154" tvg-name="DURAI CLASSIC TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771244954.webp" group-title="Entertainment",837 DURAI CLASSIC TV [RTMP]
 null
+#EXTINF:-1 tvg-chno="841" tvg-id="487" tvg-name="PLANET TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793192417.webp" group-title="Entertainment",841 PLANET TV
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+#EXTINF:-1 tvg-chno="841" tvg-id="487" tvg-name="PLANET TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793192417.webp" group-title="Entertainment",841 PLANET TV [RTMP]
+
 #EXTINF:-1 tvg-chno="844" tvg-id="561" tvg-name="HISTOTY" tvg-logo="" group-title="International",844 HISTOTY
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-chno="844" tvg-id="561" tvg-name="HISTOTY" tvg-logo="" group-title="International",844 HISTOTY [RTMP]
