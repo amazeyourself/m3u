@@ -15,6 +15,10 @@ https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
 https://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="401" tvg-name="CRAYONZ TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787290966.webp" group-title="Entertainment",4 CRAYONZ TV [RTMP]
 
+#EXTINF:-1 tvg-chno="5" tvg-id="279" tvg-name="NACHIYAA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947888.webp" group-title="Entertainment",5 NACHIYAA TV
+https://nachiyaatv.stream.onecloudlive.in/nachiyaatv/nachiyaahd/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="279" tvg-name="NACHIYAA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947888.webp" group-title="Entertainment",5 NACHIYAA TV [RTMP]
+
 #EXTINF:-1 tvg-chno="6" tvg-id="203" tvg-name="MADURA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771253349.webp" group-title="Entertainment",6 MADURA TV
 https://stream.onecloudlive.in/mm/maduratv/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="203" tvg-name="MADURA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771253349.webp" group-title="Entertainment",6 MADURA TV [RTMP]
