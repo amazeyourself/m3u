@@ -51,7 +51,7 @@ while True:
 print(data)
 playlist = []
 playlist.append("#EXTM3U")
-blockedEPG = ["443","444","445","464"]
+blockedEPG = []
 for i in data['data']:
     stringdata = json.dumps(i, indent=4)
     channel_data = json.loads(stringdata)
