@@ -1,12 +1,16 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
 #EXTINF:-1 tvg-id="660d64a7aec9680008f8ba77" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png",Top Gear Classics
 https://jmp2.uk/plu-660d64a7aec9680008f8ba77.m3u8
+#EXTINF:-1 tvg-id="660d64eac8311c0008b8bbef" tvg-name="Top Gear Road Trips" tvg-logo="https://images.pluto.tv/channels/660d64eac8311c0008b8bbef/colorLogoPNG.png",Top Gear Road Trips
+https://jmp2.uk/plu-660d64eac8311c0008b8bbef.m3u8
+#EXTINF:-1 tvg-id="660d6536aec9680008f8cc8e" tvg-name="Top Gear Challenge" tvg-logo="https://images.pluto.tv/channels/660d6536aec9680008f8cc8e/colorLogoPNG.png",Top Gear Challenge
+https://jmp2.uk/plu-660d6536aec9680008f8cc8e.m3u8
+#EXTINF:-1 tvg-id="678f97bc5225b515b49d99c6" tvg-name="Doctor Who: Christmas" tvg-logo="https://images.pluto.tv/channels/678f97bc5225b515b49d99c6/colorLogoPNG_1793008688989.png",Doctor Who: Christmas
+https://jmp2.uk/plu-678f97bc5225b515b49d99c6.m3u8
 #EXTINF:-1 tvg-id="6512d40a3a0d700008db1952" tvg-name="Nathan for You" tvg-logo="https://images.pluto.tv/channels/6512d40a3a0d700008db1952/colorLogoPNG.png",Nathan for You
 https://jmp2.uk/plu-6512d40a3a0d700008db1952.m3u8
 #EXTINF:-1 tvg-id="6ac3600dde3a888e5ac2a5fe" tvg-name="Temptation Island USA" tvg-logo="https://images.pluto.tv/channels/6ac3600dde3a888e5ac2a5fe/colorLogoPNG_1792068332150.png",Temptation Island USA
 https://jmp2.uk/plu-6ac3600dde3a888e5ac2a5fe.m3u8
-#EXTINF:-1 tvg-id="620236f52b73dd000719dd0f" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/620236f52b73dd000719dd0f/colorLogoPNG.png",Doctor Who
-https://jmp2.uk/plu-620236f52b73dd000719dd0f.m3u8
 #EXTINF:-1 tvg-id="63a19cb7847a090007f230d7" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/63a19cb7847a090007f230d7/colorLogoPNG.png",Pluto TV Horror
 https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
 #EXTINF:-1 tvg-id="69f84f985304e32444f83ed3" tvg-name="Pluto TV Horror Classics" tvg-logo="https://images.pluto.tv/channels/69f84f985304e32444f83ed3/colorLogoPNG_1787552191904.png",Pluto TV Horror Classics
@@ -79,10 +83,10 @@ https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8
 https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8
 #EXTINF:-1 tvg-id="691ed76a9c828fb484f7c2e5" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed76a9c828fb484f7c2e5/colorLogoPNG_1775046984569.png",Inter 24/7
 https://jmp2.uk/plu-691ed76a9c828fb484f7c2e5.m3u8
-#EXTINF:-1 tvg-id="660d71e2aec9680008f8f18a" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/660d71e2aec9680008f8f18a/colorLogoPNG.png",Realmadrid TV
-https://jmp2.uk/plu-660d71e2aec9680008f8f18a.m3u8
 #EXTINF:-1 tvg-id="69d7a0d0f57dc59a5f928fb2" tvg-name="Best of Magnus Midtbø" tvg-logo="https://images.pluto.tv/channels/69d7a0d0f57dc59a5f928fb2/colorLogoPNG_1776698296343.png",Best of Magnus Midtbø
 https://jmp2.uk/plu-69d7a0d0f57dc59a5f928fb2.m3u8
+#EXTINF:-1 tvg-id="660d71e2aec9680008f8f18a" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/660d71e2aec9680008f8f18a/colorLogoPNG.png",Realmadrid TV
+https://jmp2.uk/plu-660d71e2aec9680008f8f18a.m3u8
 #EXTINF:-1 tvg-id="660bfca524e1d000085b6007" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfca524e1d000085b6007/colorLogoPNG_1750064601434.png",FIFA+
 https://jmp2.uk/plu-660bfca524e1d000085b6007.m3u8
 #EXTINF:-1 tvg-id="6a68c4f2f107abb1a6e9df7a" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c4f2f107abb1a6e9df7a/colorLogoPNG_1785251107268.png",NFL Channel
@@ -107,8 +111,6 @@ https://jmp2.uk/plu-65c340383a116800078c8454.m3u8
 https://jmp2.uk/plu-62724ae034f5190007b63424.m3u8
 #EXTINF:-1 tvg-id="693ae4b616c2bba998852c21" tvg-name="The L Word" tvg-logo="https://images.pluto.tv/channels/693ae4b616c2bba998852c21/colorLogoPNG_1768226860654.png",The L Word
 https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8
-#EXTINF:-1 tvg-id="693ae3624258f18a3e117b8b" tvg-name="Teen Wolf" tvg-logo="https://images.pluto.tv/channels/693ae3624258f18a3e117b8b/colorLogoPNG_1770362386497.png",Teen Wolf
-https://jmp2.uk/plu-693ae3624258f18a3e117b8b.m3u8
 #EXTINF:-1 tvg-id="62a0ada2f1bdc5000738e020" tvg-name="Melrose Place" tvg-logo="https://images.pluto.tv/channels/62a0ada2f1bdc5000738e020/colorLogoPNG.png",Melrose Place
 https://jmp2.uk/plu-62a0ada2f1bdc5000738e020.m3u8
 #EXTINF:-1 tvg-id="68f0f602a362b63a8df4efb4" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/68f0f602a362b63a8df4efb4/colorLogoPNG_1764691480440.png",Medium
@@ -299,6 +301,8 @@ https://jmp2.uk/plu-6a427cd153ad8a71107749cc.m3u8
 https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
 #EXTINF:-1 tvg-id="69afeca6ac36b147e7ef33a7" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afeca6ac36b147e7ef33a7/colorLogoPNG_1776175878061.png",The 4400
 https://jmp2.uk/plu-69afeca6ac36b147e7ef33a7.m3u8
+#EXTINF:-1 tvg-id="620236f52b73dd000719dd0f" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/620236f52b73dd000719dd0f/colorLogoPNG.png",Doctor Who
+https://jmp2.uk/plu-620236f52b73dd000719dd0f.m3u8
 #EXTINF:-1 tvg-id="6178156e54712100072d6b2b" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/6178156e54712100072d6b2b/colorLogoPNG.png",Andromeda
 https://jmp2.uk/plu-6178156e54712100072d6b2b.m3u8
 #EXTINF:-1 tvg-id="699c1bd39a3f3bb4887e045e" tvg-name="Farscape" tvg-logo="https://images.pluto.tv/channels/699c1bd39a3f3bb4887e045e/colorLogoPNG_1771838500157.png",Farscape
