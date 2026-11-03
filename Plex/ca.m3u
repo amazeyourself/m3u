@@ -317,12 +317,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65d90ec99c7a6da8c3ce57eb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd" tvg-name="BBC Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png",BBC Travel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970" tvg-name="CBC News Windsor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b063913-3b99-42a3-8195-703473567361/CBCNews-LOCAL-Windsor_Plex_LOGO-COL-ON-DARK_RDX.png",CBC News Windsor
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a52212c054ac87f216edff" tvg-name="CBC News Ottawa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/54571e45-8e49-44e5-84c0-8b2c79d95805/CBCNews-LOCAL-Ottawa_Plex_LOGO-COL-ON-DARK_wht_textRDX.png",CBC News Ottawa
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a52212c054ac87f216edff.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a51ec7c054ac87f216edfb" tvg-name="CBC News Toronto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ab43572e-2168-4144-9d07-ec540e297fe0/CBCNews-LOCAL-Toronto_Plex_LOGO-COL-ON-DARK_WHT_TXT_RDX.png",CBC News Toronto
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ec7c054ac87f216edfb.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8" tvg-name="CBC News Quebec" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e089a0c5-3a4f-485e-b142-739e9c52ce9a/CBCNews-LOCAL-Quebec_Plex_LOGO-COL-ON-DARK_WHT_TEXT_RDX.png",CBC News Quebec
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f" tvg-name="Radio-Canada INFO" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/722a587b42db503d96ac4e7b11923644.png",Radio-Canada INFO
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88" tvg-name="The Bob Ross Channel" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",The Bob Ross Channel
@@ -691,7 +687,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67f99397bf750bd4ca333ddb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5eea605474085f0040ddc767" tvg-name="AsianCrush" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e1e8bf91cc2064e36aaf0a596d6a641d.png",AsianCrush
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea605474085f0040ddc767.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",Greatest Holiday Hits
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6674baf1a9c715b93ca6ca90" tvg-name="Unspeakable" tvg-logo="https://provider-static.plex.tv/epg/cms/production/557e2a37-20f0-4e1f-8dc5-b99cbebaa33e/FilmRise_Unspeakable_Color_LogoRDX.png",Unspeakable
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6674baf1a9c715b93ca6ca90.m3u8
@@ -749,7 +745,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68800926996f1a2fb393a6e7.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4eddeb2fdec002c141137.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69d57b7d629e24fac06ae529" tvg-name="Kids" tvg-logo="https://provider-static.plex.tv/epg/cms/production/891c8cb8-4d1b-4393-8de0-d0e9dd53db92/ABC-kids-logo-light-mode_-_Orange_RDX.png",Kids
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69d57b7d629e24fac06ae529.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",Stingray Holidayscapes
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",Stingray Holidayscapes
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-654eb862dde2222e8ba551f1.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png",Watch it Kid
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6.m3u8

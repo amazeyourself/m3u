@@ -51,7 +51,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69b164bc87340e48b7b72247.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-61d73ab0a7b7c7f703418516.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66c3d1abd263903b4c6d991e" tvg-name="INSIDE CRIME" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a1148e03-0d33-4faf-ab74-4039f5f3b6e8/Inside-Crime-Logo_Dark_-_Greta_WilliamsRDX.png",INSIDE CRIME
 https://jmp2.uk/plex-64305451fc3be5947773c339-66c3d1abd263903b4c6d991e.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a" tvg-name="Lifetime Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18bab13d-afa7-4df6-8149-c8ddef9dd212/Lifetime_Movies_channel_logo_white_1500x1000.png",Lifetime Movies
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a" tvg-name="Christmas Movies by Lifetime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29e28c9c-081d-42fd-af2a-6f6f3fe8f041/INT_CMBL_logo_Fin_RedRDX.png",Christmas Movies by Lifetime
 https://jmp2.uk/plex-64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69f4f6c2647c1d14cc38677b" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",NFL Channel
 https://jmp2.uk/plex-64305451fc3be5947773c339-69f4f6c2647c1d14cc38677b.m3u8
@@ -539,7 +539,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-68645d7719cc2e163e38d163.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-62fbf36c1567211fdb82e920.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-66fd3e25216b603e031725fe" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png",ZenLIFE by Stingray
 https://jmp2.uk/plex-64305451fc3be5947773c339-66fd3e25216b603e031725fe.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",Stingray Holidayscapes
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",Stingray Holidayscapes
 https://jmp2.uk/plex-64305451fc3be5947773c339-654eb862dde2222e8ba551f1.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",Cooking Panda
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f07e9fdf313eb0041bbecda.m3u8
@@ -665,7 +665,7 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-62f13eeded056a1db9ef3d54.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-62efbb8652f7d73061eec498.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62167144ab2095ca85353ad6" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png",CINEPRIDE
 https://jmp2.uk/plex-64305451fc3be5947773c339-62167144ab2095ca85353ad6.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",Greatest Holiday Hits
 https://jmp2.uk/plex-64305451fc3be5947773c339-61aa97d4113e1e5137fd5325.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-61aaa014784a2161d3caf7fd" tvg-name="Hit List" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6d559f3-6a3d-4ce0-839e-55681e4a7928/Hit_List.png",Hit List
 https://jmp2.uk/plex-64305451fc3be5947773c339-61aaa014784a2161d3caf7fd.m3u8

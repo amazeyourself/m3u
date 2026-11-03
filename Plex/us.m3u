@@ -103,7 +103,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-645e328fb164db00b4547f05.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fb84bc1b7ad2d002dcb735f.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6533de63bd43e1c8b1865152" tvg-name="Ebony TV by Lionsgate" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09d19711-7f10-45d1-8ec9-2100d6f0d27a/EbonyTV_Logo_1500x1000_DarkBG.png",Ebony TV by Lionsgate
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6533de63bd43e1c8b1865152.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2" tvg-name="Lifetime Movie Favorites" tvg-logo="https://provider-static.plex.tv/epg/cms/production/64ce3127-c379-4c7f-b576-7a4c167c8311/LTMF_channel_logo_4c_1500x1000rdx.png",Lifetime Movie Favorites
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2" tvg-name="Lifetime Holiday Movie Favorites" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d61d917-bcb1-48d9-ac16-38a7a6a9ca1b/Lifetime_Holiday_Movie_Favorites_channel_logo_4c_1500x1000.png",Lifetime Holiday Movie Favorites
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-690549d77a3fc35d95153b9e" tvg-name="America’s Funniest Home Videos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7f49eb97-4926-4302-8710-0b4e64f7560b/Americas_Funniest_Home_Video_AFHV_LogoA_Color_1500x1000.png",America’s Funniest Home Videos
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-690549d77a3fc35d95153b9e.m3u8
@@ -465,7 +465,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-66f6b6baac1a1890ef197a4b.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",Circle Country
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2" tvg-name="Places & Spaces" tvg-logo="https://provider-static.plex.tv/epg/cms/production/93b7eade-14c9-434b-822b-f86ed372481f/PLEX_P_S_LOGOFORDARKBKG_1500X1500_REV_-_Patty_Gopez.png",Places & Spaces
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2" tvg-name="The Great Christmas Light Fight on Places & Spaces" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a19d1fe4-a6f3-4f34-b203-4dd55ea1bd9a/TheGreatChristmasLightFight_P_S_Logocolor_white_colorRDX.png",The Great Christmas Light Fight on Places & Spaces
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6373bfe48e2036e4410ddb82" tvg-name="Discovery Turbo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29397b83-4169-4eaa-8d67-e01d54812191/DiscoveryTurboTV_logo_1500x1000px_darkBg.png",Discovery Turbo TV
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6373bfe48e2036e4410ddb82.m3u8
@@ -1027,7 +1027,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a4af875410e0eea561f76af.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-65f0cae2046e6131ecc3183f.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67182cd9d321899c5dc8a00c" tvg-name="My Little Pony" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b3175d0-6efb-4f2f-afe5-1e53312210da/PLEX---1500X1000-Logo-suitable-for-dark-backgrounds.png",My Little Pony
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-67182cd9d321899c5dc8a00c.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",Stingray Holidayscapes
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-654eb862dde2222e8ba551f1" tvg-name="Stingray Holidayscapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",Stingray Holidayscapes
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-654eb862dde2222e8ba551f1.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64fb9149bb3e0baa5dcc0944" tvg-name="Estrella Games" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png",Estrella Games
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64fb9149bb3e0baa5dcc0944.m3u8
@@ -1257,7 +1257,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-68c87052da79d98d977dc90e.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-60b0f65c0c8ffb002c821a75.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62fbf197c67d52bddf74cc87" tvg-name="Movie Music by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png",Movie Music by Stingray
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-62fbf197c67d52bddf74cc87.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325" tvg-name="Stingray Greatest Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",Stingray Greatest Hits
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325" tvg-name="Greatest Holiday Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",Greatest Holiday Hits
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6aaa1f33083227098739435d" tvg-name="VEEPS Concert Pass" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png",VEEPS Concert Pass
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6aaa1f33083227098739435d.m3u8
