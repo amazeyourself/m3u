@@ -59,20 +59,14 @@ https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-name="Flicks of Fury" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
-#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png",Pluto TV Cult Films
-https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="63335df531a7590007c226b9" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG_1793115157565.png",Pluto TV Christmas
 https://jmp2.uk/plu-63335df531a7590007c226b9.m3u8
+#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png",Pluto TV Cult Films
+https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="5d9ccd538661290009ecbdb7" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1792768625587.png",Pluto TV Mistletoe
 https://jmp2.uk/plu-5d9ccd538661290009ecbdb7.m3u8
 #EXTINF:-1 tvg-id="68f690e7a25ba0aab32bed92" tvg-name="BET Holiday Movies" tvg-logo="https://images.pluto.tv/channels/68f690e7a25ba0aab32bed92/colorLogoPNG_1760989733981.png",BET Holiday Movies
 https://jmp2.uk/plu-68f690e7a25ba0aab32bed92.m3u8
-#EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-name="Crackling Fireplace" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png",Crackling Fireplace
-https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
-#EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-name="Festive Fireplace" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png",Festive Fireplace
-https://jmp2.uk/plu-614501c653ceee000772b0ca.m3u8
-#EXTINF:-1 tvg-id="66ff1d5a565d3a000892bdcd" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1793557277076.png",Stingray Holidayscapes
-https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="633354b63df9700007f6a1b7" tvg-name="Sitcom Legends" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png",Sitcom Legends
@@ -289,10 +283,10 @@ https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 https://jmp2.uk/plu-6aab1ec6f2eaa8924745678e.m3u8
 #EXTINF:-1 tvg-id="65492fc7056b9700088560b5" tvg-name="American Crimes" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png",American Crimes
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
-#EXTINF:-1 tvg-id="6ad7a23d0f04c58afc0110ad" tvg-name="I (Almost) Got Away With It" tvg-logo="https://images.pluto.tv/channels/6ad7a23d0f04c58afc0110ad/colorLogoPNG_1793382563465.png",I (Almost) Got Away With It
-https://jmp2.uk/plu-6ad7a23d0f04c58afc0110ad.m3u8
 #EXTINF:-1 tvg-id="637413d8531e0c0007442d6d" tvg-name="Dateline 24/7" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png",Dateline 24/7
 https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
+#EXTINF:-1 tvg-id="6ad7a23d0f04c58afc0110ad" tvg-name="I (Almost) Got Away With It" tvg-logo="https://images.pluto.tv/channels/6ad7a23d0f04c58afc0110ad/colorLogoPNG_1793382563465.png",I (Almost) Got Away With It
+https://jmp2.uk/plu-6ad7a23d0f04c58afc0110ad.m3u8
 #EXTINF:-1 tvg-id="6176f39e709f160007ec61c3" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",48 Hours
 https://jmp2.uk/plu-6176f39e709f160007ec61c3.m3u8
 #EXTINF:-1 tvg-id="68bb164fb3900870ec368759" tvg-name="Living With Evil" tvg-logo="https://images.pluto.tv/channels/68bb164fb3900870ec368759/colorLogoPNG_1785342013286.png",Living With Evil
@@ -339,8 +333,6 @@ https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 #EXTINF:-1 tvg-id="6000a6f4c3f8550008fc9b91" tvg-name="Xtreme Outdoor by HISTORY" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG_1767745185882.png",Xtreme Outdoor by HISTORY
 https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
-#EXTINF:-1 tvg-id="6334a3355471ee0007609e21" tvg-name="Home for the Holidays" tvg-logo="https://images.pluto.tv/channels/6334a3355471ee0007609e21/colorLogoPNG_1763240202978.png",Home for the Holidays
-https://jmp2.uk/plu-6334a3355471ee0007609e21.m3u8
 #EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-name="Spike Outdoors" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png",Spike Outdoors
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 #EXTINF:-1 tvg-id="6ad7a07e13fe741bc260bfe0" tvg-name="Extreme Expeditions" tvg-logo="https://images.pluto.tv/channels/6ad7a07e13fe741bc260bfe0/colorLogoPNG_1793381955505.png",Extreme Expeditions
@@ -389,6 +381,8 @@ https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 #EXTINF:-1 tvg-id="6549322e53fc97000838febc" tvg-name="Million Dollar Listing Vault" tvg-logo="https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png",Million Dollar Listing Vault
 https://jmp2.uk/plu-6549322e53fc97000838febc.m3u8
+#EXTINF:-1 tvg-id="6334a3355471ee0007609e21" tvg-name="Home for the Holidays" tvg-logo="https://images.pluto.tv/channels/6334a3355471ee0007609e21/colorLogoPNG_1763240202978.png",Home for the Holidays
+https://jmp2.uk/plu-6334a3355471ee0007609e21.m3u8
 #EXTINF:-1 tvg-id="6549310a53fc97000838fcc9" tvg-name="Bravo Vault" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png",Bravo Vault
 https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
 #EXTINF:-1 tvg-id="6549316d2c1d330008631496" tvg-name="Real Housewives Vault" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png",Real Housewives Vault
@@ -511,8 +505,8 @@ https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 tvg-id="5dc9b875e280c80009a8a44a" tvg-name="CBS News Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png",CBS News Los Angeles
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
-#EXTINF:-1 tvg-id="62cdc75b1a1cbd0007ed45dc" tvg-name="CBS News Chicago" tvg-logo="https://images.pluto.tv/channels/62cdc75b1a1cbd0007ed45dc/colorLogoPNG.png",CBS News Chicago
-https://jmp2.uk/plu-62cdc75b1a1cbd0007ed45dc.m3u8
+#EXTINF:-1 tvg-id="634f24cf3ce5fa0007c68f39" tvg-name="CBS News Detroit" tvg-logo="https://images.pluto.tv/channels/634f24cf3ce5fa0007c68f39/colorLogoPNG.png",CBS News Detroit
+https://jmp2.uk/plu-634f24cf3ce5fa0007c68f39.m3u8
 #EXTINF:-1 tvg-id="55b179af994403942f3061d6" tvg-name="Newsmax2" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png",Newsmax2
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 #EXTINF:-1 tvg-id="5d695f7db53adf96b78e7ce3" tvg-name="TODAY All Day" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png",TODAY All Day
@@ -627,10 +621,10 @@ https://jmp2.uk/plu-68bb16e7f89c82a68bcc4397.m3u8
 https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
 #EXTINF:-1 tvg-id="66df8aa7abec540008ca8cb6" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/66df8aa7abec540008ca8cb6/colorLogoPNG.png",Homeful
 https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8
-#EXTINF:-1 tvg-id="66e0b265dd2d690008c5496b" tvg-name="Places & Spaces" tvg-logo="https://images.pluto.tv/channels/66e0b265dd2d690008c5496b/colorLogoPNG_1793200524996.png",Places & Spaces
-https://jmp2.uk/plu-66e0b265dd2d690008c5496b.m3u8
 #EXTINF:-1 tvg-id="68bb162bb3900870ec364cbe" tvg-name="Beach Day" tvg-logo="https://images.pluto.tv/channels/68bb162bb3900870ec364cbe/colorLogoPNG_1757977922278.png",Beach Day
 https://jmp2.uk/plu-68bb162bb3900870ec364cbe.m3u8
+#EXTINF:-1 tvg-id="66e0b265dd2d690008c5496b" tvg-name="Places & Spaces" tvg-logo="https://images.pluto.tv/channels/66e0b265dd2d690008c5496b/colorLogoPNG_1793200524996.png",Places & Spaces
+https://jmp2.uk/plu-66e0b265dd2d690008c5496b.m3u8
 #EXTINF:-1 tvg-id="656542ae4261ca00082154a8" tvg-name="Ultimate Builds" tvg-logo="https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png",Ultimate Builds
 https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
 #EXTINF:-1 tvg-id="6565430c9d5ac4000822f508" tvg-name="Rustic Retreats" tvg-logo="https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png",Rustic Retreats
@@ -831,8 +825,14 @@ https://jmp2.uk/plu-60492e6d7f3f560007ab0f62.m3u8
 https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
 #EXTINF:-1 tvg-id="64d161c93c785e0008df575e" tvg-name="Vevo Íconos Latinos" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png",Vevo Íconos Latinos
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
+#EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-name="Crackling Fireplace" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png",Crackling Fireplace
+https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
+#EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-name="Festive Fireplace" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png",Festive Fireplace
+https://jmp2.uk/plu-614501c653ceee000772b0ca.m3u8
 #EXTINF:-1 tvg-id="6334a3ffdc283500076acf92" tvg-name="Vevo Holiday" tvg-logo="https://images.pluto.tv/channels/6334a3ffdc283500076acf92/colorLogoPNG_1762031770975.png",Vevo Holiday
 https://jmp2.uk/plu-6334a3ffdc283500076acf92.m3u8
+#EXTINF:-1 tvg-id="66ff1d5a565d3a000892bdcd" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/colorLogoPNG_1793557277076.png",Stingray Holidayscapes
+https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 #EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png",Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png",Vevo '80s
