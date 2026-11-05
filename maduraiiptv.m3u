@@ -375,6 +375,10 @@ https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
 https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-id="580" tvg-name="TNSE TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1792500208.webp" group-title="Entertainment",108 TNSE TV [RTMP]
 
+#EXTINF:-1 tvg-chno="117" tvg-id="582" tvg-name="ARUN TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793792714.webp" group-title="Entertainment",117 ARUN TV
+http://147.93.29.33:8888/theni/channel1/index.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="582" tvg-name="ARUN TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793792714.webp" group-title="Entertainment",117 ARUN TV [RTMP]
+null
 #EXTINF:-1 tvg-chno="129" tvg-id="432" tvg-name="LION TV" tvg-logo="" group-title="Entertainment",129 LION TV
 https://stream.iplive.xyz/smmedia/liontv/index.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="432" tvg-name="LION TV" tvg-logo="" group-title="Entertainment",129 LION TV [RTMP]
@@ -874,10 +878,6 @@ https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 #EXTINF:-1 tvg-chno="608" tvg-id="532" tvg-name="Goldmines" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789654612.webp" group-title="Entertainment",608 Goldmines
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 #EXTINF:-1 tvg-chno="608" tvg-id="532" tvg-name="Goldmines" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789654612.webp" group-title="Entertainment",608 Goldmines [RTMP]
-
-#EXTINF:-1 tvg-chno="609" tvg-id="582" tvg-name="HINDI HITS MUSIC" tvg-logo="" group-title="Entertainment",609 HINDI HITS MUSIC
-https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-chno="609" tvg-id="582" tvg-name="HINDI HITS MUSIC" tvg-logo="" group-title="Entertainment",609 HINDI HITS MUSIC [RTMP]
 
 #EXTINF:-1 tvg-chno="650" tvg-id="34" tvg-name="News24x7 Tamil" tvg-logo="https://files.catbox.moe/ts1jaf.webp" group-title="News",650 News24x7 Tamil
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
