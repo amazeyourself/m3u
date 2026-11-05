@@ -63,8 +63,6 @@ https://jmp2.uk/stvp-AT2300003IC
 https://jmp2.uk/stvp-AT3200012MN
 #EXTINF:-1 tvg-id="AT300045YS" tvg-name="Poldark" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300045YS_20261013T052521SQUARE.png",Poldark
 https://jmp2.uk/stvp-AT300045YS
-#EXTINF:-1 tvg-id="AT20000055C" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000055C_20261102T064331SQUARE.png",NCIS: New Orleans
-https://jmp2.uk/stvp-AT20000055C
 #EXTINF:-1 tvg-id="AT3000006M1" tvg-name="AMC Stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3000006M1_20251013T053757SQUARE.png",AMC Stories
 https://jmp2.uk/stvp-AT3000006M1
 #EXTINF:-1 tvg-id="AT1500003M7" tvg-name="Herzfrequenz" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500003M7_20250422T045225SQUARE.png",Herzfrequenz
@@ -107,6 +105,8 @@ https://jmp2.uk/stvp-AT11000056T
 https://jmp2.uk/stvp-AT16000042Y
 #EXTINF:-1 tvg-id="AT11000093N" tvg-name="ARD Plus Sturm der Liebe" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT11000093N_20261026T041539SQUARE.png",ARD Plus Sturm der Liebe
 https://jmp2.uk/stvp-AT11000093N
+#EXTINF:-1 tvg-id="AT20000055C" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000055C_20261102T064331SQUARE.png",NCIS: New Orleans
+https://jmp2.uk/stvp-AT20000055C
 #EXTINF:-1 tvg-id="AT4800002G5" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260929T035704SQUARE.png",Hudson & Rex
 https://jmp2.uk/stvp-AT4800002G5
 #EXTINF:-1 tvg-id="AT300009BI" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20260915T034823SQUARE.png",Alarm für Cobra 11 / Balko
@@ -235,7 +235,7 @@ https://jmp2.uk/stvp-ATBD290000127
 https://jmp2.uk/stvp-ATBC4700001JX
 #EXTINF:-1 tvg-id="AT3600001W4" tvg-name="Real Madrid TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3600001W4_20261013T052539SQUARE.png",Real Madrid TV
 https://jmp2.uk/stvp-AT3600001W4
-#EXTINF:-1 tvg-id="AT1100003X6" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100003X6_20261102T064326SQUARE.png",Top Barça
+#EXTINF:-1 tvg-id="AT1100003X6" tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100003X6_20261102T064326SQUARE.png",Barça 24H
 https://jmp2.uk/stvp-AT1100003X6
 #EXTINF:-1 tvg-id="ATBA3300007PT" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300007PT_20250513T005116SQUARE.png",FIFA+
 https://jmp2.uk/stvp-ATBA3300007PT

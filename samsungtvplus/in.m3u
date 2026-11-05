@@ -121,12 +121,12 @@ https://jmp2.uk/stvp-IN49000103E
 https://jmp2.uk/stvp-IN4600019L1
 #EXTINF:-1 tvg-id="INBD1300010WP" tvg-name="News18 India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20261102T074351SQUARE.png",News18 India
 https://jmp2.uk/stvp-INBD1300010WP
-#EXTINF:-1 tvg-id="INBA490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261102T074429SQUARE.png",Republic Bharat
-https://jmp2.uk/stvp-INBA490002119
-#EXTINF:-1 tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20261013T051816SQUARE.png",TV9 Bharatvarsh
-https://jmp2.uk/stvp-IN3800003SV
 #EXTINF:-1 tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20261102T074416SQUARE.png",ABP News
 https://jmp2.uk/stvp-IN4600012BD
+#EXTINF:-1 tvg-id="IN3800003SV" tvg-name="TV9 Bharatvarsh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800003SV_20261013T051816SQUARE.png",TV9 Bharatvarsh
+https://jmp2.uk/stvp-IN3800003SV
+#EXTINF:-1 tvg-id="INBA490002119" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261102T074429SQUARE.png",Republic Bharat
+https://jmp2.uk/stvp-INBA490002119
 #EXTINF:-1 tvg-id="IN3800001ZH" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png",Aaj Tak HD
 https://jmp2.uk/stvp-IN3800001ZH
 #EXTINF:-1 tvg-id="INBC4300010Z6" tvg-name="Zee News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20260915T042211SQUARE.png",Zee News
@@ -291,10 +291,10 @@ https://jmp2.uk/stvp-INBD13000053R
 https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-id="IN30009003" tvg-name="Dharma Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN30009003_20260623T014742SQUARE.png",Dharma Live
 https://jmp2.uk/stvp-IN30009003
-#EXTINF:-1 tvg-id="IN25000020M" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261020T052431SQUARE.png",The Jungle Book
-https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 tvg-id="IN4000625P" tvg-name="Green Gold TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20261102T074409SQUARE.png",Green Gold TV
 https://jmp2.uk/stvp-IN4000625P
+#EXTINF:-1 tvg-id="IN25000020M" tvg-name="The Jungle Book" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261020T052431SQUARE.png",The Jungle Book
+https://jmp2.uk/stvp-IN25000020M
 #EXTINF:-1 tvg-id="IN4600009F9" tvg-name="Hooray Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20260623T015044SQUARE.png",Hooray Kids
 https://jmp2.uk/stvp-IN4600009F9
 #EXTINF:-1 tvg-id="IN4600007TC" tvg-name="Hooray Rhymes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20260623T015050SQUARE.png",Hooray Rhymes

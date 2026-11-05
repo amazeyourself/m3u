@@ -135,7 +135,7 @@ https://jmp2.uk/stvp-DE17000032I
 https://jmp2.uk/stvp-DE3900002R1
 #EXTINF:-1 tvg-id="DE35000030P" tvg-name="Real Madrid TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE35000030P_20261013T053330SQUARE.png",Real Madrid TV
 https://jmp2.uk/stvp-DE35000030P
-#EXTINF:-1 tvg-id="DE1100003YR" tvg-name="Top Barça" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20261102T065933SQUARE.png",Top Barça
+#EXTINF:-1 tvg-id="DE1100003YR" tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100003YR_20261102T065933SQUARE.png",Barça 24H
 https://jmp2.uk/stvp-DE1100003YR
 #EXTINF:-1 tvg-id="DEBA3300019EB" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20251125T102307SQUARE.png",FIFA+
 https://jmp2.uk/stvp-DEBA3300019EB
@@ -239,8 +239,6 @@ https://jmp2.uk/stvp-DEAJ32000012H
 https://jmp2.uk/stvp-DEAJ0500423A
 #EXTINF:-1 tvg-id="DE3700001F7" tvg-name="Fluss Monsters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700001F7_20250819T033047SQUARE.png",Fluss Monsters
 https://jmp2.uk/stvp-DE3700001F7
-#EXTINF:-1 tvg-id="DE1200008U3" tvg-name="ARD Plus Zoo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200008U3_20261102T065953SQUARE.png",ARD Plus Zoo
-https://jmp2.uk/stvp-DE1200008U3
 #EXTINF:-1 tvg-id="DEAK3504503A" tvg-name="Pluto TV Animals" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504503A_20250107T023950SQUARE.png",Pluto TV Animals
 https://jmp2.uk/stvp-DEAK3504503A
 #EXTINF:-1 tvg-id="DEBC4700004VZ" tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700004VZ_20250107T024340SQUARE.png",Love the Planet
@@ -249,6 +247,10 @@ https://jmp2.uk/stvp-DEBC4700004VZ
 https://jmp2.uk/stvp-DE8000012L
 #EXTINF:-1 tvg-id="DEAJ0500428A" tvg-name="just.fishing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20260818T050233SQUARE.png",just.fishing
 https://jmp2.uk/stvp-DEAJ0500428A
+#EXTINF:-1 tvg-id="DE1200008U3" tvg-name="ARD Plus Zoo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200008U3_20261102T065953SQUARE.png",ARD Plus Zoo
+https://jmp2.uk/stvp-DE1200008U3
+#EXTINF:-1 tvg-id="DE2200005GX" tvg-name="Welt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200005GX_20261102T070010SQUARE.png",Welt
+https://jmp2.uk/stvp-DE2200005GX
 #EXTINF:-1 tvg-id="DE4300003MR" tvg-name="Nachrichten 360" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png",Nachrichten 360
 https://jmp2.uk/stvp-DE4300003MR
 #EXTINF:-1 tvg-id="DE2600003TR" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600003TR_20260707T050245SQUARE.png",Euronews LIVE
@@ -267,8 +269,8 @@ https://jmp2.uk/stvp-DE3400001N1
 https://jmp2.uk/stvp-DEBA3300027ZJ
 #EXTINF:-1 tvg-id="DEBD4900001QV" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4900001QV_20250107T024918SQUARE.png",Reuters
 https://jmp2.uk/stvp-DEBD4900001QV
-#EXTINF:-1 tvg-id="DE2200005GX" tvg-name="Welt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200005GX_20261102T070010SQUARE.png",Welt
-https://jmp2.uk/stvp-DE2200005GX
+#EXTINF:-1 tvg-id="DE2100006NS" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2100006NS_20261102T065949SQUARE.png",NCIS: New Orleans
+https://jmp2.uk/stvp-DE2100006NS
 #EXTINF:-1 tvg-id="DE4800002GM" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20261102T070001SQUARE.png",Hudson & Rex
 https://jmp2.uk/stvp-DE4800002GM
 #EXTINF:-1 tvg-id="DE300020D3" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300020D3_20260915T035300SQUARE.png",Alarm für Cobra 11 / Balko
@@ -295,8 +297,6 @@ https://jmp2.uk/stvp-DE4400006F5
 https://jmp2.uk/stvp-DE2600004U3
 #EXTINF:-1 tvg-id="DE300061W7" tvg-name="Poldark" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE300061W7_20261026T041950SQUARE.png",Poldark
 https://jmp2.uk/stvp-DE300061W7
-#EXTINF:-1 tvg-id="DE2100006NS" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2100006NS_20261102T065949SQUARE.png",NCIS: New Orleans
-https://jmp2.uk/stvp-DE2100006NS
 #EXTINF:-1 tvg-id="DE3000009SE" tvg-name="AMC Stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3000009SE_20250909T014602SQUARE.png",AMC Stories
 https://jmp2.uk/stvp-DE3000009SE
 #EXTINF:-1 tvg-id="DE1000001CT" tvg-name="Herzfrequenz" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000001CT_20250805T005041SQUARE.png",Herzfrequenz
