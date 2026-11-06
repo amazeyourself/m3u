@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/dk.xml.gz"
-#EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",NCIS: Los Angeles
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-name="FBoy Island" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-name="Simba Prisen" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png",Simba Prisen
 https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
+#EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",NCIS: Los Angeles
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="6525426e81f942000833d131" tvg-name="Andersens Julehemmelighed" tvg-logo="https://images.pluto.tv/channels/6525426e81f942000833d131/colorLogoPNG.png",Andersens Julehemmelighed
 https://jmp2.uk/plu-6525426e81f942000833d131.m3u8
 #EXTINF:-1 tvg-id="6a4b6106064a1780422088b1" tvg-name="One of the Girls - med Kenny Aleksandr" tvg-logo="https://images.pluto.tv/channels/6a4b6106064a1780422088b1/colorLogoPNG_1790327982233.png",One of the Girls - med Kenny Aleksandr

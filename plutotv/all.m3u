@@ -1773,6 +1773,8 @@ https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png",Doctor Who Classic
 https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
+#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png",The Outer Limits
+https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
 #EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png",One Piece
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png",Pluto TV Anime
@@ -1805,8 +1807,6 @@ https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8
 #EXTINF:-1 tvg-id="62e922f6675f71000736db3b" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png",Doc Martin
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
-#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png",The Outer Limits
-https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
 #EXTINF:-1 tvg-id="691b012d1148fa1cd8a75d5c" tvg-name="Hardcore Pawn" tvg-logo="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png",Hardcore Pawn
 https://jmp2.uk/plu-691b012d1148fa1cd8a75d5c.m3u8
 #EXTINF:-1 tvg-id="6408ae8f9b39550008caf94f" tvg-name="American Pickers" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png",American Pickers
@@ -2173,8 +2173,6 @@ https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
 https://jmp2.uk/plu-697a05f9539a4a433a64cb53.m3u8
 #EXTINF:-1 tvg-id="5d767a76367b89cf0032550d" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d767a76367b89cf0032550d/colorLogoPNG_1761128648314.png",Pluto TV Mistletoe
 https://jmp2.uk/plu-5d767a76367b89cf0032550d.m3u8
-#EXTINF:-1 tvg-id="684ac14b5965a2fd49583311" tvg-name="Weihnachtskino" tvg-logo="https://images.pluto.tv/channels/684ac14b5965a2fd49583311/colorLogoPNG_1757587715183.png",Weihnachtskino
-https://jmp2.uk/plu-684ac14b5965a2fd49583311.m3u8
 #EXTINF:-1 tvg-id="5dc29179c928a600093a7747" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/5dc29179c928a600093a7747/colorLogoPNG.png",Pluto TV Christmas
 https://jmp2.uk/plu-5dc29179c928a600093a7747.m3u8
 #EXTINF:-1 tvg-id="5be1c0d81843b56328bc3fba" tvg-name="Pluto TV Fireplace" tvg-logo="https://images.pluto.tv/channels/5be1c0d81843b56328bc3fba/colorLogoPNG.png",Pluto TV Fireplace
@@ -3419,6 +3417,8 @@ https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png",Doctor Who Classic
 https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
+#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png",The Outer Limits
+https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
 #EXTINF:-1 tvg-id="62e94ec74823db0007277a8f" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png",One Piece
 https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 tvg-id="68d25b620a0f3829b116bb6f" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png",Pluto TV Anime
@@ -3451,8 +3451,6 @@ https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8
 #EXTINF:-1 tvg-id="62e922f6675f71000736db3b" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png",Doc Martin
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
-#EXTINF:-1 tvg-id="6874ad743ffa5e0c917f6e20" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png",The Outer Limits
-https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
 #EXTINF:-1 tvg-id="691b012d1148fa1cd8a75d5c" tvg-name="Hardcore Pawn" tvg-logo="https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png",Hardcore Pawn
 https://jmp2.uk/plu-691b012d1148fa1cd8a75d5c.m3u8
 #EXTINF:-1 tvg-id="6408ae8f9b39550008caf94f" tvg-name="American Pickers" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png",American Pickers
@@ -5145,12 +5143,12 @@ https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
 https://jmp2.uk/plu-686d01ad94a028da3aaca6b3.m3u8
 #EXTINF:-1 tvg-id="6391df52d146a40007c265f3" tvg-name="The Nanny" tvg-logo="https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png",The Nanny
 https://jmp2.uk/plu-6391df52d146a40007c265f3.m3u8
-#EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",NCIS: Los Angeles
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-name="FBoy Island" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-name="Simba Prisen" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png",Simba Prisen
 https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
+#EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",NCIS: Los Angeles
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 tvg-id="6525426e81f942000833d131" tvg-name="Andersens Julehemmelighed" tvg-logo="https://images.pluto.tv/channels/6525426e81f942000833d131/colorLogoPNG.png",Andersens Julehemmelighed
 https://jmp2.uk/plu-6525426e81f942000833d131.m3u8
 #EXTINF:-1 tvg-id="6a4b6106064a1780422088b1" tvg-name="One of the Girls - med Kenny Aleksandr" tvg-logo="https://images.pluto.tv/channels/6a4b6106064a1780422088b1/colorLogoPNG_1790327982233.png",One of the Girls - med Kenny Aleksandr
