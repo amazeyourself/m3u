@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
-#EXTINF:-1 tvg-id="61f93af0b253440007c54ad8" tvg-name="Ciné Star Trek by Pluto TV" tvg-logo="https://images.pluto.tv/channels/61f93af0b253440007c54ad8/colorLogoPNG_1750347902035.png",Ciné Star Trek by Pluto TV
-https://jmp2.uk/plu-61f93af0b253440007c54ad8.m3u8
-#EXTINF:-1 tvg-id="6a6a02ff1b1c90d8bf955701" tvg-name="Soda" tvg-logo="https://images.pluto.tv/channels/6a6a02ff1b1c90d8bf955701/colorLogoPNG_1790683275822.png",Soda
-https://jmp2.uk/plu-6a6a02ff1b1c90d8bf955701.m3u8
-#EXTINF:-1 tvg-id="6a3a9ad35304e3244456d376" tvg-name="Adrenaline Spica Life" tvg-logo="https://images.pluto.tv/channels/6a3a9ad35304e3244456d376/colorLogoPNG_1789116626806.png",Adrenaline Spica Life
-https://jmp2.uk/plu-6a3a9ad35304e3244456d376.m3u8
+#EXTINF:-1 tvg-id="62f3e4bc08f5ec000744f552" tvg-name="Alerte Cobra" tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png",Alerte Cobra
+https://jmp2.uk/plu-62f3e4bc08f5ec000744f552.m3u8
+#EXTINF:-1 tvg-id="6a6a167805520fcba93e3ead" tvg-name="River Monsters" tvg-logo="https://images.pluto.tv/channels/6a6a167805520fcba93e3ead/colorLogoPNG_1785337868317.png",River Monsters
+https://jmp2.uk/plu-6a6a167805520fcba93e3ead.m3u8
 #EXTINF:-1 tvg-id="6a43b36c71cbfff7dca50cf3" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/6a43b36c71cbfff7dca50cf3/colorLogoPNG_1788185290630.png",Mr. Bean
 https://jmp2.uk/plu-6a43b36c71cbfff7dca50cf3.m3u8
 #EXTINF:-1 tvg-id="6a43ab7bfd93e35b5dadb67e" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png",Tennis Channel
@@ -23,8 +21,6 @@ https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
 https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
 #EXTINF:-1 tvg-id="691b332aa4385c191ee44b57" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png",Rex, chien flic
 https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
-#EXTINF:-1 tvg-id="62f3e4bc08f5ec000744f552" tvg-name="Alerte Cobra" tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png",Alerte Cobra
-https://jmp2.uk/plu-62f3e4bc08f5ec000744f552.m3u8
 #EXTINF:-1 tvg-id="6671b26836a2f90008d9333c" tvg-name="Diane, femme flic" tvg-logo="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/colorLogoPNG.png",Diane, femme flic
 https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8
 #EXTINF:-1 tvg-id="65ccd26060eb870008db95fc" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png",JAG
@@ -73,6 +69,8 @@ https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 #EXTINF:-1 tvg-id="62f3ece7b09fd6000783bfb9" tvg-name="Un gars, une fille" tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png",Un gars, une fille
 https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
+#EXTINF:-1 tvg-id="6a6a02ff1b1c90d8bf955701" tvg-name="Soda" tvg-logo="https://images.pluto.tv/channels/6a6a02ff1b1c90d8bf955701/colorLogoPNG_1790683275822.png",Soda
+https://jmp2.uk/plu-6a6a02ff1b1c90d8bf955701.m3u8
 #EXTINF:-1 tvg-id="691b3505e70325a3b15b12f0" tvg-name="Nos années pensions" tvg-logo="https://images.pluto.tv/channels/691b3505e70325a3b15b12f0/colorLogoPNG_1771923830629.png",Nos années pensions
 https://jmp2.uk/plu-691b3505e70325a3b15b12f0.m3u8
 #EXTINF:-1 tvg-id="60549d97cd7b090007c73314" tvg-name="Les filles d'à côté" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png",Les filles d'à côté
@@ -91,6 +89,8 @@ https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
 https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
 #EXTINF:-1 tvg-id="62f3e0522443200008c567d7" tvg-name="Pluto TV French Collection" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png",Pluto TV French Collection
 https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+#EXTINF:-1 tvg-id="61f93af0b253440007c54ad8" tvg-name="Ciné Star Trek by Pluto TV" tvg-logo="https://images.pluto.tv/channels/61f93af0b253440007c54ad8/colorLogoPNG_1750347902035.png",Ciné Star Trek by Pluto TV
+https://jmp2.uk/plu-61f93af0b253440007c54ad8.m3u8
 #EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a" tvg-name="Ciné Action by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png",Ciné Action by Pluto TV
 https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
 #EXTINF:-1 tvg-id="60c34592c911890007f29a73" tvg-name="Ciné Sci-Fi by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png",Ciné Sci-Fi by Pluto TV
@@ -197,6 +197,8 @@ https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 tvg-id="66f55cf2483d460008f68746" tvg-name="Zone Interdite" tvg-logo="https://images.pluto.tv/channels/66f55cf2483d460008f68746/colorLogoPNG.png",Zone Interdite
 https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
+#EXTINF:-1 tvg-id="6a3a9ad35304e3244456d376" tvg-name="Adrenaline Spica Life" tvg-logo="https://images.pluto.tv/channels/6a3a9ad35304e3244456d376/colorLogoPNG_1789116626806.png",Adrenaline Spica Life
+https://jmp2.uk/plu-6a3a9ad35304e3244456d376.m3u8
 #EXTINF:-1 tvg-id="685a999bd33909bdd7d2fb1e" tvg-name="La maison France 5" tvg-logo="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/colorLogoPNG_1751876562614.png",La maison France 5
 https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
 #EXTINF:-1 tvg-id="64bab8ba5dc1660008969b5a" tvg-name="Adjugé, vendu !" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png",Adjugé, vendu !

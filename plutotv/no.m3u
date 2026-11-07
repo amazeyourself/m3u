@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
 #EXTINF:-1 tvg-id="660d64a7aec9680008f8ba77" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png",Top Gear Classics
 https://jmp2.uk/plu-660d64a7aec9680008f8ba77.m3u8
+#EXTINF:-1 tvg-id="6ae1da00b79b589b96bec887" tvg-name="Most Haunted" tvg-logo="https://images.pluto.tv/channels/6ae1da00b79b589b96bec887/colorLogoPNG_1793186389421.png",Most Haunted
+https://jmp2.uk/plu-6ae1da00b79b589b96bec887.m3u8
 #EXTINF:-1 tvg-id="6178175dbac12b000750d6e6" tvg-name="Familien Thunderman" tvg-logo="https://images.pluto.tv/channels/6178175dbac12b000750d6e6/colorLogoPNG.png",Familien Thunderman
 https://jmp2.uk/plu-6178175dbac12b000750d6e6.m3u8
 #EXTINF:-1 tvg-id="61c1d5055d85c00007cd74f7" tvg-name="Henry Danger" tvg-logo="https://images.pluto.tv/channels/61c1d5055d85c00007cd74f7/colorLogoPNG.png",Henry Danger
@@ -13,8 +15,6 @@ https://jmp2.uk/plu-660d6536aec9680008f8cc8e.m3u8
 https://jmp2.uk/plu-678f97bc5225b515b49d99c6.m3u8
 #EXTINF:-1 tvg-id="6512d40a3a0d700008db1952" tvg-name="Nathan for You" tvg-logo="https://images.pluto.tv/channels/6512d40a3a0d700008db1952/colorLogoPNG.png",Nathan for You
 https://jmp2.uk/plu-6512d40a3a0d700008db1952.m3u8
-#EXTINF:-1 tvg-id="6ac3600dde3a888e5ac2a5fe" tvg-name="Temptation Island USA" tvg-logo="https://images.pluto.tv/channels/6ac3600dde3a888e5ac2a5fe/colorLogoPNG_1792068332150.png",Temptation Island USA
-https://jmp2.uk/plu-6ac3600dde3a888e5ac2a5fe.m3u8
 #EXTINF:-1 tvg-id="61c1db901346480007b7c345" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c1db901346480007b7c345/colorLogoPNG.png",Paradise Hotel
 https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8
 #EXTINF:-1 tvg-id="65cb8bd911ced7000820bff2" tvg-name="Fangene på Fortet" tvg-logo="https://images.pluto.tv/channels/65cb8bd911ced7000820bff2/colorLogoPNG.png",Fangene på Fortet
@@ -153,6 +153,8 @@ https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 #EXTINF:-1 tvg-id="63047bd6b0726b000795341d" tvg-name="Merry Christmas from Viafree" tvg-logo="https://images.pluto.tv/channels/63047bd6b0726b000795341d/colorLogoPNG.png",Merry Christmas from Viafree
 https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
+#EXTINF:-1 tvg-id="6ac3600dde3a888e5ac2a5fe" tvg-name="Temptation Island USA" tvg-logo="https://images.pluto.tv/channels/6ac3600dde3a888e5ac2a5fe/colorLogoPNG_1792068332150.png",Temptation Island USA
+https://jmp2.uk/plu-6ac3600dde3a888e5ac2a5fe.m3u8
 #EXTINF:-1 tvg-id="61c1e0f1d6d97900076ea16f" tvg-name="Luksusfellen Sverige" tvg-logo="https://images.pluto.tv/channels/61c1e0f1d6d97900076ea16f/colorLogoPNG.png",Luksusfellen Sverige
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
 #EXTINF:-1 tvg-id="645cc855e1979c000875ee47" tvg-name="Svenske Truckers" tvg-logo="https://images.pluto.tv/channels/645cc855e1979c000875ee47/colorLogoPNG.png",Svenske Truckers

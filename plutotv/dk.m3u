@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/dk.xml.gz"
-#EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-name="FBoy Island" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png",FBoy Island
-https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-name="Simba Prisen" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png",Simba Prisen
 https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
+#EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-name="FBoy Island" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png",FBoy Island
+https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="66fbf4d3d7de140008d41f5b" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",NCIS: Los Angeles
 https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
+#EXTINF:-1 tvg-id="6ae1d95ca9b3de1ec838a3e2" tvg-name="Most Haunted" tvg-logo="https://images.pluto.tv/channels/6ae1d95ca9b3de1ec838a3e2/colorLogoPNG_1793186278722.png",Most Haunted
+https://jmp2.uk/plu-6ae1d95ca9b3de1ec838a3e2.m3u8
 #EXTINF:-1 tvg-id="6525426e81f942000833d131" tvg-name="Andersens Julehemmelighed" tvg-logo="https://images.pluto.tv/channels/6525426e81f942000833d131/colorLogoPNG.png",Andersens Julehemmelighed
 https://jmp2.uk/plu-6525426e81f942000833d131.m3u8
 #EXTINF:-1 tvg-id="6a4b6106064a1780422088b1" tvg-name="One of the Girls - med Kenny Aleksandr" tvg-logo="https://images.pluto.tv/channels/6a4b6106064a1780422088b1/colorLogoPNG_1790327982233.png",One of the Girls - med Kenny Aleksandr
@@ -23,8 +25,6 @@ https://jmp2.uk/plu-660d6414635c750008289036.m3u8
 https://jmp2.uk/plu-660d6360c8311c0008b8a7c6.m3u8
 #EXTINF:-1 tvg-id="678f96d6f5c74bff95c4abba" tvg-name="Doctor Who: Christmas" tvg-logo="https://images.pluto.tv/channels/678f96d6f5c74bff95c4abba/colorLogoPNG_1793008614974.png",Doctor Who: Christmas
 https://jmp2.uk/plu-678f96d6f5c74bff95c4abba.m3u8
-#EXTINF:-1 tvg-id="6512edf7473a540008599a31" tvg-name="Nathan for You" tvg-logo="https://images.pluto.tv/channels/6512edf7473a540008599a31/colorLogoPNG.png",Nathan for You
-https://jmp2.uk/plu-6512edf7473a540008599a31.m3u8
 #EXTINF:-1 tvg-id="61c19af83fae0a00078c8918" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png",Paradise Hotel
 https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
 #EXTINF:-1 tvg-id="662b71658dd8160008fc3abf" tvg-name="Paradise Hotel: Under lagnerne" tvg-logo="https://images.pluto.tv/channels/662b71658dd8160008fc3abf/colorLogoPNG.png",Paradise Hotel: Under lagnerne
@@ -151,10 +151,10 @@ https://jmp2.uk/plu-660bfc7b2433010008def3e3.m3u8
 https://jmp2.uk/plu-691ed751bef819002f2c7296.m3u8
 #EXTINF:-1 tvg-id="660e7404e8fba8000853abc0" tvg-name="AWSN" tvg-logo="https://images.pluto.tv/channels/660e7404e8fba8000853abc0/colorLogoPNG_1748590816382.png",AWSN
 https://jmp2.uk/plu-660e7404e8fba8000853abc0.m3u8
-#EXTINF:-1 tvg-id="6a68c47558918556e6078b1d" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png",NFL Channel
-https://jmp2.uk/plu-6a68c47558918556e6078b1d.m3u8
 #EXTINF:-1 tvg-id="66461eb33d173b000805ecd3" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png",DFB Play TV
 https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
+#EXTINF:-1 tvg-id="6a68c47558918556e6078b1d" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png",NFL Channel
+https://jmp2.uk/plu-6a68c47558918556e6078b1d.m3u8
 #EXTINF:-1 tvg-id="6792044b680721c77c5b9ba2" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/6792044b680721c77c5b9ba2/colorLogoPNG.png",UFC
 https://jmp2.uk/plu-6792044b680721c77c5b9ba2.m3u8
 #EXTINF:-1 tvg-id="65c33fd4dc10a40008f26af8" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c33fd4dc10a40008f26af8/colorLogoPNG.png",Monster Jam
@@ -253,6 +253,8 @@ https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
 #EXTINF:-1 tvg-id="6440f8ba939a5900082bddc8" tvg-name="World of Love Island" tvg-logo="https://images.pluto.tv/channels/6440f8ba939a5900082bddc8/colorLogoPNG.png",World of Love Island
 https://jmp2.uk/plu-6440f8ba939a5900082bddc8.m3u8
+#EXTINF:-1 tvg-id="6512edf7473a540008599a31" tvg-name="Nathan for You" tvg-logo="https://images.pluto.tv/channels/6512edf7473a540008599a31/colorLogoPNG.png",Nathan for You
+https://jmp2.uk/plu-6512edf7473a540008599a31.m3u8
 #EXTINF:-1 tvg-id="62da73c4ec46c000070f4cb1" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoPNG.png",Auction Hunters
 https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
 #EXTINF:-1 tvg-id="6909fc4b74601d957a380613" tvg-name="Hardcore Pawn" tvg-logo="https://images.pluto.tv/channels/6909fc4b74601d957a380613/colorLogoPNG_1763728614134.png",Hardcore Pawn
