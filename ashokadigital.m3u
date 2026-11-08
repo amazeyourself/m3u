@@ -272,7 +272,7 @@ https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 #EXTINF:-1 tvg-id="238" tvg-chno="238" tvg-name="thoma tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437744_1786264094_WhatsApp%20Image%202026-08-08%20at%2010.03.07%20PM-Photoroom.png" group-title="Christian Tv Channels",238 thoma tv
 
 #EXTINF:-1 tvg-id="239" tvg-chno="239" tvg-name="idhayam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437660_c693de12-bd16-4691-b98b-e7055e31d6ac-Photoroom.png" group-title="Tamil Nadu Channels",239 idhayam tv
-https://tvstream.cloudlive24.com/live/8527530ab689bf8a710430c189aa2906.m3u8
+https://tvstream.cloudlive24.com/live/c882af65-7145-4e9b-9fc0-bffede00e640.m3u8
 #EXTINF:-1 tvg-id="240" tvg-chno="240" tvg-name="VDS TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787038089_WhatsApp%20Image%202026-08-17%20at%207.49.21%20PM.jpeg" group-title="Tamil Nadu Channels",240 VDS TV
 http://117.247.192.123:8080/vds/vds.m3u8
 #EXTINF:-1 tvg-id="242" tvg-chno="242" tvg-name="AATHVIK TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793183403_WhatsApp%20Image%202026-10-28%20at%203.59.15%20PM.jpeg" group-title="Tamil Nadu Channels",242 AATHVIK TV
@@ -293,10 +293,10 @@ http://198.144.149.206:8080/DINESH/TIFCTV/index.m3u8?token=YAAL
 https://app.ashokadigital.net/app/4f231677/index.m3u8
 #EXTINF:-1 tvg-id="251" tvg-chno="251" tvg-name="phoenix tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753871451_Untitled%202-%20Copy%20copy.png" group-title="Tamil Nadu Channels",251 phoenix tv
 
-#EXTINF:-1 tvg-id="252" tvg-chno="252" tvg-name="Ashoka Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631212_ashoka%202%20logo.png" group-title="Tamil Nadu Channels",252 Ashoka Channel
-https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="253" tvg-chno="253" tvg-name="tamil oli tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794016445_tamil%20oli%20tv.jpeg" group-title="Tamil Nadu Channels",253 tamil oli tv
-http://view.apserver.in/tmp_hls7/tamilolitv/index.m3u8
+http://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-id="274" tvg-chno="274" tvg-name="Ashoka Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631212_ashoka%202%20logo.png" group-title="Tamil Nadu Channels",274 Ashoka Channel
+https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="275" tvg-chno="275" tvg-name="POTHIGAI FM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769821_WhatsApp%20Image%202026-09-30%20at%204.58.03%20PM.jpeg" group-title="Tamil Nadu Channels",275 POTHIGAI FM
 https://pothigaifm-prabak78.radioca.st/stream
 #EXTINF:-1 tvg-id="286" tvg-chno="286" tvg-name="Rj Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Tamil Nadu Channels",286 Rj Tamil Tv
@@ -431,6 +431,8 @@ https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
 http://happy.dets.fun:8080/hls/.m3u8
 #EXTINF:-1 tvg-id="868" tvg-chno="868" tvg-name="a1 tv media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793026513_a408ee30-c8a3-48a4-a46d-f5c0babb4b49-Photoroom.png" group-title="Andhra Pradesh and Telangana",868 a1 tv media
 https://vvsolutions-server14.in/a1tvmedia_26/video.m3u8
+#EXTINF:-1 tvg-id="869" tvg-chno="869" tvg-name="mee tv news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794107090_WhatsApp%20Image%202026-11-06%20at%206.53.36%20PM.jpeg" group-title="Andhra Pradesh and Telangana",869 mee tv news
+https://sharsolution.in/hls/meetv/meetv.m3u8
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title="Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title="Tamil Nadu Channels",901 Chanakya up/uk
