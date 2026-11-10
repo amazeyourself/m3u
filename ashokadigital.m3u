@@ -72,7 +72,7 @@ https://app.ashokadigital.net/app/74f6070c/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-chno="70" tvg-name="Hansitha Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" group-title="Tamil Nadu Channels",70 Hansitha Tv
 https://air.rojatv.cloud/hanshitha/tv/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-chno="75" tvg-name="KM TELEVISION" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777711975_daeace30-6395-4e87-b81b-c1eb3f5b1735-Photoroom.png" group-title="Tamil Nadu Channels",75 KM TELEVISION
-https://stream.ashokadigital.net/KMTELEVISION/kmtelevision/index.m3u8
+https://live-stream.in/kmtelevision/kmtelevision/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-chno="76" tvg-name="M TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777712105_MTV%201.png" group-title="Tamil Nadu Channels",76 M TV
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-chno="77" tvg-name="mtntv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784603031_ashoka-digital-320x180%20(2).gif" group-title="Tamil Nadu Channels",77 mtntv
@@ -152,7 +152,7 @@ https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
 #EXTINF:-1 tvg-id="137" tvg-chno="137" tvg-name="smaxtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969924_PNG.png" group-title="Tamil Nadu Channels",137 smaxtv
 https:/index.m3u8
 #EXTINF:-1 tvg-id="138" tvg-chno="138" tvg-name="LION TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790778174_d6f0dc8c-f4bc-4827-a2ee-ac557900c312-Photoroom.png" group-title="Tamil Nadu Channels",138 LION TV
-
+https://rtmphub.in/hls/liontv/live/RJsztYyta6xSghsYCAC2eVdauitieaXY/index.m3u8
 #EXTINF:-1 tvg-id="140" tvg-chno="140" tvg-name="Kavin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN%20TV.png" group-title="Tamil Nadu Channels",140 Kavin tv
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="147" tvg-chno="147" tvg-name="BSC OLD tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771731192_bsc%20tv.png" group-title="Tamil Nadu Channels",147 BSC OLD tv
