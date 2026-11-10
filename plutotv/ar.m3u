@@ -61,10 +61,16 @@ https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #EXTINF:-1 tvg-id="6a904349f9b764ea89e9a92a" tvg-name="Pluto TV Series de Terror y Suspenso" tvg-logo="https://images.pluto.tv/channels/6a904349f9b764ea89e9a92a/colorLogoPNG_1790171616604.png",Pluto TV Series de Terror y Suspenso
 https://jmp2.uk/plu-6a904349f9b764ea89e9a92a.m3u8
+#EXTINF:-1 tvg-id="65662c1357fe4a00086b3eb1" tvg-name="Pluto TV Series de Aventura y Fantasía" tvg-logo="https://images.pluto.tv/channels/65662c1357fe4a00086b3eb1/colorLogoPNG_1790011926686.png",Pluto TV Series de Aventura y Fantasía
+https://jmp2.uk/plu-65662c1357fe4a00086b3eb1.m3u8
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png",Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+#EXTINF:-1 tvg-id="6aa7f3a7af45eb18db141eee" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/6aa7f3a7af45eb18db141eee/colorLogoPNG_1789392312820.png",Medium
+https://jmp2.uk/plu-6aa7f3a7af45eb18db141eee.m3u8
 #EXTINF:-1 tvg-id="655f626d57fe4a00085c7c3e" tvg-name="Pluto TV Series de Comedia" tvg-logo="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png",Pluto TV Series de Comedia
 https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+#EXTINF:-1 tvg-id="6aa2faa150694e8e54750880" tvg-name="The King of Queens" tvg-logo="https://images.pluto.tv/channels/6aa2faa150694e8e54750880/colorLogoPNG_1789066693028.png",The King of Queens
+https://jmp2.uk/plu-6aa2faa150694e8e54750880.m3u8
 #EXTINF:-1 tvg-id="655f636d954b020008c93299" tvg-name="Pluto TV Series de Drama" tvg-logo="https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png",Pluto TV Series de Drama
 https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
 #EXTINF:-1 tvg-id="6806d570c178637410ae4962" tvg-name="Pluto TV Series de Otros Continentes" tvg-logo="https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png",Pluto TV Series de Otros Continentes
@@ -83,6 +89,8 @@ https://jmp2.uk/plu-6a7b453df5f14c2045f5f00b.m3u8
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 tvg-id="6aa960fa5532ad57085cf7e4" tvg-name="La Niñera" tvg-logo="https://images.pluto.tv/channels/6aa960fa5532ad57085cf7e4/colorLogoPNG_1790087436804.png",La Niñera
+https://jmp2.uk/plu-6aa960fa5532ad57085cf7e4.m3u8
 #EXTINF:-1 tvg-id="67f95fa76b11614ab0caaef3" tvg-name="Hechiceras" tvg-logo="https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png",Hechiceras
 https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
 #EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png",Hechizada
@@ -233,6 +241,8 @@ https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 #EXTINF:-1 tvg-id="5dcde07af1c85b0009b18651" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png",Pluto TV Deportes
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" tvg-name="Claro Sports FAST" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1791496367503.png",Claro Sports FAST
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" tvg-name="AYM Sports 3" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png",AYM Sports 3
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 tvg-id="5e98b0447665f200078caded" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png",Pluto TV Peleas
@@ -285,8 +295,6 @@ https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8
 https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" tvg-name="Canal 6 CdMX" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG_1785346412851.png",Canal 6 CdMX
 https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
-#EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png",Canal Claro
-https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 #EXTINF:-1 tvg-id="68ba0910e1d03fec7d5c084f" tvg-name="Al Ritmo del Jaripeo" tvg-logo="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG_1760471497704.png",Al Ritmo del Jaripeo
 https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
 #EXTINF:-1 tvg-id="68b88712e777774982269ce9" tvg-name="Tastemade Home & Travel" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1793803234766.png",Tastemade Home & Travel
@@ -379,7 +387,5 @@ https://jmp2.uk/plu-6a73b9032cf3064bdf7d3b4e.m3u8
 https://jmp2.uk/plu-6a73b8f1744143378ce88eae.m3u8
 #EXTINF:-1 tvg-id="6a739fb3c1842722eaf5eb1f" tvg-name="Stingray Época Dorada del Cine Mexicano" tvg-logo="https://images.pluto.tv/channels/6a739fb3c1842722eaf5eb1f/colorLogoPNG_1788376112882.png",Stingray Época Dorada del Cine Mexicano
 https://jmp2.uk/plu-6a739fb3c1842722eaf5eb1f.m3u8
-#EXTINF:-1 tvg-id="6868152657543d1f8be4ece3" tvg-name="Concert Channel" tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png",Concert Channel
-https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 tvg-id="5f85ca40eda1b10007b967cd" tvg-name="Conciertos por Stingray" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png",Conciertos por Stingray
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
