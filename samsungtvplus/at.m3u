@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/at.xml.gz"
-#EXTINF:-1 tvg-id="AT1800008KG" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1800008KG_20261110T042626SQUARE.png",Bares für Rares
-https://jmp2.uk/stvp-AT1800008KG
 #EXTINF:-1 tvg-id="ATBD3700001EH" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD3700001EH_20261110T042655SQUARE.png",X-MAS Mix
 https://jmp2.uk/stvp-ATBD3700001EH
+#EXTINF:-1 tvg-id="AT1800008KG" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1800008KG_20261110T042626SQUARE.png",Bares für Rares
+https://jmp2.uk/stvp-AT1800008KG
 #EXTINF:-1 tvg-id="AT48000012I" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20261026T041601SQUARE.png",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-AT48000012I
 #EXTINF:-1 tvg-id="AT30000053R" tvg-name="Dating hinter Gittern" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT30000053R_20251111T013636SQUARE.png",Dating hinter Gittern
@@ -59,8 +59,6 @@ https://jmp2.uk/stvp-ATBC3900002PV
 https://jmp2.uk/stvp-AT70000595
 #EXTINF:-1 tvg-id="AT2300003IC" tvg-name="Beyblade" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2300003IC_20250107T022040SQUARE.png",Beyblade
 https://jmp2.uk/stvp-AT2300003IC
-#EXTINF:-1 tvg-id="AT3200012MN" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20261110T042640SQUARE.png",Stromberg
-https://jmp2.uk/stvp-AT3200012MN
 #EXTINF:-1 tvg-id="AT300045YS" tvg-name="Poldark" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300045YS_20261013T052521SQUARE.png",Poldark
 https://jmp2.uk/stvp-AT300045YS
 #EXTINF:-1 tvg-id="AT3000006M1" tvg-name="AMC Stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3000006M1_20251013T053757SQUARE.png",AMC Stories
@@ -85,6 +83,8 @@ https://jmp2.uk/stvp-AT2100002QM
 https://jmp2.uk/stvp-AT3200011S4
 #EXTINF:-1 tvg-id="AT3400004QH" tvg-name="Comedy & Shows" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400004QH_20251013T053804SQUARE.png",Comedy & Shows
 https://jmp2.uk/stvp-AT3400004QH
+#EXTINF:-1 tvg-id="AT3200012MN" tvg-name="Stromberg" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200012MN_20261110T042640SQUARE.png",Stromberg
+https://jmp2.uk/stvp-AT3200012MN
 #EXTINF:-1 tvg-id="ATAK3504505A" tvg-name="Pluto TV Sitcoms" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504505A_20250916T003136SQUARE.png",Pluto TV Sitcoms
 https://jmp2.uk/stvp-ATAK3504505A
 #EXTINF:-1 tvg-id="AT4400002IB" tvg-name="Andromeda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400002IB_20260407T035718SQUARE.png",Andromeda
@@ -105,12 +105,12 @@ https://jmp2.uk/stvp-AT11000056T
 https://jmp2.uk/stvp-AT16000042Y
 #EXTINF:-1 tvg-id="AT11000093N" tvg-name="ARD Plus Sturm der Liebe" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT11000093N_20261026T041539SQUARE.png",ARD Plus Sturm der Liebe
 https://jmp2.uk/stvp-AT11000093N
-#EXTINF:-1 tvg-id="AT20000055C" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000055C_20261102T064331SQUARE.png",NCIS: New Orleans
-https://jmp2.uk/stvp-AT20000055C
 #EXTINF:-1 tvg-id="AT4800002G5" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20261110T042631SQUARE.png",Hudson & Rex
 https://jmp2.uk/stvp-AT4800002G5
 #EXTINF:-1 tvg-id="AT300009BI" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20261110T042618SQUARE.png",Alarm für Cobra 11 / Balko
 https://jmp2.uk/stvp-AT300009BI
+#EXTINF:-1 tvg-id="AT20000055C" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000055C_20261102T064331SQUARE.png",NCIS: New Orleans
+https://jmp2.uk/stvp-AT20000055C
 #EXTINF:-1 tvg-id="AT300044H2" tvg-name="Vera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300044H2_20260929T035756SQUARE.png",Vera
 https://jmp2.uk/stvp-AT300044H2
 #EXTINF:-1 tvg-id="ATBA33000270C" tvg-name="Top Serien" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20260407T035652SQUARE.png",Top Serien
@@ -213,8 +213,6 @@ https://jmp2.uk/stvp-ATBA2200008XN
 https://jmp2.uk/stvp-ATBD1500003ES
 #EXTINF:-1 tvg-id="ATAJ0500433A" tvg-name="Sportdigital Free" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500433A_20250527T015549SQUARE.png",Sportdigital Free
 https://jmp2.uk/stvp-ATAJ0500433A
-#EXTINF:-1 tvg-id="ATBD2300001PY" tvg-name="Sport 1 Motor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2300001PY_20261110T042610SQUARE.png",Sport 1 Motor
-https://jmp2.uk/stvp-ATBD2300001PY
 #EXTINF:-1 tvg-id="AT3200009QJ" tvg-name="GRIP - Das Motormagazin" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200009QJ_20260528T052717SQUARE.png",GRIP - Das Motormagazin
 https://jmp2.uk/stvp-AT3200009QJ
 #EXTINF:-1 tvg-id="ATBD2600011EO" tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600011EO_20250107T022147SQUARE.png",Motorvision

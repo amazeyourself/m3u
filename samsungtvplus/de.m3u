@@ -161,8 +161,6 @@ https://jmp2.uk/stvp-DE400010IF
 https://jmp2.uk/stvp-DE2400002VA
 #EXTINF:-1 tvg-id="DE32000079E" tvg-name="Red Bull TV Motorsport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000079E_20260528T054506SQUARE.png",Red Bull TV Motorsport
 https://jmp2.uk/stvp-DE32000079E
-#EXTINF:-1 tvg-id="DEBD2300001ND" tvg-name="Sport 1 Motor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2300001ND_20261110T043014SQUARE.png",Sport 1 Motor
-https://jmp2.uk/stvp-DEBD2300001ND
 #EXTINF:-1 tvg-id="DE32000121N" tvg-name="GRIP - Das Motormagazin" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE32000121N_20260528T054420SQUARE.png",GRIP - Das Motormagazin
 https://jmp2.uk/stvp-DE32000121N
 #EXTINF:-1 tvg-id="DEBD2600005U6" tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600005U6_20250107T024347SQUARE.png",Motorvision
@@ -179,10 +177,10 @@ https://jmp2.uk/stvp-DEBA3300016EV
 https://jmp2.uk/stvp-DEBD5000002EW
 #EXTINF:-1 tvg-id="DEBD29000013S" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD29000013S_20250107T024440SQUARE.png",World Poker Tour
 https://jmp2.uk/stvp-DEBD29000013S
-#EXTINF:-1 tvg-id="DE200003PX" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20261110T043039SQUARE.png",The Jamie Oliver Channel
-https://jmp2.uk/stvp-DE200003PX
 #EXTINF:-1 tvg-id="DE1200009JX" tvg-name="ZDF kocht!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200009JX_20261110T043105SQUARE.png",ZDF kocht!
 https://jmp2.uk/stvp-DE1200009JX
+#EXTINF:-1 tvg-id="DE200003PX" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20261110T043039SQUARE.png",The Jamie Oliver Channel
+https://jmp2.uk/stvp-DE200003PX
 #EXTINF:-1 tvg-id="DEAK0500439A" tvg-name="Just Cooking" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20250107T023921SQUARE.png",Just Cooking
 https://jmp2.uk/stvp-DEAK0500439A
 #EXTINF:-1 tvg-id="DEBA3300001L9" tvg-name="Pluto TV Food" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300001L9_20250107T023953SQUARE.png",Pluto TV Food
@@ -193,6 +191,8 @@ https://jmp2.uk/stvp-DE2800003GT
 https://jmp2.uk/stvp-DE2500002B5
 #EXTINF:-1 tvg-id="DEAJ0500422A" tvg-name="Xplore" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20250107T024224SQUARE.png",Xplore
 https://jmp2.uk/stvp-DEAJ0500422A
+#EXTINF:-1 tvg-id="DEBC3000003IG" tvg-name="Terra X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20261110T043032SQUARE.png",Terra X
+https://jmp2.uk/stvp-DEBC3000003IG
 #EXTINF:-1 tvg-id="DEBC220000422" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",The Wicked Tuna Channel
 https://jmp2.uk/stvp-DEBC220000422
 #EXTINF:-1 tvg-id="DEAJ7000096L" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000096L_20250107T023919SQUARE.png",Ice Pilots
@@ -201,8 +201,6 @@ https://jmp2.uk/stvp-DEAJ7000096L
 https://jmp2.uk/stvp-DE46000025H
 #EXTINF:-1 tvg-id="DE4600003OS" tvg-name="Swamp People - überleben im sumpf" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600003OS_20260224T025342SQUARE.png",Swamp People - überleben im sumpf
 https://jmp2.uk/stvp-DE4600003OS
-#EXTINF:-1 tvg-id="DEBC3000003IG" tvg-name="Terra X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20261110T043032SQUARE.png",Terra X
-https://jmp2.uk/stvp-DEBC3000003IG
 #EXTINF:-1 tvg-id="DE2200004KN" tvg-name="N24 Doku" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2200004KN_20260428T031458SQUARE.png",N24 Doku
 https://jmp2.uk/stvp-DE2200004KN
 #EXTINF:-1 tvg-id="DE2900003ED" tvg-name="BBC History" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900003ED_20250107T024809SQUARE.png",BBC History
@@ -365,12 +363,10 @@ https://jmp2.uk/stvp-DE7000038K
 https://jmp2.uk/stvp-DE1400001OB
 #EXTINF:-1 tvg-id="DEBC4700002Z2" tvg-name="Entertainment Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20261006T034602SQUARE.png",Entertainment Mix
 https://jmp2.uk/stvp-DEBC4700002Z2
-#EXTINF:-1 tvg-id="DEBD30000014M" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260707T050019SQUARE.png",Bares für Rares
-https://jmp2.uk/stvp-DEBD30000014M
-#EXTINF:-1 tvg-id="DE12000100M" tvg-name="ZDF Zuhause" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE12000100M_20261110T043057SQUARE.png",ZDF Zuhause
-https://jmp2.uk/stvp-DE12000100M
 #EXTINF:-1 tvg-id="DEBD3700001YD" tvg-name="X-MAS Mix" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20261110T043047SQUARE.png",X-MAS Mix
 https://jmp2.uk/stvp-DEBD3700001YD
+#EXTINF:-1 tvg-id="DEBD30000014M" tvg-name="Bares für Rares" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260707T050019SQUARE.png",Bares für Rares
+https://jmp2.uk/stvp-DEBD30000014M
 #EXTINF:-1 tvg-id="DE4800003M6" tvg-name="Hochzeit auf den ersten Blick" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20261026T041941SQUARE.png",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-DE4800003M6
 #EXTINF:-1 tvg-id="DE3000008RT" tvg-name="Dating hinter Gittern" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3000008RT_20251111T013938SQUARE.png",Dating hinter Gittern
@@ -401,6 +397,8 @@ https://jmp2.uk/stvp-DEAJ3500005RK
 https://jmp2.uk/stvp-DEAJ3200005JH
 #EXTINF:-1 tvg-id="DEAJ3200004UF" tvg-name="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200004UF_20260210T035718SQUARE.png",FailArmy
 https://jmp2.uk/stvp-DEAJ3200004UF
+#EXTINF:-1 tvg-id="DE12000100M" tvg-name="ZDF Zuhause" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE12000100M_20261110T043057SQUARE.png",ZDF Zuhause
+https://jmp2.uk/stvp-DE12000100M
 #EXTINF:-1 tvg-id="DE4100001GN" tvg-name="Mark Rober TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4100001GN_20251111T014009SQUARE.png",Mark Rober TV
 https://jmp2.uk/stvp-DE4100001GN
 #EXTINF:-1 tvg-id="DE2800004RR" tvg-name="BBC Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2800004RR_20260929T102411SQUARE.png",BBC Lifestyle
