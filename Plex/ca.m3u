@@ -459,6 +459,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-698fb1938f934d915eb13488.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d" tvg-name="OUTflix Proud" tvg-logo="https://provider-static.plex.tv/epg/cms/production/399d8851-ddfa-43c8-90e2-18f60c42353c/outflix-proud-plex-wh_1500x1000.png",OUTflix Proud
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6ad2b7bf301d72f12e9d1c03" tvg-name="Tock Tock Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8cc6c5f-3f6d-4ff0-99f8-6bed9bb9ec9a/TockTock_logo_dark-bg_1500x1000.png",Tock Tock Movies
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6ad2b7bf301d72f12e9d1c03.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f" tvg-name="Judge Judy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",Judge Judy
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6abd4743e1b65dffbc995e44" tvg-name="NEWSMAX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",NEWSMAX

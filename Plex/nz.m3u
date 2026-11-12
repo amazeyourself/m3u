@@ -479,6 +479,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-618ab2f275913b296fbe56dd.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67db3546d66f778a752f7eaa.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",Camp Spoopy
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6164a963766ab4f9f57e81b1.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",Q With Tom Power
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc" tvg-name="Rookie Blue" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",Rookie Blue
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png",Qwest TV
