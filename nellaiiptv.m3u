@@ -1020,7 +1020,7 @@ https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 tvg-chno="636" tvg-id="405" tvg-name="THENDRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787547123.webp" group-title="Entertainment",636 THENDRAL TV [RTMP]
 
 #EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787936948.webp" group-title="Entertainment",637 LION TV
-https://stream.iplive.xyz/smmedia/liontv/index.m3u8
+https://rtmphub.in/hls/liontv/live/RJsztYyta6xSghsYCAC2eVdauitieaXY/index.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-chno="637" tvg-id="406" tvg-name="LION TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787936948.webp" group-title="Entertainment",637 LION TV [RTMP]
 
 #EXTINF:-1 tvg-chno="638" tvg-id="407" tvg-name="CGN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1787749407.webp" group-title="Devotional",638 CGN TV
@@ -1284,7 +1284,7 @@ https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-chno="912" tvg-id="491" tvg-name="V TAMIL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1790407368.webp" group-title="Entertainment",912 V TAMIL TV [RTMP]
 
 #EXTINF:-1 tvg-chno="913" tvg-id="492" tvg-name="KALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1790407444.webp" group-title="Entertainment",913 KALI TV
-https://rtmp.applelive.in/srivelavantvkalai/srivelavantvkalai/index.m3u8
+https://rtmp.applelive.in/666Tvmedia/666Tvmedia/index.m3u8
 #EXTINF:-1 tvg-chno="913" tvg-id="492" tvg-name="KALI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1790407444.webp" group-title="Entertainment",913 KALI TV [RTMP]
 
 #EXTINF:-1 tvg-chno="914" tvg-id="493" tvg-name="AMMA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1790606686.webp" group-title="Entertainment",914 AMMA TV
@@ -1314,6 +1314,18 @@ https://live-stream.in/archanatv/archanatv/index.m3u8
 #EXTINF:-1 tvg-chno="920" tvg-id="501" tvg-name="T TAMIZH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1792466169.webp" group-title="Entertainment",920 T TAMIZH TV
 https://app.ashokadigital.net/app/66a49d84/index.m3u8
 #EXTINF:-1 tvg-chno="920" tvg-id="501" tvg-name="T TAMIZH TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1792466169.webp" group-title="Entertainment",920 T TAMIZH TV [RTMP]
+
+#EXTINF:-1 tvg-chno="921" tvg-id="504" tvg-name="AATHVIK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794592138.webp" group-title="",921 AATHVIK TV
+https://stream.apcloud.in/manishatv/manishatvstream/index.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-chno="921" tvg-id="504" tvg-name="AATHVIK TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794592138.webp" group-title="",921 AATHVIK TV [RTMP]
+
+#EXTINF:-1 tvg-chno="922" tvg-id="505" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794592342.webp" group-title="",922 NILA TV
+https://stream.cloudlive24.com/live/nilatv.m3u8
+#EXTINF:-1 tvg-chno="922" tvg-id="505" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794592342.webp" group-title="",922 NILA TV [RTMP]
+
+#EXTINF:-1 tvg-chno="923" tvg-id="506" tvg-name="SVN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794592412.webp" group-title="",923 SVN TV
+https://live4.onecloudlive.in/svntv/svntv/index.m3u8
+#EXTINF:-1 tvg-chno="923" tvg-id="506" tvg-name="SVN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794592412.webp" group-title="",923 SVN TV [RTMP]
 
 #EXTINF:-1 tvg-chno="966" tvg-id="470" tvg-name="ANALAI MOVIES TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789630885.webp" group-title="Movies",966 ANALAI MOVIES TV
 https://3.proxy.nellaiiptv.com/ANALAI_MOVIE/index.m3u8?token=GTR
