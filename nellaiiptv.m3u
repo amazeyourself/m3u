@@ -211,10 +211,6 @@ https://bk7l2z5nlx53-hls-live.5centscdn.com/alpha/55f071ebe5152828fdcc330c765659
 https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-id="25" tvg-name="BRIGHT SIMROSE TV" tvg-logo="https://files.catbox.moe/jaybsc.png" group-title="Entertainment",120 BRIGHT SIMROSE TV [RTMP]
 
-#EXTINF:-1 tvg-chno="121" tvg-id="96" tvg-name="SUN SMART TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310549.webp" group-title="Entertainment",121 SUN SMART TV
-https://sunsmart.ipcloud.live/sunsmarttv/sunsmarttv/index.m3u8
-#EXTINF:-1 tvg-chno="121" tvg-id="96" tvg-name="SUN SMART TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310549.webp" group-title="Entertainment",121 SUN SMART TV [RTMP]
-https://live3.onecloudlive.in/sunsmart/sunsmarttvhd/mono.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="424" tvg-name="Aalaya TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788356009.webp" group-title="Devotional",122 Aalaya TV
 https://rtmp.applelive.in/aalayatv/aalayatv/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="424" tvg-name="Aalaya TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1788356009.webp" group-title="Devotional",122 Aalaya TV [RTMP]
