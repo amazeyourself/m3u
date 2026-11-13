@@ -59,16 +59,14 @@ https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-name="Flicks of Fury" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
-#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png",Pluto TV Cult Films
-https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="63335df531a7590007c226b9" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG_1793115157565.png",Pluto TV Christmas
 https://jmp2.uk/plu-63335df531a7590007c226b9.m3u8
+#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png",Pluto TV Cult Films
+https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="5d9ccd538661290009ecbdb7" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1793983999979.png",Pluto TV Mistletoe
 https://jmp2.uk/plu-5d9ccd538661290009ecbdb7.m3u8
 #EXTINF:-1 tvg-id="68f690e7a25ba0aab32bed92" tvg-name="BET Holiday Movies" tvg-logo="https://images.pluto.tv/channels/68f690e7a25ba0aab32bed92/colorLogoPNG_1760989733981.png",BET Holiday Movies
 https://jmp2.uk/plu-68f690e7a25ba0aab32bed92.m3u8
-#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png",TV Land Sitcoms
-https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="633354b63df9700007f6a1b7" tvg-name="Sitcom Legends" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 #EXTINF:-1 tvg-id="6a28827ef4a627f3b07df1ea" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png",Cheers
@@ -77,6 +75,8 @@ https://jmp2.uk/plu-6a28827ef4a627f3b07df1ea.m3u8
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1 tvg-id="6a5ff6d9c868f8fd984e005c" tvg-name="Ghosts" tvg-logo="https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785791941652.png",Ghosts
 https://jmp2.uk/plu-6a5ff6d9c868f8fd984e005c.m3u8
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="6132619f9ddaa50007e7dd86" tvg-name="More TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
 #EXTINF:-1 tvg-id="66e0b4a3f0f17500085cc268" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png",Hit Sitcoms
