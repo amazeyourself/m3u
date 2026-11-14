@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
-#EXTINF:-1 tvg-id="660d64a7aec9680008f8ba77" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png",Top Gear Classics
-https://jmp2.uk/plu-660d64a7aec9680008f8ba77.m3u8
 #EXTINF:-1 tvg-id="63e38a974e83e70008990da9" tvg-name="Spin City" tvg-logo="https://images.pluto.tv/channels/63e38a974e83e70008990da9/colorLogoPNG.png",Spin City
 https://jmp2.uk/plu-63e38a974e83e70008990da9.m3u8
+#EXTINF:-1 tvg-id="660d64a7aec9680008f8ba77" tvg-name="Top Gear Classics" tvg-logo="https://images.pluto.tv/channels/660d64a7aec9680008f8ba77/colorLogoPNG.png",Top Gear Classics
+https://jmp2.uk/plu-660d64a7aec9680008f8ba77.m3u8
 #EXTINF:-1 tvg-id="6ae1da00b79b589b96bec887" tvg-name="Most Haunted" tvg-logo="https://images.pluto.tv/channels/6ae1da00b79b589b96bec887/colorLogoPNG_1793186389421.png",Most Haunted
 https://jmp2.uk/plu-6ae1da00b79b589b96bec887.m3u8
 #EXTINF:-1 tvg-id="6178175dbac12b000750d6e6" tvg-name="Familien Thunderman" tvg-logo="https://images.pluto.tv/channels/6178175dbac12b000750d6e6/colorLogoPNG.png",Familien Thunderman

@@ -23,6 +23,14 @@ https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 https://jmp2.uk/plu-60d3574e97f10800078455de.m3u8
 #EXTINF:-1 tvg-id="6a9a8fbd8cc64f2b2b40c83c" tvg-name="Rebelde" tvg-logo="https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/colorLogoPNG_1789113326784.png",Rebelde
 https://jmp2.uk/plu-6a9a8fbd8cc64f2b2b40c83c.m3u8
+#EXTINF:-1 tvg-id="6af41da8bef31762f36993bf" tvg-name="Paola Minerva" tvg-logo="https://images.pluto.tv/channels/6af41da8bef31762f36993bf/colorLogoPNG_1794497844096.png",Paola Minerva
+https://jmp2.uk/plu-6af41da8bef31762f36993bf.m3u8
+#EXTINF:-1 tvg-id="6511a5d8d1f20c000864b951" tvg-name="Victorious" tvg-logo="https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png",Victorious
+https://jmp2.uk/plu-6511a5d8d1f20c000864b951.m3u8
+#EXTINF:-1 tvg-id="6511a53f473a54000854e2ee" tvg-name="Zoey 101" tvg-logo="https://images.pluto.tv/channels/6511a53f473a54000854e2ee/colorLogoPNG.png",Zoey 101
+https://jmp2.uk/plu-6511a53f473a54000854e2ee.m3u8
+#EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-name="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png",Big Time Rush
+https://jmp2.uk/plu-5f1aa7aab66c76000790ee7e.m3u8
 #EXTINF:-1 tvg-id="612ce5214bb5790007ad3016" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png",Pluto TV Paranormal
 https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
 #EXTINF:-1 tvg-id="5f1acbed25948a0007ffbe65" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png",Los archivos del FBI
@@ -197,12 +205,6 @@ https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-id="6181404ef48321000797bc41" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png",iCarly
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
-#EXTINF:-1 tvg-id="6511a5d8d1f20c000864b951" tvg-name="Victorious" tvg-logo="https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png",Victorious
-https://jmp2.uk/plu-6511a5d8d1f20c000864b951.m3u8
-#EXTINF:-1 tvg-id="6511a53f473a54000854e2ee" tvg-name="Zoey 101" tvg-logo="https://images.pluto.tv/channels/6511a53f473a54000854e2ee/colorLogoPNG.png",Zoey 101
-https://jmp2.uk/plu-6511a53f473a54000854e2ee.m3u8
-#EXTINF:-1 tvg-id="5f1aa7aab66c76000790ee7e" tvg-name="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png",Big Time Rush
-https://jmp2.uk/plu-5f1aa7aab66c76000790ee7e.m3u8
 #EXTINF:-1 tvg-id="63eb944dc111bc0008fe7021" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",Pluto TV Teen
 https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png",Los padrinos mágicos
@@ -219,10 +221,10 @@ https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
 https://jmp2.uk/plu-6a31544f2c1c785c1138dbb1.m3u8
 #EXTINF:-1 tvg-id="68779a09c691b3f0964127c6" tvg-name="Heidi" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png",Heidi
 https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
-#EXTINF:-1 tvg-id="610c09219fc0430007a3fce6" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",Rugrats
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",Las Tortugas Ninja
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
+#EXTINF:-1 tvg-id="610c09219fc0430007a3fce6" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",Rugrats
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-id="62568a94ed1f380007b0211f" tvg-name="Winx Club" tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png",Winx Club
 https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8
 #EXTINF:-1 tvg-id="68e8fe3bcba140ddfe903677" tvg-name="Monster High" tvg-logo="https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png",Monster High

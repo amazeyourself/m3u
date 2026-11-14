@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/dk.xml.gz"
-#EXTINF:-1 tvg-id="69f85041460b8b0496d4ca16" tvg-name="Divaernes Dilemmaer" tvg-logo="https://images.pluto.tv/channels/69f85041460b8b0496d4ca16/colorLogoPNG_1788786889793.png",Divaernes Dilemmaer
-https://jmp2.uk/plu-69f85041460b8b0496d4ca16.m3u8
+#EXTINF:-1 tvg-id="62790dc1c733e8000733ba4d" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png",Pixel.tv
+https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 tvg-id="688a20c69034bd35f34aaa9e" tvg-name="Simba Prisen" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png",Simba Prisen
 https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
 #EXTINF:-1 tvg-id="6790d6c7bc03978b9bfbfd44" tvg-name="FBoy Island" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png",FBoy Island
@@ -31,6 +31,8 @@ https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8
 https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
 #EXTINF:-1 tvg-id="63a42df60cc44a0007dd47f8" tvg-name="Robinson Ekspeditionen" tvg-logo="https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png",Robinson Ekspeditionen
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
+#EXTINF:-1 tvg-id="69f85041460b8b0496d4ca16" tvg-name="Divaernes Dilemmaer" tvg-logo="https://images.pluto.tv/channels/69f85041460b8b0496d4ca16/colorLogoPNG_1788786889793.png",Divaernes Dilemmaer
+https://jmp2.uk/plu-69f85041460b8b0496d4ca16.m3u8
 #EXTINF:-1 tvg-id="69c290eeed1b1f1acb446dd8" tvg-name="Gustav & Linse på udebane" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png",Gustav & Linse på udebane
 https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
 #EXTINF:-1 tvg-id="6969fc6c3b9ce349c9e41670" tvg-name="Fristet" tvg-logo="https://images.pluto.tv/channels/6969fc6c3b9ce349c9e41670/colorLogoPNG_1774366158444.png",Fristet
@@ -75,8 +77,6 @@ https://jmp2.uk/plu-692ec3f475169f09b5c0a8b3.m3u8
 https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8
 #EXTINF:-1 tvg-id="67f79fdb3481170e68c0bc38" tvg-name="PodRadio på Pluto TV" tvg-logo="https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png",PodRadio på Pluto TV
 https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
-#EXTINF:-1 tvg-id="62790dc1c733e8000733ba4d" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png",Pixel.tv
-https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 tvg-id="66fd1338ec9d6d00081e0443" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png",Retake E-sport Live
 https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
 #EXTINF:-1 tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-name="Asfalten kalder" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png",Asfalten kalder
