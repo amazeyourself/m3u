@@ -112,7 +112,7 @@ https://applelive.in/globaltv/globaltv/index.m3u8
 #EXTINF:-1 tvg-id="102" tvg-chno="102" tvg-name="kathir tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776329455_KATHIR%20TV.png" group-title="Tamil Nadu Channels",102 kathir tv
 https://app.ashokadigital.net/app/cbc54d21/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-chno="109" tvg-name="deiveegam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790782567_Glossy%20Golden%20Tamil%20Temple%20Emblem.png" group-title="Tamil Nadu Channels",109 deiveegam tv
-
+https://app.ashokadigital.net/app/6196d7ff/index.m3u8
 #EXTINF:-1 tvg-id="110" tvg-chno="110" tvg-name="RAINBOW TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731942805_RAINBOW%20TV.png" group-title="Tamil Nadu Channels",110 RAINBOW TV
 https://live.cloudvu.in/rainbowtv/ssdslive/playlist.m3u8
 #EXTINF:-1 tvg-id="111" tvg-chno="111" tvg-name="acp tv madurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746108596_ACP%20TV%20LOGO%2026-Mar-2025%2014-57-40%20(2)-1.png" group-title="Tamil Nadu Channels",111 acp tv madurai
@@ -141,8 +141,8 @@ https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
 https://rtmp.bmlive.net/bms/eagletv/index.m3u8
 #EXTINF:-1 tvg-id="129" tvg-chno="129" tvg-name="orange Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772504613_81.%20ORANGE%20TV.png" group-title="Tamil Nadu Channels",129 orange Tv
 https://notvstream.in/orangetv/orangetv/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-chno="133" tvg-name="V TAMIL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789645835_file_00709%20(1).png" group-title="Tamil Nadu Channels",133 V TAMIL
-http://vtamizhtv.stream.nellaiiptv.com:80/vtv/vtv/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-chno="133" tvg-name="bass tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794547561_..jpeg" group-title="Tamil Nadu Channels",133 bass tv
+http://stream.dureshtech.com:80/vtv/vtv/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-chno="134" tvg-name="V  MUSIC " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789646188_Comp%201_00709.png" group-title="Tamil Nadu Channels",134 V  MUSIC 
 http://vmusictv.stream.nellaiiptv.com:80/live/vmusictv/index.m3u8
 #EXTINF:-1 tvg-id="135" tvg-chno="135" tvg-name="thendral tv " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437851_1785492886_WhatsApp%20Image%202026-07-31%20at%201.50.50%20PM-Photoroom.png" group-title="Tamil Nadu Channels",135 thendral tv 
@@ -299,6 +299,8 @@ http://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="275" tvg-chno="275" tvg-name="POTHIGAI FM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769821_WhatsApp%20Image%202026-09-30%20at%204.58.03%20PM.jpeg" group-title="Tamil Nadu Channels",275 POTHIGAI FM
 https://pothigaifm-prabak78.radioca.st/stream
+#EXTINF:-1 tvg-id="276" tvg-chno="276" tvg-name="sigaram tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794579835_Sigaram%20tv.png" group-title="Tamil Nadu Channels",276 sigaram tv
+..
 #EXTINF:-1 tvg-id="286" tvg-chno="286" tvg-name="Rj Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Tamil Nadu Channels",286 Rj Tamil Tv
 
 #EXTINF:-1 tvg-id="287" tvg-chno="287" tvg-name="abnaztv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786000666_WhatsApp%20Image%202026-08-06%20at%2012.21.27%20PM.jpeg" group-title="Tamil Nadu Channels",287 abnaztv
