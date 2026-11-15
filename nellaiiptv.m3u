@@ -171,6 +171,10 @@ null
 https://aalayamagimai.in/tv/live/video.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="11" tvg-name="AALAYA MAGIMAI TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/aalaya_magimai_tv_1771225296.webp" group-title="",107 AALAYA MAGIMAI TV [RTMP]
 rtmp://aalayamagimai.in/tv/live
+#EXTINF:-1 tvg-chno="108" tvg-id="507" tvg-name="LCV CHANNEL" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794731149.webp" group-title="",108 LCV CHANNEL
+http://lcvchannel.live.mystreams.in/live/lcvchannel/index.ll.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="507" tvg-name="LCV CHANNEL" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794731149.webp" group-title="",108 LCV CHANNEL [RTMP]
+
 #EXTINF:-1 tvg-chno="109" tvg-id="13" tvg-name="SAILAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sailam_tv_1771226325.webp" group-title="",109 SAILAM TV
 https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="13" tvg-name="SAILAM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/sailam_tv_1771226325.webp" group-title="",109 SAILAM TV [RTMP]
