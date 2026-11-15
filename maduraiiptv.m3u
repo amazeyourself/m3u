@@ -235,6 +235,10 @@ https://nachiyaatv.stream.onecloudlive.in/nachiyaatv/nachiyaahd/index.m3u8
 https://view.rcserver.in/tmp_hls27/acftv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-chno="65" tvg-id="520" tvg-name="ACF TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789309969.webp" group-title="",65 ACF TV [RTMP]
 
+#EXTINF:-1 tvg-chno="66" tvg-id="146" tvg-name="Nila Tv" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1794657362.webp" group-title="Entertainment",66 Nila Tv
+https://stream.cloudlive24.com/live/nilatv.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="146" tvg-name="Nila Tv" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1794657362.webp" group-title="Entertainment",66 Nila Tv [RTMP]
+null
 #EXTINF:-1 tvg-chno="69" tvg-id="16" tvg-name="NAMMA GOPI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/namma_gopi_tv_1770713623.webp" group-title="Entertainment",69 NAMMA GOPI TV
 https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-id="16" tvg-name="NAMMA GOPI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/namma_gopi_tv_1770713623.webp" group-title="Entertainment",69 NAMMA GOPI TV [RTMP]
@@ -466,6 +470,10 @@ https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
 #EXTINF:-1 tvg-chno="323" tvg-id="145" tvg-name="KING TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771245291.webp" group-title="Entertainment",323 KING TV
 https://server.sscloud7.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 tvg-chno="323" tvg-id="145" tvg-name="KING TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771245291.webp" group-title="Entertainment",323 KING TV [RTMP]
+
+#EXTINF:-1 tvg-chno="326" tvg-id="149" tvg-name="RIO MAX TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771245052.webp" group-title="Entertainment",326 RIO MAX TV
+https://stream.onecloudlive.in/riotv/riotvmax/index.m3u8
+#EXTINF:-1 tvg-chno="326" tvg-id="149" tvg-name="RIO MAX TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771245052.webp" group-title="Entertainment",326 RIO MAX TV [RTMP]
 
 #EXTINF:-1 tvg-chno="328" tvg-id="151" tvg-name="VAANI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771245014.webp" group-title="Entertainment",328 VAANI TV
 https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/index.m3u8
@@ -1022,6 +1030,10 @@ null
 #EXTINF:-1 tvg-chno="762" tvg-id="94" tvg-name="Azstar TV" tvg-logo="" group-title="Devotional",762 Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-chno="762" tvg-id="94" tvg-name="Azstar TV" tvg-logo="" group-title="Devotional",762 Azstar TV [RTMP]
+null
+#EXTINF:-1 tvg-chno="763" tvg-id="95" tvg-name="Mojitv" tvg-logo="" group-title="Kids",763 Mojitv
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-chno="763" tvg-id="95" tvg-name="Mojitv" tvg-logo="" group-title="Kids",763 Mojitv [RTMP]
 null
 #EXTINF:-1 tvg-chno="764" tvg-id="104" tvg-name="Mr. Bean Anime Spain" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787212058.webp" group-title="Entertainment",764 Mr. Bean Anime Spain
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
