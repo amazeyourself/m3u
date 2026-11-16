@@ -1339,3 +1339,15 @@ https://3.proxy.nellaiiptv.com/ANALAI_MOVIE/index.m3u8?token=GTR
 http://arulstream.in:1935/ArulTv/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="967" tvg-id="471" tvg-name="ARUL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1789630946.webp" group-title="Entertainment",967 ARUL TV [RTMP]
 
+#EXTINF:-1 tvg-chno="2001" tvg-id="508" tvg-name="ILAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794815307.webp" group-title="Entertainment",2001 ILAVAN TV
+https://rtmphub.in/hls/ilantv/live/YesMTyuJdQmyMeWf4ktWAQ3ELJSBSDTR/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-chno="2001" tvg-id="508" tvg-name="ILAVAN TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794815307.webp" group-title="Entertainment",2001 ILAVAN TV [RTMP]
+
+#EXTINF:-1 tvg-chno="2002" tvg-id="509" tvg-name="Arun TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794815449.webp" group-title="Entertainment",2002 Arun TV
+http://147.93.29.33:8888/theni/channel1/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-chno="2002" tvg-id="509" tvg-name="Arun TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794815449.webp" group-title="Entertainment",2002 Arun TV [RTMP]
+
+#EXTINF:-1 tvg-chno="2003" tvg-id="510" tvg-name="JC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794815489.webp" group-title="Entertainment",2003 JC TV
+https://applelive.in/jctv/jctv/index.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-chno="2003" tvg-id="510" tvg-name="JC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794815489.webp" group-title="Entertainment",2003 JC TV [RTMP]
+
