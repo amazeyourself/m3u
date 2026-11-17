@@ -9,8 +9,6 @@ https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-PitaaraTV_NonSSAI/v1/vglive-sk-3
 https://amg14122-amg14122c1-amgplt0249.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0249/amgplt0249.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Mango Mobile TV" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/TV/thumbnail/bf798110-6a62-441e-b468-7a1d35947f5c.png" group-title="Entertainment",Mango Mobile TV
 https://amg01911-amg01911c2-amgplt0249.playout.now3.amagi.tv/playout/amg01911/amg01911c2/amgplt0249/amgplt0249.m3u8
-#EXTINF:-1 tvg-id="95" tvg-name="Alright" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALRGHT/TV/thumbnail/54075511-3fb1-4d5e-8d94-1ec2881af50e.png" group-title="Entertainment",Alright
-https://ruskmedia.cdn.runn.tv/ruskmedia/stream/alrght/playlist.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="Dice Media" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DICMED/TV/thumbnail/3a8ec165-5a9c-477a-8502-34723f8f1713.png" group-title="Entertainment",Dice Media
 https://dicemedia.cdn.runn.tv/pocketaces/stream/dicmed/playlist.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Filter Copy" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FILCOP/TV/thumbnail/2cd221d7-82b0-4265-8420-3ae2efc2a79f.png" group-title="Entertainment",Filter Copy
@@ -25,12 +23,6 @@ https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="NH BollyGold" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/TV/thumbnail/eaf5477a-82cb-45f8-a200-2c8c136e57b7.png" group-title="Movies",NH BollyGold
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="INDIA TV" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDIA_TV/TV/thumbnail/8fea8a04-84f7-428e-bf98-755780c94524.png" group-title="News & Opinion",INDIA TV
-https://indiatv.cdn.runn.tv/v1/vglive-sk-274906/main.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="Speed News" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/TV/thumbnail/3c68d9a8-d21e-40a4-a2a7-e874f78c25df.png" group-title="News & Opinion",Speed News
-https://indiatv.cdn.runn.tv/v1/vglive-sk-479089/main.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="Aap ki Adalat" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/TV/thumbnail/6dec2b8c-6a73-4e91-9e0c-f0840a9c02a6.png" group-title="News & Opinion",Aap ki Adalat
-https://indiatv.cdn.runn.tv/v1/vglive-sk-912213/main.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="News Nation" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/TV/thumbnail/NEWS NATION Channel Logo.png" group-title="News & Opinion",News Nation
 https://newsnation.cdn.runn.tv/national/master_nnna_runntv.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="News State UP/UK" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/TV/thumbnail/41a67ed0-e6ce-42f5-8b3a-e77ce5488927.png" group-title="News & Opinion",News State UP/UK
@@ -51,5 +43,3 @@ https://runntv.kableone.com/hls/live/2111218/SagaMusic/master.m3u8
 https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-DivyaTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-906482/playlist.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="Sikh Ratnavali" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SIKRAT/TV/thumbnail/8804f72d-4fa7-4f10-885f-9232ea32b541.png" group-title="Devotional",Sikh Ratnavali
 https://runntv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8
-#EXTINF:-1 tvg-id="55" tvg-name="India TV Yoga" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/TV/thumbnail/44caa8ef-c0d0-4b00-ba10-75a4452e9d09.png" group-title="Lifestyle",India TV Yoga
-https://indiatv.cdn.runn.tv/v1/vglive-sk-385006/main.m3u8
