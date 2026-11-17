@@ -85,6 +85,8 @@ https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
 https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
 #EXTINF:-1 tvg-id="622f6faf65be650007f57aab" tvg-name="Hausmeister Krause" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png",Hausmeister Krause
 https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
+#EXTINF:-1 tvg-id="63763b405a978700078011a8" tvg-name="Voll daneben, voll im Leben" tvg-logo="https://images.pluto.tv/channels/63763b405a978700078011a8/colorLogoPNG.png",Voll daneben, voll im Leben
+https://jmp2.uk/plu-63763b405a978700078011a8.m3u8
 #EXTINF:-1 tvg-id="655ca57e4261ca00080b3a04" tvg-name="Anger Management" tvg-logo="https://images.pluto.tv/channels/655ca57e4261ca00080b3a04/colorLogoPNG.png",Anger Management
 https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
 #EXTINF:-1 tvg-id="630348a54c48ce00077eb6c7" tvg-name="Becker" tvg-logo="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png",Becker
@@ -329,6 +331,8 @@ https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
 #EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" tvg-name="Pluto TV Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png",Pluto TV Explore
 https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 tvg-id="6a9a89f6ff94431f8bb895d4" tvg-name="BBC Earth" tvg-logo="https://images.pluto.tv/channels/6a9a89f6ff94431f8bb895d4/colorLogoPNG_1788513545702.png",BBC Earth
+https://jmp2.uk/plu-6a9a89f6ff94431f8bb895d4.m3u8
 #EXTINF:-1 tvg-id="60e4519e6873180007d3cddb" tvg-name="BBC Lifestyle" tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG_1783324912745.png",BBC Lifestyle
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 tvg-id="5dc280c9aa218c0009724b4b" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png",Pluto TV Food
