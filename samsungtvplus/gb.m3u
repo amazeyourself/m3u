@@ -325,7 +325,7 @@ https://jmp2.uk/stvp-GB400003BM
 https://jmp2.uk/stvp-GB3300002NF
 #EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260714T040523SQUARE.png",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png",GB News
+#EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20261118T005901SQUARE.png",GB News
 https://jmp2.uk/stvp-GBBB1600008R3
 #EXTINF:-1 tvg-id="GB2600019ON" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20260714T040531SQUARE.png",Euronews LIVE
 https://jmp2.uk/stvp-GB2600019ON
@@ -387,6 +387,8 @@ https://jmp2.uk/stvp-GB3500002R8
 https://jmp2.uk/stvp-GB2700012HS
 #EXTINF:-1 tvg-id="GB2200002CC" tvg-name="GFN Football" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2200002CC_20261014T010220SQUARE.png",GFN Football
 https://jmp2.uk/stvp-GB2200002CC
+#EXTINF:-1 tvg-id="GB3700013W3" tvg-name="Jamie Vardy's Having a Party" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700013W3_20261117T041800SQUARE.png",Jamie Vardy's Having a Party
+https://jmp2.uk/stvp-GB3700013W3
 #EXTINF:-1 tvg-id="GB1100002OE" tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1100002OE_20261102T070516SQUARE.png",Barça 24H
 https://jmp2.uk/stvp-GB1100002OE
 #EXTINF:-1 tvg-id="GB3800010LT" tvg-name="Real Madrid TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3800010LT_20261013T055017SQUARE.png",Real Madrid TV
@@ -409,6 +411,8 @@ https://jmp2.uk/stvp-GBBD2900001VD
 https://jmp2.uk/stvp-GBBC90001089
 #EXTINF:-1 tvg-id="GB4200009EC" tvg-name="Racing TV Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4200009EC_20260421T125755SQUARE.png",Racing TV Play
 https://jmp2.uk/stvp-GB4200009EC
+#EXTINF:-1 tvg-id="GB36000101C" tvg-name="Vevo Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB36000101C_20261117T041810SQUARE.png",Vevo Christmas
+https://jmp2.uk/stvp-GB36000101C
 #EXTINF:-1 tvg-id="GBBC19000017V" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png",Vevo Pop
 https://jmp2.uk/stvp-GBBC19000017V
 #EXTINF:-1 tvg-id="GBBD1900009UD" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png",Vevo '70s & '80s

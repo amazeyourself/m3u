@@ -225,6 +225,10 @@ https://jmp2.uk/stvp-ES2600013H4
 https://jmp2.uk/stvp-ES2600003UM
 #EXTINF:-1 tvg-id="ES4200001MR" tvg-name="Moviesphere" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20261013T054750SQUARE.png",Moviesphere
 https://jmp2.uk/stvp-ES4200001MR
+#EXTINF:-1 tvg-id="ES1300005HE" tvg-name="Alma" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300005HE_20261117T041725SQUARE.png",Alma
+https://jmp2.uk/stvp-ES1300005HE
+#EXTINF:-1 tvg-id="ES13000040O" tvg-name="Books" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES13000040O_20261117T041732SQUARE.png",Books
+https://jmp2.uk/stvp-ES13000040O
 #EXTINF:-1 tvg-id="ESBD800004KU" tvg-name="Runtime Romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260804T051244SQUARE.png",Runtime Romance
 https://jmp2.uk/stvp-ESBD800004KU
 #EXTINF:-1 tvg-id="ES2600012C9" tvg-name="Películas Románticas - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png",Películas Románticas - Rakuten TV
@@ -247,6 +251,8 @@ https://jmp2.uk/stvp-ES2300005G7
 https://jmp2.uk/stvp-ESBC2700003T8
 #EXTINF:-1 tvg-id="ES2200003DA" tvg-name="Runtime Clásicos" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20261110T043528SQUARE.png",Runtime Clásicos
 https://jmp2.uk/stvp-ES2200003DA
+#EXTINF:-1 tvg-id="ES1300006Z3" tvg-name="Epic" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300006Z3_20261117T041740SQUARE.png",Epic
+https://jmp2.uk/stvp-ES1300006Z3
 #EXTINF:-1 tvg-id="ES500008IU" tvg-name="FreeTV Clásico" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260901T054052SQUARE.png",FreeTV Clásico
 https://jmp2.uk/stvp-ES500008IU
 #EXTINF:-1 tvg-id="ES2800001G7" tvg-name="Planeta de Cine" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png",Planeta de Cine
@@ -265,12 +271,16 @@ https://jmp2.uk/stvp-ESBD800001RJ
 https://jmp2.uk/stvp-ES2600004BD
 #EXTINF:-1 tvg-id="ES4100002WB" tvg-name="Thrillers - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20261102T070300SQUARE.png",Thrillers - Rakuten TV
 https://jmp2.uk/stvp-ES4100002WB
+#EXTINF:-1 tvg-id="ES1300002TA" tvg-name="Acción+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300002TA_20261117T041718SQUARE.png",Acción+
+https://jmp2.uk/stvp-ES1300002TA
 #EXTINF:-1 tvg-id="ESBD80000288" tvg-name="Runtime Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20260915T035850SQUARE.png",Runtime Acción
 https://jmp2.uk/stvp-ESBD80000288
 #EXTINF:-1 tvg-id="ES33000058B" tvg-name="RTVE Somos Cine" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20260915T035838SQUARE.png",RTVE Somos Cine
 https://jmp2.uk/stvp-ES33000058B
 #EXTINF:-1 tvg-id="ES300006QJ" tvg-name="Sony One Hits Acción" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260707T051040SQUARE.png",Sony One Hits Acción
 https://jmp2.uk/stvp-ES300006QJ
+#EXTINF:-1 tvg-id="ES3600002W5" tvg-name="Vevo Navidad" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600002W5_20261117T041748SQUARE.png",Vevo Navidad
+https://jmp2.uk/stvp-ES3600002W5
 #EXTINF:-1 tvg-id="ESBC2100002LV" tvg-name="Vevo Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20260707T051048SQUARE.png",Vevo Latino
 https://jmp2.uk/stvp-ESBC2100002LV
 #EXTINF:-1 tvg-id="ESBD230000289" tvg-name="Vevo Retro" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png",Vevo Retro
