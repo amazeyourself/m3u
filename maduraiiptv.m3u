@@ -455,6 +455,10 @@ rtmp://edge.yettelevision.com/WebRTCApp/YETTV5Vn8Qx3Lm7KpR2Wd
 https://ipcloud.live/mmtv/jeyamplus/index.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="241" tvg-name="JEYAM PLUS" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787210298.webp" group-title="Entertainment",212 JEYAM PLUS [RTMP]
 rtmp://ipcloud.live/mmtv/jeyamplus
+#EXTINF:-1 tvg-chno="213" tvg-id="242" tvg-name="IMAI HDTV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1795103954.webp" group-title="Entertainment",213 IMAI HDTV
+https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="242" tvg-name="IMAI HDTV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1795103954.webp" group-title="Entertainment",213 IMAI HDTV [RTMP]
+
 #EXTINF:-1 tvg-chno="214" tvg-id="243" tvg-name="OLI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787206785.webp" group-title="Entertainment",214 OLI TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-chno="214" tvg-id="243" tvg-name="OLI TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1787206785.webp" group-title="Entertainment",214 OLI TV [RTMP]
@@ -479,6 +483,10 @@ rtmp://premium.7starcloud.com:1935/live/7star8
 http://premium.7starcloud.com:1935/live/7starmusic/playlist.m3u8
 #EXTINF:-1 tvg-chno="232" tvg-id="265" tvg-name="7 STAR MUSIC TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1777819022.webp" group-title="Music",232 7 STAR MUSIC TV [RTMP]
 rtmp://premium.7starcloud.com:1935/live/7starmusic
+#EXTINF:-1 tvg-chno="236" tvg-id="268" tvg-name="SMCV TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771900021.webp" group-title="Entertainment",236 SMCV TV
+http://27.124.71.27/Movies_Now/index.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="268" tvg-name="SMCV TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771900021.webp" group-title="Entertainment",236 SMCV TV [RTMP]
+
 #EXTINF:-1 tvg-chno="237" tvg-id="270" tvg-name="AYYAVAIKUNDAR TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786948001.webp" group-title="Regional",237 AYYAVAIKUNDAR TV
 https://stream.onecloudlive.in/samuthirapandi/ayyavaikundartv/index.m3u8
 #EXTINF:-1 tvg-chno="237" tvg-id="270" tvg-name="AYYAVAIKUNDAR TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786948001.webp" group-title="Regional",237 AYYAVAIKUNDAR TV [RTMP]
