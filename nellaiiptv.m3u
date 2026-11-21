@@ -139,9 +139,9 @@ https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="386" tvg-name="NILA TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1785670972.webp" group-title="Entertainment",52 NILA TV [RTMP]
 
-#EXTINF:-1 tvg-chno="53" tvg-id="503" tvg-name="SV Channel" tvg-logo="" group-title="Entertainment",53 SV Channel
+#EXTINF:-1 tvg-chno="53" tvg-id="503" tvg-name="SV Channel" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795236667.webp" group-title="Entertainment",53 SV Channel
 http://svchannel.live.mystreams.in:80/live/svchannel/index.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="503" tvg-name="SV Channel" tvg-logo="" group-title="Entertainment",53 SV Channel [RTMP]
+#EXTINF:-1 tvg-chno="53" tvg-id="503" tvg-name="SV Channel" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795236667.webp" group-title="Entertainment",53 SV Channel [RTMP]
 
 #EXTINF:-1 tvg-chno="54" tvg-id="12" tvg-name="THENTRAL TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/thentral_tv_1771226071.webp" group-title="",54 THENTRAL TV
 http://thendraltvhd.live.mystreams.in:80/live/thendraltv-hd/index.m3u8
