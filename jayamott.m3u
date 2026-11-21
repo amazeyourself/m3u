@@ -13,10 +13,6 @@ https://ipcloud.live/mtv/menhd/index.m3u8
 https://ipcloud.live/karthick/karthicktvhd/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-name="சூப்பர் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1781529671_WhatsApp Image 2026-04-08 at 7.00.58 PM.jpeg" tvg-region="திண்டுக்கல்",சூப்பர் டிவி
 http://122.165.249.163:8080/hls/supertv/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-chno="9" tvg-name="THENDRAL Tv" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775658462_Thendral .png" tvg-region="Madurai",THENDRAL Tv
-https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-name="எழில் டிவி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1786417280_WhatsApp Image 2026-08-10 at 7.52.04 PM.jpeg" tvg-region="",எழில் டிவி
-https://notvstream.in:1935/ezhiltv/ezhiltv
 #EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-name="crayonz" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775708457_CRAYONZ TV LOGO NEW(2).png" tvg-region="சென்னை",crayonz
 http://sanplayout.xyz/live2/crayonztv/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-name="தேவதை டி.வி" tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775656374_WhatsApp Image 2026-04-08 at 7.01.07 PM (1).jpeg" tvg-region="",தேவதை டி.வி
