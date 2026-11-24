@@ -1351,3 +1351,23 @@ http://147.93.29.33:8888/theni/channel1/index.m3u8?cookieCheck=1
 https://applelive.in/jctv/jctv/index.m3u8?origin=github.com/amazeyourself
 #EXTINF:-1 tvg-chno="2003" tvg-id="510" tvg-name="JC TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1794815489.webp" group-title="Entertainment",2003 JC TV [RTMP]
 
+#EXTINF:-1 tvg-chno="2004" tvg-id="511" tvg-name="MM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457817.webp" group-title="",2004 MM TV
+http://mmtv.phoenixcreations.online/mmtv/mm/playlist.m3u8
+#EXTINF:-1 tvg-chno="2004" tvg-id="511" tvg-name="MM TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457817.webp" group-title="",2004 MM TV [RTMP]
+
+#EXTINF:-1 tvg-chno="2005" tvg-id="512" tvg-name="Mangalam TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457840.webp" group-title="",2005 Mangalam TV
+http://mangalamtv.phoenixcreations.online/mangalamtv/mangalam/playlist.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-chno="2005" tvg-id="512" tvg-name="Mangalam TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457840.webp" group-title="",2005 Mangalam TV [RTMP]
+
+#EXTINF:-1 tvg-chno="2006" tvg-id="513" tvg-name="UTSAV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457878.webp" group-title="",2006 UTSAV TV
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="2006" tvg-id="513" tvg-name="UTSAV TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457878.webp" group-title="",2006 UTSAV TV [RTMP]
+
+#EXTINF:-1 tvg-chno="2007" tvg-id="514" tvg-name="Manisha TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457898.webp" group-title="",2007 Manisha TV
+https://stream.sscloud7.in/live/maishatv/index.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-chno="2007" tvg-id="514" tvg-name="Manisha TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457898.webp" group-title="",2007 Manisha TV [RTMP]
+
+#EXTINF:-1 tvg-chno="2008" tvg-id="515" tvg-name="Jenifer TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457917.webp" group-title="",2008 Jenifer TV
+https://live1.sscloud7.in/live/jenifertv/index.m3u8?origin=github.com/amazeyourself
+#EXTINF:-1 tvg-chno="2008" tvg-id="515" tvg-name="Jenifer TV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1795457917.webp" group-title="",2008 Jenifer TV [RTMP]
+
