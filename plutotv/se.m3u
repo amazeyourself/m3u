@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/se.xml.gz"
+#EXTINF:-1 tvg-id="6716571bc7626f000890c518" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/6716571bc7626f000890c518/colorLogoPNG_1732093647930.png",MODUS Super Series Darts
+https://jmp2.uk/plu-6716571bc7626f000890c518.m3u8
+#EXTINF:-1 tvg-id="68ac56363efb41cd979a8005" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac56363efb41cd979a8005/colorLogoPNG_1760517057647.png",Pluto TV Snooker 900
+https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 tvg-id="6ac36077c3565bfc323e6fcb" tvg-name="Temptation Island USA" tvg-logo="https://images.pluto.tv/channels/6ac36077c3565bfc323e6fcb/colorLogoPNG_1792067930225.png",Temptation Island USA
 https://jmp2.uk/plu-6ac36077c3565bfc323e6fcb.m3u8
 #EXTINF:-1 tvg-id="69f850988b8e147fa4195ba1" tvg-name="Nathan For You: Real, Uncut & Cringy" tvg-logo="https://images.pluto.tv/channels/69f850988b8e147fa4195ba1/colorLogoPNG_1795102671175.png",Nathan For You: Real, Uncut & Cringy
@@ -77,12 +81,8 @@ https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
 #EXTINF:-1 tvg-id="660e7488aec9680008fabcf1" tvg-name="AWSN" tvg-logo="https://images.pluto.tv/channels/660e7488aec9680008fabcf1/colorLogoPNG_1748590900265.png",AWSN
 https://jmp2.uk/plu-660e7488aec9680008fabcf1.m3u8
-#EXTINF:-1 tvg-id="6716571bc7626f000890c518" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/6716571bc7626f000890c518/colorLogoPNG_1732093647930.png",MODUS Super Series Darts
-https://jmp2.uk/plu-6716571bc7626f000890c518.m3u8
 #EXTINF:-1 tvg-id="67a23bb777796f00080edaec" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23bb777796f00080edaec/colorLogoPNG_1750773346598.png",Dominance FC TV
 https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
-#EXTINF:-1 tvg-id="68ac56363efb41cd979a8005" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac56363efb41cd979a8005/colorLogoPNG_1760517057647.png",Pluto TV Snooker 900
-https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 tvg-id="62e7babea3e6270007f5564a" tvg-name="Jakt är Jakt" tvg-logo="https://images.pluto.tv/channels/62e7babea3e6270007f5564a/colorLogoPNG.png",Jakt är Jakt
 https://jmp2.uk/plu-62e7babea3e6270007f5564a.m3u8
 #EXTINF:-1 tvg-id="671b4e8bc7626f00089b7194" tvg-name="Horse & Country" tvg-logo="https://images.pluto.tv/channels/671b4e8bc7626f00089b7194/colorLogoPNG.png",Horse & Country

@@ -19,6 +19,8 @@ https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 #EXTINF:-1 tvg-id="68d566603d3a9580eb461251" tvg-name="Paramount Network de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+#EXTINF:-1 tvg-id="69f8b5e9c2b638404fe8f818" tvg-name="El último tema" tvg-logo="https://images.pluto.tv/channels/69f8b5e9c2b638404fe8f818/colorLogoPNG_1793973744226.png",El último tema
+https://jmp2.uk/plu-69f8b5e9c2b638404fe8f818.m3u8
 #EXTINF:-1 tvg-id="695fd9f0b7aaee65cc031463" tvg-name="Slam Dunk" tvg-logo="https://images.pluto.tv/channels/695fd9f0b7aaee65cc031463/colorLogoPNG_1794561074054.png",Slam Dunk
 https://jmp2.uk/plu-695fd9f0b7aaee65cc031463.m3u8
 #EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG_1792573918778.png",Doctor Who
@@ -267,10 +269,10 @@ https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 https://jmp2.uk/plu-6a9fc2af17c0d8c7a37697d0.m3u8
 #EXTINF:-1 tvg-id="690dd10a37b131228d76d5b1" tvg-name="El Mueble" tvg-logo="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png",El Mueble
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-#EXTINF:-1 tvg-id="64db2e0835425100080f2f5a" tvg-name="Pluto TV Diseño" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png",Pluto TV Diseño
-https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 #EXTINF:-1 tvg-id="69b3db5d61e8e298254c7108" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png",Space Live
 https://jmp2.uk/plu-69b3db5d61e8e298254c7108.m3u8
+#EXTINF:-1 tvg-id="64db2e0835425100080f2f5a" tvg-name="Pluto TV Diseño" tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png",Pluto TV Diseño
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 #EXTINF:-1 tvg-id="6a846cb6840f7d654710df00" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a846cb6840f7d654710df00/colorLogoPNG_1790842102809.png",That's 90s00s
 https://jmp2.uk/plu-6a846cb6840f7d654710df00.m3u8
 #EXTINF:-1 tvg-id="6a846c44496b635ad62aa13e" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/6a846c44496b635ad62aa13e/colorLogoPNG_1790781375896.png",That's 80s
