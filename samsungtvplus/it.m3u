@@ -111,8 +111,6 @@ https://jmp2.uk/stvp-IT18000033C
 https://jmp2.uk/stvp-ITBD19000097D
 #EXTINF:-1 tvg-id="ITBD3600002PA" tvg-name="CNBC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600002PA_20260317T034124SQUARE.png",CNBC
 https://jmp2.uk/stvp-ITBD3600002PA
-#EXTINF:-1 tvg-id="ITBC4000028E" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4000028E_20241022T051654SQUARE.png",NBC News NOW
-https://jmp2.uk/stvp-ITBC4000028E
 #EXTINF:-1 tvg-id="ITBA3300025F5" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300025F5_20260421T124034SQUARE.png",Bloomberg TV+
 https://jmp2.uk/stvp-ITBA3300025F5
 #EXTINF:-1 tvg-id="IT700005C9" tvg-name="Studio Uno" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700005C9_20261013T054248SQUARE.png",Studio Uno
@@ -253,21 +251,17 @@ https://jmp2.uk/stvp-IT3800003GX
 https://jmp2.uk/stvp-ITBD1000006RD
 #EXTINF:-1 tvg-id="IT1200001Q8" tvg-name="Storie Criminali" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png",Storie Criminali
 https://jmp2.uk/stvp-IT1200001Q8
-#EXTINF:-1 tvg-id="ITBD3700001TM" tvg-name="DATELINE 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3700001TM_20241022T044002SQUARE.png",DATELINE 24/7
-https://jmp2.uk/stvp-ITBD3700001TM
 #EXTINF:-1 tvg-id="IT4500001L4" tvg-name="Squadra Speciale Cobra 11" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4500001L4_20251202T002731SQUARE.png",Squadra Speciale Cobra 11
 https://jmp2.uk/stvp-IT4500001L4
 #EXTINF:-1 tvg-id="IT3700001R9" tvg-name="Forensic Files" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3700001R9_20251111T011346SQUARE.png",Forensic Files
 https://jmp2.uk/stvp-IT3700001R9
-#EXTINF:-1 tvg-id="IT800001SW" tvg-name="Inuyasha" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20251013T054512SQUARE.png",Inuyasha
-https://jmp2.uk/stvp-IT800001SW
 #EXTINF:-1 tvg-id="ITBC3500002SJ" tvg-name="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3500002SJ_20241022T043901SQUARE.png",Teen Vee
 https://jmp2.uk/stvp-ITBC3500002SJ
 #EXTINF:-1 tvg-id="IT700007M3" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700007M3_20250408T021512SQUARE.png",Yu-Gi-Oh!
 https://jmp2.uk/stvp-IT700007M3
 #EXTINF:-1 tvg-id="IT3200005F4" tvg-name="Inazuma Eleven Collection" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200005F4_20250527T014834SQUARE.png",Inazuma Eleven Collection
 https://jmp2.uk/stvp-IT3200005F4
-#EXTINF:-1 tvg-id="IT480000143" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT480000143_20250819T032309SQUARE.png",Teletubbies
+#EXTINF:-1 tvg-id="IT480000143" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT480000143_20261124T074229SQUARE.png",Teletubbies
 https://jmp2.uk/stvp-IT480000143
 #EXTINF:-1 tvg-id="IT2000002D1" tvg-name="CAR CITY ADVENTURES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000002D1_20241210T052846SQUARE.png",CAR CITY ADVENTURES
 https://jmp2.uk/stvp-IT2000002D1
@@ -287,7 +281,7 @@ https://jmp2.uk/stvp-IT2200011IA
 https://jmp2.uk/stvp-IT34000016N
 #EXTINF:-1 tvg-id="IT2100003OJ" tvg-name="Pingu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2100003OJ_20260901T055006SQUARE.png",Pingu
 https://jmp2.uk/stvp-IT2100003OJ
-#EXTINF:-1 tvg-id="IT3900001EN" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900001EN_20241112T093253SQUARE.png",Sonic The Hedgehog
+#EXTINF:-1 tvg-id="IT3900001EN" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900001EN_20261124T074223SQUARE.png",Sonic The Hedgehog
 https://jmp2.uk/stvp-IT3900001EN
 #EXTINF:-1 tvg-id="ITAJ3800010RX" tvg-name="Pluto TV Teen Club" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800010RX_20260721T040311SQUARE.png",Pluto TV Teen Club
 https://jmp2.uk/stvp-ITAJ3800010RX

@@ -121,12 +121,12 @@ https://jmp2.uk/stvp-CH1100004ZG
 https://jmp2.uk/stvp-CH1100003IR
 #EXTINF:-1 tvg-id="CH1100007FL" tvg-name="ARD Plus Sturm der Liebe" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1100007FL_20261026T041735SQUARE.png",ARD Plus Sturm der Liebe
 https://jmp2.uk/stvp-CH1100007FL
-#EXTINF:-1 tvg-id="CH48000025D" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20261110T042837SQUARE.png",Hudson & Rex
+#EXTINF:-1 tvg-id="CH48000025D" tvg-name="Hudson & Rex" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20261124T072307SQUARE.png",Hudson & Rex
 https://jmp2.uk/stvp-CH48000025D
-#EXTINF:-1 tvg-id="CH300006UT" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20261110T042814SQUARE.png",Alarm für Cobra 11 / Balko
-https://jmp2.uk/stvp-CH300006UT
 #EXTINF:-1 tvg-id="CH2100004Y5" tvg-name="NCIS: New Orleans" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100004Y5_20261102T065839SQUARE.png",NCIS: New Orleans
 https://jmp2.uk/stvp-CH2100004Y5
+#EXTINF:-1 tvg-id="CH300006UT" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH300006UT_20261124T072253SQUARE.png",Alarm für Cobra 11 / Balko
+https://jmp2.uk/stvp-CH300006UT
 #EXTINF:-1 tvg-id="CH2000332L" tvg-name="Vera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2000332L_20260929T040143SQUARE.png",Vera
 https://jmp2.uk/stvp-CH2000332L
 #EXTINF:-1 tvg-id="CHBA3300026CA" tvg-name="Top Serien" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300026CA_20260224T030327SQUARE.png",Top Serien
@@ -169,6 +169,8 @@ https://jmp2.uk/stvp-CH500001V2
 https://jmp2.uk/stvp-CH700006GD
 #EXTINF:-1 tvg-id="CH2200006VD" tvg-name="Welt" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2200006VD_20260804T050438SQUARE.png",Welt
 https://jmp2.uk/stvp-CH2200006VD
+#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20261124T072241SQUARE.png",Wilder Planet
+https://jmp2.uk/stvp-CHBA3300028G3
 #EXTINF:-1 tvg-id="CHBC40000011Y" tvg-name="The Wicked Tuna Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",The Wicked Tuna Channel
 https://jmp2.uk/stvp-CHBC40000011Y
 #EXTINF:-1 tvg-id="CHAJ700009UV" tvg-name="Ice Pilots" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700009UV_20250107T025119SQUARE.png",Ice Pilots
@@ -193,8 +195,6 @@ https://jmp2.uk/stvp-CHAK3504503A
 https://jmp2.uk/stvp-CH1000001V1
 #EXTINF:-1 tvg-id="CHBC40000040J" tvg-name="wedotv Big Stories [IT]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000040J_20250624T021815SQUARE.png",wedotv Big Stories [IT]
 https://jmp2.uk/stvp-CHBC40000040J
-#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20261026T041721SQUARE.png",Wilder Planet
-https://jmp2.uk/stvp-CHBA3300028G3
 #EXTINF:-1 tvg-id="CHBA1500021M5" tvg-name="One Terra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20260407T035810SQUARE.png",One Terra
 https://jmp2.uk/stvp-CHBA1500021M5
 #EXTINF:-1 tvg-id="CHBD2700002B7" tvg-name="Terra Mater WILD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2700002B7_20260210T035636SQUARE.png",Terra Mater WILD
@@ -259,14 +259,14 @@ https://jmp2.uk/stvp-CHBD2600014C0
 https://jmp2.uk/stvp-CH3100001XL
 #EXTINF:-1 tvg-id="CHBD2600011YG" tvg-name="More than Sports TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600011YG_20250107T025534SQUARE.png",More than Sports TV
 https://jmp2.uk/stvp-CHBD2600011YG
+#EXTINF:-1 tvg-id="CH3400005S4" tvg-name="Deluxe Winter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3400005S4_20261124T073804SQUARE.png",Deluxe Winter
+https://jmp2.uk/stvp-CH3400005S4
 #EXTINF:-1 tvg-id="CHBD38000019N" tvg-name="DELUXE RAP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD38000019N_20250107T025452SQUARE.png",DELUXE RAP
 https://jmp2.uk/stvp-CHBD38000019N
 #EXTINF:-1 tvg-id="CHBA1500029TL" tvg-name="Deluxe Deutschpop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500029TL_20250107T031449SQUARE.png",Deluxe Deutschpop
 https://jmp2.uk/stvp-CHBA1500029TL
 #EXTINF:-1 tvg-id="CH2300001O9" tvg-name="Deluxe Dance By Kontor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2300001O9_20250107T025454SQUARE.png",Deluxe Dance By Kontor
 https://jmp2.uk/stvp-CH2300001O9
-#EXTINF:-1 tvg-id="CH3400005S4" tvg-name="Deluxe Winter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3400005S4_20260929T035958SQUARE.png",Deluxe Winter
-https://jmp2.uk/stvp-CH3400005S4
 #EXTINF:-1 tvg-id="CH4400001YI" tvg-name="Metal.Rocks" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4400001YI_20260609T042242SQUARE.png",Metal.Rocks
 https://jmp2.uk/stvp-CH4400001YI
 #EXTINF:-1 tvg-id="CH700004YT" tvg-name="Rolling Stones Takeover" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH700004YT_20260707T052813SQUARE.png",Rolling Stones Takeover
@@ -289,7 +289,7 @@ https://jmp2.uk/stvp-CH2100006ZQ
 https://jmp2.uk/stvp-CH2100007I1
 #EXTINF:-1 tvg-id="CH220000164" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH220000164_20260609T042217SQUARE.png",Fireplace Vibes
 https://jmp2.uk/stvp-CH220000164
-#EXTINF:-1 tvg-id="CH500000481" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500000481_20250819T130150SQUARE.png",Teletubbies
+#EXTINF:-1 tvg-id="CH500000481" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500000481_20261124T073757SQUARE.png",Teletubbies
 https://jmp2.uk/stvp-CH500000481
 #EXTINF:-1 tvg-id="CHBD4700001DY" tvg-name="LooLoo Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD4700001DY_20250107T025532SQUARE.png",LooLoo Kids
 https://jmp2.uk/stvp-CHBD4700001DY
