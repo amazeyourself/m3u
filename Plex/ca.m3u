@@ -473,7 +473,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a3c23ec97845f69835ac533.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6aa9c4a3083227098739435b.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a9512a7f534d4312a699c22.m3u8
@@ -513,8 +513,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe95d389daa346544d501.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69d57e725a891b1ff36c0c5e" tvg-name="Everyday" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb421eac-017d-4354-855a-0e64cca34ec6/ABC-everyday-WHTRDX.png",Everyday
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69d57e725a891b1ff36c0c5e.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-675b42090074283b4ef1e563" tvg-name="The Outpost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/873ae6c5-14c1-451a-bf25-7ee00112845f/Plex_TheOutpost_750x500_ChannelLogo_Light.png",The Outpost
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-675b42090074283b4ef1e563.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png",24 Hour Free Movies
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fd115bab7ef8d002dcf181d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66ce3ef09ac0b1441b19ca2b" tvg-name="Continuum" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c8909c9-e161-4bca-afd4-649b7486a01b/Continuum_Channel_Logo_White.png",Continuum
@@ -809,7 +807,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68800806996f1a2fb393a6e5.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aaa17a784a2161d3caf801.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-68894c4890f994b93a68c1b0" tvg-name="XITE Christian Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02bfaae2-00be-4820-bc4f-5bbdb6efd484/xitechristianhits_logo_light_-_Arlette_FiranRDX.png",XITE Christian Hits
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68894c4890f994b93a68c1b0.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62280162c9f485cc7afe8c46.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png",Éxitos del Momento
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62efba6588a16bb7d6b6fb58.m3u8
