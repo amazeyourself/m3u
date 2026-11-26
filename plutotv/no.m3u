@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/no.xml.gz"
-#EXTINF:-1 tvg-id="68ac55fe3efb41cd979a6877" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png",Pluto TV Snooker 900
-https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
 #EXTINF:-1 tvg-id="671656dfdaad7f00085d2133" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671656dfdaad7f00085d2133/colorLogoPNG_1732093602845.png",MODUS Super Series Darts
 https://jmp2.uk/plu-671656dfdaad7f00085d2133.m3u8
+#EXTINF:-1 tvg-id="68ac55fe3efb41cd979a6877" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55fe3efb41cd979a6877/colorLogoPNG_1760516448132.png",Pluto TV Snooker 900
+https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
 #EXTINF:-1 tvg-id="63e38a974e83e70008990da9" tvg-name="Spin City" tvg-logo="https://images.pluto.tv/channels/63e38a974e83e70008990da9/colorLogoPNG.png",Spin City
 https://jmp2.uk/plu-63e38a974e83e70008990da9.m3u8
 #EXTINF:-1 tvg-id="69aff3c83fdda1bffddc54db" tvg-name="Nathan For You: Real, Uncut & Cringy" tvg-logo="https://images.pluto.tv/channels/69aff3c83fdda1bffddc54db/colorLogoPNG_1795102652985.png",Nathan For You: Real, Uncut & Cringy
