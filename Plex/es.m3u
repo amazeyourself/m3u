@@ -275,7 +275,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60d4edd6b2fdec002c141123.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6a9512a7f534d4312a699c22" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png",SWAC TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-6a9512a7f534d4312a699c22.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/103b18dc-d465-46d3-b1e6-7a5a88a5c583/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-62280162c9f485cc7afe8c46" tvg-name="Powder TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2542d8c-a1b7-4604-b7ea-1081298e2b71/PLEX_1500X1000_PNG_WHT_POWDER_TV_Logo.png",Powder TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-62280162c9f485cc7afe8c46.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aa9bc040832270987394353" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",Real Emergency
 https://jmp2.uk/plex-643054b1fc3be59477853717-6aa9bc040832270987394353.m3u8
@@ -285,7 +285,7 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6abd4743e1b65dffbc995e44.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-6aaa2279083227098739435f.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6aa9c4a3083227098739435b" tvg-name="Man City 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f57b1ce-cc1d-4269-9ed9-b4fc9b4f34d3/ManCity247-FAST-Logo-Mono-WhiteRDX.png",Man City 24/7
 https://jmp2.uk/plex-643054b1fc3be59477853717-6aa9c4a3083227098739435b.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",GrowthDay Network
 https://jmp2.uk/plex-643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c.m3u8
@@ -503,8 +503,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-65a1d3996475bf522f9256e3.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-616df1be2cf008a748c8cb53.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-69333216ac5b3f9f53442374" tvg-name="Baby Einstein" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e757f7e3-f3de-46f5-b6e0-9aa42bdb61d1/BabyEinstein_logo_1500x1000_light.png.png",Baby Einstein
 https://jmp2.uk/plex-643054b1fc3be59477853717-69333216ac5b3f9f53442374.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-67828ebf37cd7764c53489b3" tvg-name="DFB Play TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png",DFB Play TV
-https://jmp2.uk/plex-643054b1fc3be59477853717-67828ebf37cd7764c53489b3.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",Trailers From Hell
 https://jmp2.uk/plex-643054b1fc3be59477853717-61d738b5a7b7c7f703418514.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6322658be67cf9cd9011fcda" tvg-name="TRACE Urban" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png",TRACE Urban

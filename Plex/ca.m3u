@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/ca.xml.gz"
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc" tvg-name="Property Brothers Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c3a5c9-ff34-4014-a354-6a20d400353a/LOGO_Property_Brothers__1500_x_1000_DBKG_-_Matt_MattysiakRDX.png",Property Brothers Channel
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a51cc47c245b3390e8a4d6" tvg-name="Schitts Creek" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca481e04-130f-4151-9c91-0735b38ea2cc/WHT_TEXT_CBC-SchittsCreek-FAST_Plex_LOGO-COL-ON-DARK_1500x1140_-_Catherine_CooRDXk.png",Schitts Creek
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51cc47c245b3390e8a4d6.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" tvg-name="CBC News" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/edb4a846dfbdd0fd06dc3c64ef89da22.png",CBC News
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc" tvg-name="Property Brothers Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c3a5c9-ff34-4014-a354-6a20d400353a/LOGO_Property_Brothers__1500_x_1000_DBKG_-_Matt_MattysiakRDX.png",Property Brothers Channel
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-652857f46425fdb1f32d20dc.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64879f0908027d8957214048" tvg-name="American Pickers Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/99a5a7ac-7036-4526-a86e-a5ecc5274fad/Logo_American_Pickers_1500_x_1000_dark_-_Matt_Mattysiak.png",American Pickers Channel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64879f0908027d8957214048.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fc70600598c41002da3dd19" tvg-name="Dateline" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4edb090c44538616547b7a5eba9a264f.png",Dateline
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fc70600598c41002da3dd19.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69a51cc47c245b3390e8a4d6" tvg-name="Schitts Creek" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca481e04-130f-4151-9c91-0735b38ea2cc/WHT_TEXT_CBC-SchittsCreek-FAST_Plex_LOGO-COL-ON-DARK_1500x1140_-_Catherine_CooRDXk.png",Schitts Creek
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69a51cc47c245b3390e8a4d6.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6a2073286c6354dc02aa8c97" tvg-name="Stories by AMC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9fe25501-21e0-41be-97cb-81ce4fd17afc/Stories_ByAMC05fe66edb398fa8a4ee7debc208cf271Color.png",Stories by AMC
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6a2073286c6354dc02aa8c97.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6874409e46d1d8d8348e6b7e" tvg-name="Teen Wolf by MGM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0f4395c4-94b6-48e0-8c24-2a61850211d2/TeenWolf_logo_Attribution_-_Carl_HoffelderRdx.png",Teen Wolf by MGM
