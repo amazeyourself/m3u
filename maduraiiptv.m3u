@@ -339,9 +339,9 @@ http://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 http://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="429" tvg-name="THIRAI MUSIC TV" tvg-logo="" group-title="Music",95 THIRAI MUSIC TV [RTMP]
 
-#EXTINF:-1 tvg-chno="96" tvg-id="543" tvg-name="COMEDY" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790163771.webp" group-title="Entertainment",96 COMEDY
-https://deva1.nellaiiptv.com/Mercury/tv/index.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="543" tvg-name="COMEDY" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1790163771.webp" group-title="Entertainment",96 COMEDY [RTMP]
+#EXTINF:-1 tvg-chno="96" tvg-id="543" tvg-name="Y TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1795693805.webp" group-title="Entertainment",96 Y TV
+https://ajkmadurai.ridsys.in:84/playout/channel/Y_TV/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="543" tvg-name="Y TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1795693805.webp" group-title="Entertainment",96 Y TV [RTMP]
 
 #EXTINF:-1 tvg-chno="97" tvg-id="115" tvg-name="V MUSIC TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/v_music_tv_1770714870.webp" group-title="Music",97 V MUSIC TV
 http://srvvii.nellaiiptv.com:8033/app-restream/5akaf8-vmusictv/index.m3u8
