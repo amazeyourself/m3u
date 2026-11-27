@@ -88,10 +88,10 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 https://stream.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="807" tvg-name="Punjabi Shorts" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/punjabi-shorts-1767192407233.jpg" group-title="Entertainment",Punjabi Shorts
 https://stream.ottlive.co.in/punjabshort/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
-https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Pure Pink Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/pure-pink-1777672998614.jpg" group-title="Entertainment",Pure Pink Punjabi
 https://knocktv1.wiseplayout.com/PurePink/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="808" tvg-name="Knock TV Punjabi" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/knock-tv-1777673558733.jpg" group-title="Entertainment",Knock TV Punjabi
+https://knocktv.wiseplayout.com/Knock_TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="809" tvg-name="Prime Asia" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime-asia-1774905958234.jpg" group-title="Entertainment",Prime Asia
 https://stream.ottlive.co.in/primeasia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="810" tvg-name="Sanjha TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000115688-1771023397782.jpg" group-title="Entertainment",Sanjha TV
@@ -242,10 +242,10 @@ https://live.primestream.in/prime/music/index.m3u8
 https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="" tvg-chno="1816" tvg-name="JJ News" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/jjnews-1776875451411.jpg" group-title="News",JJ News
 https://hlsstream.olidigital.in/jjtvnewstamil/jjtvnewstamil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="1822" tvg-name="Sakshi TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/SAKSHI-1761663596777.jpg" group-title="News",Sakshi TV
-https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="1822" tvg-name="GlobeON TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/globeon-1794431416967.jpg" group-title="Entertainment",GlobeON TV
 https://apiroot.in/globeon/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="1822" tvg-name="Sakshi TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/SAKSHI-1761663596777.jpg" group-title="News",Sakshi TV
+https://stream.ottlive.co.in/sakshitv/index.m3u8
 #EXTINF:-1 tvg-id="Thalatv" tvg-chno="1825" tvg-name="Thalaa TV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/thala-1773786599312.jpg" group-title="Movies",Thalaa TV
 https://streams2.sofast.tv/ptnr-khabriya/title-THALAA-TV-TAM_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c9d5c8a0-8c52-47bc-954d-e64a11314de2/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
 #EXTINF:-1 tvg-id="" tvg-chno="1826" tvg-name="Prime9 Plus" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/prime9-1775855784903.jpg" group-title="News",Prime9 Plus
