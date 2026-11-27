@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml.gz"
-#EXTINF:-1 tvg-id="655b7cbb2c46f300086f0afa" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png",Pluto TV Snooker 900
-https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 tvg-id="67063e78b2ffb10008195d08" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/colorLogoPNG.png",MODUS Super Series Darts
 https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8
+#EXTINF:-1 tvg-id="655b7cbb2c46f300086f0afa" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png",Pluto TV Snooker 900
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 tvg-id="5ad8d796e738977e2c31094a" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png",World Poker Tour
 https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
 #EXTINF:-1 tvg-id="68c820525ec82769fdfcd104" tvg-name="Wrestling Legends TV" tvg-logo="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/colorLogoPNG_1765359753710.png",Wrestling Legends TV

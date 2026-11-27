@@ -917,10 +917,10 @@ https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8
 https://jmp2.uk/plu-632b619c8d2a6c0007ff534e.m3u8
 #EXTINF:-1 tvg-id="5eceb0d4065c240007688ec6" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
-#EXTINF:-1 tvg-id="655b7cbb2c46f300086f0afa" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png",Pluto TV Snooker 900
-https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 tvg-id="67063e78b2ffb10008195d08" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/colorLogoPNG.png",MODUS Super Series Darts
 https://jmp2.uk/plu-67063e78b2ffb10008195d08.m3u8
+#EXTINF:-1 tvg-id="655b7cbb2c46f300086f0afa" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png",Pluto TV Snooker 900
+https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 tvg-id="5ad8d796e738977e2c31094a" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png",World Poker Tour
 https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
 #EXTINF:-1 tvg-id="68c820525ec82769fdfcd104" tvg-name="Wrestling Legends TV" tvg-logo="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/colorLogoPNG_1765359753710.png",Wrestling Legends TV
@@ -4007,8 +4007,6 @@ https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
 #EXTINF:-1 tvg-id="60925a44f0350600075a1fdc" tvg-name="Pluto TV Animaux" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-#EXTINF:-1 tvg-id="63b578b524f0cf00072f2a52" tvg-name="Echappées Belles & Co" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png",Echappées Belles & Co
-https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
 #EXTINF:-1 tvg-id="61fc0df14159c40007250432" tvg-name="Nature Time" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png",Nature Time
 https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
 #EXTINF:-1 tvg-id="611e7811eb9daf000764cbfd" tvg-name="Pluto TV Aventure" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png",Pluto TV Aventure
