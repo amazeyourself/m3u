@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/it.xml.gz"
 #EXTINF:-1 tvg-id="67b482d52f8d3da5924857c6" tvg-name="Streghe" tvg-logo="https://images.pluto.tv/channels/67b482d52f8d3da5924857c6/colorLogoPNG.png",Streghe
 https://jmp2.uk/plu-67b482d52f8d3da5924857c6.m3u8
-#EXTINF:-1 tvg-id="6ab275faa311e7c50eac1243" tvg-name="Cine Peplum" tvg-logo="https://images.pluto.tv/channels/6ab275faa311e7c50eac1243/colorLogoPNG_1791277971887.png",Cine Peplum
-https://jmp2.uk/plu-6ab275faa311e7c50eac1243.m3u8
-#EXTINF:-1 tvg-id="62442f28afe626000747f195" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png",I Jefferson
-https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
 #EXTINF:-1 tvg-id="691c5ba253a7a030e7c509d8" tvg-name="Distretto di Polizia" tvg-logo="https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1794819146183.png",Distretto di Polizia
 https://jmp2.uk/plu-691c5ba253a7a030e7c509d8.m3u8
+#EXTINF:-1 tvg-id="62442f28afe626000747f195" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png",I Jefferson
+https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
 #EXTINF:-1 tvg-id="6245d3792792150007e20634" tvg-name="Settimo Cielo" tvg-logo="https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png",Settimo Cielo
 https://jmp2.uk/plu-6245d3792792150007e20634.m3u8
 #EXTINF:-1 tvg-id="67d9836ba1609bdb523f0c9d" tvg-name="Relic Hunter" tvg-logo="https://images.pluto.tv/channels/67d9836ba1609bdb523f0c9d/colorLogoPNG.png",Relic Hunter
@@ -69,6 +67,8 @@ https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
 #EXTINF:-1 tvg-id="62e7fb67478a5b0007e6c50c" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/62e7fb67478a5b0007e6c50c/colorLogoPNG_1732029652283.png",Pluto TV Western
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+#EXTINF:-1 tvg-id="6ab275faa311e7c50eac1243" tvg-name="Cine Peplum" tvg-logo="https://images.pluto.tv/channels/6ab275faa311e7c50eac1243/colorLogoPNG_1791277971887.png",Cine Peplum
+https://jmp2.uk/plu-6ab275faa311e7c50eac1243.m3u8
 #EXTINF:-1 tvg-id="65253f9881f942000833ccd5" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png",Pluto TV Totò
 https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
 #EXTINF:-1 tvg-id="661f8f01801af800083d9d81" tvg-name="Pluto TV Alberto Sordi" tvg-logo="https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",Pluto TV Alberto Sordi
