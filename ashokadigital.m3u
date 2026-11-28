@@ -165,7 +165,7 @@ https://app.ashokadigital.net/app/dd82e91b/index.m3u8
 https://aadhavantamiltv-ashoka.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="151" tvg-chno="151" tvg-name=" Erode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732431684_227461593_220794490025454_2506413802748050177_n-removebg-preview.png" group-title="Tamil Nadu Channels",151  Erode
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
-#EXTINF:-1 tvg-id="152" tvg-chno="152" tvg-name="Tiruchengode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732431747_227461593_220794490025454_2506413802748050177_n-removebg-preview.png" group-title="Tamil Nadu Channels",152 Tiruchengode
+#EXTINF:-1 tvg-id="152" tvg-chno="152" tvg-name="Tiruchengode" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1795843560_Gokul%20TV%20Logo%20Out.png" group-title="Tamil Nadu Channels",152 Tiruchengode
 https://app.ashokadigital.net/app/63351686/index.m3u8
 #EXTINF:-1 tvg-id="153" tvg-chno="153" tvg-name="M television " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1743837928_TELEVESION.png" group-title="Tamil Nadu Channels",153 M television 
 
@@ -287,6 +287,8 @@ https://app.ashokadigital.net/app/4f231677/index.m3u8
 
 #EXTINF:-1 tvg-id="253" tvg-chno="253" tvg-name="tamil oli tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794016445_tamil%20oli%20tv.jpeg" group-title="Tamil Nadu Channels",253 tamil oli tv
 http://view.rcserver.in/tmp_hls7/tamilolitv/index.m3u8
+#EXTINF:-1 tvg-id="254" tvg-chno="254" tvg-name="RPM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1795769405_PNG%20FILE.png" group-title="Tamil Nadu Channels",254 RPM TV
+https://applelive.in/rpmtv/rpmtv/index.m3u8
 #EXTINF:-1 tvg-id="274" tvg-chno="274" tvg-name="Ashoka Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732631212_ashoka%202%20logo.png" group-title="Tamil Nadu Channels",274 Ashoka Channel
 https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 #EXTINF:-1 tvg-id="275" tvg-chno="275" tvg-name="POTHIGAI FM" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790769821_WhatsApp%20Image%202026-09-30%20at%204.58.03%20PM.jpeg" group-title="Tamil Nadu Channels",275 POTHIGAI FM
@@ -337,6 +339,8 @@ https://stream.ashokadigital.net/ashokaslm/ashokahd/index.m3u8
 https://live.streambox24.in:5443/SalamBengalore/streams/SalamBengalore.m3u8
 #EXTINF:-1 tvg-id="600" tvg-chno="600" tvg-name="Km News Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1761209217_316%20copy.png" group-title="Karnataka Channels",600 Km News Bengaluru
 https://desitashantv.livebox.co.in/kmnewshls/kmnews.m3u8
+#EXTINF:-1 tvg-id="601" tvg-chno="601" tvg-name="News 16 Tv Digital Bengaluru" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1795800334_WhatsApp%20Image%202026-11-27%20at%209.48.02%20PM.jpeg" group-title="Karnataka Channels",601 News 16 Tv Digital Bengaluru
+https://playlist.streambox24.in/hls/live/news16digital/index.m3u8
 #EXTINF:-1 tvg-id="616" tvg-chno="616" tvg-name="అశోక తెలుగు" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788414638_7bc9b907-5cfd-472f-ab68-20e4677c6004-Photoroom%20(1).png" group-title="Andhra Pradesh and Telangana",616 అశోక తెలుగు
 https://app.ashokadigital.net/app/ce705f4a/index.m3u8
 #EXTINF:-1 tvg-id="620" tvg-chno="620" tvg-name="dhanya tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788848546_3_2_01_copy__01-removebg-preview%20(1).png" group-title="Andhra Pradesh and Telangana",620 dhanya tv
